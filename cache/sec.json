@@ -1,0 +1,262 @@
+{
+  "antero": {
+    "as_of": "2025-12-31",
+    "capex_usd": 943971000,
+    "cfo_usd": 1630930000,
+    "ebitda_usd": 1633321000,
+    "fy": 2025,
+    "net_debt_usd": 1369535000,
+    "revenue_usd": 5275823000,
+    "taxonomy": "us-gaap"
+  },
+  "apa": {
+    "as_of": "2025-12-31",
+    "capex_usd": null,
+    "cfo_usd": 4545000000,
+    "ebitda_usd": 5391000000,
+    "fy": 2025,
+    "net_debt_usd": null,
+    "revenue_usd": null,
+    "taxonomy": "us-gaap"
+  },
+  "chevron": {
+    "as_of": "2025-12-31",
+    "capex_usd": 16830000000,
+    "cfo_usd": 33939000000,
+    "ebitda_usd": null,
+    "fy": 2025,
+    "net_debt_usd": 25299000000,
+    "revenue_usd": 189031000000,
+    "taxonomy": "us-gaap"
+  },
+  "chord": {
+    "as_of": "2025-12-31",
+    "capex_usd": null,
+    "cfo_usd": 2040657000,
+    "ebitda_usd": 1667596000,
+    "fy": 2025,
+    "net_debt_usd": 1290050000,
+    "revenue_usd": 4877126000,
+    "taxonomy": "us-gaap"
+  },
+  "civitas": {
+    "as_of": "2024-12-31",
+    "capex_usd": null,
+    "cfo_usd": 2865228000,
+    "ebitda_usd": 2168821000,
+    "fy": 2024,
+    "net_debt_usd": -25826000,
+    "revenue_usd": 5206808000,
+    "taxonomy": "us-gaap"
+  },
+  "comstock": {
+    "as_of": "2025-12-31",
+    "capex_usd": 1349280000,
+    "cfo_usd": 899607000,
+    "ebitda_usd": 1287015000,
+    "fy": 2025,
+    "net_debt_usd": 2785136000,
+    "revenue_usd": 555231000,
+    "taxonomy": "us-gaap"
+  },
+  "conocophillips": {
+    "as_of": "2025-12-31",
+    "capex_usd": 10159000000,
+    "cfo_usd": 19796000000,
+    "ebitda_usd": null,
+    "fy": 2025,
+    "net_debt_usd": 9650000000,
+    "revenue_usd": 58944000000,
+    "taxonomy": "us-gaap"
+  },
+  "coterra": {
+    "as_of": "2025-12-31",
+    "capex_usd": 857251000,
+    "cfo_usd": 4021000000,
+    "ebitda_usd": 4822000000,
+    "fy": 2025,
+    "net_debt_usd": 3454000000,
+    "revenue_usd": 7645000000,
+    "taxonomy": "us-gaap"
+  },
+  "devon": {
+    "as_of": "2025-12-31",
+    "capex_usd": 31000000,
+    "cfo_usd": 6711000000,
+    "ebitda_usd": 700000000,
+    "fy": 2025,
+    "net_debt_usd": 6007000000,
+    "revenue_usd": 17188000000,
+    "taxonomy": "us-gaap"
+  },
+  "diamondback": {
+    "as_of": "2025-12-31",
+    "capex_usd": null,
+    "cfo_usd": 8758000000,
+    "ebitda_usd": 6304000000,
+    "fy": 2025,
+    "net_debt_usd": 13622000000,
+    "revenue_usd": 15026000000,
+    "taxonomy": "us-gaap"
+  },
+  "eog": {
+    "as_of": "2025-12-31",
+    "capex_usd": 6115000000,
+    "cfo_usd": 10044000000,
+    "ebitda_usd": 10846000000,
+    "fy": 2025,
+    "net_debt_usd": 4513000000,
+    "revenue_usd": 22632000000,
+    "taxonomy": "us-gaap"
+  },
+  "eqt": {
+    "as_of": "2025-12-31",
+    "capex_usd": 2288425000,
+    "cfo_usd": 5125952000,
+    "ebitda_usd": 5850009000,
+    "fy": 2025,
+    "net_debt_usd": 7182414000,
+    "revenue_usd": 8644211000,
+    "taxonomy": "us-gaap"
+  },
+  "expand-energy": {
+    "as_of": "2025-12-31",
+    "capex_usd": 2736000000,
+    "cfo_usd": 4575000000,
+    "ebitda_usd": 5451000000,
+    "fy": 2025,
+    "net_debt_usd": 4393000000,
+    "revenue_usd": 12124000000,
+    "taxonomy": "us-gaap"
+  },
+  "exxonmobil": {
+    "as_of": "2025-12-31",
+    "capex_usd": 28358000000,
+    "cfo_usd": 51970000000,
+    "ebitda_usd": null,
+    "fy": 2025,
+    "net_debt_usd": 12419000000,
+    "revenue_usd": 332238000000,
+    "taxonomy": "us-gaap"
+  },
+  "geopark": {
+    "as_of": "2025-12-31",
+    "capex_usd": 98358000,
+    "cfo_usd": 14705000,
+    "ebitda_usd": null,
+    "fy": 2025,
+    "net_debt_usd": 434762000,
+    "revenue_usd": 492518000,
+    "taxonomy": "ifrs-full"
+  },
+  "gran-tierra": {
+    "as_of": "2025-12-31",
+    "capex_usd": 275869000,
+    "cfo_usd": 313249000,
+    "ebitda_usd": null,
+    "fy": 2025,
+    "net_debt_usd": 506662000,
+    "revenue_usd": 374460000,
+    "taxonomy": "us-gaap"
+  },
+  "matador": {
+    "as_of": "2025-12-31",
+    "capex_usd": 2155429000,
+    "cfo_usd": 2425015000,
+    "ebitda_usd": 2421900000,
+    "fy": 2025,
+    "net_debt_usd": 3386788000,
+    "revenue_usd": 3696277000,
+    "taxonomy": "us-gaap"
+  },
+  "occidental": {
+    "as_of": "2025-12-31",
+    "capex_usd": 6427000000,
+    "cfo_usd": 10532000000,
+    "ebitda_usd": null,
+    "fy": 2025,
+    "net_debt_usd": 33777000000,
+    "revenue_usd": 21593000000,
+    "taxonomy": "us-gaap"
+  },
+  "ovintiv": {
+    "as_of": "2025-12-31",
+    "capex_usd": 2147000000,
+    "cfo_usd": 3652000000,
+    "ebitda_usd": 3310000000,
+    "fy": 2025,
+    "net_debt_usd": 4357000000,
+    "revenue_usd": 8908000000,
+    "taxonomy": "us-gaap"
+  },
+  "pampa": {
+    "as_of": "2024-12-31",
+    "capex_usd": 447000000,
+    "cfo_usd": 435000000,
+    "ebitda_usd": null,
+    "fy": 2024,
+    "net_debt_usd": 635000000,
+    "revenue_usd": 1876000000,
+    "taxonomy": "ifrs-full"
+  },
+  "permian-resources": {
+    "as_of": "2025-12-31",
+    "capex_usd": null,
+    "cfo_usd": 3607541000,
+    "ebitda_usd": null,
+    "fy": 2025,
+    "net_debt_usd": 3391908000,
+    "revenue_usd": 5065211000,
+    "taxonomy": "us-gaap"
+  },
+  "petrobras": {
+    "as_of": "2024-12-31",
+    "capex_usd": 12021000000,
+    "cfo_usd": 37984000000,
+    "ebitda_usd": 38904000000,
+    "fy": 2024,
+    "net_debt_usd": 17325000000,
+    "revenue_usd": 91416000000,
+    "taxonomy": "ifrs-full"
+  },
+  "range-resources": {
+    "as_of": "2025-12-31",
+    "capex_usd": 1477000,
+    "cfo_usd": 1171324000,
+    "ebitda_usd": null,
+    "fy": 2025,
+    "net_debt_usd": 1198130000,
+    "revenue_usd": 3115515000,
+    "taxonomy": "us-gaap"
+  },
+  "sm-energy": {
+    "as_of": "2025-12-31",
+    "capex_usd": 34000000,
+    "cfo_usd": 2011000000,
+    "ebitda_usd": null,
+    "fy": 2025,
+    "net_debt_usd": 1713164000,
+    "revenue_usd": 3154000000,
+    "taxonomy": "us-gaap"
+  },
+  "vista": {
+    "as_of": "2024-12-31",
+    "capex_usd": 1052530000,
+    "cfo_usd": 959026000,
+    "ebitda_usd": 1063089000,
+    "fy": 2024,
+    "net_debt_usd": 638036000,
+    "revenue_usd": 1647768000,
+    "taxonomy": "ifrs-full"
+  },
+  "ypf": {
+    "as_of": "2025-12-31",
+    "capex_usd": null,
+    "cfo_usd": 4959000000,
+    "ebitda_usd": null,
+    "fy": 2025,
+    "net_debt_usd": 7293000000,
+    "revenue_usd": 18448000000,
+    "taxonomy": "ifrs-full"
+  }
+}

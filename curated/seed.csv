@@ -1,0 +1,44 @@
+id,name,category,country,hq_city,canonical_ticker,exchange,yf_ticker,sec_ticker,cik,sec_taxonomy,is_private
+ypf,YPF,Vaca Muerta,AR,Buenos Aires,YPF,NYSE,YPF,YPF,,ifrs-full,false
+vista,Vista Energy,Vaca Muerta,MX,Ciudad de México,VIST,NYSE,VIST,VIST,,ifrs-full,false
+pampa,Pampa Energía,Vaca Muerta,AR,Buenos Aires,PAM,NYSE,PAM,PAM,,ifrs-full,false
+pan-american,Pan American Energy,Vaca Muerta,AR,Buenos Aires,,,,,,,true
+tecpetrol,Tecpetrol,Vaca Muerta,AR,Buenos Aires,,,,,,,true
+pluspetrol,Pluspetrol,Vaca Muerta,AR,Buenos Aires,,,,,,,true
+eog,EOG Resources,US Shale,US,Houston,EOG,NYSE,EOG,EOG,,us-gaap,false
+devon,Devon Energy,US Shale,US,Oklahoma City,DVN,NYSE,DVN,DVN,,us-gaap,false
+diamondback,Diamondback Energy,US Shale,US,Midland,FANG,NASDAQ,FANG,FANG,,us-gaap,false
+coterra,Coterra Energy,US Shale,US,Houston,CTRA,NYSE,CTRA,CTRA,858470,us-gaap,false
+occidental,Occidental Petroleum,US Shale,US,Houston,OXY,NYSE,OXY,OXY,,us-gaap,false
+apa,APA Corporation,US Shale,US,Houston,APA,NASDAQ,APA,APA,,us-gaap,false
+ovintiv,Ovintiv,US Shale,US,Denver,OVV,NYSE,OVV,OVV,,us-gaap,false
+permian-resources,Permian Resources,US Shale,US,Midland,PR,NYSE,PR,PR,,us-gaap,false
+expand-energy,Expand Energy,US Shale,US,Oklahoma City,EXE,NASDAQ,EXE,EXE,,us-gaap,false
+antero,Antero Resources,US Shale,US,Denver,AR,NYSE,AR,AR,,us-gaap,false
+range-resources,Range Resources,US Shale,US,Fort Worth,RRC,NYSE,RRC,RRC,,us-gaap,false
+eqt,EQT Corporation,US Shale,US,Pittsburgh,EQT,NYSE,EQT,EQT,,us-gaap,false
+chord,Chord Energy,US Shale,US,Houston,CHRD,NASDAQ,CHRD,CHRD,,us-gaap,false
+matador,Matador Resources,US Shale,US,Dallas,MTDR,NYSE,MTDR,MTDR,,us-gaap,false
+civitas,Civitas Resources,US Shale,US,Denver,CIVI,NYSE,CIVI,CIVI,1509589,us-gaap,false
+sm-energy,SM Energy,US Shale,US,Denver,SM,NYSE,SM,SM,,us-gaap,false
+comstock,Comstock Resources,US Shale,US,Frisco,CRK,NYSE,CRK,CRK,,us-gaap,false
+exxonmobil,ExxonMobil,Major,US,Spring,XOM,NYSE,XOM,XOM,,us-gaap,false
+chevron,Chevron,Major,US,Houston,CVX,NYSE,CVX,CVX,,us-gaap,false
+conocophillips,ConocoPhillips,Major,US,Houston,COP,NYSE,COP,COP,,us-gaap,false
+cnrl,Canadian Natural Resources,Canada,CA,Calgary,CNQ,NYSE,CNQ,CNQ,,ifrs-full,false
+cenovus,Cenovus Energy,Canada,CA,Calgary,CVE,NYSE,CVE,CVE,,ifrs-full,false
+suncor,Suncor Energy,Canada,CA,Calgary,SU,NYSE,SU,SU,,ifrs-full,false
+imperial-oil,Imperial Oil,Canada,CA,Calgary,IMO,NYSE American,IMO,IMO,,us-gaap,false
+tourmaline,Tourmaline Oil,Canada,CA,Calgary,TOU,TSX,TOU.TO,,,,false
+arc-resources,ARC Resources,Canada,CA,Calgary,ARX,TSX,ARX.TO,,,,false
+veren,Veren,Canada,CA,Calgary,VRN,NYSE,VRN,,,,false
+baytex,Baytex Energy,Canada,CA,Calgary,BTE,NYSE,BTE,BTE,,ifrs-full,false
+petrobras,Petrobras,Brazil,BR,Rio de Janeiro,PBR,NYSE,PBR,PBR,,ifrs-full,false
+prio,PRIO,Brazil,BR,Rio de Janeiro,PRIO3,B3,PRIO3.SA,,,,false
+petroreconcavo,PetroReconcavo,Brazil,BR,Rio de Janeiro,RECV3,B3,RECV3.SA,,,,false
+brava,Brava Energia,Brazil,BR,Rio de Janeiro,BRAV3,B3,BRAV3.SA,,,,false
+ecopetrol,Ecopetrol,Colombia,CO,Bogotá,EC,NYSE,EC,EC,,ifrs-full,false
+geopark,GeoPark,Colombia,CO,Bogotá,GPRK,NYSE,GPRK,GPRK,,ifrs-full,false
+frontera,Frontera Energy,Colombia,CO,Bogotá,FEC,TSX,FEC.TO,,,,false
+gran-tierra,Gran Tierra Energy,Colombia,CA,Calgary,GTE,NYSE American,GTE,GTE,,us-gaap,false
+parex,Parex Resources,Colombia,CA,Calgary,PXT,TSX,PXT.TO,,,,false
