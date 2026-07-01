@@ -1,0 +1,2200 @@
+{
+  "data": [
+    {
+      "beta": 0.32,
+      "canonical_ticker": "AR",
+      "capex_usd": 943971000,
+      "category": "US Shale",
+      "cfo_usd": 1630930000,
+      "corp_breakeven_usd_bbl": null,
+      "country": "US",
+      "dividend_yield_pct": null,
+      "ebitda_usd": 1633321000,
+      "enterprise_value_usd": null,
+      "ev_ebitda": null,
+      "exchange": "NYSE",
+      "hq_city": "Denver",
+      "hq_coord": [
+        39.7392,
+        -104.9903
+      ],
+      "id": "antero",
+      "is_private": false,
+      "market_cap_usd": 10822571575,
+      "name": "Antero Resources",
+      "net_acreage_k": null,
+      "net_debt_usd": 1369535000,
+      "pct_gas": null,
+      "pct_liquids": null,
+      "pe_ttm": 11.3,
+      "price": 34.93000030517578,
+      "price_currency": "USD",
+      "production_kboed": null,
+      "reserves_1p_mmboe": null,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": 5275823000,
+      "rp_years": null,
+      "src": {
+        "financials": {
+          "as_of": "2025-12-31",
+          "fy": 2025,
+          "source": "sec-us-gaap"
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": null,
+          "ref": null,
+          "source": null
+        }
+      }
+    },
+    {
+      "beta": 0.33,
+      "canonical_ticker": "APA",
+      "capex_usd": null,
+      "category": "US Shale",
+      "cfo_usd": 4545000000,
+      "corp_breakeven_usd_bbl": null,
+      "country": "US",
+      "dividend_yield_pct": 3.07,
+      "ebitda_usd": 5391000000,
+      "enterprise_value_usd": 16697525248,
+      "ev_ebitda": 3.2,
+      "exchange": "NASDAQ",
+      "hq_city": "Houston",
+      "hq_coord": [
+        29.7604,
+        -95.3698
+      ],
+      "id": "apa",
+      "is_private": false,
+      "market_cap_usd": 11265096431,
+      "name": "APA Corporation",
+      "net_acreage_k": null,
+      "net_debt_usd": null,
+      "pct_gas": null,
+      "pct_liquids": null,
+      "pe_ttm": 7.43,
+      "price": 31.8700008392334,
+      "price_currency": "USD",
+      "production_kboed": null,
+      "reserves_1p_mmboe": null,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": null,
+      "rp_years": null,
+      "src": {
+        "financials": {
+          "as_of": "2025-12-31",
+          "fy": 2025,
+          "source": "sec-us-gaap"
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": null,
+          "ref": null,
+          "source": null
+        }
+      }
+    },
+    {
+      "beta": 0.13,
+      "canonical_ticker": "ARX",
+      "capex_usd": null,
+      "category": "Canada",
+      "cfo_usd": null,
+      "corp_breakeven_usd_bbl": null,
+      "country": "CA",
+      "dividend_yield_pct": 2.82,
+      "ebitda_usd": null,
+      "enterprise_value_usd": 14492740305,
+      "ev_ebitda": 5.78,
+      "exchange": "TSX",
+      "hq_city": "Calgary",
+      "hq_coord": [
+        51.0447,
+        -114.0719
+      ],
+      "id": "arc-resources",
+      "is_private": false,
+      "market_cap_usd": 11874391892,
+      "name": "ARC Resources",
+      "net_acreage_k": null,
+      "net_debt_usd": null,
+      "pct_gas": null,
+      "pct_liquids": null,
+      "pe_ttm": 11.78,
+      "price": 29.799999237060547,
+      "price_currency": "CAD",
+      "production_kboed": null,
+      "reserves_1p_mmboe": null,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": null,
+      "rp_years": null,
+      "src": {
+        "financials": {
+          "as_of": null,
+          "fy": null,
+          "source": null
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": null,
+          "ref": null,
+          "source": null
+        }
+      }
+    },
+    {
+      "beta": 0.58,
+      "canonical_ticker": "BTE",
+      "capex_usd": null,
+      "category": "Canada",
+      "cfo_usd": null,
+      "corp_breakeven_usd_bbl": null,
+      "country": "CA",
+      "dividend_yield_pct": 1.61,
+      "ebitda_usd": null,
+      "enterprise_value_usd": 2281551104,
+      "ev_ebitda": 4.03,
+      "exchange": "NYSE",
+      "hq_city": "Calgary",
+      "hq_coord": [
+        51.0447,
+        -114.0719
+      ],
+      "id": "baytex",
+      "is_private": false,
+      "market_cap_usd": 2782677738,
+      "name": "Baytex Energy",
+      "net_acreage_k": null,
+      "net_debt_usd": null,
+      "pct_gas": null,
+      "pct_liquids": null,
+      "pe_ttm": null,
+      "price": 3.9049999713897705,
+      "price_currency": "USD",
+      "production_kboed": null,
+      "reserves_1p_mmboe": null,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": null,
+      "rp_years": null,
+      "src": {
+        "financials": {
+          "as_of": null,
+          "fy": null,
+          "source": null
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": null,
+          "ref": null,
+          "source": null
+        }
+      }
+    },
+    {
+      "beta": -0.16,
+      "canonical_ticker": "BRAV3",
+      "capex_usd": null,
+      "category": "Brazil",
+      "cfo_usd": null,
+      "corp_breakeven_usd_bbl": null,
+      "country": "BR",
+      "dividend_yield_pct": 64.0,
+      "ebitda_usd": null,
+      "enterprise_value_usd": 4525978360,
+      "ev_ebitda": 5.54,
+      "exchange": "B3",
+      "hq_city": "Rio de Janeiro",
+      "hq_coord": [
+        -22.9068,
+        -43.1729
+      ],
+      "id": "brava",
+      "is_private": false,
+      "market_cap_usd": 1650610919,
+      "name": "Brava Energia",
+      "net_acreage_k": null,
+      "net_debt_usd": null,
+      "pct_gas": null,
+      "pct_liquids": null,
+      "pe_ttm": 37.78,
+      "price": 18.510000228881836,
+      "price_currency": "BRL",
+      "production_kboed": null,
+      "reserves_1p_mmboe": null,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": null,
+      "rp_years": null,
+      "src": {
+        "financials": {
+          "as_of": null,
+          "fy": null,
+          "source": null
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": null,
+          "ref": null,
+          "source": null
+        }
+      }
+    },
+    {
+      "beta": 0.51,
+      "canonical_ticker": "CVE",
+      "capex_usd": null,
+      "category": "Canada",
+      "cfo_usd": null,
+      "corp_breakeven_usd_bbl": null,
+      "country": "CA",
+      "dividend_yield_pct": 2.53,
+      "ebitda_usd": null,
+      "enterprise_value_usd": 57624965120,
+      "ev_ebitda": 5.39,
+      "exchange": "NYSE",
+      "hq_city": "Calgary",
+      "hq_coord": [
+        51.0447,
+        -114.0719
+      ],
+      "id": "cenovus",
+      "is_private": false,
+      "market_cap_usd": 45678742970,
+      "name": "Cenovus Energy",
+      "net_acreage_k": null,
+      "net_debt_usd": null,
+      "pct_gas": 17,
+      "pct_liquids": 83,
+      "pe_ttm": 13.84,
+      "price": 24.4950008392334,
+      "price_currency": "USD",
+      "production_kboed": 834,
+      "reserves_1p_mmboe": 6100,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": null,
+      "rp_years": 20.0,
+      "src": {
+        "financials": {
+          "as_of": null,
+          "fy": null,
+          "source": null
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": "2025-12-31",
+          "ref": "https://www.cenovus.com/News-and-Stories/News-releases/2026/3240864",
+          "source": "Cenovus Q4 & Full-Year 2025 results"
+        }
+      }
+    },
+    {
+      "beta": 0.47,
+      "canonical_ticker": "CVX",
+      "capex_usd": 16830000000,
+      "category": "Major",
+      "cfo_usd": 33939000000,
+      "corp_breakeven_usd_bbl": null,
+      "country": "US",
+      "dividend_yield_pct": 4.3,
+      "ebitda_usd": null,
+      "enterprise_value_usd": 373535768576,
+      "ev_ebitda": 9.85,
+      "exchange": "NYSE",
+      "hq_city": "Houston",
+      "hq_coord": [
+        29.7604,
+        -95.3698
+      ],
+      "id": "chevron",
+      "is_private": false,
+      "market_cap_usd": 330007738115,
+      "name": "Chevron",
+      "net_acreage_k": null,
+      "net_debt_usd": 25299000000,
+      "pct_gas": null,
+      "pct_liquids": null,
+      "pe_ttm": 28.87,
+      "price": 165.6999969482422,
+      "price_currency": "USD",
+      "production_kboed": null,
+      "reserves_1p_mmboe": null,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": 189031000000,
+      "rp_years": null,
+      "src": {
+        "financials": {
+          "as_of": "2025-12-31",
+          "fy": 2025,
+          "source": "sec-us-gaap"
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": null,
+          "ref": null,
+          "source": null
+        }
+      }
+    },
+    {
+      "beta": 0.36,
+      "canonical_ticker": "CHRD",
+      "capex_usd": null,
+      "category": "US Shale",
+      "cfo_usd": 2040657000,
+      "corp_breakeven_usd_bbl": null,
+      "country": "US",
+      "dividend_yield_pct": 4.55,
+      "ebitda_usd": 1667596000,
+      "enterprise_value_usd": 7710374400,
+      "ev_ebitda": 3.59,
+      "exchange": "NASDAQ",
+      "hq_city": "Houston",
+      "hq_coord": [
+        29.7604,
+        -95.3698
+      ],
+      "id": "chord",
+      "is_private": false,
+      "market_cap_usd": 6284677644,
+      "name": "Chord Energy",
+      "net_acreage_k": null,
+      "net_debt_usd": 1290050000,
+      "pct_gas": null,
+      "pct_liquids": null,
+      "pe_ttm": null,
+      "price": 111.62999725341797,
+      "price_currency": "USD",
+      "production_kboed": null,
+      "reserves_1p_mmboe": null,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": 4877126000,
+      "rp_years": null,
+      "src": {
+        "financials": {
+          "as_of": "2025-12-31",
+          "fy": 2025,
+          "source": "sec-us-gaap"
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": null,
+          "ref": null,
+          "source": null
+        }
+      }
+    },
+    {
+      "beta": null,
+      "canonical_ticker": "CIVI",
+      "capex_usd": null,
+      "category": "US Shale",
+      "cfo_usd": 2865228000,
+      "corp_breakeven_usd_bbl": null,
+      "country": "US",
+      "dividend_yield_pct": null,
+      "ebitda_usd": 2168821000,
+      "enterprise_value_usd": null,
+      "ev_ebitda": null,
+      "exchange": "NYSE",
+      "hq_city": "Denver",
+      "hq_coord": [
+        39.7392,
+        -104.9903
+      ],
+      "id": "civitas",
+      "is_private": false,
+      "market_cap_usd": null,
+      "name": "Civitas Resources",
+      "net_acreage_k": null,
+      "net_debt_usd": -25826000,
+      "pct_gas": null,
+      "pct_liquids": null,
+      "pe_ttm": null,
+      "price": null,
+      "price_currency": null,
+      "production_kboed": null,
+      "reserves_1p_mmboe": null,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": 5206808000,
+      "rp_years": null,
+      "src": {
+        "financials": {
+          "as_of": "2024-12-31",
+          "fy": 2024,
+          "source": "sec-us-gaap"
+        },
+        "market": {
+          "as_of": null,
+          "source": null
+        },
+        "operational": {
+          "as_of": null,
+          "ref": null,
+          "source": null
+        }
+      }
+    },
+    {
+      "beta": 0.88,
+      "canonical_ticker": "CNQ",
+      "capex_usd": null,
+      "category": "Canada",
+      "cfo_usd": null,
+      "corp_breakeven_usd_bbl": null,
+      "country": "CA",
+      "dividend_yield_pct": 4.45,
+      "ebitda_usd": null,
+      "enterprise_value_usd": 101387288576,
+      "ev_ebitda": 6.85,
+      "exchange": "NYSE",
+      "hq_city": "Calgary",
+      "hq_coord": [
+        51.0447,
+        -114.0719
+      ],
+      "id": "cnrl",
+      "is_private": false,
+      "market_cap_usd": 81196690937,
+      "name": "Canadian Natural Resources",
+      "net_acreage_k": null,
+      "net_debt_usd": null,
+      "pct_gas": 27,
+      "pct_liquids": 73,
+      "pe_ttm": 11.62,
+      "price": 38.93000030517578,
+      "price_currency": "USD",
+      "production_kboed": 1571,
+      "reserves_1p_mmboe": 15910,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": null,
+      "rp_years": 31,
+      "src": {
+        "financials": {
+          "as_of": null,
+          "fy": null,
+          "source": null
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": "2025-12-31",
+          "ref": "https://boereport.com/2026/03/05/canadian-natural-resources-limited-announces-2025-fourth-quarter-and-year-end-results/",
+          "source": "Canadian Natural Q4 & Year-End 2025 results"
+        }
+      }
+    },
+    {
+      "beta": 0.11,
+      "canonical_ticker": "CRK",
+      "capex_usd": 1349280000,
+      "category": "US Shale",
+      "cfo_usd": 899607000,
+      "corp_breakeven_usd_bbl": null,
+      "country": "US",
+      "dividend_yield_pct": null,
+      "ebitda_usd": 1287015000,
+      "enterprise_value_usd": 7710489600,
+      "ev_ebitda": 7.38,
+      "exchange": "NYSE",
+      "hq_city": "Frisco",
+      "hq_coord": [
+        33.1507,
+        -96.8236
+      ],
+      "id": "comstock",
+      "is_private": false,
+      "market_cap_usd": 4308517878,
+      "name": "Comstock Resources",
+      "net_acreage_k": null,
+      "net_debt_usd": 2785136000,
+      "pct_gas": null,
+      "pct_liquids": null,
+      "pe_ttm": 6.64,
+      "price": 14.670000076293945,
+      "price_currency": "USD",
+      "production_kboed": null,
+      "reserves_1p_mmboe": null,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": 555231000,
+      "rp_years": null,
+      "src": {
+        "financials": {
+          "as_of": "2025-12-31",
+          "fy": 2025,
+          "source": "sec-us-gaap"
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": null,
+          "ref": null,
+          "source": null
+        }
+      }
+    },
+    {
+      "beta": 0.11,
+      "canonical_ticker": "COP",
+      "capex_usd": 10159000000,
+      "category": "Major",
+      "cfo_usd": 19796000000,
+      "corp_breakeven_usd_bbl": null,
+      "country": "US",
+      "dividend_yield_pct": 3.23,
+      "ebitda_usd": null,
+      "enterprise_value_usd": 143617851392,
+      "ev_ebitda": 6.15,
+      "exchange": "NYSE",
+      "hq_city": "Houston",
+      "hq_coord": [
+        29.7604,
+        -95.3698
+      ],
+      "id": "conocophillips",
+      "is_private": false,
+      "market_cap_usd": 125776670680,
+      "name": "ConocoPhillips",
+      "net_acreage_k": null,
+      "net_debt_usd": 9650000000,
+      "pct_gas": null,
+      "pct_liquids": null,
+      "pe_ttm": 17.5,
+      "price": 103.23999786376953,
+      "price_currency": "USD",
+      "production_kboed": null,
+      "reserves_1p_mmboe": null,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": 58944000000,
+      "rp_years": null,
+      "src": {
+        "financials": {
+          "as_of": "2025-12-31",
+          "fy": 2025,
+          "source": "sec-us-gaap"
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": null,
+          "ref": null,
+          "source": null
+        }
+      }
+    },
+    {
+      "beta": 0.3,
+      "canonical_ticker": "CTRA",
+      "capex_usd": 857251000,
+      "category": "US Shale",
+      "cfo_usd": 4021000000,
+      "corp_breakeven_usd_bbl": null,
+      "country": "US",
+      "dividend_yield_pct": 2.7,
+      "ebitda_usd": 4822000000,
+      "enterprise_value_usd": 27932704768,
+      "ev_ebitda": 5.79,
+      "exchange": "NYSE",
+      "hq_city": "Houston",
+      "hq_coord": [
+        29.7604,
+        -95.3698
+      ],
+      "id": "coterra",
+      "is_private": false,
+      "market_cap_usd": 24724651515,
+      "name": "Coterra Energy",
+      "net_acreage_k": 739,
+      "net_debt_usd": 3454000000,
+      "pct_gas": 63,
+      "pct_liquids": 37,
+      "pe_ttm": 15.0,
+      "price": 32.56,
+      "price_currency": "USD",
+      "production_kboed": 782,
+      "reserves_1p_mmboe": 2565,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": 7645000000,
+      "rp_years": 9,
+      "src": {
+        "financials": {
+          "as_of": "2025-12-31",
+          "fy": 2025,
+          "source": "sec-us-gaap"
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": "2025-12-31",
+          "ref": "https://www.stocktitan.net/sec-filings/CTRA/10-k-coterra-energy-inc-files-annual-report-3df7b6684068.html",
+          "source": "Coterra FY2025 10-K + earnings"
+        }
+      }
+    },
+    {
+      "beta": 0.42,
+      "canonical_ticker": "DVN",
+      "capex_usd": 31000000,
+      "category": "US Shale",
+      "cfo_usd": 6711000000,
+      "corp_breakeven_usd_bbl": null,
+      "country": "US",
+      "dividend_yield_pct": 2.52,
+      "ebitda_usd": 700000000,
+      "enterprise_value_usd": 32615247872,
+      "ev_ebitda": 4.85,
+      "exchange": "NYSE",
+      "hq_city": "Oklahoma City",
+      "hq_coord": [
+        35.4676,
+        -97.5164
+      ],
+      "id": "devon",
+      "is_private": false,
+      "market_cap_usd": 46436007152,
+      "name": "Devon Energy",
+      "net_acreage_k": 2369,
+      "net_debt_usd": 6007000000,
+      "pct_gas": 27,
+      "pct_liquids": 73,
+      "pe_ttm": 11.21,
+      "price": 40.2599983215332,
+      "price_currency": "USD",
+      "production_kboed": 842,
+      "reserves_1p_mmboe": 2428,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": 17188000000,
+      "rp_years": 8,
+      "src": {
+        "financials": {
+          "as_of": "2025-12-31",
+          "fy": 2025,
+          "source": "sec-us-gaap"
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": "2025-12-31",
+          "ref": "https://www.sec.gov/Archives/edgar/data/0001090012/000119312526056485/dvn-20251231.htm",
+          "source": "Devon FY2025 10-K + Q4/FY earnings"
+        }
+      }
+    },
+    {
+      "beta": 0.39,
+      "canonical_ticker": "FANG",
+      "capex_usd": null,
+      "category": "US Shale",
+      "cfo_usd": 8758000000,
+      "corp_breakeven_usd_bbl": null,
+      "country": "US",
+      "dividend_yield_pct": 2.5,
+      "ebitda_usd": 6304000000,
+      "enterprise_value_usd": 69340250112,
+      "ev_ebitda": 6.83,
+      "exchange": "NASDAQ",
+      "hq_city": "Midland",
+      "hq_coord": [
+        31.9973,
+        -102.0779
+      ],
+      "id": "diamondback",
+      "is_private": false,
+      "market_cap_usd": 48374636441,
+      "name": "Diamondback Energy",
+      "net_acreage_k": 869,
+      "net_debt_usd": 13622000000,
+      "pct_gas": 22,
+      "pct_liquids": 78,
+      "pe_ttm": 175.47,
+      "price": 171.9600067138672,
+      "price_currency": "USD",
+      "production_kboed": 921,
+      "reserves_1p_mmboe": 3618,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": 15026000000,
+      "rp_years": 11,
+      "src": {
+        "financials": {
+          "as_of": "2025-12-31",
+          "fy": 2025,
+          "source": "sec-us-gaap"
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": "2025-12-31",
+          "ref": "https://www.globenewswire.com/news-release/2026/02/23/3243011/22886/en/Diamondback-Energy-Inc-Announces-Fourth-Quarter-and-Full-Year-2025-Financial-and-Operating-Results-Increases-Base-Dividend.html",
+          "source": "Diamondback FY2025 results + 10-K"
+        }
+      }
+    },
+    {
+      "beta": -0.03,
+      "canonical_ticker": "EC",
+      "capex_usd": null,
+      "category": "Colombia",
+      "cfo_usd": null,
+      "corp_breakeven_usd_bbl": null,
+      "country": "CO",
+      "dividend_yield_pct": 4.56,
+      "ebitda_usd": null,
+      "enterprise_value_usd": null,
+      "ev_ebitda": null,
+      "exchange": "NYSE",
+      "hq_city": "Bogotá",
+      "hq_coord": [
+        4.711,
+        -74.0721
+      ],
+      "id": "ecopetrol",
+      "is_private": false,
+      "market_cap_usd": 29696532120,
+      "name": "Ecopetrol",
+      "net_acreage_k": null,
+      "net_debt_usd": null,
+      "pct_gas": 17,
+      "pct_liquids": 83,
+      "pe_ttm": 10.32,
+      "price": 14.444999694824219,
+      "price_currency": "USD",
+      "production_kboed": 745,
+      "reserves_1p_mmboe": 1944,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": null,
+      "rp_years": 7.8,
+      "src": {
+        "financials": {
+          "as_of": null,
+          "fy": null,
+          "source": null
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": "2025-12-31",
+          "ref": "https://www.prnewswire.com/news-releases/ecopetrol-records-1-944-billion-barrels-of-oil-equivalent-in-proven-reserves-at-the-close-of-2025--replacing-121-of-production-with-the-highest-contribution-in-the-last-four-years-302693276.html",
+          "source": "Ecopetrol FY2025 reservas + producción"
+        }
+      }
+    },
+    {
+      "beta": 0.26,
+      "canonical_ticker": "EOG",
+      "capex_usd": 6115000000,
+      "category": "US Shale",
+      "cfo_usd": 10044000000,
+      "corp_breakeven_usd_bbl": null,
+      "country": "US",
+      "dividend_yield_pct": 3.14,
+      "ebitda_usd": 10846000000,
+      "enterprise_value_usd": 73554903040,
+      "ev_ebitda": 5.84,
+      "exchange": "NYSE",
+      "hq_city": "Houston",
+      "hq_coord": [
+        29.7604,
+        -95.3698
+      ],
+      "id": "eog",
+      "is_private": false,
+      "market_cap_usd": 68508011800,
+      "name": "EOG Resources",
+      "net_acreage_k": 4666,
+      "net_debt_usd": 4513000000,
+      "pct_gas": 34,
+      "pct_liquids": 66,
+      "pe_ttm": 12.65,
+      "price": 128.62249755859375,
+      "price_currency": "USD",
+      "production_kboed": 1232,
+      "reserves_1p_mmboe": 5514,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": 22632000000,
+      "rp_years": 12,
+      "src": {
+        "financials": {
+          "as_of": "2025-12-31",
+          "fy": 2025,
+          "source": "sec-us-gaap"
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": "2025-12-31",
+          "ref": "https://www.sec.gov/Archives/edgar/data/0000821189/000082118926000054/eog-20251231.htm",
+          "source": "EOG FY2025 10-K + earnings"
+        }
+      }
+    },
+    {
+      "beta": 0.54,
+      "canonical_ticker": "EQT",
+      "capex_usd": 2288425000,
+      "category": "US Shale",
+      "cfo_usd": 5125952000,
+      "corp_breakeven_usd_bbl": null,
+      "country": "US",
+      "dividend_yield_pct": 1.24,
+      "ebitda_usd": 5850009000,
+      "enterprise_value_usd": 42590797824,
+      "ev_ebitda": 5.56,
+      "exchange": "NYSE",
+      "hq_city": "Pittsburgh",
+      "hq_coord": [
+        40.4406,
+        -79.9959
+      ],
+      "id": "eqt",
+      "is_private": false,
+      "market_cap_usd": 32843848730,
+      "name": "EQT Corporation",
+      "net_acreage_k": null,
+      "net_debt_usd": 7182414000,
+      "pct_gas": null,
+      "pct_liquids": null,
+      "pe_ttm": 9.96,
+      "price": 52.5099983215332,
+      "price_currency": "USD",
+      "production_kboed": null,
+      "reserves_1p_mmboe": null,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": 8644211000,
+      "rp_years": null,
+      "src": {
+        "financials": {
+          "as_of": "2025-12-31",
+          "fy": 2025,
+          "source": "sec-us-gaap"
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": null,
+          "ref": null,
+          "source": null
+        }
+      }
+    },
+    {
+      "beta": 0.32,
+      "canonical_ticker": "EXE",
+      "capex_usd": 2736000000,
+      "category": "US Shale",
+      "cfo_usd": 4575000000,
+      "corp_breakeven_usd_bbl": null,
+      "country": "US",
+      "dividend_yield_pct": 3.5,
+      "ebitda_usd": 5451000000,
+      "enterprise_value_usd": 24654278656,
+      "ev_ebitda": 3.32,
+      "exchange": "NASDAQ",
+      "hq_city": "Oklahoma City",
+      "hq_coord": [
+        35.4676,
+        -97.5164
+      ],
+      "id": "expand-energy",
+      "is_private": false,
+      "market_cap_usd": 21427727932,
+      "name": "Expand Energy",
+      "net_acreage_k": null,
+      "net_debt_usd": 4393000000,
+      "pct_gas": null,
+      "pct_liquids": null,
+      "pe_ttm": 6.66,
+      "price": 89.56999969482422,
+      "price_currency": "USD",
+      "production_kboed": null,
+      "reserves_1p_mmboe": null,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": 12124000000,
+      "rp_years": null,
+      "src": {
+        "financials": {
+          "as_of": "2025-12-31",
+          "fy": 2025,
+          "source": "sec-us-gaap"
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": null,
+          "ref": null,
+          "source": null
+        }
+      }
+    },
+    {
+      "beta": 0.15,
+      "canonical_ticker": "XOM",
+      "capex_usd": 28358000000,
+      "category": "Major",
+      "cfo_usd": 51970000000,
+      "corp_breakeven_usd_bbl": null,
+      "country": "US",
+      "dividend_yield_pct": 3.01,
+      "ebitda_usd": null,
+      "enterprise_value_usd": 612538187776,
+      "ev_ebitda": 10.94,
+      "exchange": "NYSE",
+      "hq_city": "Spring",
+      "hq_coord": [
+        30.0799,
+        -95.4172
+      ],
+      "id": "exxonmobil",
+      "is_private": false,
+      "market_cap_usd": 564811222500,
+      "name": "ExxonMobil",
+      "net_acreage_k": null,
+      "net_debt_usd": 12419000000,
+      "pct_gas": null,
+      "pct_liquids": null,
+      "pe_ttm": 22.98,
+      "price": 136.26499938964844,
+      "price_currency": "USD",
+      "production_kboed": null,
+      "reserves_1p_mmboe": null,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": 332238000000,
+      "rp_years": null,
+      "src": {
+        "financials": {
+          "as_of": "2025-12-31",
+          "fy": 2025,
+          "source": "sec-us-gaap"
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": null,
+          "ref": null,
+          "source": null
+        }
+      }
+    },
+    {
+      "beta": 0.83,
+      "canonical_ticker": "FEC",
+      "capex_usd": null,
+      "category": "Colombia",
+      "cfo_usd": null,
+      "corp_breakeven_usd_bbl": null,
+      "country": "CO",
+      "dividend_yield_pct": 2.94,
+      "ebitda_usd": null,
+      "enterprise_value_usd": 516382703,
+      "ev_ebitda": 2.77,
+      "exchange": "TSX",
+      "hq_city": "Bogotá",
+      "hq_coord": [
+        4.711,
+        -74.0721
+      ],
+      "id": "frontera",
+      "is_private": false,
+      "market_cap_usd": 417108650,
+      "name": "Frontera Energy",
+      "net_acreage_k": null,
+      "net_debt_usd": null,
+      "pct_gas": 6,
+      "pct_liquids": 94,
+      "pe_ttm": null,
+      "price": 8.510000228881836,
+      "price_currency": "CAD",
+      "production_kboed": 39,
+      "reserves_1p_mmboe": 94,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": null,
+      "rp_years": 6.6,
+      "src": {
+        "financials": {
+          "as_of": null,
+          "fy": null,
+          "source": null
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": "2025-12-31",
+          "ref": "https://www.prnewswire.com/news-releases/frontera-announces-fourth-quarter-2025-year-end-2025-results-and-reserves-302716882.html",
+          "source": "Frontera FY2025 resultados + reservas"
+        }
+      }
+    },
+    {
+      "beta": 0.36,
+      "canonical_ticker": "GPRK",
+      "capex_usd": 98358000,
+      "category": "Colombia",
+      "cfo_usd": 14705000,
+      "corp_breakeven_usd_bbl": null,
+      "country": "CO",
+      "dividend_yield_pct": 1.01,
+      "ebitda_usd": null,
+      "enterprise_value_usd": 947028992,
+      "ev_ebitda": 3.6,
+      "exchange": "NYSE",
+      "hq_city": "Bogotá",
+      "hq_coord": [
+        4.711,
+        -74.0721
+      ],
+      "id": "geopark",
+      "is_private": false,
+      "market_cap_usd": 586675480,
+      "name": "GeoPark",
+      "net_acreage_k": null,
+      "net_debt_usd": 434762000,
+      "pct_gas": 2,
+      "pct_liquids": 98,
+      "pe_ttm": 8.56,
+      "price": 9.069999694824219,
+      "price_currency": "USD",
+      "production_kboed": 28,
+      "reserves_1p_mmboe": 69,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": 492518000,
+      "rp_years": 7.2,
+      "src": {
+        "financials": {
+          "as_of": "2025-12-31",
+          "fy": 2025,
+          "source": "sec-ifrs-full"
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": "2025-12-31",
+          "ref": "https://www.geo-park.com/press_releases/geopark-4q2025-and-full-year-results/",
+          "source": "GeoPark 4Q & FY2025 + reservas certificadas"
+        }
+      }
+    },
+    {
+      "beta": 0.1,
+      "canonical_ticker": "GTE",
+      "capex_usd": 275869000,
+      "category": "Colombia",
+      "cfo_usd": 313249000,
+      "corp_breakeven_usd_bbl": null,
+      "country": "CA",
+      "dividend_yield_pct": null,
+      "ebitda_usd": null,
+      "enterprise_value_usd": 717723328,
+      "ev_ebitda": 4.0,
+      "exchange": "NYSE American",
+      "hq_city": "Calgary",
+      "hq_coord": [
+        51.0447,
+        -114.0719
+      ],
+      "id": "gran-tierra",
+      "is_private": false,
+      "market_cap_usd": 210391339,
+      "name": "Gran Tierra Energy",
+      "net_acreage_k": null,
+      "net_debt_usd": 506662000,
+      "pct_gas": null,
+      "pct_liquids": null,
+      "pe_ttm": null,
+      "price": 5.949999809265137,
+      "price_currency": "USD",
+      "production_kboed": null,
+      "reserves_1p_mmboe": null,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": 374460000,
+      "rp_years": null,
+      "src": {
+        "financials": {
+          "as_of": "2025-12-31",
+          "fy": 2025,
+          "source": "sec-us-gaap"
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": null,
+          "ref": null,
+          "source": null
+        }
+      }
+    },
+    {
+      "beta": 0.8,
+      "canonical_ticker": "IMO",
+      "capex_usd": null,
+      "category": "Canada",
+      "cfo_usd": null,
+      "corp_breakeven_usd_bbl": null,
+      "country": "CA",
+      "dividend_yield_pct": 2.23,
+      "ebitda_usd": null,
+      "enterprise_value_usd": 57359056896,
+      "ev_ebitda": 8.7,
+      "exchange": "NYSE American",
+      "hq_city": "Calgary",
+      "hq_coord": [
+        51.0447,
+        -114.0719
+      ],
+      "id": "imperial-oil",
+      "is_private": false,
+      "market_cap_usd": 55173524585,
+      "name": "Imperial Oil",
+      "net_acreage_k": null,
+      "net_debt_usd": null,
+      "pct_gas": null,
+      "pct_liquids": null,
+      "pe_ttm": 26.67,
+      "price": 110.95999908447266,
+      "price_currency": "USD",
+      "production_kboed": null,
+      "reserves_1p_mmboe": null,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": null,
+      "rp_years": null,
+      "src": {
+        "financials": {
+          "as_of": null,
+          "fy": null,
+          "source": null
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": null,
+          "ref": null,
+          "source": null
+        }
+      }
+    },
+    {
+      "beta": 0.73,
+      "canonical_ticker": "MTDR",
+      "capex_usd": 2155429000,
+      "category": "US Shale",
+      "cfo_usd": 2425015000,
+      "corp_breakeven_usd_bbl": null,
+      "country": "US",
+      "dividend_yield_pct": 3.01,
+      "ebitda_usd": 2421900000,
+      "enterprise_value_usd": 10049790976,
+      "ev_ebitda": 4.79,
+      "exchange": "NYSE",
+      "hq_city": "Dallas",
+      "hq_coord": [
+        32.7767,
+        -96.797
+      ],
+      "id": "matador",
+      "is_private": false,
+      "market_cap_usd": 6090941940,
+      "name": "Matador Resources",
+      "net_acreage_k": null,
+      "net_debt_usd": 3386788000,
+      "pct_gas": null,
+      "pct_liquids": null,
+      "pe_ttm": 12.64,
+      "price": 49.04999923706055,
+      "price_currency": "USD",
+      "production_kboed": null,
+      "reserves_1p_mmboe": null,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": 3696277000,
+      "rp_years": null,
+      "src": {
+        "financials": {
+          "as_of": "2025-12-31",
+          "fy": 2025,
+          "source": "sec-us-gaap"
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": null,
+          "ref": null,
+          "source": null
+        }
+      }
+    },
+    {
+      "beta": 0.12,
+      "canonical_ticker": "OXY",
+      "capex_usd": 6427000000,
+      "category": "US Shale",
+      "cfo_usd": 10532000000,
+      "corp_breakeven_usd_bbl": null,
+      "country": "US",
+      "dividend_yield_pct": 2.14,
+      "ebitda_usd": null,
+      "enterprise_value_usd": 70024404992,
+      "ev_ebitda": 6.47,
+      "exchange": "NYSE",
+      "hq_city": "Houston",
+      "hq_coord": [
+        29.7604,
+        -95.3698
+      ],
+      "id": "occidental",
+      "is_private": false,
+      "market_cap_usd": 47682786200,
+      "name": "Occidental Petroleum",
+      "net_acreage_k": null,
+      "net_debt_usd": 33777000000,
+      "pct_gas": null,
+      "pct_liquids": null,
+      "pe_ttm": 64.78,
+      "price": 47.939998626708984,
+      "price_currency": "USD",
+      "production_kboed": null,
+      "reserves_1p_mmboe": null,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": 21593000000,
+      "rp_years": null,
+      "src": {
+        "financials": {
+          "as_of": "2025-12-31",
+          "fy": 2025,
+          "source": "sec-us-gaap"
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": null,
+          "ref": null,
+          "source": null
+        }
+      }
+    },
+    {
+      "beta": 0.53,
+      "canonical_ticker": "OVV",
+      "capex_usd": 2147000000,
+      "category": "US Shale",
+      "cfo_usd": 3652000000,
+      "corp_breakeven_usd_bbl": null,
+      "country": "US",
+      "dividend_yield_pct": 2.28,
+      "ebitda_usd": 3310000000,
+      "enterprise_value_usd": 22579630080,
+      "ev_ebitda": 5.14,
+      "exchange": "NYSE",
+      "hq_city": "Denver",
+      "hq_coord": [
+        39.7392,
+        -104.9903
+      ],
+      "id": "ovintiv",
+      "is_private": false,
+      "market_cap_usd": 14609875601,
+      "name": "Ovintiv",
+      "net_acreage_k": null,
+      "net_debt_usd": 4357000000,
+      "pct_gas": null,
+      "pct_liquids": null,
+      "pe_ttm": 17.1,
+      "price": 51.98899841308594,
+      "price_currency": "USD",
+      "production_kboed": null,
+      "reserves_1p_mmboe": null,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": 8908000000,
+      "rp_years": null,
+      "src": {
+        "financials": {
+          "as_of": "2025-12-31",
+          "fy": 2025,
+          "source": "sec-us-gaap"
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": null,
+          "ref": null,
+          "source": null
+        }
+      }
+    },
+    {
+      "beta": -0.23,
+      "canonical_ticker": "PAM",
+      "capex_usd": 447000000,
+      "category": "Vaca Muerta",
+      "cfo_usd": 435000000,
+      "corp_breakeven_usd_bbl": null,
+      "country": "AR",
+      "dividend_yield_pct": null,
+      "ebitda_usd": null,
+      "enterprise_value_usd": 5712871936,
+      "ev_ebitda": 7.28,
+      "exchange": "NYSE",
+      "hq_city": "Buenos Aires",
+      "hq_coord": [
+        -34.6037,
+        -58.3816
+      ],
+      "id": "pampa",
+      "is_private": false,
+      "market_cap_usd": 4297370511,
+      "name": "Pampa Energía",
+      "net_acreage_k": null,
+      "net_debt_usd": 635000000,
+      "pct_gas": 85,
+      "pct_liquids": 15,
+      "pe_ttm": 9.69,
+      "price": 79.95999908447266,
+      "price_currency": "USD",
+      "production_kboed": 84,
+      "reserves_1p_mmboe": 296,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": 1876000000,
+      "rp_years": 10,
+      "src": {
+        "financials": {
+          "as_of": "2024-12-31",
+          "fy": 2024,
+          "source": "sec-ifrs-full"
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": "2025-12-31",
+          "ref": "https://www.stocktitan.net/sec-filings/PAM/6-k-pampa-energy-inc-current-report-foreign-issuer-953ddd524ebd.html",
+          "source": "Pampa Energía FY2025 (segmento E&P, Form 6-K)"
+        }
+      }
+    },
+    {
+      "beta": null,
+      "canonical_ticker": null,
+      "capex_usd": null,
+      "category": "Vaca Muerta",
+      "cfo_usd": null,
+      "corp_breakeven_usd_bbl": null,
+      "country": "AR",
+      "dividend_yield_pct": null,
+      "ebitda_usd": null,
+      "enterprise_value_usd": null,
+      "ev_ebitda": null,
+      "exchange": null,
+      "hq_city": "Buenos Aires",
+      "hq_coord": [
+        -34.6037,
+        -58.3816
+      ],
+      "id": "pan-american",
+      "is_private": true,
+      "market_cap_usd": null,
+      "name": "Pan American Energy",
+      "net_acreage_k": null,
+      "net_debt_usd": null,
+      "pct_gas": null,
+      "pct_liquids": null,
+      "pe_ttm": null,
+      "price": null,
+      "price_currency": null,
+      "production_kboed": null,
+      "reserves_1p_mmboe": null,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": null,
+      "rp_years": null,
+      "src": {
+        "financials": {
+          "as_of": null,
+          "fy": null,
+          "source": null
+        },
+        "market": {
+          "as_of": null,
+          "source": null
+        },
+        "operational": {
+          "as_of": null,
+          "ref": null,
+          "source": null
+        }
+      }
+    },
+    {
+      "beta": 0.47,
+      "canonical_ticker": "PXT",
+      "capex_usd": null,
+      "category": "Colombia",
+      "cfo_usd": null,
+      "corp_breakeven_usd_bbl": null,
+      "country": "CA",
+      "dividend_yield_pct": 7.2,
+      "ebitda_usd": null,
+      "enterprise_value_usd": 1504292060,
+      "ev_ebitda": 5.05,
+      "exchange": "TSX",
+      "hq_city": "Calgary",
+      "hq_coord": [
+        51.0447,
+        -114.0719
+      ],
+      "id": "parex",
+      "is_private": false,
+      "market_cap_usd": 1447169060,
+      "name": "Parex Resources",
+      "net_acreage_k": null,
+      "net_debt_usd": null,
+      "pct_gas": null,
+      "pct_liquids": null,
+      "pe_ttm": 8.13,
+      "price": 21.389999389648438,
+      "price_currency": "CAD",
+      "production_kboed": null,
+      "reserves_1p_mmboe": null,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": null,
+      "rp_years": null,
+      "src": {
+        "financials": {
+          "as_of": null,
+          "fy": null,
+          "source": null
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": null,
+          "ref": null,
+          "source": null
+        }
+      }
+    },
+    {
+      "beta": 0.44,
+      "canonical_ticker": "PR",
+      "capex_usd": null,
+      "category": "US Shale",
+      "cfo_usd": 3607541000,
+      "corp_breakeven_usd_bbl": null,
+      "country": "US",
+      "dividend_yield_pct": 3.37,
+      "ebitda_usd": null,
+      "enterprise_value_usd": 18947702784,
+      "ev_ebitda": 5.32,
+      "exchange": "NYSE",
+      "hq_city": "Midland",
+      "hq_coord": [
+        31.9973,
+        -102.0779
+      ],
+      "id": "permian-resources",
+      "is_private": false,
+      "market_cap_usd": 15004203246,
+      "name": "Permian Resources",
+      "net_acreage_k": null,
+      "net_debt_usd": 3391908000,
+      "pct_gas": null,
+      "pct_liquids": null,
+      "pe_ttm": 20.13,
+      "price": 17.920000076293945,
+      "price_currency": "USD",
+      "production_kboed": null,
+      "reserves_1p_mmboe": null,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": 5065211000,
+      "rp_years": null,
+      "src": {
+        "financials": {
+          "as_of": "2025-12-31",
+          "fy": 2025,
+          "source": "sec-us-gaap"
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": null,
+          "ref": null,
+          "source": null
+        }
+      }
+    },
+    {
+      "beta": -0.16,
+      "canonical_ticker": "PBR",
+      "capex_usd": 12021000000,
+      "category": "Brazil",
+      "cfo_usd": 37984000000,
+      "corp_breakeven_usd_bbl": null,
+      "country": "BR",
+      "dividend_yield_pct": 10.91,
+      "ebitda_usd": 38904000000,
+      "enterprise_value_usd": 429414973440,
+      "ev_ebitda": 2.11,
+      "exchange": "NYSE",
+      "hq_city": "Rio de Janeiro",
+      "hq_coord": [
+        -22.9068,
+        -43.1729
+      ],
+      "id": "petrobras",
+      "is_private": false,
+      "market_cap_usd": 103077639527,
+      "name": "Petrobras",
+      "net_acreage_k": null,
+      "net_debt_usd": 17325000000,
+      "pct_gas": 19,
+      "pct_liquids": 81,
+      "pe_ttm": 5.09,
+      "price": 15.994999885559082,
+      "price_currency": "USD",
+      "production_kboed": 2990,
+      "reserves_1p_mmboe": 12100,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": 91416000000,
+      "rp_years": 12.5,
+      "src": {
+        "financials": {
+          "as_of": "2024-12-31",
+          "fy": 2024,
+          "source": "sec-ifrs-full"
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": "2025-12-31",
+          "ref": "https://agencia.petrobras.com.br/en/w/petrobras-aumenta-reservas-provadas-em-2025",
+          "source": "Petrobras FY2025 resultados y reservas probadas"
+        }
+      }
+    },
+    {
+      "beta": -0.18,
+      "canonical_ticker": "RECV3",
+      "capex_usd": null,
+      "category": "Brazil",
+      "cfo_usd": null,
+      "corp_breakeven_usd_bbl": null,
+      "country": "BR",
+      "dividend_yield_pct": 13.67,
+      "ebitda_usd": null,
+      "enterprise_value_usd": 861144371,
+      "ev_ebitda": 3.39,
+      "exchange": "B3",
+      "hq_city": "Rio de Janeiro",
+      "hq_coord": [
+        -22.9068,
+        -43.1729
+      ],
+      "id": "petroreconcavo",
+      "is_private": false,
+      "market_cap_usd": 551775438,
+      "name": "PetroReconcavo",
+      "net_acreage_k": null,
+      "net_debt_usd": null,
+      "pct_gas": null,
+      "pct_liquids": null,
+      "pe_ttm": 5.36,
+      "price": 9.8100004196167,
+      "price_currency": "BRL",
+      "production_kboed": null,
+      "reserves_1p_mmboe": null,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": null,
+      "rp_years": null,
+      "src": {
+        "financials": {
+          "as_of": null,
+          "fy": null,
+          "source": null
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": null,
+          "ref": null,
+          "source": null
+        }
+      }
+    },
+    {
+      "beta": null,
+      "canonical_ticker": null,
+      "capex_usd": null,
+      "category": "Vaca Muerta",
+      "cfo_usd": null,
+      "corp_breakeven_usd_bbl": null,
+      "country": "AR",
+      "dividend_yield_pct": null,
+      "ebitda_usd": null,
+      "enterprise_value_usd": null,
+      "ev_ebitda": null,
+      "exchange": null,
+      "hq_city": "Buenos Aires",
+      "hq_coord": [
+        -34.6037,
+        -58.3816
+      ],
+      "id": "pluspetrol",
+      "is_private": true,
+      "market_cap_usd": null,
+      "name": "Pluspetrol",
+      "net_acreage_k": null,
+      "net_debt_usd": null,
+      "pct_gas": 67,
+      "pct_liquids": 33,
+      "pe_ttm": null,
+      "price": null,
+      "price_currency": null,
+      "production_kboed": 474,
+      "reserves_1p_mmboe": 593,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": null,
+      "rp_years": 13,
+      "src": {
+        "financials": {
+          "as_of": null,
+          "fy": null,
+          "source": null
+        },
+        "market": {
+          "as_of": null,
+          "source": null
+        },
+        "operational": {
+          "as_of": "2024-12-31",
+          "ref": "https://www.bancoprovincia.com.ar/CDN/Get/Pluspetrol_Calificacion_3",
+          "source": "Pluspetrol S.A. calificación Fix/Fitch (abr-2025), producción operada global FY2024"
+        }
+      }
+    },
+    {
+      "beta": 0.13,
+      "canonical_ticker": "PRIO3",
+      "capex_usd": null,
+      "category": "Brazil",
+      "cfo_usd": null,
+      "corp_breakeven_usd_bbl": null,
+      "country": "BR",
+      "dividend_yield_pct": null,
+      "ebitda_usd": null,
+      "enterprise_value_usd": 12711253003,
+      "ev_ebitda": 6.81,
+      "exchange": "B3",
+      "hq_city": "Rio de Janeiro",
+      "hq_coord": [
+        -22.9068,
+        -43.1729
+      ],
+      "id": "prio",
+      "is_private": false,
+      "market_cap_usd": 8067620219,
+      "name": "PRIO",
+      "net_acreage_k": null,
+      "net_debt_usd": null,
+      "pct_gas": 0,
+      "pct_liquids": 100,
+      "pe_ttm": 15.9,
+      "price": 52.459999084472656,
+      "price_currency": "BRL",
+      "production_kboed": 106,
+      "reserves_1p_mmboe": 811,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": null,
+      "rp_years": 20.9,
+      "src": {
+        "financials": {
+          "as_of": null,
+          "fy": null,
+          "source": null
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": "2025-12-31",
+          "ref": "https://brazilenergyinsight.com/2026/03/11/prio-reports-us2-5-billion-in-revenue-in-2025-with-operational-expansion-at-peregrino/",
+          "source": "PRIO FY2025 resultados + certificación D&M"
+        }
+      }
+    },
+    {
+      "beta": 0.4,
+      "canonical_ticker": "RRC",
+      "capex_usd": 1477000,
+      "category": "US Shale",
+      "cfo_usd": 1171324000,
+      "corp_breakeven_usd_bbl": null,
+      "country": "US",
+      "dividend_yield_pct": 1.08,
+      "ebitda_usd": null,
+      "enterprise_value_usd": 9741273088,
+      "ev_ebitda": 5.78,
+      "exchange": "NYSE",
+      "hq_city": "Fort Worth",
+      "hq_coord": [
+        32.7555,
+        -97.3308
+      ],
+      "id": "range-resources",
+      "is_private": false,
+      "market_cap_usd": 8713310697,
+      "name": "Range Resources",
+      "net_acreage_k": null,
+      "net_debt_usd": 1198130000,
+      "pct_gas": null,
+      "pct_liquids": null,
+      "pe_ttm": 9.78,
+      "price": 36.97999954223633,
+      "price_currency": "USD",
+      "production_kboed": null,
+      "reserves_1p_mmboe": null,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": 3115515000,
+      "rp_years": null,
+      "src": {
+        "financials": {
+          "as_of": "2025-12-31",
+          "fy": 2025,
+          "source": "sec-us-gaap"
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": null,
+          "ref": null,
+          "source": null
+        }
+      }
+    },
+    {
+      "beta": 0.71,
+      "canonical_ticker": "SM",
+      "capex_usd": 34000000,
+      "category": "US Shale",
+      "cfo_usd": 2011000000,
+      "corp_breakeven_usd_bbl": null,
+      "country": "US",
+      "dividend_yield_pct": 3.37,
+      "ebitda_usd": null,
+      "enterprise_value_usd": 14366441472,
+      "ev_ebitda": 7.09,
+      "exchange": "NYSE",
+      "hq_city": "Denver",
+      "hq_coord": [
+        39.7392,
+        -104.9903
+      ],
+      "id": "sm-energy",
+      "is_private": false,
+      "market_cap_usd": 6168733967,
+      "name": "SM Energy",
+      "net_acreage_k": null,
+      "net_debt_usd": 1713164000,
+      "pct_gas": null,
+      "pct_liquids": null,
+      "pe_ttm": 10.86,
+      "price": 25.729999542236328,
+      "price_currency": "USD",
+      "production_kboed": null,
+      "reserves_1p_mmboe": null,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": 3154000000,
+      "rp_years": null,
+      "src": {
+        "financials": {
+          "as_of": "2025-12-31",
+          "fy": 2025,
+          "source": "sec-us-gaap"
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": null,
+          "ref": null,
+          "source": null
+        }
+      }
+    },
+    {
+      "beta": 0.56,
+      "canonical_ticker": "SU",
+      "capex_usd": null,
+      "category": "Canada",
+      "cfo_usd": null,
+      "corp_breakeven_usd_bbl": null,
+      "country": "CA",
+      "dividend_yield_pct": 3.14,
+      "ebitda_usd": null,
+      "enterprise_value_usd": 74923401216,
+      "ev_ebitda": 4.81,
+      "exchange": "NYSE",
+      "hq_city": "Calgary",
+      "hq_coord": [
+        51.0447,
+        -114.0719
+      ],
+      "id": "suncor",
+      "is_private": false,
+      "market_cap_usd": 63258424402,
+      "name": "Suncor Energy",
+      "net_acreage_k": null,
+      "net_debt_usd": null,
+      "pct_gas": null,
+      "pct_liquids": null,
+      "pe_ttm": 14.48,
+      "price": 53.57500076293945,
+      "price_currency": "USD",
+      "production_kboed": null,
+      "reserves_1p_mmboe": null,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": null,
+      "rp_years": null,
+      "src": {
+        "financials": {
+          "as_of": null,
+          "fy": null,
+          "source": null
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": null,
+          "ref": null,
+          "source": null
+        }
+      }
+    },
+    {
+      "beta": null,
+      "canonical_ticker": null,
+      "capex_usd": null,
+      "category": "Vaca Muerta",
+      "cfo_usd": null,
+      "corp_breakeven_usd_bbl": null,
+      "country": "AR",
+      "dividend_yield_pct": null,
+      "ebitda_usd": null,
+      "enterprise_value_usd": null,
+      "ev_ebitda": null,
+      "exchange": null,
+      "hq_city": "Buenos Aires",
+      "hq_coord": [
+        -34.6037,
+        -58.3816
+      ],
+      "id": "tecpetrol",
+      "is_private": true,
+      "market_cap_usd": null,
+      "name": "Tecpetrol",
+      "net_acreage_k": null,
+      "net_debt_usd": null,
+      "pct_gas": 88,
+      "pct_liquids": 12,
+      "pe_ttm": null,
+      "price": null,
+      "price_currency": null,
+      "production_kboed": 127,
+      "reserves_1p_mmboe": 662,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": null,
+      "rp_years": 14,
+      "src": {
+        "financials": {
+          "as_of": null,
+          "fy": null,
+          "source": null
+        },
+        "market": {
+          "as_of": null,
+          "source": null
+        },
+        "operational": {
+          "as_of": "2024-09-30",
+          "ref": "https://www.sekoia.com.uy/storage/pdfs/Tecpetrol-30-01-25.pdf",
+          "source": "Tecpetrol S.A. reporte crediticio (ene-2025), LTM 3Q2024"
+        }
+      }
+    },
+    {
+      "beta": 0.27,
+      "canonical_ticker": "TOU",
+      "capex_usd": null,
+      "category": "Canada",
+      "cfo_usd": null,
+      "corp_breakeven_usd_bbl": null,
+      "country": "CA",
+      "dividend_yield_pct": 3.37,
+      "ebitda_usd": null,
+      "enterprise_value_usd": null,
+      "ev_ebitda": null,
+      "exchange": "TSX",
+      "hq_city": "Calgary",
+      "hq_coord": [
+        51.0447,
+        -114.0719
+      ],
+      "id": "tourmaline",
+      "is_private": false,
+      "market_cap_usd": 16197624926,
+      "name": "Tourmaline Oil",
+      "net_acreage_k": null,
+      "net_debt_usd": null,
+      "pct_gas": 77,
+      "pct_liquids": 23,
+      "pe_ttm": 32.76,
+      "price": 59.29999923706055,
+      "price_currency": "CAD",
+      "production_kboed": 638,
+      "reserves_1p_mmboe": 3256,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": null,
+      "rp_years": 14,
+      "src": {
+        "financials": {
+          "as_of": null,
+          "fy": null,
+          "source": null
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": "2025-12-31",
+          "ref": "https://boereport.com/2026/03/04/tourmaline-achieves-record-production-adds-829-million-boe-of-2p-reserves-and-reduces-2026-ep-capex/",
+          "source": "Tourmaline FY2025 producción/reservas récord"
+        }
+      }
+    },
+    {
+      "beta": null,
+      "canonical_ticker": "VRN",
+      "capex_usd": null,
+      "category": "Canada",
+      "cfo_usd": null,
+      "corp_breakeven_usd_bbl": null,
+      "country": "CA",
+      "dividend_yield_pct": null,
+      "ebitda_usd": null,
+      "enterprise_value_usd": null,
+      "ev_ebitda": null,
+      "exchange": "NYSE",
+      "hq_city": "Calgary",
+      "hq_coord": [
+        51.0447,
+        -114.0719
+      ],
+      "id": "veren",
+      "is_private": false,
+      "market_cap_usd": null,
+      "name": "Veren",
+      "net_acreage_k": null,
+      "net_debt_usd": null,
+      "pct_gas": null,
+      "pct_liquids": null,
+      "pe_ttm": null,
+      "price": null,
+      "price_currency": null,
+      "production_kboed": null,
+      "reserves_1p_mmboe": null,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": null,
+      "rp_years": null,
+      "src": {
+        "financials": {
+          "as_of": null,
+          "fy": null,
+          "source": null
+        },
+        "market": {
+          "as_of": null,
+          "source": null
+        },
+        "operational": {
+          "as_of": null,
+          "ref": null,
+          "source": null
+        }
+      }
+    },
+    {
+      "beta": -0.51,
+      "canonical_ticker": "VIST",
+      "capex_usd": 1052530000,
+      "category": "Vaca Muerta",
+      "cfo_usd": 959026000,
+      "corp_breakeven_usd_bbl": null,
+      "country": "MX",
+      "dividend_yield_pct": null,
+      "ebitda_usd": 1063089000,
+      "enterprise_value_usd": 9866526720,
+      "ev_ebitda": 5.58,
+      "exchange": "NYSE",
+      "hq_city": "Ciudad de México",
+      "hq_coord": [
+        19.4326,
+        -99.1332
+      ],
+      "id": "vista",
+      "is_private": false,
+      "market_cap_usd": 6992453520,
+      "name": "Vista Energy",
+      "net_acreage_k": 228,
+      "net_debt_usd": 638036000,
+      "pct_gas": 13,
+      "pct_liquids": 87,
+      "pe_ttm": 9.15,
+      "price": 62.744998931884766,
+      "price_currency": "USD",
+      "production_kboed": 115,
+      "reserves_1p_mmboe": 588,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": 1647768000,
+      "rp_years": 14,
+      "src": {
+        "financials": {
+          "as_of": "2024-12-31",
+          "fy": 2024,
+          "source": "sec-ifrs-full"
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": "2025-12-31",
+          "ref": "https://www.ogj.com/exploration-development/reserves/news/55357224/vista-energy-increases-reserves-by-57-and-production-by-59-in-2025",
+          "source": "Vista Energy FY2025 reservas (OGJ + SEC 6-K)"
+        }
+      }
+    },
+    {
+      "beta": -0.03,
+      "canonical_ticker": "YPF",
+      "capex_usd": null,
+      "category": "Vaca Muerta",
+      "cfo_usd": 4959000000,
+      "corp_breakeven_usd_bbl": null,
+      "country": "AR",
+      "dividend_yield_pct": null,
+      "ebitda_usd": null,
+      "enterprise_value_usd": 12875638767616,
+      "ev_ebitda": 1.84,
+      "exchange": "NYSE",
+      "hq_city": "Buenos Aires",
+      "hq_coord": [
+        -34.6037,
+        -58.3816
+      ],
+      "id": "ypf",
+      "is_private": false,
+      "market_cap_usd": 17630023536,
+      "name": "YPF",
+      "net_acreage_k": null,
+      "net_debt_usd": 7293000000,
+      "pct_gas": 40,
+      "pct_liquids": 60,
+      "pe_ttm": null,
+      "price": 44.959999084472656,
+      "price_currency": "USD",
+      "production_kboed": 527,
+      "reserves_1p_mmboe": 1284,
+      "reserves_2p_mmboe": null,
+      "revenue_usd": 18448000000,
+      "rp_years": 6.7,
+      "src": {
+        "financials": {
+          "as_of": "2025-12-31",
+          "fy": 2025,
+          "source": "sec-ifrs-full"
+        },
+        "market": {
+          "as_of": "2026-07-01",
+          "source": "yfinance"
+        },
+        "operational": {
+          "as_of": "2025-12-31",
+          "ref": "https://www.stocktitan.net/sec-filings/YPF/6-k-ypf-sociedad-anonima-current-report-foreign-issuer-faa0b8d36aa6.html",
+          "source": "YPF FY2025 (Form 6-K)"
+        }
+      }
+    }
+  ],
+  "generated_at": "2026-07-01T20:06:07+00:00",
+  "source": "pipeline",
+  "source_date": "2026-07-01"
+}

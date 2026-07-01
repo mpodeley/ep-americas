@@ -1,0 +1,69 @@
+{
+  "counts": {
+    "companies": 43,
+    "with_financials": 25,
+    "with_market": 38,
+    "with_operational": 17
+  },
+  "market_source_breakdown": {
+    "cache": 0,
+    "none": 5,
+    "yfinance": 38
+  },
+  "operational_oldest": [
+    {
+      "as_of": "2024-09-30",
+      "id": "tecpetrol"
+    },
+    {
+      "as_of": "2024-12-31",
+      "id": "pluspetrol"
+    },
+    {
+      "as_of": "2025-12-31",
+      "id": "cenovus"
+    },
+    {
+      "as_of": "2025-12-31",
+      "id": "cnrl"
+    },
+    {
+      "as_of": "2025-12-31",
+      "id": "coterra"
+    },
+    {
+      "as_of": "2025-12-31",
+      "id": "devon"
+    },
+    {
+      "as_of": "2025-12-31",
+      "id": "diamondback"
+    },
+    {
+      "as_of": "2025-12-31",
+      "id": "ecopetrol"
+    },
+    {
+      "as_of": "2025-12-31",
+      "id": "eog"
+    },
+    {
+      "as_of": "2025-12-31",
+      "id": "frontera"
+    }
+  ],
+  "source_date": "2026-07-01",
+  "warnings": [
+    "apa: filer SEC sin ingresos extraídos",
+    "civitas: yfinance falló y no hay caché de mercado",
+    "civitas: sin market cap",
+    "cnrl: SEC sin datos USD (posible reporte en moneda funcional) o fetch falló",
+    "cenovus: SEC sin datos USD (posible reporte en moneda funcional) o fetch falló",
+    "suncor: SEC sin datos USD (posible reporte en moneda funcional) o fetch falló",
+    "imperial-oil: SEC sin datos USD (posible reporte en moneda funcional) o fetch falló",
+    "veren: yfinance falló y no hay caché de mercado",
+    "veren: sin market cap",
+    "baytex: SEC sin datos USD (posible reporte en moneda funcional) o fetch falló",
+    "ecopetrol: SEC sin datos USD (posible reporte en moneda funcional) o fetch falló"
+  ]
+}
