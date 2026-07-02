@@ -6,6 +6,14 @@ import { shortDate } from './utils/format'
 import Filters from './components/Filters'
 import ScreenerTable from './components/ScreenerTable'
 import MapaAmericas from './components/MapaAmericas'
+import Fuentes from './components/Fuentes'
+
+type View = 'tabla' | 'mapa' | 'fuentes'
+const TABS: { id: View; label: string }[] = [
+  { id: 'tabla', label: 'Tabla' },
+  { id: 'mapa', label: 'Mapa' },
+  { id: 'fuentes', label: 'Fuentes' },
+]
 
 export default function App() {
   const { companies, meta, generatedAt, loading, error } = useData()
@@ -14,9 +22,9 @@ export default function App() {
   const [country, setCountry] = useState('')
   const [query, setQuery] = useState('')
   const [families, setFamilies] = useState<Record<Family, boolean>>({
-    market: true, financials: true, operational: true,
+    market: true, financials: true, operational: true, ratios: true,
   })
-  const [view, setView] = useState<'tabla' | 'mapa'>('tabla')
+  const [view, setView] = useState<View>('tabla')
 
   const categories = useMemo(
     () => Array.from(new Set(companies.map((c) => c.category))).sort(),
@@ -60,13 +68,13 @@ export default function App() {
           </p>
         </div>
         <div style={{ display: 'flex', gap: space.xs }}>
-          {(['tabla', 'mapa'] as const).map((v) => (
-            <button key={v} onClick={() => setView(v)} style={{
+          {TABS.map((t) => (
+            <button key={t.id} onClick={() => setView(t.id)} style={{
               cursor: 'pointer', fontSize: 13, fontWeight: 600, padding: '7px 14px',
               borderRadius: radius.sm, border: `1px solid ${colors.border}`,
-              background: view === v ? colors.accent.blue + '22' : 'transparent',
-              color: view === v ? colors.accent.blue : colors.textMuted, textTransform: 'capitalize',
-            }}>{v}</button>
+              background: view === t.id ? colors.accent.blue + '22' : 'transparent',
+              color: view === t.id ? colors.accent.blue : colors.textMuted,
+            }}>{t.label}</button>
           ))}
         </div>
       </header>
@@ -81,24 +89,26 @@ export default function App() {
 
       {!loading && !error && (
         <>
-          <Filters
-            categories={categories}
-            countries={countries}
-            selectedCats={selectedCats}
-            onToggleCat={toggleCat}
-            country={country}
-            onCountry={setCountry}
-            query={query}
-            onQuery={setQuery}
-            families={families}
-            onToggleFamily={toggleFamily}
-          />
+          {view !== 'fuentes' && (
+            <Filters
+              categories={categories}
+              countries={countries}
+              selectedCats={selectedCats}
+              onToggleCat={toggleCat}
+              country={country}
+              onCountry={setCountry}
+              query={query}
+              onQuery={setQuery}
+              families={families}
+              onToggleFamily={toggleFamily}
+            />
+          )}
 
-          {view === 'tabla'
-            ? <ScreenerTable companies={filtered} families={families} sourceDate={sourceDate} />
-            : <MapaAmericas companies={filtered} />}
+          {view === 'tabla' && <ScreenerTable companies={filtered} families={families} sourceDate={sourceDate} />}
+          {view === 'mapa' && <MapaAmericas companies={filtered} />}
+          {view === 'fuentes' && <Fuentes meta={meta} generatedAt={generatedAt} />}
 
-          <footer style={{ marginTop: space.lg, color: colors.textDim, fontSize: 12,
+          {view !== 'fuentes' && <footer style={{ marginTop: space.lg, color: colors.textDim, fontSize: 12,
             display: 'flex', gap: space.lg, flexWrap: 'wrap' }}>
             <span>{filtered.length} de {companies.length} empresas</span>
             <span>Actualizado: {shortDate(generatedAt)}</span>
@@ -110,7 +120,7 @@ export default function App() {
             <span style={{ color: colors.textDim }}>
               Mercado: yfinance · Financieras: SEC EDGAR · Operativas: curadas
             </span>
-          </footer>
+          </footer>}
         </>
       )}
     </div>

@@ -34,6 +34,11 @@ OPERATIONAL_KEYS = [
     "production_kboed", "pct_gas", "pct_liquids", "reserves_1p_mmboe",
     "reserves_2p_mmboe", "rp_years", "net_acreage_k", "corp_breakeven_usd_bbl",
 ]
+# Computed in derive() from the fetched/curated fields above (no network).
+DERIVED_KEYS = [
+    "ev_per_boed_usd", "ev_per_1p_boe_usd", "net_debt_to_ebitda",
+    "fcf_usd", "fcf_yield_pct", "capex_to_cfo_pct", "roace_pct",
+]
 
 
 def _s(v):
@@ -131,7 +136,7 @@ def build_row(seed_row, market, market_src, market_asof, fin, fin_src,
     row = {k: seed_row[k] for k in
            ["id", "name", "category", "country", "hq_city",
             "canonical_ticker", "exchange", "is_private"]}
-    for k in MARKET_KEYS + FINANCIAL_KEYS + OPERATIONAL_KEYS:
+    for k in MARKET_KEYS + FINANCIAL_KEYS + OPERATIONAL_KEYS + DERIVED_KEYS:
         row[k] = None
     row["hq_coord"] = hq_coords.get(cid)
     row["src"] = {
@@ -172,6 +177,17 @@ def build_row(seed_row, market, market_src, market_asof, fin, fin_src,
 
 
 def derive(row):
+    # Reconcile enterprise value: prefer market_cap + net_debt (both USD, consistent) over
+    # yfinance's enterpriseValue, which mixes currencies for foreign ADRs (price in USD but
+    # debt/cash in the local reporting currency → garbage EV like YPF's ARS-scaled value).
+    mc = row.get("market_cap_usd")
+    nd = row.get("net_debt_usd")
+    if mc is not None and nd is not None:
+        row["enterprise_value_usd"] = round(mc + nd)
+    elif row.get("price_currency") == "USD" and row.get("country") != "US":
+        # foreign ADR (USD price) without SEC net debt → can't trust yfinance EV
+        row["enterprise_value_usd"] = None
+
     prod = row.get("production_kboed")
     r1p = row.get("reserves_1p_mmboe")
     if row.get("rp_years") is None and prod and r1p:
@@ -183,6 +199,31 @@ def derive(row):
     ebitda = row.get("ebitda_usd")
     if row.get("ev_ebitda") is None and ev and ebitda and ebitda > 0:
         row["ev_ebitda"] = round(ev / ebitda, 1)
+
+    # --- E&P valuation & cash/leverage ratios (null unless inputs present) ---
+    mc = row.get("market_cap_usd")
+    nd = row.get("net_debt_usd")
+    cfo = row.get("cfo_usd")
+    capex = row.get("capex_usd")
+
+    # EV per flowing barrel (US$ per boe/d)
+    if ev and prod:
+        row["ev_per_boed_usd"] = round(ev / (prod * 1000))
+    # EV per 1P reserve barrel (US$/boe)
+    if ev and r1p:
+        row["ev_per_1p_boe_usd"] = round(ev / (r1p * 1e6), 2)
+    # Leverage (net debt can be negative = net cash; UI renders that specially)
+    if nd is not None and ebitda and ebitda > 0:
+        row["net_debt_to_ebitda"] = round(nd / ebitda, 2)
+    # Free cash flow = CFO - capex (capex normalized to positive outflow)
+    if cfo is not None and capex is not None:
+        fcf = cfo - abs(capex)
+        row["fcf_usd"] = round(fcf)
+        if mc and mc > 0:
+            row["fcf_yield_pct"] = round(100 * fcf / mc, 1)
+    # Reinvestment rate (>100% = outspending operating cash flow)
+    if cfo and cfo > 0 and capex is not None:
+        row["capex_to_cfo_pct"] = round(100 * abs(capex) / cfo)
 
 
 def validate(row, errors, warnings):

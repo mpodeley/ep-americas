@@ -45,6 +45,15 @@ export interface Company {
   net_acreage_k: number | null
   corp_breakeven_usd_bbl: number | null
 
+  // derived ratios (computed in the pipeline; no network)
+  ev_per_boed_usd: number | null
+  ev_per_1p_boe_usd: number | null
+  net_debt_to_ebitda: number | null
+  fcf_usd: number | null
+  fcf_yield_pct: number | null
+  capex_to_cfo_pct: number | null
+  roace_pct: number | null
+
   src: {
     market: SrcMeta
     financials: SrcMeta
@@ -72,4 +81,4 @@ export interface Meta {
   warnings: string[]
 }
 
-export type Family = 'market' | 'financials' | 'operational'
+export type Family = 'market' | 'financials' | 'operational' | 'ratios'

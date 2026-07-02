@@ -5,6 +5,7 @@ const FAMILY_LABEL: Record<Family, string> = {
   market: 'Mercado',
   financials: 'Financieras',
   operational: 'Operativas',
+  ratios: 'Ratios',
 }
 
 interface Props {

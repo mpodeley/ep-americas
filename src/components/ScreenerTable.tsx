@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react'
 import type { Company, Family } from '../types'
 import { colors, categoryColor, radius, space, badge } from '../theme'
-import { usd, num, pct, price, isStale, DASH } from '../utils/format'
+import { usd, num, pct, price, leverage, evPerBoed, usdBbl, isStale, DASH } from '../utils/format'
 
 interface Col {
   key: keyof Company
@@ -16,6 +16,7 @@ const FAMILY_COLOR: Record<Family, string> = {
   market: colors.accent.blue,
   financials: colors.accent.purple,
   operational: colors.oil,
+  ratios: colors.accent.cyan,
 }
 
 const COLS: Col[] = [
@@ -41,6 +42,14 @@ const COLS: Col[] = [
   { key: 'reserves_1p_mmboe', label: 'Reservas 1P', family: 'operational', numeric: true, fmt: (c) => num(c.reserves_1p_mmboe, 0), title: 'MMboe' },
   { key: 'rp_years', label: 'R/P (a)', family: 'operational', numeric: true, fmt: (c) => num(c.rp_years, 1) },
   { key: 'corp_breakeven_usd_bbl', label: 'Breakeven', family: 'operational', numeric: true, fmt: (c) => num(c.corp_breakeven_usd_bbl, 0), title: 'US$/bbl' },
+  // ratios (derived in the pipeline)
+  { key: 'ev_per_boed_usd', label: 'EV/prod', family: 'ratios', numeric: true, fmt: (c) => evPerBoed(c.ev_per_boed_usd), title: 'EV por boe/d de producción (US$)' },
+  { key: 'ev_per_1p_boe_usd', label: 'EV/1P', family: 'ratios', numeric: true, fmt: (c) => usdBbl(c.ev_per_1p_boe_usd), title: 'EV por boe de reservas 1P (US$)' },
+  { key: 'net_debt_to_ebitda', label: 'DN/EBITDA', family: 'ratios', numeric: true, fmt: (c) => leverage(c.net_debt_to_ebitda), title: 'Deuda neta / EBITDA (neg = net cash)' },
+  { key: 'fcf_usd', label: 'FCF', family: 'ratios', numeric: true, fmt: (c) => usd(c.fcf_usd), title: 'CFO − capex (último FY)' },
+  { key: 'fcf_yield_pct', label: 'FCF yield', family: 'ratios', numeric: true, fmt: (c) => pct(c.fcf_yield_pct, 1), title: 'FCF / market cap (equity yield)' },
+  { key: 'capex_to_cfo_pct', label: 'Capex/CFO', family: 'ratios', numeric: true, fmt: (c) => pct(c.capex_to_cfo_pct, 0), title: 'Reinversión (>100% = sobre-inversión)' },
+  { key: 'roace_pct', label: 'ROACE', family: 'ratios', numeric: true, fmt: (c) => pct(c.roace_pct, 1), title: 'Retorno sobre capital empleado medio' },
 ]
 
 function cmp(a: unknown, b: unknown, dir: 1 | -1): number {

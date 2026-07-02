@@ -40,3 +40,22 @@ export function shortDate(iso: string | null | undefined): string {
   if (!iso) return DASH
   return iso.slice(0, 10)
 }
+
+// Net debt / EBITDA: negative means net cash, not a negative multiple.
+export function leverage(v: number | null | undefined): string {
+  if (v == null) return DASH
+  if (v < 0) return 'net cash'
+  return `${v.toFixed(2)}x`
+}
+
+// EV per flowing barrel: US$ per boe/d, shown in thousands.
+export function evPerBoed(v: number | null | undefined): string {
+  if (v == null) return DASH
+  return `US$ ${(v / 1000).toFixed(0)}k`
+}
+
+// US$ per barrel (EV per 1P reserve boe, breakeven, etc.)
+export function usdBbl(v: number | null | undefined): string {
+  if (v == null) return DASH
+  return `US$ ${v.toFixed(1)}`
+}
