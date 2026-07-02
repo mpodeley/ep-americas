@@ -66,23 +66,23 @@
     "id": "ecopetrol",
     "is_private": false,
     "low_52w": 7.9,
-    "market_cap_usd": 30004908506,
+    "market_cap_usd": 30035744773,
     "name": "Ecopetrol",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
-    "pct_above_52w_low": 84.8,
+    "pct_above_52w_low": 85.0,
     "pct_gas": 17,
     "pct_liquids": 83,
-    "pct_off_52w_high": -12.0,
-    "pe_ttm": 10.43,
-    "price": 14.595000267028809,
+    "pct_off_52w_high": -11.9,
+    "pe_ttm": 10.44,
+    "price": 14.609999656677246,
     "price_currency": "USD",
     "production_kboed": 745,
     "realized_vol_1y_pct": 38.0,
     "reserves_1p_mmboe": 1944,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 65.3,
+    "return_1y_pct": 65.4,
     "revenue_usd": null,
     "roace_pct": null,
     "rp_years": 7.8,
@@ -102,7 +102,7 @@
         "source": "Ecopetrol FY2025 reservas + producción"
       }
     },
-    "ytd_return_pct": 49.9
+    "ytd_return_pct": 50.1
   },
   "wikidata": {
     "employees": 9315,
