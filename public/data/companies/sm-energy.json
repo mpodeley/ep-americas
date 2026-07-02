@@ -103,6 +103,7 @@
     "exchange": "NYSE",
     "fcf_usd": 1464000000,
     "fcf_yield_pct": 23.1,
+    "high_52w": 34.57,
     "hq_city": "Denver",
     "hq_coord": [
       39.7392,
@@ -110,19 +111,24 @@
     ],
     "id": "sm-energy",
     "is_private": false,
-    "market_cap_usd": 6336558241,
+    "low_52w": 17.3,
+    "market_cap_usd": 6350943035,
     "name": "SM Energy",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
+    "pct_above_52w_low": 53.1,
     "pct_gas": null,
     "pct_liquids": null,
-    "pe_ttm": 11.15,
-    "price": 26.43000030517578,
+    "pct_off_52w_high": -23.4,
+    "pe_ttm": 11.18,
+    "price": 26.489999771118164,
     "price_currency": "USD",
     "production_kboed": null,
+    "realized_vol_1y_pct": 50.4,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
+    "return_1y_pct": 5.6,
     "revenue_usd": 2374000000,
     "roace_pct": 14.6,
     "rp_years": null,
@@ -141,7 +147,8 @@
         "ref": null,
         "source": null
       }
-    }
+    },
+    "ytd_return_pct": 40.6
   },
   "wikidata": {
     "founded": 1908,

@@ -103,6 +103,7 @@
     "exchange": "NASDAQ",
     "fcf_usd": null,
     "fcf_yield_pct": null,
+    "high_52w": 44.09,
     "hq_city": "Houston",
     "hq_coord": [
       29.7604,
@@ -110,19 +111,24 @@
     ],
     "id": "apa",
     "is_private": false,
-    "market_cap_usd": 11457737732,
+    "low_52w": 17.41,
+    "market_cap_usd": 11432994924,
     "name": "APA Corporation",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
+    "pct_above_52w_low": 85.7,
     "pct_gas": null,
     "pct_liquids": null,
-    "pe_ttm": 7.56,
-    "price": 32.415000915527344,
+    "pct_off_52w_high": -26.6,
+    "pe_ttm": 7.54,
+    "price": 32.345001220703125,
     "price_currency": "USD",
     "production_kboed": null,
+    "realized_vol_1y_pct": 45.7,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
+    "return_1y_pct": 72.9,
     "revenue_usd": null,
     "roace_pct": 32.1,
     "rp_years": null,
@@ -141,7 +147,8 @@
         "ref": null,
         "source": null
       }
-    }
+    },
+    "ytd_return_pct": 29.6
   },
   "wikidata": {
     "founded": 1954,

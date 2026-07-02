@@ -20,6 +20,7 @@
       "exchange": "NYSE",
       "fcf_usd": null,
       "fcf_yield_pct": null,
+      "high_52w": 45.15,
       "hq_city": "Denver",
       "hq_coord": [
         39.7392,
@@ -32,14 +33,17 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
+      "pct_above_52w_low": 17.7,
       "pct_gas": null,
       "pct_liquids": null,
       "pe_ttm": 11.39,
       "price": 35.185001373291016,
       "price_currency": "USD",
       "production_kboed": null,
+      "realized_vol_1y_pct": 38.4,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": -5.5,
       "revenue_usd": 4681972000,
       "roace_pct": 3.4,
       "rp_years": null,
@@ -58,7 +62,8 @@
           "ref": null,
           "source": null
         }
-      }
+      },
+      "ytd_return_pct": 2.8
     },
     {
       "beta": 0.33,
@@ -80,6 +85,7 @@
       "exchange": "NASDAQ",
       "fcf_usd": null,
       "fcf_yield_pct": null,
+      "high_52w": 44.09,
       "hq_city": "Houston",
       "hq_coord": [
         29.7604,
@@ -92,14 +98,17 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
+      "pct_above_52w_low": 85.7,
       "pct_gas": null,
       "pct_liquids": null,
       "pe_ttm": 7.55,
       "price": 32.400001525878906,
       "price_currency": "USD",
       "production_kboed": null,
+      "realized_vol_1y_pct": 45.7,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 72.9,
       "revenue_usd": null,
       "roace_pct": 32.1,
       "rp_years": null,
@@ -118,7 +127,8 @@
           "ref": null,
           "source": null
         }
-      }
+      },
+      "ytd_return_pct": 29.6
     },
     {
       "beta": 0.13,
@@ -140,6 +150,7 @@
       "exchange": "TSX",
       "fcf_usd": null,
       "fcf_yield_pct": null,
+      "high_52w": 31.99,
       "hq_city": "Calgary",
       "hq_coord": [
         51.0447,
@@ -152,14 +163,18 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
+      "pct_above_52w_low": 32.6,
       "pct_gas": null,
       "pct_liquids": null,
-      "pe_ttm": 11.79,
-      "price": 29.829999923706055,
+      "pct_off_52w_high": -6.7,
+      "pe_ttm": 11.8,
+      "price": 29.844999313354492,
       "price_currency": "CAD",
       "production_kboed": null,
+      "realized_vol_1y_pct": 34.8,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 10.4,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": null,
@@ -178,7 +193,8 @@
           "ref": null,
           "source": null
         }
-      }
+      },
+      "ytd_return_pct": 16.4
     },
     {
       "beta": 0.58,
@@ -200,6 +216,7 @@
       "exchange": "NYSE",
       "fcf_usd": null,
       "fcf_yield_pct": null,
+      "high_52w": 5.3,
       "hq_city": "Calgary",
       "hq_coord": [
         51.0447,
@@ -212,14 +229,18 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
+      "pct_above_52w_low": 117.4,
       "pct_gas": null,
       "pct_liquids": null,
+      "pct_off_52w_high": -26.3,
       "pe_ttm": null,
       "price": 3.9398999214172363,
       "price_currency": "USD",
       "production_kboed": null,
+      "realized_vol_1y_pct": 46.3,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 110.4,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": null,
@@ -238,7 +259,8 @@
           "ref": null,
           "source": null
         }
-      }
+      },
+      "ytd_return_pct": 19.2
     },
     {
       "beta": -0.16,
@@ -260,6 +282,7 @@
       "exchange": "B3",
       "fcf_usd": null,
       "fcf_yield_pct": null,
+      "high_52w": 21.64,
       "hq_city": "Rio de Janeiro",
       "hq_coord": [
         -22.9068,
@@ -272,14 +295,17 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
+      "pct_above_52w_low": 35.2,
       "pct_gas": null,
       "pct_liquids": null,
       "pe_ttm": 37.14,
       "price": 18.200000762939453,
       "price_currency": "BRL",
       "production_kboed": null,
+      "realized_vol_1y_pct": 36.5,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 3.1,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": null,
@@ -298,7 +324,8 @@
           "ref": null,
           "source": null
         }
-      }
+      },
+      "ytd_return_pct": 8.9
     },
     {
       "beta": 0.51,
@@ -320,6 +347,7 @@
       "exchange": "NYSE",
       "fcf_usd": null,
       "fcf_yield_pct": null,
+      "high_52w": 31.62,
       "hq_city": "Calgary",
       "hq_coord": [
         51.0447,
@@ -332,14 +360,18 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
+      "pct_above_52w_low": 79.0,
       "pct_gas": 17,
       "pct_liquids": 83,
+      "pct_off_52w_high": -21.9,
       "pe_ttm": 13.95,
       "price": 24.700000762939453,
       "price_currency": "USD",
       "production_kboed": 834,
+      "realized_vol_1y_pct": 34.7,
       "reserves_1p_mmboe": 6100,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 75.4,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": 20.0,
@@ -358,7 +390,8 @@
           "ref": "https://www.cenovus.com/News-and-Stories/News-releases/2026/3240864",
           "source": "Cenovus Q4 & Full-Year 2025 results"
         }
-      }
+      },
+      "ytd_return_pct": 42.6
     },
     {
       "beta": 0.47,
@@ -380,6 +413,7 @@
       "exchange": "NYSE",
       "fcf_usd": 20821000000,
       "fcf_yield_pct": 6.2,
+      "high_52w": 209.23,
       "hq_city": "Houston",
       "hq_coord": [
         29.7604,
@@ -392,14 +426,17 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
+      "pct_above_52w_low": 19.4,
       "pct_gas": null,
       "pct_liquids": null,
       "pe_ttm": 29.38,
       "price": 168.3699951171875,
       "price_currency": "USD",
       "production_kboed": null,
+      "realized_vol_1y_pct": 22.6,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 18.9,
       "revenue_usd": 200949000000,
       "roace_pct": null,
       "rp_years": null,
@@ -418,7 +455,8 @@
           "ref": null,
           "source": null
         }
-      }
+      },
+      "ytd_return_pct": 10.4
     },
     {
       "beta": 0.36,
@@ -440,6 +478,7 @@
       "exchange": "NASDAQ",
       "fcf_usd": null,
       "fcf_yield_pct": null,
+      "high_52w": 148.35,
       "hq_city": "Houston",
       "hq_coord": [
         29.7604,
@@ -452,14 +491,18 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": 0.43,
       "net_debt_usd": 805650000,
+      "pct_above_52w_low": 37.2,
       "pct_gas": null,
       "pct_liquids": null,
+      "pct_off_52w_high": -24.0,
       "pe_ttm": null,
       "price": 113.08999633789062,
       "price_currency": "USD",
       "production_kboed": null,
+      "realized_vol_1y_pct": 38.0,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 13.6,
       "revenue_usd": 3896641000,
       "roace_pct": 14.9,
       "rp_years": null,
@@ -478,7 +521,8 @@
           "ref": null,
           "source": null
         }
-      }
+      },
+      "ytd_return_pct": 21.4
     },
     {
       "beta": null,
@@ -500,6 +544,7 @@
       "exchange": "NYSE",
       "fcf_usd": null,
       "fcf_yield_pct": null,
+      "high_52w": null,
       "hq_city": "Denver",
       "hq_coord": [
         39.7392,
@@ -507,19 +552,24 @@
       ],
       "id": "civitas",
       "is_private": false,
+      "low_52w": null,
       "market_cap_usd": null,
       "name": "Civitas Resources",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
+      "pct_above_52w_low": null,
       "pct_gas": null,
       "pct_liquids": null,
+      "pct_off_52w_high": null,
       "pe_ttm": null,
       "price": null,
       "price_currency": null,
       "production_kboed": null,
+      "realized_vol_1y_pct": null,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": null,
       "revenue_usd": 3791398000,
       "roace_pct": null,
       "rp_years": null,
@@ -538,7 +588,8 @@
           "ref": null,
           "source": null
         }
-      }
+      },
+      "ytd_return_pct": null
     },
     {
       "beta": 0.88,
@@ -560,6 +611,7 @@
       "exchange": "NYSE",
       "fcf_usd": null,
       "fcf_yield_pct": null,
+      "high_52w": 49.57,
       "hq_city": "Calgary",
       "hq_coord": [
         51.0447,
@@ -572,14 +624,17 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
+      "pct_above_52w_low": 37.8,
       "pct_gas": 27,
       "pct_liquids": 73,
       "pe_ttm": 11.95,
       "price": 39.43000030517578,
       "price_currency": "USD",
       "production_kboed": 1571,
+      "realized_vol_1y_pct": 29.4,
       "reserves_1p_mmboe": 15910,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 24.6,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": 31,
@@ -598,7 +653,8 @@
           "ref": "https://boereport.com/2026/03/05/canadian-natural-resources-limited-announces-2025-fourth-quarter-and-year-end-results/",
           "source": "Canadian Natural Q4 & Year-End 2025 results"
         }
-      }
+      },
+      "ytd_return_pct": 17.7
     },
     {
       "beta": 0.11,
@@ -619,7 +675,8 @@
       "ev_per_boed_usd": null,
       "exchange": "NYSE",
       "fcf_usd": -408240000,
-      "fcf_yield_pct": -9.3,
+      "fcf_yield_pct": -9.4,
+      "high_52w": 27.37,
       "hq_city": "Frisco",
       "hq_coord": [
         33.1507,
@@ -632,14 +689,17 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": 3.53,
       "net_debt_usd": 2945291000,
+      "pct_above_52w_low": 16.3,
       "pct_gas": null,
       "pct_liquids": null,
       "pe_ttm": 6.77,
       "price": 14.970000267028809,
       "price_currency": "USD",
       "production_kboed": null,
+      "realized_vol_1y_pct": 57.9,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": -40.7,
       "revenue_usd": null,
       "roace_pct": 4.0,
       "rp_years": null,
@@ -658,7 +718,8 @@
           "ref": null,
           "source": null
         }
-      }
+      },
+      "ytd_return_pct": -37.5
     },
     {
       "beta": 0.11,
@@ -680,6 +741,7 @@
       "exchange": "NYSE",
       "fcf_usd": null,
       "fcf_yield_pct": null,
+      "high_52w": 132.81,
       "hq_city": "Houston",
       "hq_coord": [
         29.7604,
@@ -692,14 +754,17 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
+      "pct_above_52w_low": 24.7,
       "pct_gas": null,
       "pct_liquids": null,
       "pe_ttm": 17.61,
       "price": 103.88500213623047,
       "price_currency": "USD",
       "production_kboed": null,
+      "realized_vol_1y_pct": 29.3,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 14.0,
       "revenue_usd": 56141000000,
       "roace_pct": null,
       "rp_years": null,
@@ -718,7 +783,8 @@
           "ref": null,
           "source": null
         }
-      }
+      },
+      "ytd_return_pct": 9.4
     },
     {
       "beta": 0.3,
@@ -740,6 +806,7 @@
       "exchange": "NYSE",
       "fcf_usd": null,
       "fcf_yield_pct": null,
+      "high_52w": 36.31,
       "hq_city": "Houston",
       "hq_coord": [
         29.7604,
@@ -747,19 +814,24 @@
       ],
       "id": "coterra",
       "is_private": false,
+      "low_52w": 22.23,
       "market_cap_usd": 24724651515,
       "name": "Coterra Energy",
       "net_acreage_k": 739,
       "net_debt_to_ebitda": 0.39,
       "net_debt_usd": 1497000000,
+      "pct_above_52w_low": 46.5,
       "pct_gas": 63,
       "pct_liquids": 37,
+      "pct_off_52w_high": -10.3,
       "pe_ttm": 15.0,
       "price": 32.56,
       "price_currency": "USD",
       "production_kboed": 782,
+      "realized_vol_1y_pct": 30.2,
       "reserves_1p_mmboe": 2565,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 33.4,
       "revenue_usd": 5914000000,
       "roace_pct": 11.0,
       "rp_years": 9,
@@ -778,7 +850,8 @@
           "ref": "https://www.stocktitan.net/sec-filings/CTRA/10-k-coterra-energy-inc-files-annual-report-3df7b6684068.html",
           "source": "Coterra FY2025 10-K + earnings"
         }
-      }
+      },
+      "ytd_return_pct": 23.3
     },
     {
       "beta": 0.42,
@@ -800,6 +873,7 @@
       "exchange": "NYSE",
       "fcf_usd": null,
       "fcf_yield_pct": null,
+      "high_52w": 51.7,
       "hq_city": "Oklahoma City",
       "hq_coord": [
         35.4676,
@@ -812,14 +886,17 @@
       "net_acreage_k": 2369,
       "net_debt_to_ebitda": null,
       "net_debt_usd": 7545000000,
+      "pct_above_52w_low": 30.0,
       "pct_gas": 27,
       "pct_liquids": 73,
       "pe_ttm": 11.3,
       "price": 40.55500030517578,
       "price_currency": "USD",
       "production_kboed": 842,
+      "realized_vol_1y_pct": 34.0,
       "reserves_1p_mmboe": 2428,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 23.5,
       "revenue_usd": 15258000000,
       "roace_pct": null,
       "rp_years": 8,
@@ -838,7 +915,8 @@
           "ref": "https://www.sec.gov/Archives/edgar/data/0001090012/000119312526056485/dvn-20251231.htm",
           "source": "Devon FY2025 10-K + Q4/FY earnings"
         }
-      }
+      },
+      "ytd_return_pct": 7.5
     },
     {
       "beta": 0.39,
@@ -860,6 +938,7 @@
       "exchange": "NASDAQ",
       "fcf_usd": null,
       "fcf_yield_pct": null,
+      "high_52w": 212.52,
       "hq_city": "Midland",
       "hq_coord": [
         31.9973,
@@ -872,14 +951,17 @@
       "net_acreage_k": 869,
       "net_debt_to_ebitda": 1.89,
       "net_debt_usd": 11914000000,
+      "pct_above_52w_low": 30.4,
       "pct_gas": 22,
       "pct_liquids": 78,
       "pe_ttm": 176.32,
       "price": 172.7899932861328,
       "price_currency": "USD",
       "production_kboed": 921,
+      "realized_vol_1y_pct": 30.9,
       "reserves_1p_mmboe": 3618,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 24.4,
       "revenue_usd": 8412000000,
       "roace_pct": 10.2,
       "rp_years": 11,
@@ -898,7 +980,8 @@
           "ref": "https://www.globenewswire.com/news-release/2026/02/23/3243011/22886/en/Diamondback-Energy-Inc-Announces-Fourth-Quarter-and-Full-Year-2025-Financial-and-Operating-Results-Increases-Base-Dividend.html",
           "source": "Diamondback FY2025 results + 10-K"
         }
-      }
+      },
+      "ytd_return_pct": 14.3
     },
     {
       "beta": -0.03,
@@ -920,6 +1003,7 @@
       "exchange": "NYSE",
       "fcf_usd": null,
       "fcf_yield_pct": null,
+      "high_52w": 16.58,
       "hq_city": "Bogotá",
       "hq_coord": [
         4.711,
@@ -932,14 +1016,17 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
+      "pct_above_52w_low": 87.3,
       "pct_gas": 17,
       "pct_liquids": 83,
       "pe_ttm": 10.59,
       "price": 14.819999694824219,
       "price_currency": "USD",
       "production_kboed": 745,
+      "realized_vol_1y_pct": 38.1,
       "reserves_1p_mmboe": 1944,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 67.5,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": 7.8,
@@ -958,7 +1045,8 @@
           "ref": "https://www.prnewswire.com/news-releases/ecopetrol-records-1-944-billion-barrels-of-oil-equivalent-in-proven-reserves-at-the-close-of-2025--replacing-121-of-production-with-the-highest-contribution-in-the-last-four-years-302693276.html",
           "source": "Ecopetrol FY2025 reservas + producción"
         }
-      }
+      },
+      "ytd_return_pct": 51.9
     },
     {
       "beta": 0.26,
@@ -980,6 +1068,7 @@
       "exchange": "NYSE",
       "fcf_usd": 5955000000,
       "fcf_yield_pct": 8.6,
+      "high_52w": 148.74,
       "hq_city": "Houston",
       "hq_coord": [
         29.7604,
@@ -992,14 +1081,17 @@
       "net_acreage_k": 4666,
       "net_debt_to_ebitda": -0.22,
       "net_debt_usd": -2872000000,
+      "pct_above_52w_low": 29.9,
       "pct_gas": 34,
       "pct_liquids": 66,
       "pe_ttm": 12.76,
       "price": 129.7949981689453,
       "price_currency": "USD",
       "production_kboed": 1232,
+      "realized_vol_1y_pct": 26.2,
       "reserves_1p_mmboe": 5514,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 9.5,
       "revenue_usd": 24186000000,
       "roace_pct": 25.3,
       "rp_years": 12,
@@ -1018,7 +1110,8 @@
           "ref": "https://www.sec.gov/Archives/edgar/data/0000821189/000082118926000054/eog-20251231.htm",
           "source": "EOG FY2025 10-K + earnings"
         }
-      }
+      },
+      "ytd_return_pct": 23.2
     },
     {
       "beta": 0.54,
@@ -1040,6 +1133,7 @@
       "exchange": "NYSE",
       "fcf_usd": 1159813000,
       "fcf_yield_pct": 3.5,
+      "high_52w": 67.74,
       "hq_city": "Pittsburgh",
       "hq_coord": [
         40.4406,
@@ -1047,19 +1141,24 @@
       ],
       "id": "eqt",
       "is_private": false,
-      "market_cap_usd": 32806321577,
+      "low_52w": 48.77,
+      "market_cap_usd": 32693735346,
       "name": "EQT Corporation",
       "net_acreage_k": null,
       "net_debt_to_ebitda": 2.18,
       "net_debt_usd": 8801284000,
+      "pct_above_52w_low": 7.2,
       "pct_gas": null,
       "pct_liquids": null,
-      "pe_ttm": 9.95,
-      "price": 52.45000076293945,
+      "pct_off_52w_high": -22.8,
+      "pe_ttm": 9.92,
+      "price": 52.27000045776367,
       "price_currency": "USD",
       "production_kboed": null,
+      "realized_vol_1y_pct": 32.2,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": -5.8,
       "revenue_usd": 6908923000,
       "roace_pct": 10.7,
       "rp_years": null,
@@ -1078,7 +1177,8 @@
           "ref": null,
           "source": null
         }
-      }
+      },
+      "ytd_return_pct": -1.7
     },
     {
       "beta": 0.32,
@@ -1099,7 +1199,8 @@
       "ev_per_boed_usd": null,
       "exchange": "NASDAQ",
       "fcf_usd": 551000000,
-      "fcf_yield_pct": 2.5,
+      "fcf_yield_pct": 2.6,
+      "high_52w": 121.49,
       "hq_city": "Oklahoma City",
       "hq_coord": [
         35.4676,
@@ -1112,14 +1213,17 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": 0.9,
       "net_debt_usd": 4212000000,
+      "pct_above_52w_low": 3.6,
       "pct_gas": null,
       "pct_liquids": null,
       "pe_ttm": 6.71,
       "price": 90.22000122070312,
       "price_currency": "USD",
       "production_kboed": null,
+      "realized_vol_1y_pct": 31.5,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": -15.7,
       "revenue_usd": 8721000000,
       "roace_pct": 16.6,
       "rp_years": null,
@@ -1138,7 +1242,8 @@
           "ref": null,
           "source": null
         }
-      }
+      },
+      "ytd_return_pct": -16.9
     },
     {
       "beta": 0.15,
@@ -1160,6 +1265,7 @@
       "exchange": "NYSE",
       "fcf_usd": 33450000000,
       "fcf_yield_pct": 5.8,
+      "high_52w": 170.31,
       "hq_city": "Spring",
       "hq_coord": [
         30.0799,
@@ -1172,14 +1278,17 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
+      "pct_above_52w_low": 35.2,
       "pct_gas": null,
       "pct_liquids": null,
       "pe_ttm": 23.23,
       "price": 138.0050048828125,
       "price_currency": "USD",
       "production_kboed": null,
+      "realized_vol_1y_pct": 24.6,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 28.8,
       "revenue_usd": 344582000000,
       "roace_pct": null,
       "rp_years": null,
@@ -1198,7 +1307,8 @@
           "ref": null,
           "source": null
         }
-      }
+      },
+      "ytd_return_pct": 14.6
     },
     {
       "beta": 0.83,
@@ -1220,6 +1330,7 @@
       "exchange": "TSX",
       "fcf_usd": null,
       "fcf_yield_pct": null,
+      "high_52w": 10.67,
       "hq_city": "Bogotá",
       "hq_coord": [
         4.711,
@@ -1232,14 +1343,18 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
+      "pct_above_52w_low": 168.4,
       "pct_gas": 6,
       "pct_liquids": 94,
+      "pct_off_52w_high": -20.1,
       "pe_ttm": null,
       "price": 8.5600004196167,
       "price_currency": "CAD",
       "production_kboed": 39,
+      "realized_vol_1y_pct": 55.5,
       "reserves_1p_mmboe": 94,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 96.9,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": 6.6,
@@ -1258,7 +1373,8 @@
           "ref": "https://www.prnewswire.com/news-releases/frontera-announces-fourth-quarter-2025-year-end-2025-results-and-reserves-302716882.html",
           "source": "Frontera FY2025 resultados + reservas"
         }
-      }
+      },
+      "ytd_return_pct": 108.7
     },
     {
       "beta": 0.36,
@@ -1279,7 +1395,8 @@
       "ev_per_boed_usd": 36643,
       "exchange": "NYSE",
       "fcf_usd": 101898000,
-      "fcf_yield_pct": 17.2,
+      "fcf_yield_pct": 17.3,
+      "high_52w": 11.78,
       "hq_city": "Bogotá",
       "hq_coord": [
         4.711,
@@ -1292,14 +1409,17 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": 363164000,
+      "pct_above_52w_low": 53.6,
       "pct_gas": 2,
       "pct_liquids": 98,
       "pe_ttm": 8.62,
       "price": 9.14050006866455,
       "price_currency": "USD",
       "production_kboed": 28,
+      "realized_vol_1y_pct": 54.2,
       "reserves_1p_mmboe": 69,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 29.7,
       "revenue_usd": 756625000,
       "roace_pct": 38.9,
       "rp_years": 7.2,
@@ -1318,7 +1438,8 @@
           "ref": "https://www.geo-park.com/press_releases/geopark-4q2025-and-full-year-results/",
           "source": "GeoPark 4Q & FY2025 + reservas certificadas"
         }
-      }
+      },
+      "ytd_return_pct": 25.6
     },
     {
       "beta": 0.1,
@@ -1347,19 +1468,24 @@
       ],
       "id": "gran-tierra",
       "is_private": false,
-      "market_cap_usd": 211452143,
+      "low_52w": 3.43,
+      "market_cap_usd": 210744946,
       "name": "Gran Tierra Energy",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
+      "pct_above_52w_low": 73.8,
       "pct_gas": null,
       "pct_liquids": null,
+      "pct_off_52w_high": -37.3,
       "pe_ttm": null,
-      "price": 5.980000019073486,
+      "price": 5.960000038146973,
       "price_currency": "USD",
       "production_kboed": null,
+      "realized_vol_1y_pct": 67.6,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 20.6,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": null,
@@ -1378,7 +1504,8 @@
           "ref": null,
           "source": null
         }
-      }
+      },
+      "ytd_return_pct": 40.9
     },
     {
       "beta": 0.8,
@@ -1400,6 +1527,7 @@
       "exchange": "NYSE American",
       "fcf_usd": null,
       "fcf_yield_pct": null,
+      "high_52w": 137.64,
       "hq_city": "Calgary",
       "hq_coord": [
         51.0447,
@@ -1412,14 +1540,17 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
+      "pct_above_52w_low": 43.1,
       "pct_gas": null,
       "pct_liquids": null,
       "pe_ttm": 26.8,
       "price": 111.5,
       "price_currency": "USD",
       "production_kboed": null,
+      "realized_vol_1y_pct": 27.2,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 41.5,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": null,
@@ -1438,7 +1569,8 @@
           "ref": null,
           "source": null
         }
-      }
+      },
+      "ytd_return_pct": 27.1
     },
     {
       "beta": 0.73,
@@ -1472,14 +1604,17 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": 1.7,
       "net_debt_usd": 3272746000,
+      "pct_above_52w_low": 36.9,
       "pct_gas": null,
       "pct_liquids": null,
       "pe_ttm": 12.9,
       "price": 50.040000915527344,
       "price_currency": "USD",
       "production_kboed": null,
+      "realized_vol_1y_pct": 41.0,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 1.2,
       "revenue_usd": 2806785000,
       "roace_pct": 20.8,
       "rp_years": null,
@@ -1498,7 +1633,8 @@
           "ref": null,
           "source": null
         }
-      }
+      },
+      "ytd_return_pct": 16.3
     },
     {
       "beta": 0.12,
@@ -1520,6 +1656,7 @@
       "exchange": "NYSE",
       "fcf_usd": 6612000000,
       "fcf_yield_pct": 13.7,
+      "high_52w": 65.94,
       "hq_city": "Houston",
       "hq_coord": [
         29.7604,
@@ -1532,14 +1669,17 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
+      "pct_above_52w_low": 25.8,
       "pct_gas": null,
       "pct_liquids": null,
       "pe_ttm": 65.58,
       "price": 48.529998779296875,
       "price_currency": "USD",
       "production_kboed": null,
+      "realized_vol_1y_pct": 34.4,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 12.7,
       "revenue_usd": 23156000000,
       "roace_pct": null,
       "rp_years": null,
@@ -1558,7 +1698,8 @@
           "ref": null,
           "source": null
         }
-      }
+      },
+      "ytd_return_pct": 15.5
     },
     {
       "beta": 0.53,
@@ -1580,6 +1721,7 @@
       "exchange": "NYSE",
       "fcf_usd": 1423000000,
       "fcf_yield_pct": 9.6,
+      "high_52w": 62.75,
       "hq_city": "Denver",
       "hq_coord": [
         39.7392,
@@ -1592,14 +1734,17 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": 1.03,
       "net_debt_usd": 4811000000,
+      "pct_above_52w_low": 48.9,
       "pct_gas": null,
       "pct_liquids": null,
       "pe_ttm": 17.39,
       "price": 52.869998931884766,
       "price_currency": "USD",
       "production_kboed": null,
+      "realized_vol_1y_pct": 35.8,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 34.7,
       "revenue_usd": 10883000000,
       "roace_pct": 17.0,
       "rp_years": null,
@@ -1618,7 +1763,8 @@
           "ref": null,
           "source": null
         }
-      }
+      },
+      "ytd_return_pct": 31.3
     },
     {
       "beta": -0.23,
@@ -1633,13 +1779,14 @@
       "country": "AR",
       "dividend_yield_pct": null,
       "ebitda_usd": null,
-      "enterprise_value_usd": 5502224661,
+      "enterprise_value_usd": 5495211026,
       "ev_ebitda": 7.13,
-      "ev_per_1p_boe_usd": 18.59,
-      "ev_per_boed_usd": 65503,
+      "ev_per_1p_boe_usd": 18.56,
+      "ev_per_boed_usd": 65419,
       "exchange": "NYSE",
       "fcf_usd": 203000000,
       "fcf_yield_pct": 4.6,
+      "high_52w": 92.27,
       "hq_city": "Buenos Aires",
       "hq_coord": [
         -34.6037,
@@ -1647,19 +1794,24 @@
       ],
       "id": "pampa",
       "is_private": false,
-      "market_cap_usd": 4388224661,
+      "low_52w": 56.55,
+      "market_cap_usd": 4381211026,
       "name": "Pampa Energía",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": 1114000000,
+      "pct_above_52w_low": 44.2,
       "pct_gas": 85,
       "pct_liquids": 15,
-      "pe_ttm": 9.9,
-      "price": 81.65049743652344,
+      "pct_off_52w_high": -11.7,
+      "pe_ttm": 9.88,
+      "price": 81.5199966430664,
       "price_currency": "USD",
       "production_kboed": 84,
+      "realized_vol_1y_pct": 50.5,
       "reserves_1p_mmboe": 296,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 16.4,
       "revenue_usd": 1829000000,
       "roace_pct": 15.2,
       "rp_years": 10,
@@ -1678,7 +1830,8 @@
           "ref": "https://www.stocktitan.net/sec-filings/PAM/6-k-pampa-energy-inc-current-report-foreign-issuer-953ddd524ebd.html",
           "source": "Pampa Energía FY2025 (segmento E&P, Form 6-K)"
         }
-      }
+      },
+      "ytd_return_pct": -7.4
     },
     {
       "beta": null,
@@ -1700,6 +1853,7 @@
       "exchange": null,
       "fcf_usd": null,
       "fcf_yield_pct": null,
+      "high_52w": null,
       "hq_city": "Buenos Aires",
       "hq_coord": [
         -34.6037,
@@ -1707,19 +1861,24 @@
       ],
       "id": "pan-american",
       "is_private": true,
+      "low_52w": null,
       "market_cap_usd": null,
       "name": "Pan American Energy",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
+      "pct_above_52w_low": null,
       "pct_gas": null,
       "pct_liquids": null,
+      "pct_off_52w_high": null,
       "pe_ttm": null,
       "price": null,
       "price_currency": null,
       "production_kboed": null,
+      "realized_vol_1y_pct": null,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": null,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": null,
@@ -1738,7 +1897,8 @@
           "ref": null,
           "source": null
         }
-      }
+      },
+      "ytd_return_pct": null
     },
     {
       "beta": 0.47,
@@ -1760,6 +1920,7 @@
       "exchange": "TSX",
       "fcf_usd": null,
       "fcf_yield_pct": null,
+      "high_52w": 29.27,
       "hq_city": "Calgary",
       "hq_coord": [
         51.0447,
@@ -1772,14 +1933,17 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
+      "pct_above_52w_low": 59.5,
       "pct_gas": null,
       "pct_liquids": null,
       "pe_ttm": 8.02,
       "price": 21.084999084472656,
       "price_currency": "CAD",
       "production_kboed": null,
+      "realized_vol_1y_pct": 39.4,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 58.9,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": null,
@@ -1798,7 +1962,8 @@
           "ref": null,
           "source": null
         }
-      }
+      },
+      "ytd_return_pct": 16.1
     },
     {
       "beta": 0.44,
@@ -1820,6 +1985,7 @@
       "exchange": "NYSE",
       "fcf_usd": null,
       "fcf_yield_pct": null,
+      "high_52w": 22.33,
       "hq_city": "Midland",
       "hq_coord": [
         31.9973,
@@ -1832,14 +1998,17 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": 4110943000,
+      "pct_above_52w_low": 53.6,
       "pct_gas": null,
       "pct_liquids": null,
       "pe_ttm": 20.43,
       "price": 18.184999465942383,
       "price_currency": "USD",
       "production_kboed": null,
+      "realized_vol_1y_pct": 33.6,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 32.6,
       "revenue_usd": 3120893000,
       "roace_pct": 7.5,
       "rp_years": null,
@@ -1858,7 +2027,8 @@
           "ref": null,
           "source": null
         }
-      }
+      },
+      "ytd_return_pct": 27.6
     },
     {
       "beta": -0.16,
@@ -1880,6 +2050,7 @@
       "exchange": "NYSE",
       "fcf_usd": null,
       "fcf_yield_pct": null,
+      "high_52w": 21.86,
       "hq_city": "Rio de Janeiro",
       "hq_coord": [
         -22.9068,
@@ -1892,14 +2063,17 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": 11752000000,
+      "pct_above_52w_low": 42.4,
       "pct_gas": 19,
       "pct_liquids": 81,
       "pe_ttm": 5.19,
       "price": 16.3085994720459,
       "price_currency": "USD",
       "production_kboed": 2990,
+      "realized_vol_1y_pct": 31.7,
       "reserves_1p_mmboe": 12100,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 29.5,
       "revenue_usd": 124474000000,
       "roace_pct": 33.7,
       "rp_years": 12.5,
@@ -1918,7 +2092,8 @@
           "ref": "https://agencia.petrobras.com.br/en/w/petrobras-aumenta-reservas-provadas-em-2025",
           "source": "Petrobras FY2025 resultados y reservas probadas"
         }
-      }
+      },
+      "ytd_return_pct": 37.9
     },
     {
       "beta": -0.18,
@@ -1940,6 +2115,7 @@
       "exchange": "B3",
       "fcf_usd": null,
       "fcf_yield_pct": null,
+      "high_52w": 13.91,
       "hq_city": "Rio de Janeiro",
       "hq_coord": [
         -22.9068,
@@ -1952,14 +2128,17 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
+      "pct_above_52w_low": 6.2,
       "pct_gas": null,
       "pct_liquids": null,
       "pe_ttm": 5.36,
       "price": 9.800000190734863,
       "price_currency": "BRL",
       "production_kboed": null,
+      "realized_vol_1y_pct": 30.1,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": -24.5,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": null,
@@ -1978,7 +2157,8 @@
           "ref": null,
           "source": null
         }
-      }
+      },
+      "ytd_return_pct": 0.4
     },
     {
       "beta": null,
@@ -2000,6 +2180,7 @@
       "exchange": null,
       "fcf_usd": null,
       "fcf_yield_pct": null,
+      "high_52w": null,
       "hq_city": "Buenos Aires",
       "hq_coord": [
         -34.6037,
@@ -2007,19 +2188,24 @@
       ],
       "id": "pluspetrol",
       "is_private": true,
+      "low_52w": null,
       "market_cap_usd": null,
       "name": "Pluspetrol",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
+      "pct_above_52w_low": null,
       "pct_gas": 67,
       "pct_liquids": 33,
+      "pct_off_52w_high": null,
       "pe_ttm": null,
       "price": null,
       "price_currency": null,
       "production_kboed": 474,
+      "realized_vol_1y_pct": null,
       "reserves_1p_mmboe": 593,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": null,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": 13,
@@ -2038,7 +2224,8 @@
           "ref": "https://www.bancoprovincia.com.ar/CDN/Get/Pluspetrol_Calificacion_3",
           "source": "Pluspetrol S.A. calificación Fix/Fitch (abr-2025), producción operada global FY2024"
         }
-      }
+      },
+      "ytd_return_pct": null
     },
     {
       "beta": 0.13,
@@ -2060,6 +2247,7 @@
       "exchange": "B3",
       "fcf_usd": null,
       "fcf_yield_pct": null,
+      "high_52w": 72.1,
       "hq_city": "Rio de Janeiro",
       "hq_coord": [
         -22.9068,
@@ -2072,14 +2260,17 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
+      "pct_above_52w_low": 52.9,
       "pct_gas": 0,
       "pct_liquids": 100,
       "pe_ttm": 15.92,
       "price": 52.54999923706055,
       "price_currency": "BRL",
       "production_kboed": 106,
+      "realized_vol_1y_pct": 33.0,
       "reserves_1p_mmboe": 811,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 24.0,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": 20.9,
@@ -2098,7 +2289,8 @@
           "ref": "https://brazilenergyinsight.com/2026/03/11/prio-reports-us2-5-billion-in-revenue-in-2025-with-operational-expansion-at-peregrino/",
           "source": "PRIO FY2025 resultados + certificación D&M"
         }
-      }
+      },
+      "ytd_return_pct": 25.2
     },
     {
       "beta": 0.4,
@@ -2120,6 +2312,7 @@
       "exchange": "NYSE",
       "fcf_usd": null,
       "fcf_yield_pct": null,
+      "high_52w": 47.52,
       "hq_city": "Fort Worth",
       "hq_coord": [
         32.7555,
@@ -2132,14 +2325,17 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": 785124000,
+      "pct_above_52w_low": 15.9,
       "pct_gas": null,
       "pct_liquids": null,
       "pe_ttm": 9.97,
       "price": 37.685001373291016,
       "price_currency": "USD",
       "production_kboed": null,
+      "realized_vol_1y_pct": 32.4,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": -2.0,
       "revenue_usd": 3374872000,
       "roace_pct": null,
       "rp_years": null,
@@ -2158,7 +2354,8 @@
           "ref": null,
           "source": null
         }
-      }
+      },
+      "ytd_return_pct": 7.2
     },
     {
       "beta": 0.71,
@@ -2192,14 +2389,17 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
+      "pct_above_52w_low": 53.1,
       "pct_gas": null,
       "pct_liquids": null,
       "pe_ttm": 11.14,
       "price": 26.40999984741211,
       "price_currency": "USD",
       "production_kboed": null,
+      "realized_vol_1y_pct": 50.4,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 5.6,
       "revenue_usd": 2374000000,
       "roace_pct": 14.6,
       "rp_years": null,
@@ -2218,7 +2418,8 @@
           "ref": null,
           "source": null
         }
-      }
+      },
+      "ytd_return_pct": 40.6
     },
     {
       "beta": 0.56,
@@ -2240,6 +2441,7 @@
       "exchange": "NYSE",
       "fcf_usd": null,
       "fcf_yield_pct": null,
+      "high_52w": 69.27,
       "hq_city": "Calgary",
       "hq_coord": [
         51.0447,
@@ -2252,14 +2454,17 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
+      "pct_above_52w_low": 46.2,
       "pct_gas": null,
       "pct_liquids": null,
       "pe_ttm": 14.65,
       "price": 54.34000015258789,
       "price_currency": "USD",
       "production_kboed": null,
+      "realized_vol_1y_pct": 24.7,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 44.4,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": null,
@@ -2278,7 +2483,8 @@
           "ref": null,
           "source": null
         }
-      }
+      },
+      "ytd_return_pct": 21.3
     },
     {
       "beta": null,
@@ -2300,6 +2506,7 @@
       "exchange": null,
       "fcf_usd": null,
       "fcf_yield_pct": null,
+      "high_52w": null,
       "hq_city": "Buenos Aires",
       "hq_coord": [
         -34.6037,
@@ -2307,19 +2514,24 @@
       ],
       "id": "tecpetrol",
       "is_private": true,
+      "low_52w": null,
       "market_cap_usd": null,
       "name": "Tecpetrol",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
+      "pct_above_52w_low": null,
       "pct_gas": 88,
       "pct_liquids": 12,
+      "pct_off_52w_high": null,
       "pe_ttm": null,
       "price": null,
       "price_currency": null,
       "production_kboed": 127,
+      "realized_vol_1y_pct": null,
       "reserves_1p_mmboe": 662,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": null,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": 14,
@@ -2338,7 +2550,8 @@
           "ref": "https://www.sekoia.com.uy/storage/pdfs/Tecpetrol-30-01-25.pdf",
           "source": "Tecpetrol S.A. reporte crediticio (ene-2025), LTM 3Q2024"
         }
-      }
+      },
+      "ytd_return_pct": null
     },
     {
       "beta": 0.27,
@@ -2360,6 +2573,7 @@
       "exchange": "TSX",
       "fcf_usd": null,
       "fcf_yield_pct": null,
+      "high_52w": 68.97,
       "hq_city": "Calgary",
       "hq_coord": [
         51.0447,
@@ -2372,14 +2586,17 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
+      "pct_above_52w_low": 8.3,
       "pct_gas": 77,
       "pct_liquids": 23,
       "pe_ttm": 32.66,
       "price": 59.11000061035156,
       "price_currency": "CAD",
       "production_kboed": 638,
+      "realized_vol_1y_pct": 25.4,
       "reserves_1p_mmboe": 3256,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": -4.3,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": 14,
@@ -2398,7 +2615,8 @@
           "ref": "https://boereport.com/2026/03/04/tourmaline-achieves-record-production-adds-829-million-boe-of-2p-reserves-and-reduces-2026-ep-capex/",
           "source": "Tourmaline FY2025 producción/reservas récord"
         }
-      }
+      },
+      "ytd_return_pct": -1.7
     },
     {
       "beta": null,
@@ -2420,6 +2638,7 @@
       "exchange": "NYSE",
       "fcf_usd": null,
       "fcf_yield_pct": null,
+      "high_52w": null,
       "hq_city": "Calgary",
       "hq_coord": [
         51.0447,
@@ -2427,19 +2646,24 @@
       ],
       "id": "veren",
       "is_private": false,
+      "low_52w": null,
       "market_cap_usd": null,
       "name": "Veren",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
+      "pct_above_52w_low": null,
       "pct_gas": null,
       "pct_liquids": null,
+      "pct_off_52w_high": null,
       "pe_ttm": null,
       "price": null,
       "price_currency": null,
       "production_kboed": null,
+      "realized_vol_1y_pct": null,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": null,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": null,
@@ -2458,7 +2682,8 @@
           "ref": null,
           "source": null
         }
-      }
+      },
+      "ytd_return_pct": null
     },
     {
       "beta": -0.51,
@@ -2480,6 +2705,7 @@
       "exchange": "NYSE",
       "fcf_usd": 210746000,
       "fcf_yield_pct": 3.1,
+      "high_52w": 79.25,
       "hq_city": "Ciudad de México",
       "hq_coord": [
         19.4326,
@@ -2492,14 +2718,17 @@
       "net_acreage_k": 228,
       "net_debt_to_ebitda": 0.45,
       "net_debt_usd": 341579000,
+      "pct_above_52w_low": 82.7,
       "pct_gas": 13,
       "pct_liquids": 87,
       "pe_ttm": 9.0,
       "price": 61.75,
       "price_currency": "USD",
       "production_kboed": 115,
+      "realized_vol_1y_pct": 49.4,
       "reserves_1p_mmboe": 588,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 27.4,
       "revenue_usd": 1187660000,
       "roace_pct": 27.4,
       "rp_years": 14,
@@ -2518,7 +2747,8 @@
           "ref": "https://www.ogj.com/exploration-development/reserves/news/55357224/vista-energy-increases-reserves-by-57-and-production-by-59-in-2025",
           "source": "Vista Energy FY2025 reservas (OGJ + SEC 6-K)"
         }
-      }
+      },
+      "ytd_return_pct": 26.2
     },
     {
       "beta": -0.03,
@@ -2540,6 +2770,7 @@
       "exchange": "NYSE",
       "fcf_usd": null,
       "fcf_yield_pct": null,
+      "high_52w": 56.35,
       "hq_city": "Buenos Aires",
       "hq_coord": [
         -34.6037,
@@ -2552,14 +2783,18 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": 5909000000,
+      "pct_above_52w_low": 91.3,
       "pct_gas": 40,
       "pct_liquids": 60,
+      "pct_off_52w_high": -20.0,
       "pe_ttm": null,
       "price": 45.182498931884766,
       "price_currency": "USD",
       "production_kboed": 527,
+      "realized_vol_1y_pct": 52.2,
       "reserves_1p_mmboe": 1284,
       "reserves_2p_mmboe": null,
+      "return_1y_pct": 40.7,
       "revenue_usd": 17311000000,
       "roace_pct": -6.1,
       "rp_years": 6.7,
@@ -2578,7 +2813,8 @@
           "ref": "https://www.stocktitan.net/sec-filings/YPF/6-k-ypf-sociedad-anonima-current-report-foreign-issuer-faa0b8d36aa6.html",
           "source": "YPF FY2025 (Form 6-K)"
         }
-      }
+      },
+      "ytd_return_pct": 24.2
     }
   ],
   "generated_at": "2026-07-02T14:15:12+00:00",

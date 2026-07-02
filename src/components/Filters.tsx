@@ -6,6 +6,7 @@ const FAMILY_LABEL: Record<Family, string> = {
   financials: 'Financieras',
   operational: 'Operativas',
   ratios: 'Ratios',
+  returns: 'Retornos',
 }
 
 interface Props {

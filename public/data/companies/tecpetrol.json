@@ -57,6 +57,7 @@
     "exchange": null,
     "fcf_usd": null,
     "fcf_yield_pct": null,
+    "high_52w": null,
     "hq_city": "Buenos Aires",
     "hq_coord": [
       -34.6037,
@@ -64,19 +65,24 @@
     ],
     "id": "tecpetrol",
     "is_private": true,
+    "low_52w": null,
     "market_cap_usd": null,
     "name": "Tecpetrol",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
+    "pct_above_52w_low": null,
     "pct_gas": 88,
     "pct_liquids": 12,
+    "pct_off_52w_high": null,
     "pe_ttm": null,
     "price": null,
     "price_currency": null,
     "production_kboed": 127,
+    "realized_vol_1y_pct": null,
     "reserves_1p_mmboe": 662,
     "reserves_2p_mmboe": null,
+    "return_1y_pct": null,
     "revenue_usd": null,
     "roace_pct": null,
     "rp_years": 14,
@@ -95,7 +101,8 @@
         "ref": "https://www.sekoia.com.uy/storage/pdfs/Tecpetrol-30-01-25.pdf",
         "source": "Tecpetrol S.A. reporte crediticio (ene-2025), LTM 3Q2024"
       }
-    }
+    },
+    "ytd_return_pct": null
   },
   "wikidata": {
     "label": "Tecpetrol",

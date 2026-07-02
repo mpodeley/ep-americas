@@ -44,8 +44,8 @@ jobs:
       - name: Install npm dependencies
         run: npm ci
 
-      - name: Run data pipeline (market + financials, cache fallback)
-        # yfinance puede fallar desde IPs de CI; el pipeline degrada a cache/ y no rompe.
+      - name: Run data pipeline (market + financials + precios + commodities, cache fallback)
+        # yfinance/commodities pueden fallar desde IPs de CI; el pipeline degrada a cache/ y no rompe.
         # Sólo corta (exit 1) ante errores de schema/rango.
         run: python scripts/build_data.py
 

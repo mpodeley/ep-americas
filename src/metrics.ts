@@ -18,6 +18,7 @@ export const FAMILY_LABEL: Record<Family, string> = {
   financials: 'Financieras (SEC XBRL)',
   operational: 'Operativas (curadas)',
   ratios: 'Ratios derivados',
+  returns: 'Retornos / precio',
 }
 
 export const SOURCE_ORDER = 'SEC < yfinance < Wikidata < caché < curado < overrides'
@@ -82,6 +83,16 @@ export const METRICS: MetricDef[] = [
     formula: '100 × EBIT / capital empleado medio', definition: 'Retorno sobre capital empleado medio (EBIT / promedio de activos − pasivos corrientes de 2 años).' },
   { key: 'cagr_revenue_3y_pct', label: 'CAGR ingresos', family: 'ratios', unit: '%', source: 'Derivado (SEC)', cadence: 'Anual',
     formula: '(últ/prim)^(1/n) − 1', definition: 'Crecimiento anual compuesto de ingresos sobre la serie SEC disponible (~3-4 años). Null si la base es ≤ 0.' },
+
+  // --- Retornos / precio ---
+  { key: 'ytd_return_pct', label: 'Retorno YTD', family: 'returns', unit: '%', source: 'yfinance', cadence: 'Semanal',
+    definition: 'Variación de precio desde el primer cierre del año calendario.' },
+  { key: 'return_1y_pct', label: 'Retorno 1 año', family: 'returns', unit: '%', source: 'yfinance', cadence: 'Semanal',
+    definition: 'Variación a 12 meses sobre precio ajustado (aproxima retorno total con dividendos/splits).' },
+  { key: 'pct_off_52w_high', label: 'vs máx 52s', family: 'returns', unit: '%', source: 'Derivado', cadence: 'Semanal',
+    formula: '100 × (precio/máx − 1)', definition: 'Distancia porcentual al máximo de 52 semanas (en la moneda del listing).' },
+  { key: 'realized_vol_1y_pct', label: 'Volatilidad 1a', family: 'returns', unit: '%', source: 'Derivado', cadence: 'Semanal',
+    formula: 'stdev(log-ret diario) × √252', definition: 'Volatilidad realizada anualizada del último año.' },
 ]
 
 // Honest limitations, shown in the Fuentes tab.

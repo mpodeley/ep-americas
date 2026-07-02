@@ -103,6 +103,7 @@
     "exchange": "NYSE",
     "fcf_usd": null,
     "fcf_yield_pct": null,
+    "high_52w": 36.31,
     "hq_city": "Houston",
     "hq_coord": [
       29.7604,
@@ -110,19 +111,24 @@
     ],
     "id": "coterra",
     "is_private": false,
+    "low_52w": 22.23,
     "market_cap_usd": 24724651515,
     "name": "Coterra Energy",
     "net_acreage_k": 739,
     "net_debt_to_ebitda": 0.39,
     "net_debt_usd": 1497000000,
+    "pct_above_52w_low": 46.5,
     "pct_gas": 63,
     "pct_liquids": 37,
+    "pct_off_52w_high": -10.3,
     "pe_ttm": 15.0,
     "price": 32.56,
     "price_currency": "USD",
     "production_kboed": 782,
+    "realized_vol_1y_pct": 30.2,
     "reserves_1p_mmboe": 2565,
     "reserves_2p_mmboe": null,
+    "return_1y_pct": 33.4,
     "revenue_usd": 5914000000,
     "roace_pct": 11.0,
     "rp_years": 9,
@@ -141,7 +147,8 @@
         "ref": "https://www.stocktitan.net/sec-filings/CTRA/10-k-coterra-energy-inc-files-annual-report-3df7b6684068.html",
         "source": "Coterra FY2025 10-K + earnings"
       }
-    }
+    },
+    "ytd_return_pct": 23.3
   },
   "wikidata": {
     "founded": 1989,

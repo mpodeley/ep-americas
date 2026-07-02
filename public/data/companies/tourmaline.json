@@ -57,6 +57,7 @@
     "exchange": "TSX",
     "fcf_usd": null,
     "fcf_yield_pct": null,
+    "high_52w": 68.97,
     "hq_city": "Calgary",
     "hq_coord": [
       51.0447,
@@ -64,19 +65,24 @@
     ],
     "id": "tourmaline",
     "is_private": false,
-    "market_cap_usd": 16249369186,
+    "low_52w": 54.85,
+    "market_cap_usd": 16260627414,
     "name": "Tourmaline Oil",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
+    "pct_above_52w_low": 8.3,
     "pct_gas": 77,
     "pct_liquids": 23,
-    "pe_ttm": 32.78,
-    "price": 59.33000183105469,
+    "pct_off_52w_high": -13.9,
+    "pe_ttm": 32.82,
+    "price": 59.400001525878906,
     "price_currency": "CAD",
     "production_kboed": 638,
+    "realized_vol_1y_pct": 25.4,
     "reserves_1p_mmboe": 3256,
     "reserves_2p_mmboe": null,
+    "return_1y_pct": -4.3,
     "revenue_usd": null,
     "roace_pct": null,
     "rp_years": 14,
@@ -95,7 +101,8 @@
         "ref": "https://boereport.com/2026/03/04/tourmaline-achieves-record-production-adds-829-million-boe-of-2p-reserves-and-reduces-2026-ep-capex/",
         "source": "Tourmaline FY2025 producción/reservas récord"
       }
-    }
+    },
+    "ytd_return_pct": -1.7
   },
   "wikidata": {
     "label": "Tourmaline Oil",

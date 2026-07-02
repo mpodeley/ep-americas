@@ -18,6 +18,7 @@ const FAMILY_COLOR: Record<Family, string> = {
   financials: colors.accent.purple,
   operational: colors.oil,
   ratios: colors.accent.cyan,
+  returns: colors.accent.pink,
 }
 
 const COLS: Col[] = [
@@ -52,6 +53,11 @@ const COLS: Col[] = [
   { key: 'capex_to_cfo_pct', label: 'Capex/CFO', family: 'ratios', numeric: true, fmt: (c) => pct(c.capex_to_cfo_pct, 0), title: 'Reinversión (>100% = sobre-inversión)' },
   { key: 'roace_pct', label: 'ROACE', family: 'ratios', numeric: true, fmt: (c) => pct(c.roace_pct, 1), title: 'Retorno sobre capital empleado medio' },
   { key: 'cagr_revenue_3y_pct', label: 'CAGR ing.', family: 'ratios', numeric: true, fmt: (c) => pct(c.cagr_revenue_3y_pct, 1), title: 'Crecimiento anual compuesto de ingresos (SEC)' },
+  // returns (price history)
+  { key: 'ytd_return_pct', label: 'YTD', family: 'returns', numeric: true, fmt: (c) => pct(c.ytd_return_pct, 1), title: 'Retorno en el año calendario' },
+  { key: 'return_1y_pct', label: '1 año', family: 'returns', numeric: true, fmt: (c) => pct(c.return_1y_pct, 1), title: 'Retorno a 12 meses (precio ajustado)' },
+  { key: 'pct_off_52w_high', label: 'vs máx 52s', family: 'returns', numeric: true, fmt: (c) => pct(c.pct_off_52w_high, 1), title: 'Distancia al máximo de 52 semanas' },
+  { key: 'realized_vol_1y_pct', label: 'Vol 1a', family: 'returns', numeric: true, fmt: (c) => pct(c.realized_vol_1y_pct, 0), title: 'Volatilidad realizada anualizada' },
 ]
 
 function cmp(a: unknown, b: unknown, dir: 1 | -1): number {

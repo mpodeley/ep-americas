@@ -57,6 +57,7 @@
     "exchange": "NYSE",
     "fcf_usd": null,
     "fcf_yield_pct": null,
+    "high_52w": 16.58,
     "hq_city": "Bogotá",
     "hq_coord": [
       4.711,
@@ -64,19 +65,24 @@
     ],
     "id": "ecopetrol",
     "is_private": false,
-    "market_cap_usd": 29932954604,
+    "low_52w": 7.9,
+    "market_cap_usd": 30405795652,
     "name": "Ecopetrol",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
+    "pct_above_52w_low": 87.3,
     "pct_gas": 17,
     "pct_liquids": 83,
-    "pe_ttm": 10.4,
-    "price": 14.5600004196167,
+    "pct_off_52w_high": -10.8,
+    "pe_ttm": 10.56,
+    "price": 14.789999961853027,
     "price_currency": "USD",
     "production_kboed": 745,
+    "realized_vol_1y_pct": 38.1,
     "reserves_1p_mmboe": 1944,
     "reserves_2p_mmboe": null,
+    "return_1y_pct": 67.5,
     "revenue_usd": null,
     "roace_pct": null,
     "rp_years": 7.8,
@@ -95,7 +101,8 @@
         "ref": "https://www.prnewswire.com/news-releases/ecopetrol-records-1-944-billion-barrels-of-oil-equivalent-in-proven-reserves-at-the-close-of-2025--replacing-121-of-production-with-the-highest-contribution-in-the-last-four-years-302693276.html",
         "source": "Ecopetrol FY2025 reservas + producción"
       }
-    }
+    },
+    "ytd_return_pct": 51.9
   },
   "wikidata": {
     "employees": 9315,

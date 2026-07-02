@@ -8,23 +8,25 @@ import ScreenerTable from './components/ScreenerTable'
 import MapaAmericas from './components/MapaAmericas'
 import Fuentes from './components/Fuentes'
 import Perfil from './components/Perfil'
+import Analisis from './components/Analisis'
 import { useHashRoute } from './hooks/useHashRoute'
 
-type View = 'tabla' | 'mapa' | 'fuentes'
+type View = 'tabla' | 'mapa' | 'analisis' | 'fuentes'
 const TABS: { id: View; label: string }[] = [
   { id: 'tabla', label: 'Tabla' },
   { id: 'mapa', label: 'Mapa' },
+  { id: 'analisis', label: 'Análisis' },
   { id: 'fuentes', label: 'Fuentes' },
 ]
 
 export default function App() {
-  const { companies, meta, generatedAt, loading, error } = useData()
+  const { companies, meta, commodities, generatedAt, loading, error } = useData()
 
   const [selectedCats, setSelectedCats] = useState<Set<string>>(new Set())
   const [country, setCountry] = useState('')
   const [query, setQuery] = useState('')
   const [families, setFamilies] = useState<Record<Family, boolean>>({
-    market: true, financials: true, operational: true, ratios: true,
+    market: true, financials: true, operational: true, ratios: true, returns: false,
   })
   const [view, setView] = useState<View>('tabla')
   const { companyId } = useHashRoute()
@@ -111,6 +113,7 @@ export default function App() {
 
           {view === 'tabla' && <ScreenerTable companies={filtered} families={families} sourceDate={sourceDate} />}
           {view === 'mapa' && <MapaAmericas companies={filtered} />}
+          {view === 'analisis' && <Analisis companies={filtered} commodities={commodities} />}
           {view === 'fuentes' && <Fuentes meta={meta} generatedAt={generatedAt} />}
 
           {view !== 'fuentes' && <footer style={{ marginTop: space.lg, color: colors.textDim, fontSize: 12,

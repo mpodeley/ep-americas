@@ -103,6 +103,7 @@
     "exchange": "NYSE",
     "fcf_usd": null,
     "fcf_yield_pct": null,
+    "high_52w": 45.15,
     "hq_city": "Denver",
     "hq_coord": [
       39.7392,
@@ -110,19 +111,24 @@
     ],
     "id": "antero",
     "is_private": false,
-    "market_cap_usd": 10931013702,
+    "low_52w": 29.87,
+    "market_cap_usd": 10893833713,
     "name": "Antero Resources",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
+    "pct_above_52w_low": 17.7,
     "pct_gas": null,
     "pct_liquids": null,
-    "pe_ttm": 11.42,
-    "price": 35.279998779296875,
+    "pct_off_52w_high": -22.1,
+    "pe_ttm": 11.38,
+    "price": 35.15999984741211,
     "price_currency": "USD",
     "production_kboed": null,
+    "realized_vol_1y_pct": 38.4,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
+    "return_1y_pct": -5.5,
     "revenue_usd": 4681972000,
     "roace_pct": 3.4,
     "rp_years": null,
@@ -141,7 +147,8 @@
         "ref": null,
         "source": null
       }
-    }
+    },
+    "ytd_return_pct": 2.8
   },
   "wikidata": {
     "founded": 2002,

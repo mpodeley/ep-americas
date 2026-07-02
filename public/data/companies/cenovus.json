@@ -57,6 +57,7 @@
     "exchange": "NYSE",
     "fcf_usd": null,
     "fcf_yield_pct": null,
+    "high_52w": 31.62,
     "hq_city": "Calgary",
     "hq_coord": [
       51.0447,
@@ -64,19 +65,24 @@
     ],
     "id": "cenovus",
     "is_private": false,
-    "market_cap_usd": 46042382106,
+    "low_52w": 13.8,
+    "market_cap_usd": 46061215679,
     "name": "Cenovus Energy",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
+    "pct_above_52w_low": 79.0,
     "pct_gas": 17,
     "pct_liquids": 83,
+    "pct_off_52w_high": -21.9,
     "pe_ttm": 13.95,
-    "price": 24.690000534057617,
+    "price": 24.70009994506836,
     "price_currency": "USD",
     "production_kboed": 834,
+    "realized_vol_1y_pct": 34.7,
     "reserves_1p_mmboe": 6100,
     "reserves_2p_mmboe": null,
+    "return_1y_pct": 75.4,
     "revenue_usd": null,
     "roace_pct": null,
     "rp_years": 20.0,
@@ -95,7 +101,8 @@
         "ref": "https://www.cenovus.com/News-and-Stories/News-releases/2026/3240864",
         "source": "Cenovus Q4 & Full-Year 2025 results"
       }
-    }
+    },
+    "ytd_return_pct": 42.6
   },
   "wikidata": {
     "founded": 2009,

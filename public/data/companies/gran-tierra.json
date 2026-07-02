@@ -103,6 +103,7 @@
     "exchange": "NYSE American",
     "fcf_usd": 1408000,
     "fcf_yield_pct": 0.7,
+    "high_52w": 9.51,
     "hq_city": "Calgary",
     "hq_coord": [
       51.0447,
@@ -110,19 +111,24 @@
     ],
     "id": "gran-tierra",
     "is_private": false,
-    "market_cap_usd": 211452143,
+    "low_52w": 3.43,
+    "market_cap_usd": 210744946,
     "name": "Gran Tierra Energy",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
+    "pct_above_52w_low": 73.8,
     "pct_gas": null,
     "pct_liquids": null,
+    "pct_off_52w_high": -37.3,
     "pe_ttm": null,
-    "price": 5.980000019073486,
+    "price": 5.960000038146973,
     "price_currency": "USD",
     "production_kboed": null,
+    "realized_vol_1y_pct": 67.6,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
+    "return_1y_pct": 20.6,
     "revenue_usd": null,
     "roace_pct": null,
     "rp_years": null,
@@ -141,7 +147,8 @@
         "ref": null,
         "source": null
       }
-    }
+    },
+    "ytd_return_pct": 40.9
   },
   "wikidata": {
     "founded": 2003,

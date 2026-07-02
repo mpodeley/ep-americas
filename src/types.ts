@@ -56,6 +56,15 @@ export interface Company {
   cagr_revenue_3y_pct: number | null
   cagr_cfo_3y_pct: number | null
 
+  // price history (yfinance, best-effort)
+  ytd_return_pct: number | null
+  return_1y_pct: number | null
+  high_52w: number | null
+  low_52w: number | null
+  pct_off_52w_high: number | null
+  pct_above_52w_low: number | null
+  realized_vol_1y_pct: number | null
+
   src: {
     market: SrcMeta
     financials: SrcMeta
@@ -118,4 +127,13 @@ export interface CompanyDetail {
   provenance: Company['src']
 }
 
-export type Family = 'market' | 'financials' | 'operational' | 'ratios'
+export interface CommoditySeries {
+  label: string
+  unit: string
+  last: number
+  change_pct: number | null
+  series: { date: string; value: number }[]
+}
+export type Commodities = Record<string, CommoditySeries>
+
+export type Family = 'market' | 'financials' | 'operational' | 'ratios' | 'returns'

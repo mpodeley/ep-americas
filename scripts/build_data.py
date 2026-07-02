@@ -19,7 +19,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from _meta import REPO_ROOT, envelope, write_json, read_json, today_iso  # noqa: E402
-from sources import sec_edgar, market_yf, wikidata  # noqa: E402
+from sources import sec_edgar, market_yf, wikidata, commodities, prices  # noqa: E402
 
 CURATED = REPO_ROOT / "curated"
 CACHE = REPO_ROOT / "cache"
@@ -39,6 +39,10 @@ DERIVED_KEYS = [
     "ev_per_boed_usd", "ev_per_1p_boe_usd", "net_debt_to_ebitda",
     "fcf_usd", "fcf_yield_pct", "capex_to_cfo_pct", "roace_pct",
     "cagr_revenue_3y_pct", "cagr_cfo_3y_pct",
+]
+PRICE_KEYS = [
+    "ytd_return_pct", "return_1y_pct", "high_52w", "low_52w",
+    "pct_off_52w_high", "pct_above_52w_low", "realized_vol_1y_pct",
 ]
 
 
@@ -104,6 +108,21 @@ def enrich_market(seed_row, market_cache, new_market_cache, warnings):
     return None, None, None
 
 
+def enrich_prices(seed_row, price_cache, new_price_cache):
+    """Return (price_metrics | None, source). Best-effort with cache fallback."""
+    if seed_row["is_private"] or not seed_row["yf_ticker"]:
+        return None, None
+    cid = seed_row["id"]
+    m = prices.fetch_price_metrics(seed_row["yf_ticker"])
+    if m:
+        new_price_cache[cid] = {**m, "as_of": today_iso()}
+        return m, "yfinance"
+    cached = price_cache.get(cid)
+    if cached:
+        return {k: cached.get(k) for k in PRICE_KEYS}, "cache"
+    return None, None
+
+
 def enrich_financials(seed_row, session, cik_map, sec_cache, new_sec_cache, warnings):
     """Return (financials_dict | None, source)."""
     tax = seed_row["sec_taxonomy"]
@@ -132,12 +151,12 @@ def enrich_financials(seed_row, session, cik_map, sec_cache, new_sec_cache, warn
 
 
 def build_row(seed_row, market, market_src, market_asof, fin, fin_src,
-              operational, overrides, hq_coords):
+              operational, overrides, hq_coords, price=None):
     cid = seed_row["id"]
     row = {k: seed_row[k] for k in
            ["id", "name", "category", "country", "hq_city",
             "canonical_ticker", "exchange", "is_private"]}
-    for k in MARKET_KEYS + FINANCIAL_KEYS + OPERATIONAL_KEYS + DERIVED_KEYS:
+    for k in MARKET_KEYS + FINANCIAL_KEYS + OPERATIONAL_KEYS + DERIVED_KEYS + PRICE_KEYS:
         row[k] = None
     row["hq_coord"] = hq_coords.get(cid)
     row["src"] = {
@@ -149,6 +168,9 @@ def build_row(seed_row, market, market_src, market_asof, fin, fin_src,
     if market:
         for k in MARKET_KEYS:
             row[k] = market.get(k)
+    if price:
+        for k in PRICE_KEYS:
+            row[k] = price.get(k)
     if fin:
         row["revenue_usd"] = fin.get("revenue_usd")
         row["ebitda_usd"] = fin.get("ebitda_usd")
@@ -332,12 +354,14 @@ def main():
     market_cache = read_json(CACHE / "market.json", {}) or {}
     sec_cache = read_json(CACHE / "sec.json", {}) or {}
     wd_cache = read_json(CACHE / "wikidata.json", {}) or {}
+    price_cache = read_json(CACHE / "prices.json", {}) or {}
     narratives = load_narratives()
     seed_by_id = {sr["id"]: sr for sr in seed}
 
     new_market_cache = dict(market_cache)
     new_sec_cache = dict(sec_cache)
     new_wd_cache = dict(wd_cache)
+    new_price_cache = dict(price_cache)
     warnings, errors = [], []
     market_breakdown = {"yfinance": 0, "cache": 0, "none": 0}
 
@@ -354,8 +378,9 @@ def main():
         fin, f_src = enrich_financials(sr, session, cik_map, sec_cache, new_sec_cache, warnings)
         if fin:
             fin_by_id[sr["id"]] = fin
+        price, _ = enrich_prices(sr, price_cache, new_price_cache)
         row = build_row(sr, market, m_src, m_asof, fin, f_src,
-                        operational, overrides, hq_coords)
+                        operational, overrides, hq_coords, price)
         derive(row)
         validate(row, errors, warnings)
         rows.append(row)
@@ -378,9 +403,23 @@ def main():
     write_json(OUT / "meta.json", build_meta(rows, warnings, market_breakdown))
     write_json(CACHE / "market.json", new_market_cache)
     write_json(CACHE / "sec.json", new_sec_cache)
+    write_json(CACHE / "prices.json", new_price_cache)
 
     write_profiles(rows, fin_by_id, seed_by_id, session, cik_map, wd_cache, new_wd_cache, narratives)
     write_json(CACHE / "wikidata.json", new_wd_cache)
+
+    # Commodity context (best-effort; cache fallback so it never breaks the build).
+    commo = commodities.fetch_commodities(90)
+    if commo:
+        write_json(OUT / "commodities.json", envelope(commo, "datahub/fred", today_iso()))
+        write_json(CACHE / "commodities.json", commo)
+    else:
+        cached = read_json(CACHE / "commodities.json")
+        if cached:
+            write_json(OUT / "commodities.json", envelope(cached, "cache", today_iso()))
+            warnings.append("commodities: fetch falló, usando caché")
+        else:
+            warnings.append("commodities: sin datos ni caché")
 
     print(f"\nEscritas {len(rows)} empresas -> public/data/companies.json")
     print(f"  mercado: {market_breakdown}")

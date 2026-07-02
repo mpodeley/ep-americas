@@ -57,6 +57,7 @@
     "exchange": "NYSE",
     "fcf_usd": null,
     "fcf_yield_pct": null,
+    "high_52w": 49.57,
     "hq_city": "Calgary",
     "hq_coord": [
       51.0447,
@@ -64,19 +65,24 @@
     ],
     "id": "cnrl",
     "is_private": false,
-    "market_cap_usd": 82343829845,
+    "low_52w": 28.74,
+    "market_cap_usd": 82604543595,
     "name": "Canadian Natural Resources",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
+    "pct_above_52w_low": 37.8,
     "pct_gas": 27,
     "pct_liquids": 73,
-    "pe_ttm": 11.97,
-    "price": 39.47999954223633,
+    "pct_off_52w_high": -20.1,
+    "pe_ttm": 12.0,
+    "price": 39.60499954223633,
     "price_currency": "USD",
     "production_kboed": 1571,
+    "realized_vol_1y_pct": 29.4,
     "reserves_1p_mmboe": 15910,
     "reserves_2p_mmboe": null,
+    "return_1y_pct": 24.6,
     "revenue_usd": null,
     "roace_pct": null,
     "rp_years": 31,
@@ -95,7 +101,8 @@
         "ref": "https://boereport.com/2026/03/05/canadian-natural-resources-limited-announces-2025-fourth-quarter-and-year-end-results/",
         "source": "Canadian Natural Q4 & Year-End 2025 results"
       }
-    }
+    },
+    "ytd_return_pct": 17.7
   },
   "wikidata": {
     "employees": 6621,

@@ -57,6 +57,7 @@
     "exchange": null,
     "fcf_usd": null,
     "fcf_yield_pct": null,
+    "high_52w": null,
     "hq_city": "Buenos Aires",
     "hq_coord": [
       -34.6037,
@@ -64,19 +65,24 @@
     ],
     "id": "pluspetrol",
     "is_private": true,
+    "low_52w": null,
     "market_cap_usd": null,
     "name": "Pluspetrol",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
+    "pct_above_52w_low": null,
     "pct_gas": 67,
     "pct_liquids": 33,
+    "pct_off_52w_high": null,
     "pe_ttm": null,
     "price": null,
     "price_currency": null,
     "production_kboed": 474,
+    "realized_vol_1y_pct": null,
     "reserves_1p_mmboe": 593,
     "reserves_2p_mmboe": null,
+    "return_1y_pct": null,
     "revenue_usd": null,
     "roace_pct": null,
     "rp_years": 13,
@@ -95,7 +101,8 @@
         "ref": "https://www.bancoprovincia.com.ar/CDN/Get/Pluspetrol_Calificacion_3",
         "source": "Pluspetrol S.A. calificación Fix/Fitch (abr-2025), producción operada global FY2024"
       }
-    }
+    },
+    "ytd_return_pct": null
   },
   "wikidata": {
     "founded": 1976,
