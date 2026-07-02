@@ -52,7 +52,7 @@
       "id": "frontera"
     }
   ],
-  "source_date": "2026-07-01",
+  "source_date": "2026-07-02",
   "warnings": [
     "apa: filer SEC sin ingresos extraídos",
     "civitas: yfinance falló y no hay caché de mercado",
