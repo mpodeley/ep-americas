@@ -66,23 +66,23 @@
     "id": "tourmaline",
     "is_private": false,
     "low_52w": 54.85,
-    "market_cap_usd": 16260627414,
+    "market_cap_usd": 16298303916,
     "name": "Tourmaline Oil",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
-    "pct_above_52w_low": 8.3,
+    "pct_above_52w_low": 8.5,
     "pct_gas": 77,
     "pct_liquids": 23,
-    "pct_off_52w_high": -13.9,
-    "pe_ttm": 32.82,
-    "price": 59.400001525878906,
+    "pct_off_52w_high": -13.7,
+    "pe_ttm": 32.88,
+    "price": 59.52000045776367,
     "price_currency": "CAD",
     "production_kboed": 638,
     "realized_vol_1y_pct": 25.4,
     "reserves_1p_mmboe": 3256,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": -4.3,
+    "return_1y_pct": -4.1,
     "revenue_usd": null,
     "roace_pct": null,
     "rp_years": 14,
@@ -102,7 +102,7 @@
         "source": "Tourmaline FY2025 producción/reservas récord"
       }
     },
-    "ytd_return_pct": -1.7
+    "ytd_return_pct": -1.5
   },
   "wikidata": {
     "label": "Tourmaline Oil",

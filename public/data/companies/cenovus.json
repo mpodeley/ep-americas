@@ -66,23 +66,23 @@
     "id": "cenovus",
     "is_private": false,
     "low_52w": 13.8,
-    "market_cap_usd": 46061215679,
+    "market_cap_usd": 46228864717,
     "name": "Cenovus Energy",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
-    "pct_above_52w_low": 79.0,
+    "pct_above_52w_low": 79.7,
     "pct_gas": 17,
     "pct_liquids": 83,
-    "pct_off_52w_high": -21.9,
-    "pe_ttm": 13.95,
-    "price": 24.70009994506836,
+    "pct_off_52w_high": -21.6,
+    "pe_ttm": 14.01,
+    "price": 24.790000915527344,
     "price_currency": "USD",
     "production_kboed": 834,
     "realized_vol_1y_pct": 34.7,
     "reserves_1p_mmboe": 6100,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 75.4,
+    "return_1y_pct": 76.0,
     "revenue_usd": null,
     "roace_pct": null,
     "rp_years": 20.0,
@@ -102,7 +102,7 @@
         "source": "Cenovus Q4 & Full-Year 2025 results"
       }
     },
-    "ytd_return_pct": 42.6
+    "ytd_return_pct": 43.1
   },
   "wikidata": {
     "founded": 2009,
