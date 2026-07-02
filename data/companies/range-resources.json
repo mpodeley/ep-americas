@@ -1,0 +1,161 @@
+{
+  "cagr": {
+    "cfo_3y_pct": 2.7,
+    "revenue_3y_pct": 8.9
+  },
+  "category": "US Shale",
+  "country": "US",
+  "financials_by_year": {
+    "2021": {
+      "capex_usd": null,
+      "capital_employed_usd": 5430095000,
+      "cfo_usd": 681843000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": 3039794000,
+      "revenue_usd": 2827615000
+    },
+    "2022": {
+      "capex_usd": null,
+      "capital_employed_usd": 5508042000,
+      "cfo_usd": 268680000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": 2493348000,
+      "revenue_usd": 1968697000
+    },
+    "2023": {
+      "capex_usd": null,
+      "capital_employed_usd": 5604897000,
+      "cfo_usd": 792948000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 2930223000
+    },
+    "2024": {
+      "capex_usd": null,
+      "capital_employed_usd": 6620799000,
+      "cfo_usd": 1864744000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": 1562255000,
+      "revenue_usd": 4147212000
+    },
+    "2025": {
+      "capex_usd": null,
+      "capital_employed_usd": 6073605000,
+      "cfo_usd": 977892000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": 785124000,
+      "revenue_usd": 3374872000
+    }
+  },
+  "hq_city": "Fort Worth",
+  "hq_coord": [
+    32.7555,
+    -97.3308
+  ],
+  "id": "range-resources",
+  "links": {
+    "ir": "http://www.rangeresources.com",
+    "latest_sec_filing": "https://www.sec.gov/Archives/edgar/data/315852/000119312526067292/rrc-20251231.htm",
+    "latest_sec_filing_label": "10-K 2026-02-24",
+    "sec_index": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=315852&type=10-K",
+    "wikipedia": "https://en.wikipedia.org/wiki/Range_Resources"
+  },
+  "name": "Range Resources",
+  "narrative_md": null,
+  "provenance": {
+    "financials": {
+      "as_of": "2024-12-31",
+      "fy": 2025,
+      "source": "sec-us-gaap"
+    },
+    "market": {
+      "as_of": "2026-07-02",
+      "source": "yfinance"
+    },
+    "operational": {
+      "as_of": null,
+      "ref": null,
+      "source": null
+    }
+  },
+  "row": {
+    "beta": 0.4,
+    "cagr_cfo_3y_pct": 2.7,
+    "cagr_revenue_3y_pct": 8.9,
+    "canonical_ticker": "RRC",
+    "capex_to_cfo_pct": null,
+    "capex_usd": null,
+    "category": "US Shale",
+    "cfo_usd": 977892000,
+    "corp_breakeven_usd_bbl": null,
+    "country": "US",
+    "dividend_yield_pct": 1.08,
+    "ebitda_usd": null,
+    "enterprise_value_usd": 9665726279,
+    "ev_ebitda": 5.74,
+    "ev_per_1p_boe_usd": null,
+    "ev_per_boed_usd": null,
+    "exchange": "NYSE",
+    "fcf_usd": null,
+    "fcf_yield_pct": null,
+    "high_52w": 47.52,
+    "hq_city": "Fort Worth",
+    "hq_coord": [
+      32.7555,
+      -97.3308
+    ],
+    "id": "range-resources",
+    "is_private": false,
+    "low_52w": 32.46,
+    "market_cap_usd": 8880602279,
+    "name": "Range Resources",
+    "net_acreage_k": null,
+    "net_debt_to_ebitda": null,
+    "net_debt_usd": 785124000,
+    "pct_above_52w_low": 16.1,
+    "pct_gas": null,
+    "pct_liquids": null,
+    "pct_off_52w_high": -20.7,
+    "pe_ttm": 9.97,
+    "price": 37.689998626708984,
+    "price_currency": "USD",
+    "production_kboed": null,
+    "realized_vol_1y_pct": 32.4,
+    "reserves_1p_mmboe": null,
+    "reserves_2p_mmboe": null,
+    "return_1y_pct": -1.9,
+    "revenue_usd": 3374872000,
+    "roace_pct": null,
+    "rp_years": null,
+    "src": {
+      "financials": {
+        "as_of": "2024-12-31",
+        "fy": 2025,
+        "source": "sec-us-gaap"
+      },
+      "market": {
+        "as_of": "2026-07-02",
+        "source": "yfinance"
+      },
+      "operational": {
+        "as_of": null,
+        "ref": null,
+        "source": null
+      }
+    },
+    "ytd_return_pct": 7.3
+  },
+  "wikidata": {
+    "founded": 1976,
+    "isin": "US75281A1097",
+    "label": "Range Resources",
+    "qid": "Q4048013",
+    "website": "http://www.rangeresources.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Range_Resources"
+  }
+}

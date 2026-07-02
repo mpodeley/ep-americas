@@ -1,0 +1,161 @@
+{
+  "cagr": {
+    "cfo_3y_pct": 13.8,
+    "revenue_3y_pct": 13.9
+  },
+  "category": "US Shale",
+  "country": "US",
+  "financials_by_year": {
+    "2021": {
+      "capex_usd": null,
+      "capital_employed_usd": 4134000000,
+      "cfo_usd": 1445000000,
+      "ebit_usd": 956000000,
+      "ebitda_usd": 1362000000,
+      "net_debt_usd": 806000000,
+      "revenue_usd": 2066000000
+    },
+    "2022": {
+      "capex_usd": null,
+      "capital_employed_usd": 18680000000,
+      "cfo_usd": 778000000,
+      "ebit_usd": 296000000,
+      "ebitda_usd": 687000000,
+      "net_debt_usd": 2089000000,
+      "revenue_usd": 1466000000
+    },
+    "2023": {
+      "capex_usd": null,
+      "capital_employed_usd": 18961000000,
+      "cfo_usd": 1667000000,
+      "ebit_usd": 1564000000,
+      "ebitda_usd": 2257000000,
+      "net_debt_usd": 1508000000,
+      "revenue_usd": 3449000000
+    },
+    "2024": {
+      "capex_usd": null,
+      "capital_employed_usd": 18755000000,
+      "cfo_usd": 5456000000,
+      "ebit_usd": 5209000000,
+      "ebitda_usd": 6844000000,
+      "net_debt_usd": 630000000,
+      "revenue_usd": 9051000000
+    },
+    "2025": {
+      "capex_usd": null,
+      "capital_employed_usd": 20489000000,
+      "cfo_usd": 3658000000,
+      "ebit_usd": 2154000000,
+      "ebitda_usd": 3795000000,
+      "net_debt_usd": 1497000000,
+      "revenue_usd": 5914000000
+    }
+  },
+  "hq_city": "Houston",
+  "hq_coord": [
+    29.7604,
+    -95.3698
+  ],
+  "id": "coterra",
+  "links": {
+    "ir": "http://www.cabotog.com",
+    "latest_sec_filing": "https://www.sec.gov/Archives/edgar/data/858470/000085847026000073/cog-20251231.htm",
+    "latest_sec_filing_label": "10-K 2026-02-27",
+    "sec_index": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=858470&type=10-K",
+    "wikipedia": "https://en.wikipedia.org/wiki/Coterra"
+  },
+  "name": "Coterra Energy",
+  "narrative_md": "**Qué es.** Coterra Energy fue una E&P independiente diversificada entre petróleo y gas, nacida de la fusión Cabot-Cimarex (2021).\n\n**Posición estratégica.** Operaba el Delaware Basin (Permian, ~345.000 acres) para líquidos de alto margen, el Marcellus en Pensilvania (~186.000 acres de gas seco, feedstock para exportación de LNG) y el Anadarko en Oklahoma. En 2025 reforzó el Permian con Franklin Mountain y Avant (~US$3.900M).\n\n**Drivers 2025-2026.** Su tesis combinaba flexibilidad petróleo/gas y exposición a la demanda de LNG. En mayo de 2026 completó una fusión totalmente accionaria con Devon Energy (~US$58.000M), integrándose a esa compañía; los accionistas recibieron 0,70 acción de Devon por título.\n\n**Nota.** Post-fusión, CTRA dejó de cotizar como entidad independiente; los datos de mercado pueden no estar disponibles.\n\n**Riesgos.** Ejecución de la integración en Devon, precios de Henry Hub/WTI y ritmo de sinergias.\n\n**Fuentes:** https://www.sec.gov/Archives/edgar/data/0000858470/000085847025000069/ctra-12312024xxexx991earni.htm · https://investors.devonenergy.com/investors/press-releases/press-release-details/2026/Devon-Energy-and-Coterra-Energy-Complete-Merger/",
+  "provenance": {
+    "financials": {
+      "as_of": "2024-12-31",
+      "fy": 2025,
+      "source": "sec-us-gaap"
+    },
+    "market": {
+      "as_of": "2026-07-02",
+      "source": "yfinance"
+    },
+    "operational": {
+      "as_of": "2025-12-31",
+      "ref": "https://www.stocktitan.net/sec-filings/CTRA/10-k-coterra-energy-inc-files-annual-report-3df7b6684068.html",
+      "source": "Coterra FY2025 10-K + earnings"
+    }
+  },
+  "row": {
+    "beta": 0.3,
+    "cagr_cfo_3y_pct": 13.8,
+    "cagr_revenue_3y_pct": 13.9,
+    "canonical_ticker": "CTRA",
+    "capex_to_cfo_pct": null,
+    "capex_usd": null,
+    "category": "US Shale",
+    "cfo_usd": 3658000000,
+    "corp_breakeven_usd_bbl": null,
+    "country": "US",
+    "dividend_yield_pct": 2.7,
+    "ebitda_usd": 3795000000,
+    "enterprise_value_usd": 26221651515,
+    "ev_ebitda": 5.79,
+    "ev_per_1p_boe_usd": 10.22,
+    "ev_per_boed_usd": 33532,
+    "exchange": "NYSE",
+    "fcf_usd": null,
+    "fcf_yield_pct": null,
+    "high_52w": 36.31,
+    "hq_city": "Houston",
+    "hq_coord": [
+      29.7604,
+      -95.3698
+    ],
+    "id": "coterra",
+    "is_private": false,
+    "low_52w": 22.23,
+    "market_cap_usd": 24724651515,
+    "name": "Coterra Energy",
+    "net_acreage_k": 739,
+    "net_debt_to_ebitda": 0.39,
+    "net_debt_usd": 1497000000,
+    "pct_above_52w_low": 46.5,
+    "pct_gas": 63,
+    "pct_liquids": 37,
+    "pct_off_52w_high": -10.3,
+    "pe_ttm": 15.0,
+    "price": 32.56,
+    "price_currency": "USD",
+    "production_kboed": 782,
+    "realized_vol_1y_pct": 30.2,
+    "reserves_1p_mmboe": 2565,
+    "reserves_2p_mmboe": null,
+    "return_1y_pct": 33.4,
+    "revenue_usd": 5914000000,
+    "roace_pct": 11.0,
+    "rp_years": 9,
+    "src": {
+      "financials": {
+        "as_of": "2024-12-31",
+        "fy": 2025,
+        "source": "sec-us-gaap"
+      },
+      "market": {
+        "as_of": "2026-07-02",
+        "source": "yfinance"
+      },
+      "operational": {
+        "as_of": "2025-12-31",
+        "ref": "https://www.stocktitan.net/sec-filings/CTRA/10-k-coterra-energy-inc-files-annual-report-3df7b6684068.html",
+        "source": "Coterra FY2025 10-K + earnings"
+      }
+    },
+    "ytd_return_pct": 23.3
+  },
+  "wikidata": {
+    "founded": 1989,
+    "isin": "US1270971039",
+    "label": "Coterra Energy",
+    "qid": "Q4035714",
+    "website": "http://www.cabotog.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Coterra"
+  }
+}

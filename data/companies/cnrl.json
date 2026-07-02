@@ -1,0 +1,116 @@
+{
+  "cagr": {
+    "cfo_3y_pct": null,
+    "revenue_3y_pct": null
+  },
+  "category": "Canada",
+  "country": "CA",
+  "financials_by_year": {},
+  "hq_city": "Calgary",
+  "hq_coord": [
+    51.0447,
+    -114.0719
+  ],
+  "id": "cnrl",
+  "links": {
+    "ir": "http://www.cnrl.com/",
+    "latest_sec_filing": "https://www.sec.gov/Archives/edgar/data/1017413/000101741326000018/cnq-20251231.htm",
+    "latest_sec_filing_label": "40-F 2026-03-26",
+    "sec_index": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1017413&type=10-K",
+    "wikipedia": "https://en.wikipedia.org/wiki/Canadian_Natural_Resources"
+  },
+  "name": "Canadian Natural Resources",
+  "narrative_md": "**Qué es y dónde opera.** Canadian Natural Resources (CNQ) es el mayor productor independiente de Canadá, con operaciones diversificadas en la cuenca sedimentaria del oeste canadiense (WCSB), más presencia en el Mar del Norte y África offshore.\n\n**Posición estratégica.** Su núcleo es el oil sands: minería y upgrading en Horizon y proyectos SAGD/térmicos (Jackfish, Pike), complementados con gas natural y crudo liviano de bajo declino. Los activos mineros producen crudo sintético (SCO), que suele cotizar con premio sobre WTI.\n\n**Catalizadores 2025-2026.**\n- Producción récord y utilización del upgrader superior al 100%.\n- Ingeniería (FEED) para expansiones de oil sands hacia 2030-2032.\n- 26 años consecutivos de aumento de dividendo; fuerte generación de flujo libre y recompras.\n\n**Riesgos.** Diferencial WCS, precios del crudo, capacidad de evacuación (takeaway) y presiones regulatorias sobre carbono.\n\n**Fuentes:** https://www.oilsandsmagazine.com/news/2025/11/11/another-quantum-leap-cnrl-unveils-over-15b-in-oil-sands-expansions · https://www.stocktitan.net/news/CNQ/",
+  "provenance": {
+    "financials": {
+      "as_of": null,
+      "fy": null,
+      "source": null
+    },
+    "market": {
+      "as_of": "2026-07-02",
+      "source": "yfinance"
+    },
+    "operational": {
+      "as_of": "2025-12-31",
+      "ref": "https://boereport.com/2026/03/05/canadian-natural-resources-limited-announces-2025-fourth-quarter-and-year-end-results/",
+      "source": "Canadian Natural Q4 & Year-End 2025 results"
+    }
+  },
+  "row": {
+    "beta": 0.88,
+    "cagr_cfo_3y_pct": null,
+    "cagr_revenue_3y_pct": null,
+    "canonical_ticker": "CNQ",
+    "capex_to_cfo_pct": null,
+    "capex_usd": null,
+    "category": "Canada",
+    "cfo_usd": null,
+    "corp_breakeven_usd_bbl": null,
+    "country": "CA",
+    "dividend_yield_pct": 4.52,
+    "ebitda_usd": null,
+    "enterprise_value_usd": null,
+    "ev_ebitda": 6.77,
+    "ev_per_1p_boe_usd": null,
+    "ev_per_boed_usd": null,
+    "exchange": "NYSE",
+    "fcf_usd": null,
+    "fcf_yield_pct": null,
+    "high_52w": 49.57,
+    "hq_city": "Calgary",
+    "hq_coord": [
+      51.0447,
+      -114.0719
+    ],
+    "id": "cnrl",
+    "is_private": false,
+    "low_52w": 28.74,
+    "market_cap_usd": 82833972968,
+    "name": "Canadian Natural Resources",
+    "net_acreage_k": null,
+    "net_debt_to_ebitda": null,
+    "net_debt_usd": null,
+    "pct_above_52w_low": 38.2,
+    "pct_gas": 27,
+    "pct_liquids": 73,
+    "pct_off_52w_high": -19.9,
+    "pe_ttm": 12.03,
+    "price": 39.71500015258789,
+    "price_currency": "USD",
+    "production_kboed": 1571,
+    "realized_vol_1y_pct": 29.5,
+    "reserves_1p_mmboe": 15910,
+    "reserves_2p_mmboe": null,
+    "return_1y_pct": 25.0,
+    "revenue_usd": null,
+    "roace_pct": null,
+    "rp_years": 31,
+    "src": {
+      "financials": {
+        "as_of": null,
+        "fy": null,
+        "source": null
+      },
+      "market": {
+        "as_of": "2026-07-02",
+        "source": "yfinance"
+      },
+      "operational": {
+        "as_of": "2025-12-31",
+        "ref": "https://boereport.com/2026/03/05/canadian-natural-resources-limited-announces-2025-fourth-quarter-and-year-end-results/",
+        "source": "Canadian Natural Q4 & Year-End 2025 results"
+      }
+    },
+    "ytd_return_pct": 18.0
+  },
+  "wikidata": {
+    "employees": 6621,
+    "founded": 1973,
+    "isin": "CA1363851017",
+    "label": "Canadian Natural Resources",
+    "qid": "Q1032229",
+    "website": "http://www.cnrl.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Canadian_Natural_Resources"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "cagr": {
+    "cfo_3y_pct": null,
+    "revenue_3y_pct": null
+  },
+  "category": "Colombia",
+  "country": "CO",
+  "financials_by_year": {},
+  "hq_city": "Bogotá",
+  "hq_coord": [
+    4.711,
+    -74.0721
+  ],
+  "id": "ecopetrol",
+  "links": {
+    "ir": "http://www.ecopetrol.com.co/",
+    "latest_sec_filing": "https://www.sec.gov/Archives/edgar/data/1444406/000110465926053172/ec-20251231x20f.htm",
+    "latest_sec_filing_label": "20-F 2026-04-30",
+    "sec_index": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1444406&type=10-K",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ecopetrol"
+  },
+  "name": "Ecopetrol",
+  "narrative_md": "**Qué es.** Ecopetrol es la petrolera nacional integrada de Colombia (NOC, control estatal), con operaciones en upstream, midstream, refinación y energías de transición.\n\n**Posición estratégica.** Su base productiva está en Colombia (Rubiales, Castilla, Chichimene, Piedemonte Llanero/CPO-09), complementada por el JV en el Permian (Texas) con Occidental, que aporta crecimiento con producción neta cercana a 90 mboed.\n\n**Drivers 2025-2026.** Extensión del plan de perforación en el Permian, reservas en máximo de cuatro años (~1.944 MMboe) y reposición >100%. Dividendo propuesto con payout de ~50%.\n\n**Riesgos.** Brent, política energética del gobierno (restricciones a nuevos contratos y fracking en Colombia), declinación de campos maduros y riesgo país/regulatorio.\n\n**Fuentes:** https://www.financecolombia.com/ecopetrol-occidental-petroleum-extend-permian-basin-joint-venture/ · https://www.sec.gov/Archives/edgar/data/0001444406/000129281426003127/ex99-1.htm",
+  "provenance": {
+    "financials": {
+      "as_of": null,
+      "fy": null,
+      "source": null
+    },
+    "market": {
+      "as_of": "2026-07-02",
+      "source": "yfinance"
+    },
+    "operational": {
+      "as_of": "2025-12-31",
+      "ref": "https://www.prnewswire.com/news-releases/ecopetrol-records-1-944-billion-barrels-of-oil-equivalent-in-proven-reserves-at-the-close-of-2025--replacing-121-of-production-with-the-highest-contribution-in-the-last-four-years-302693276.html",
+      "source": "Ecopetrol FY2025 reservas + producción"
+    }
+  },
+  "row": {
+    "beta": -0.03,
+    "cagr_cfo_3y_pct": null,
+    "cagr_revenue_3y_pct": null,
+    "canonical_ticker": "EC",
+    "capex_to_cfo_pct": null,
+    "capex_usd": null,
+    "category": "Colombia",
+    "cfo_usd": null,
+    "corp_breakeven_usd_bbl": null,
+    "country": "CO",
+    "dividend_yield_pct": 4.49,
+    "ebitda_usd": null,
+    "enterprise_value_usd": null,
+    "ev_ebitda": null,
+    "ev_per_1p_boe_usd": null,
+    "ev_per_boed_usd": null,
+    "exchange": "NYSE",
+    "fcf_usd": null,
+    "fcf_yield_pct": null,
+    "high_52w": 16.58,
+    "hq_city": "Bogotá",
+    "hq_coord": [
+      4.711,
+      -74.0721
+    ],
+    "id": "ecopetrol",
+    "is_private": false,
+    "low_52w": 7.9,
+    "market_cap_usd": 30446913288,
+    "name": "Ecopetrol",
+    "net_acreage_k": null,
+    "net_debt_to_ebitda": null,
+    "net_debt_usd": null,
+    "pct_above_52w_low": 87.5,
+    "pct_gas": 17,
+    "pct_liquids": 83,
+    "pct_off_52w_high": -10.7,
+    "pe_ttm": 10.58,
+    "price": 14.8100004196167,
+    "price_currency": "USD",
+    "production_kboed": 745,
+    "realized_vol_1y_pct": 38.1,
+    "reserves_1p_mmboe": 1944,
+    "reserves_2p_mmboe": null,
+    "return_1y_pct": 67.7,
+    "revenue_usd": null,
+    "roace_pct": null,
+    "rp_years": 7.8,
+    "src": {
+      "financials": {
+        "as_of": null,
+        "fy": null,
+        "source": null
+      },
+      "market": {
+        "as_of": "2026-07-02",
+        "source": "yfinance"
+      },
+      "operational": {
+        "as_of": "2025-12-31",
+        "ref": "https://www.prnewswire.com/news-releases/ecopetrol-records-1-944-billion-barrels-of-oil-equivalent-in-proven-reserves-at-the-close-of-2025--replacing-121-of-production-with-the-highest-contribution-in-the-last-four-years-302693276.html",
+        "source": "Ecopetrol FY2025 reservas + producción"
+      }
+    },
+    "ytd_return_pct": 52.1
+  },
+  "wikidata": {
+    "employees": 9315,
+    "founded": 1951,
+    "isin": "US2791581091",
+    "label": "Ecopetrol",
+    "qid": "Q1282130",
+    "website": "http://www.ecopetrol.com.co/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ecopetrol"
+  }
+}

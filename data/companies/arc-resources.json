@@ -1,0 +1,115 @@
+{
+  "cagr": {
+    "cfo_3y_pct": null,
+    "revenue_3y_pct": null
+  },
+  "category": "Canada",
+  "country": "CA",
+  "financials_by_year": {},
+  "hq_city": "Calgary",
+  "hq_coord": [
+    51.0447,
+    -114.0719
+  ],
+  "id": "arc-resources",
+  "links": {
+    "ir": "http://www.arcresources.com/",
+    "latest_sec_filing": null,
+    "latest_sec_filing_label": null,
+    "sec_index": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/ARC_Resources"
+  },
+  "name": "ARC Resources",
+  "narrative_md": null,
+  "provenance": {
+    "financials": {
+      "as_of": null,
+      "fy": null,
+      "source": null
+    },
+    "market": {
+      "as_of": "2026-07-02",
+      "source": "yfinance"
+    },
+    "operational": {
+      "as_of": null,
+      "ref": null,
+      "source": null
+    }
+  },
+  "row": {
+    "beta": 0.13,
+    "cagr_cfo_3y_pct": null,
+    "cagr_revenue_3y_pct": null,
+    "canonical_ticker": "ARX",
+    "capex_to_cfo_pct": null,
+    "capex_usd": null,
+    "category": "Canada",
+    "cfo_usd": null,
+    "corp_breakeven_usd_bbl": null,
+    "country": "CA",
+    "dividend_yield_pct": 2.82,
+    "ebitda_usd": null,
+    "enterprise_value_usd": 14528920447,
+    "ev_ebitda": 5.78,
+    "ev_per_1p_boe_usd": null,
+    "ev_per_boed_usd": null,
+    "exchange": "TSX",
+    "fcf_usd": null,
+    "fcf_yield_pct": null,
+    "high_52w": 31.99,
+    "hq_city": "Calgary",
+    "hq_coord": [
+      51.0447,
+      -114.0719
+    ],
+    "id": "arc-resources",
+    "is_private": false,
+    "low_52w": 22.51,
+    "market_cap_usd": 11935992617,
+    "name": "ARC Resources",
+    "net_acreage_k": null,
+    "net_debt_to_ebitda": null,
+    "net_debt_usd": null,
+    "pct_above_52w_low": 32.8,
+    "pct_gas": null,
+    "pct_liquids": null,
+    "pct_off_52w_high": -6.6,
+    "pe_ttm": 11.81,
+    "price": 29.8799991607666,
+    "price_currency": "CAD",
+    "production_kboed": null,
+    "realized_vol_1y_pct": 34.8,
+    "reserves_1p_mmboe": null,
+    "reserves_2p_mmboe": null,
+    "return_1y_pct": 10.5,
+    "revenue_usd": null,
+    "roace_pct": null,
+    "rp_years": null,
+    "src": {
+      "financials": {
+        "as_of": null,
+        "fy": null,
+        "source": null
+      },
+      "market": {
+        "as_of": "2026-07-02",
+        "source": "yfinance"
+      },
+      "operational": {
+        "as_of": null,
+        "ref": null,
+        "source": null
+      }
+    },
+    "ytd_return_pct": 16.6
+  },
+  "wikidata": {
+    "founded": 1996,
+    "isin": "CA00208D4084",
+    "label": "ARC Resources",
+    "qid": "Q296498",
+    "website": "http://www.arcresources.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/ARC_Resources"
+  }
+}

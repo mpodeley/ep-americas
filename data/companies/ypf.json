@@ -1,0 +1,152 @@
+{
+  "cagr": {
+    "cfo_3y_pct": 26.6,
+    "revenue_3y_pct": 21.3
+  },
+  "category": "Vaca Muerta",
+  "country": "AR",
+  "financials_by_year": {
+    "2022": {
+      "capex_usd": null,
+      "capital_employed_usd": 18472000000,
+      "cfo_usd": 2915000000,
+      "ebit_usd": -804000000,
+      "ebitda_usd": null,
+      "net_debt_usd": 5171000000,
+      "revenue_usd": 9690000000
+    },
+    "2023": {
+      "capex_usd": null,
+      "capital_employed_usd": 19479000000,
+      "cfo_usd": 4201000000,
+      "ebit_usd": 699000000,
+      "ebitda_usd": null,
+      "net_debt_usd": 5884000000,
+      "revenue_usd": 13682000000
+    },
+    "2024": {
+      "capex_usd": null,
+      "capital_employed_usd": 21129000000,
+      "cfo_usd": 5693000000,
+      "ebit_usd": 2482000000,
+      "ebitda_usd": null,
+      "net_debt_usd": 5337000000,
+      "revenue_usd": 18757000000
+    },
+    "2025": {
+      "capex_usd": null,
+      "capital_employed_usd": 20115000000,
+      "cfo_usd": 5913000000,
+      "ebit_usd": -1248000000,
+      "ebitda_usd": null,
+      "net_debt_usd": 5909000000,
+      "revenue_usd": 17311000000
+    }
+  },
+  "hq_city": "Buenos Aires",
+  "hq_coord": [
+    -34.6037,
+    -58.3816
+  ],
+  "id": "ypf",
+  "links": {
+    "ir": "https://www.ypf.com/english/Paginas/Home.aspx",
+    "latest_sec_filing": "https://www.sec.gov/Archives/edgar/data/904851/000119312526126363/d95578d20f.htm",
+    "latest_sec_filing_label": "20-F 2026-03-26",
+    "sec_index": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=904851&type=10-K",
+    "wikipedia": "https://en.wikipedia.org/wiki/YPF"
+  },
+  "name": "YPF",
+  "narrative_md": "**Qué es.** Compañía integrada de energía controlada por el Estado argentino (~51%), líder del upstream nacional y principal operador de Vaca Muerta. Cotiza en NYSE y BYMA.\n\n**Posición en Vaca Muerta.** Es el mayor productor de shale del país; opera bloques insignia como Loma Campana (~100.000 b/d, JV con Chevron) y participa en Bandurria Sur con Shell y Equinor. Bajo la gestión de Horacio Marín ejecuta un plan de eficiencia y sale de campos convencionales maduros para elevar la participación del no convencional del ~50% al ~80%.\n\n**Catalizadores 2025-2026.** Proyecto Argentina LNG (YPF ~36%, junto a Eni y XRG/ADNOC), con FID prevista para el 2S 2026; oleoducto VMOS hacia Punta Colorada; RIGI y expansión de exportaciones de crudo.\n\n**Riesgos.** Macro argentina, control estatal e injerencia política, precios internacionales, ejecución de megaproyectos de GNL y regulación cambiaria.\n\n**Fuentes:** https://oilprice.com/Company-News/Eni-Joins-Vaca-Muerta-Venture-to-Advance-Argentina-LNG-Project.html · https://www.ogj.com/pipelines-transportation/article/55251689/ypf-advances-argentina-lng-pipeline-projects",
+  "provenance": {
+    "financials": {
+      "as_of": "2023-12-31",
+      "fy": 2025,
+      "source": "sec-ifrs-full"
+    },
+    "market": {
+      "as_of": "2026-07-02",
+      "source": "yfinance"
+    },
+    "operational": {
+      "as_of": "2025-12-31",
+      "ref": "https://www.stocktitan.net/sec-filings/YPF/6-k-ypf-sociedad-anonima-current-report-foreign-issuer-faa0b8d36aa6.html",
+      "source": "YPF FY2025 (Form 6-K)"
+    }
+  },
+  "row": {
+    "beta": -0.03,
+    "cagr_cfo_3y_pct": 26.6,
+    "cagr_revenue_3y_pct": 21.3,
+    "canonical_ticker": "YPF",
+    "capex_to_cfo_pct": null,
+    "capex_usd": null,
+    "category": "Vaca Muerta",
+    "cfo_usd": 5913000000,
+    "corp_breakeven_usd_bbl": null,
+    "country": "AR",
+    "dividend_yield_pct": null,
+    "ebitda_usd": null,
+    "enterprise_value_usd": 23590000448,
+    "ev_ebitda": 1.84,
+    "ev_per_1p_boe_usd": 18.37,
+    "ev_per_boed_usd": 44763,
+    "exchange": "NYSE",
+    "fcf_usd": null,
+    "fcf_yield_pct": null,
+    "high_52w": 56.35,
+    "hq_city": "Buenos Aires",
+    "hq_coord": [
+      -34.6037,
+      -58.3816
+    ],
+    "id": "ypf",
+    "is_private": false,
+    "low_52w": 23.57,
+    "market_cap_usd": 17681000448,
+    "name": "YPF",
+    "net_acreage_k": null,
+    "net_debt_to_ebitda": null,
+    "net_debt_usd": 5909000000,
+    "pct_above_52w_low": 91.3,
+    "pct_gas": 40,
+    "pct_liquids": 60,
+    "pct_off_52w_high": -20.0,
+    "pe_ttm": null,
+    "price": 45.09000015258789,
+    "price_currency": "USD",
+    "production_kboed": 527,
+    "realized_vol_1y_pct": 52.2,
+    "reserves_1p_mmboe": 1284,
+    "reserves_2p_mmboe": null,
+    "return_1y_pct": 40.7,
+    "revenue_usd": 17311000000,
+    "roace_pct": -6.1,
+    "rp_years": 6.7,
+    "src": {
+      "financials": {
+        "as_of": "2023-12-31",
+        "fy": 2025,
+        "source": "sec-ifrs-full"
+      },
+      "market": {
+        "as_of": "2026-07-02",
+        "source": "yfinance"
+      },
+      "operational": {
+        "as_of": "2025-12-31",
+        "ref": "https://www.stocktitan.net/sec-filings/YPF/6-k-ypf-sociedad-anonima-current-report-foreign-issuer-faa0b8d36aa6.html",
+        "source": "YPF FY2025 (Form 6-K)"
+      }
+    },
+    "ytd_return_pct": 24.2
+  },
+  "wikidata": {
+    "founded": 1922,
+    "isin": "US9842451000",
+    "label": "YPF",
+    "qid": "Q2006989",
+    "website": "https://www.ypf.com/english/Paginas/Home.aspx",
+    "wikipedia": "https://en.wikipedia.org/wiki/YPF"
+  }
+}

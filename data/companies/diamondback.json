@@ -1,0 +1,161 @@
+{
+  "cagr": {
+    "cfo_3y_pct": 37.2,
+    "revenue_3y_pct": 38.2
+  },
+  "category": "US Shale",
+  "country": "US",
+  "financials_by_year": {
+    "2021": {
+      "capex_usd": null,
+      "capital_employed_usd": 22295000000,
+      "cfo_usd": 2739000000,
+      "ebit_usd": 695000000,
+      "ebitda_usd": 2149000000,
+      "net_debt_usd": 5520000000,
+      "revenue_usd": 3964000000
+    },
+    "2022": {
+      "capex_usd": null,
+      "capital_employed_usd": 16181000000,
+      "cfo_usd": 2118000000,
+      "ebit_usd": -5476000000,
+      "ebitda_usd": -4165000000,
+      "net_debt_usd": 5988000000,
+      "revenue_usd": 2813000000
+    },
+    "2023": {
+      "capex_usd": null,
+      "capital_employed_usd": 21182000000,
+      "cfo_usd": 3944000000,
+      "ebit_usd": 4001000000,
+      "ebitda_usd": 5276000000,
+      "net_debt_usd": 6081000000,
+      "revenue_usd": 6797000000
+    },
+    "2024": {
+      "capex_usd": null,
+      "capital_employed_usd": 26893000000,
+      "cfo_usd": 6325000000,
+      "ebit_usd": 6508000000,
+      "ebitda_usd": 7852000000,
+      "net_debt_usd": 6059000000,
+      "revenue_usd": 9643000000
+    },
+    "2025": {
+      "capex_usd": null,
+      "capital_employed_usd": 62481000000,
+      "cfo_usd": 5920000000,
+      "ebit_usd": 4570000000,
+      "ebitda_usd": 6316000000,
+      "net_debt_usd": 11914000000,
+      "revenue_usd": 8412000000
+    }
+  },
+  "hq_city": "Midland",
+  "hq_coord": [
+    31.9973,
+    -102.0779
+  ],
+  "id": "diamondback",
+  "links": {
+    "ir": "https://www.diamondbackenergy.com",
+    "latest_sec_filing": "https://www.sec.gov/Archives/edgar/data/1539838/000153983826000010/fang-20251231.htm",
+    "latest_sec_filing_label": "10-K 2026-02-25",
+    "sec_index": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1539838&type=10-K",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diamondback_Energy"
+  },
+  "name": "Diamondback Energy",
+  "narrative_md": "**Qué es.** Diamondback Energy es una E&P independiente concentrada casi exclusivamente en el Permian, referente de bajo costo por su eficiencia operativa.\n\n**Posición estratégica.** Es un pure-play del Permian con núcleo en el Midland Basin y presencia en el Delaware. Consolidó su posición con la megacompra de Endeavor y, en 2025, la adquisición de Double Eagle (~US$4.080M) que agregó ~40.000 acres core en el Midland.\n\n**Drivers 2025-2026.** En 2025 produjo ~497 MBo/d de petróleo con ~US$5.900M de flujo libre ajustado. Para 2026 guía petróleo de 520+ MBo/d (~972 MBoe/d totales), capex de ~US$3.900M y meta de flujo libre ≥US$8.300M, con dividendo base de US$1,05 trimestral.\n\n**Riesgos.** Alta exposición al WTI, concentración en una sola cuenca, apalancamiento e inventario de largo plazo.\n\n**Fuentes:** https://ir.diamondbackenergy.com/news-releases/news-release-details/diamondback-energy-inc-announces-midland-basin-acquisition-1 · https://www.sec.gov/Archives/edgar/data/0001539838/000153983826000073/diamondbackex991-5x4x26.htm",
+  "provenance": {
+    "financials": {
+      "as_of": "2024-12-31",
+      "fy": 2025,
+      "source": "sec-us-gaap"
+    },
+    "market": {
+      "as_of": "2026-07-02",
+      "source": "yfinance"
+    },
+    "operational": {
+      "as_of": "2025-12-31",
+      "ref": "https://www.globenewswire.com/news-release/2026/02/23/3243011/22886/en/Diamondback-Energy-Inc-Announces-Fourth-Quarter-and-Full-Year-2025-Financial-and-Operating-Results-Increases-Base-Dividend.html",
+      "source": "Diamondback FY2025 results + 10-K"
+    }
+  },
+  "row": {
+    "beta": 0.39,
+    "cagr_cfo_3y_pct": 37.2,
+    "cagr_revenue_3y_pct": 38.2,
+    "canonical_ticker": "FANG",
+    "capex_to_cfo_pct": null,
+    "capex_usd": null,
+    "category": "US Shale",
+    "cfo_usd": 5920000000,
+    "corp_breakeven_usd_bbl": null,
+    "country": "US",
+    "dividend_yield_pct": 2.56,
+    "ebitda_usd": 6316000000,
+    "enterprise_value_usd": 60291448028,
+    "ev_ebitda": 6.73,
+    "ev_per_1p_boe_usd": 16.66,
+    "ev_per_boed_usd": 65463,
+    "exchange": "NASDAQ",
+    "fcf_usd": null,
+    "fcf_yield_pct": null,
+    "high_52w": 212.52,
+    "hq_city": "Midland",
+    "hq_coord": [
+      31.9973,
+      -102.0779
+    ],
+    "id": "diamondback",
+    "is_private": false,
+    "low_52w": 132.09,
+    "market_cap_usd": 48377448028,
+    "name": "Diamondback Energy",
+    "net_acreage_k": 869,
+    "net_debt_to_ebitda": 1.89,
+    "net_debt_usd": 11914000000,
+    "pct_above_52w_low": 30.2,
+    "pct_gas": 22,
+    "pct_liquids": 78,
+    "pct_off_52w_high": -19.1,
+    "pe_ttm": 175.48,
+    "price": 171.97000122070312,
+    "price_currency": "USD",
+    "production_kboed": 921,
+    "realized_vol_1y_pct": 30.9,
+    "reserves_1p_mmboe": 3618,
+    "reserves_2p_mmboe": null,
+    "return_1y_pct": 24.3,
+    "revenue_usd": 8412000000,
+    "roace_pct": 10.2,
+    "rp_years": 11,
+    "src": {
+      "financials": {
+        "as_of": "2024-12-31",
+        "fy": 2025,
+        "source": "sec-us-gaap"
+      },
+      "market": {
+        "as_of": "2026-07-02",
+        "source": "yfinance"
+      },
+      "operational": {
+        "as_of": "2025-12-31",
+        "ref": "https://www.globenewswire.com/news-release/2026/02/23/3243011/22886/en/Diamondback-Energy-Inc-Announces-Fourth-Quarter-and-Full-Year-2025-Financial-and-Operating-Results-Increases-Base-Dividend.html",
+        "source": "Diamondback FY2025 results + 10-K"
+      }
+    },
+    "ytd_return_pct": 14.2
+  },
+  "wikidata": {
+    "founded": 2007,
+    "isin": "US25278X1090",
+    "label": "Diamondback Energy",
+    "qid": "Q65091423",
+    "website": "https://www.diamondbackenergy.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diamondback_Energy"
+  }
+}

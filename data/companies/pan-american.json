@@ -1,0 +1,114 @@
+{
+  "cagr": {
+    "cfo_3y_pct": null,
+    "revenue_3y_pct": null
+  },
+  "category": "Vaca Muerta",
+  "country": "AR",
+  "financials_by_year": {},
+  "hq_city": "Buenos Aires",
+  "hq_coord": [
+    -34.6037,
+    -58.3816
+  ],
+  "id": "pan-american",
+  "links": {
+    "ir": "https://www.pan-energy.com",
+    "latest_sec_filing": null,
+    "latest_sec_filing_label": null,
+    "sec_index": null,
+    "wikipedia": null
+  },
+  "name": "Pan American Energy",
+  "narrative_md": null,
+  "provenance": {
+    "financials": {
+      "as_of": null,
+      "fy": null,
+      "source": null
+    },
+    "market": {
+      "as_of": null,
+      "source": null
+    },
+    "operational": {
+      "as_of": null,
+      "ref": null,
+      "source": null
+    }
+  },
+  "row": {
+    "beta": null,
+    "cagr_cfo_3y_pct": null,
+    "cagr_revenue_3y_pct": null,
+    "canonical_ticker": null,
+    "capex_to_cfo_pct": null,
+    "capex_usd": null,
+    "category": "Vaca Muerta",
+    "cfo_usd": null,
+    "corp_breakeven_usd_bbl": null,
+    "country": "AR",
+    "dividend_yield_pct": null,
+    "ebitda_usd": null,
+    "enterprise_value_usd": null,
+    "ev_ebitda": null,
+    "ev_per_1p_boe_usd": null,
+    "ev_per_boed_usd": null,
+    "exchange": null,
+    "fcf_usd": null,
+    "fcf_yield_pct": null,
+    "high_52w": null,
+    "hq_city": "Buenos Aires",
+    "hq_coord": [
+      -34.6037,
+      -58.3816
+    ],
+    "id": "pan-american",
+    "is_private": true,
+    "low_52w": null,
+    "market_cap_usd": null,
+    "name": "Pan American Energy",
+    "net_acreage_k": null,
+    "net_debt_to_ebitda": null,
+    "net_debt_usd": null,
+    "pct_above_52w_low": null,
+    "pct_gas": null,
+    "pct_liquids": null,
+    "pct_off_52w_high": null,
+    "pe_ttm": null,
+    "price": null,
+    "price_currency": null,
+    "production_kboed": null,
+    "realized_vol_1y_pct": null,
+    "reserves_1p_mmboe": null,
+    "reserves_2p_mmboe": null,
+    "return_1y_pct": null,
+    "revenue_usd": null,
+    "roace_pct": null,
+    "rp_years": null,
+    "src": {
+      "financials": {
+        "as_of": null,
+        "fy": null,
+        "source": null
+      },
+      "market": {
+        "as_of": null,
+        "source": null
+      },
+      "operational": {
+        "as_of": null,
+        "ref": null,
+        "source": null
+      }
+    },
+    "ytd_return_pct": null
+  },
+  "wikidata": {
+    "founded": 1997,
+    "isin": "USE7S78BAB82",
+    "label": "Pan American Energy",
+    "qid": "Q27778993",
+    "website": "https://www.pan-energy.com"
+  }
+}
