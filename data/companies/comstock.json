@@ -96,7 +96,7 @@
     "country": "US",
     "dividend_yield_pct": null,
     "ebitda_usd": 834505000,
-    "enterprise_value_usd": 7240592543,
+    "enterprise_value_usd": 7233250259,
     "ev_ebitda": 7.31,
     "ev_per_1p_boe_usd": null,
     "ev_per_boed_usd": null,
@@ -112,23 +112,23 @@
     "id": "comstock",
     "is_private": false,
     "low_52w": 12.67,
-    "market_cap_usd": 4295301543,
+    "market_cap_usd": 4287959259,
     "name": "Comstock Resources",
     "net_acreage_k": null,
     "net_debt_to_ebitda": 3.53,
     "net_debt_usd": 2945291000,
-    "pct_above_52w_low": 15.4,
+    "pct_above_52w_low": 15.2,
     "pct_gas": null,
     "pct_liquids": null,
-    "pct_off_52w_high": -46.6,
-    "pe_ttm": 6.62,
-    "price": 14.625,
+    "pct_off_52w_high": -46.7,
+    "pe_ttm": 6.61,
+    "price": 14.600000381469727,
     "price_currency": "USD",
     "production_kboed": null,
     "realized_vol_1y_pct": 57.9,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": -41.1,
+    "return_1y_pct": -41.2,
     "revenue_usd": null,
     "roace_pct": 4.0,
     "rp_years": null,
@@ -148,7 +148,7 @@
         "source": null
       }
     },
-    "ytd_return_pct": -38.0
+    "ytd_return_pct": -38.1
   },
   "wikidata": {}
 }

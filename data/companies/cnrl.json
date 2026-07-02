@@ -66,23 +66,23 @@
     "id": "cnrl",
     "is_private": false,
     "low_52w": 28.74,
-    "market_cap_usd": 82364691401,
+    "market_cap_usd": 82124831250,
     "name": "Canadian Natural Resources",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
-    "pct_above_52w_low": 37.4,
+    "pct_above_52w_low": 37.0,
     "pct_gas": 27,
     "pct_liquids": 73,
-    "pct_off_52w_high": -20.3,
-    "pe_ttm": 11.97,
-    "price": 39.4900016784668,
+    "pct_off_52w_high": -20.6,
+    "pe_ttm": 11.93,
+    "price": 39.375,
     "price_currency": "USD",
     "production_kboed": 1571,
     "realized_vol_1y_pct": 29.4,
     "reserves_1p_mmboe": 15910,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 24.3,
+    "return_1y_pct": 23.9,
     "revenue_usd": null,
     "roace_pct": null,
     "rp_years": 31,
@@ -102,7 +102,7 @@
         "source": "Canadian Natural Q4 & Year-End 2025 results"
       }
     },
-    "ytd_return_pct": 17.4
+    "ytd_return_pct": 17.0
   },
   "wikidata": {
     "employees": 6621,
