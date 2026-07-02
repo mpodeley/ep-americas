@@ -5,9 +5,9 @@
     "dividend_yield_pct": null,
     "enterprise_value_usd": null,
     "ev_ebitda": null,
-    "market_cap_usd": 10896931553,
-    "pe_ttm": 11.38,
-    "price": 35.16999816894531,
+    "market_cap_usd": 10901580085,
+    "pe_ttm": 11.39,
+    "price": 35.185001373291016,
     "price_currency": "USD"
   },
   "apa": {
@@ -16,18 +16,18 @@
     "dividend_yield_pct": 3.14,
     "enterprise_value_usd": 16450096128,
     "ev_ebitda": 3.16,
-    "market_cap_usd": 11427693086,
-    "pe_ttm": 7.54,
-    "price": 32.33000183105469,
+    "market_cap_usd": 11452435894,
+    "pe_ttm": 7.55,
+    "price": 32.400001525878906,
     "price_currency": "USD"
   },
   "arc-resources": {
     "as_of": "2026-07-02",
     "beta": 0.13,
     "dividend_yield_pct": 2.82,
-    "enterprise_value_usd": 14530456709,
+    "enterprise_value_usd": 14539480254,
     "ev_ebitda": 5.78,
-    "market_cap_usd": 11905294216,
+    "market_cap_usd": 11912687512,
     "pe_ttm": 11.78,
     "price": 29.799999237060547,
     "price_currency": "CAD"
@@ -38,20 +38,20 @@
     "dividend_yield_pct": 1.64,
     "enterprise_value_usd": 2216444928,
     "ev_ebitda": 3.92,
-    "market_cap_usd": 2811181452,
+    "market_cap_usd": 2807547216,
     "pe_ttm": null,
-    "price": 3.944999933242798,
+    "price": 3.9398999214172363,
     "price_currency": "USD"
   },
   "brava": {
     "as_of": "2026-07-02",
     "beta": -0.16,
     "dividend_yield_pct": 67.0,
-    "enterprise_value_usd": 4478106976,
+    "enterprise_value_usd": 4472669329,
     "ev_ebitda": 5.45,
-    "market_cap_usd": 1645860217,
-    "pe_ttm": 37.47,
-    "price": 18.360000610351562,
+    "market_cap_usd": 1629536114,
+    "pe_ttm": 37.14,
+    "price": 18.200000762939453,
     "price_currency": "BRL"
   },
   "cenovus": {
@@ -60,9 +60,9 @@
     "dividend_yield_pct": 2.53,
     "enterprise_value_usd": 57044799488,
     "ev_ebitda": 5.34,
-    "market_cap_usd": 46070353253,
-    "pe_ttm": 13.96,
-    "price": 24.704999923706055,
+    "market_cap_usd": 46061030723,
+    "pe_ttm": 13.95,
+    "price": 24.700000762939453,
     "price_currency": "USD"
   },
   "chevron": {
@@ -71,9 +71,9 @@
     "dividend_yield_pct": 4.3,
     "enterprise_value_usd": 373397323776,
     "ev_ebitda": 9.85,
-    "market_cap_usd": 334976795121,
-    "pe_ttm": 29.36,
-    "price": 168.19500732421875,
+    "market_cap_usd": 335325300412,
+    "pe_ttm": 29.38,
+    "price": 168.3699951171875,
     "price_currency": "USD"
   },
   "chord": {
@@ -82,9 +82,9 @@
     "dividend_yield_pct": 4.66,
     "enterprise_value_usd": 7560055808,
     "ev_ebitda": 3.52,
-    "market_cap_usd": 6361244567,
+    "market_cap_usd": 6366874399,
     "pe_ttm": null,
-    "price": 112.98999786376953,
+    "price": 113.08999633789062,
     "price_currency": "USD"
   },
   "cnrl": {
@@ -93,9 +93,9 @@
     "dividend_yield_pct": 4.52,
     "enterprise_value_usd": 100180664320,
     "ev_ebitda": 6.77,
-    "market_cap_usd": 82135262028,
-    "pe_ttm": 11.93,
-    "price": 39.380001068115234,
+    "market_cap_usd": 82239545937,
+    "pe_ttm": 11.95,
+    "price": 39.43000030517578,
     "price_currency": "USD"
   },
   "comstock": {
@@ -104,9 +104,9 @@
     "dividend_yield_pct": null,
     "enterprise_value_usd": 7640002560,
     "ev_ebitda": 7.31,
-    "market_cap_usd": 4411311531,
-    "pe_ttm": 6.8,
-    "price": 15.020000457763672,
+    "market_cap_usd": 4396626683,
+    "pe_ttm": 6.77,
+    "price": 14.970000267028809,
     "price_currency": "USD"
   },
   "conocophillips": {
@@ -115,9 +115,9 @@
     "dividend_yield_pct": 3.26,
     "enterprise_value_usd": 142716305408,
     "ev_ebitda": 6.11,
-    "market_cap_usd": 126446736102,
-    "pe_ttm": 17.6,
-    "price": 103.79000091552734,
+    "market_cap_usd": 126562475520,
+    "pe_ttm": 17.61,
+    "price": 103.88500213623047,
     "price_currency": "USD"
   },
   "coterra": {
@@ -137,9 +137,9 @@
     "dividend_yield_pct": 2.58,
     "enterprise_value_usd": 31950350336,
     "ev_ebitda": 4.75,
-    "market_cap_usd": 46678225148,
-    "pe_ttm": 11.27,
-    "price": 40.470001220703125,
+    "market_cap_usd": 46776263356,
+    "pe_ttm": 11.3,
+    "price": 40.55500030517578,
     "price_currency": "USD"
   },
   "diamondback": {
@@ -148,9 +148,9 @@
     "dividend_yield_pct": 2.56,
     "enterprise_value_usd": 68265635840,
     "ev_ebitda": 6.73,
-    "market_cap_usd": 48556080427,
-    "pe_ttm": 176.13,
-    "price": 172.60499572753906,
+    "market_cap_usd": 48608122700,
+    "pe_ttm": 176.32,
+    "price": 172.7899932861328,
     "price_currency": "USD"
   },
   "ecopetrol": {
@@ -159,9 +159,9 @@
     "dividend_yield_pct": 4.49,
     "enterprise_value_usd": null,
     "ev_ebitda": null,
-    "market_cap_usd": 30344327022,
-    "pe_ttm": 10.54,
-    "price": 14.760100364685059,
+    "market_cap_usd": 30467470145,
+    "pe_ttm": 10.59,
+    "price": 14.819999694824219,
     "price_currency": "USD"
   },
   "eog": {
@@ -170,9 +170,9 @@
     "dividend_yield_pct": 3.17,
     "enterprise_value_usd": 72947703808,
     "ev_ebitda": 5.8,
-    "market_cap_usd": 69092573562,
-    "pe_ttm": 12.75,
-    "price": 129.72000122070312,
+    "market_cap_usd": 69132519076,
+    "pe_ttm": 12.76,
+    "price": 129.7949981689453,
     "price_currency": "USD"
   },
   "eqt": {
@@ -181,9 +181,9 @@
     "dividend_yield_pct": 1.26,
     "enterprise_value_usd": 42159214592,
     "ev_ebitda": 5.5,
-    "market_cap_usd": 32868868423,
-    "pe_ttm": 9.97,
-    "price": 52.54999923706055,
+    "market_cap_usd": 32806321577,
+    "pe_ttm": 9.95,
+    "price": 52.45000076293945,
     "price_currency": "USD"
   },
   "expand-energy": {
@@ -192,9 +192,9 @@
     "dividend_yield_pct": 3.56,
     "enterprise_value_usd": 24266727424,
     "ev_ebitda": 3.27,
-    "market_cap_usd": 21584422536,
+    "market_cap_usd": 21583227049,
     "pe_ttm": 6.71,
-    "price": 90.2249984741211,
+    "price": 90.22000122070312,
     "price_currency": "USD"
   },
   "exxonmobil": {
@@ -203,20 +203,20 @@
     "dividend_yield_pct": 3.02,
     "enterprise_value_usd": 610714386432,
     "ev_ebitda": 10.9,
-    "market_cap_usd": 570798614361,
-    "pe_ttm": 23.18,
-    "price": 137.70950317382812,
+    "market_cap_usd": 572023453331,
+    "pe_ttm": 23.23,
+    "price": 138.0050048828125,
     "price_currency": "USD"
   },
   "frontera": {
     "as_of": "2026-07-02",
     "beta": 0.83,
     "dividend_yield_pct": 2.94,
-    "enterprise_value_usd": 517726555,
+    "enterprise_value_usd": 518048068,
     "ev_ebitda": 2.77,
-    "market_cap_usd": 421634038,
+    "market_cap_usd": 420912460,
     "pe_ttm": null,
-    "price": 8.579999923706055,
+    "price": 8.5600004196167,
     "price_currency": "CAD"
   },
   "geopark": {
@@ -225,9 +225,9 @@
     "dividend_yield_pct": 1.02,
     "enterprise_value_usd": 943794816,
     "ev_ebitda": 3.59,
-    "market_cap_usd": 591850121,
-    "pe_ttm": 8.63,
-    "price": 9.149999618530273,
+    "market_cap_usd": 591235661,
+    "pe_ttm": 8.62,
+    "price": 9.14050006866455,
     "price_currency": "USD"
   },
   "gran-tierra": {
@@ -236,9 +236,9 @@
     "dividend_yield_pct": null,
     "enterprise_value_usd": 707468928,
     "ev_ebitda": 3.94,
-    "market_cap_usd": 211805733,
+    "market_cap_usd": 211452143,
     "pe_ttm": null,
-    "price": 5.989999771118164,
+    "price": 5.980000019073486,
     "price_currency": "USD"
   },
   "imperial-oil": {
@@ -247,9 +247,9 @@
     "dividend_yield_pct": 2.25,
     "enterprise_value_usd": 56860954624,
     "ev_ebitda": 8.63,
-    "market_cap_usd": 55419658745,
-    "pe_ttm": 26.79,
-    "price": 111.45500183105469,
+    "market_cap_usd": 55442033544,
+    "pe_ttm": 26.8,
+    "price": 111.5,
     "price_currency": "USD"
   },
   "matador": {
@@ -258,9 +258,9 @@
     "dividend_yield_pct": 3.06,
     "enterprise_value_usd": 9957899264,
     "ev_ebitda": 4.75,
-    "market_cap_usd": 6189042853,
-    "pe_ttm": 12.85,
-    "price": 49.84000015258789,
+    "market_cap_usd": 6213878593,
+    "pe_ttm": 12.9,
+    "price": 50.040000915527344,
     "price_currency": "USD"
   },
   "occidental": {
@@ -269,9 +269,9 @@
     "dividend_yield_pct": 2.17,
     "enterprise_value_usd": 69397790720,
     "ev_ebitda": 6.41,
-    "market_cap_usd": 48190052022,
-    "pe_ttm": 65.47,
-    "price": 48.45000076293945,
+    "market_cap_usd": 48269620825,
+    "pe_ttm": 65.58,
+    "price": 48.529998779296875,
     "price_currency": "USD"
   },
   "ovintiv": {
@@ -280,9 +280,9 @@
     "dividend_yield_pct": 2.31,
     "enterprise_value_usd": 22391347200,
     "ev_ebitda": 5.1,
-    "market_cap_usd": 14840592705,
-    "pe_ttm": 17.37,
-    "price": 52.810001373291016,
+    "market_cap_usd": 14857453135,
+    "pe_ttm": 17.39,
+    "price": 52.869998931884766,
     "price_currency": "USD"
   },
   "pampa": {
@@ -300,11 +300,11 @@
     "as_of": "2026-07-02",
     "beta": 0.47,
     "dividend_yield_pct": 7.2,
-    "enterprise_value_usd": 1508206881,
+    "enterprise_value_usd": 1509143491,
     "ev_ebitda": 5.05,
-    "market_cap_usd": 1432620570,
-    "pe_ttm": 8.03,
-    "price": 21.1200008392334,
+    "market_cap_usd": 1431134513,
+    "pe_ttm": 8.02,
+    "price": 21.084999084472656,
     "price_currency": "CAD"
   },
   "permian-resources": {
@@ -313,9 +313,9 @@
     "dividend_yield_pct": 3.46,
     "enterprise_value_usd": 18545803264,
     "ev_ebitda": 5.21,
-    "market_cap_usd": 15163288437,
-    "pe_ttm": 20.35,
-    "price": 18.110000610351562,
+    "market_cap_usd": 15226084088,
+    "pe_ttm": 20.43,
+    "price": 18.184999465942383,
     "price_currency": "USD"
   },
   "petrobras": {
@@ -324,31 +324,31 @@
     "dividend_yield_pct": 11.02,
     "enterprise_value_usd": 428319408128,
     "ev_ebitda": 2.1,
-    "market_cap_usd": 105204286086,
-    "pe_ttm": 5.2,
-    "price": 16.325000762939453,
+    "market_cap_usd": 105098590159,
+    "pe_ttm": 5.19,
+    "price": 16.3085994720459,
     "price_currency": "USD"
   },
   "petroreconcavo": {
     "as_of": "2026-07-02",
     "beta": -0.18,
     "dividend_yield_pct": 13.85,
-    "enterprise_value_usd": 858330846,
+    "enterprise_value_usd": 857288598,
     "ev_ebitda": 3.36,
-    "market_cap_usd": 556378591,
-    "pe_ttm": 5.38,
-    "price": 9.84000015258789,
+    "market_cap_usd": 553444042,
+    "pe_ttm": 5.36,
+    "price": 9.800000190734863,
     "price_currency": "BRL"
   },
   "prio": {
     "as_of": "2026-07-02",
     "beta": 0.13,
     "dividend_yield_pct": null,
-    "enterprise_value_usd": 12817174594,
+    "enterprise_value_usd": 12801611039,
     "ev_ebitda": 6.83,
-    "market_cap_usd": 8142587555,
-    "pe_ttm": 15.96,
-    "price": 52.66999816894531,
+    "market_cap_usd": 8114171361,
+    "pe_ttm": 15.92,
+    "price": 52.54999923706055,
     "price_currency": "BRL"
   },
   "range-resources": {
@@ -357,9 +357,9 @@
     "dividend_yield_pct": 1.08,
     "enterprise_value_usd": 9689439232,
     "ev_ebitda": 5.74,
-    "market_cap_usd": 8880602279,
+    "market_cap_usd": 8879424815,
     "pe_ttm": 9.97,
-    "price": 37.689998626708984,
+    "price": 37.685001373291016,
     "price_currency": "USD"
   },
   "sm-energy": {
@@ -368,9 +368,9 @@
     "dividend_yield_pct": 3.42,
     "enterprise_value_usd": 14277734400,
     "ev_ebitda": 7.05,
-    "market_cap_usd": 6316179363,
-    "pe_ttm": 11.12,
-    "price": 26.344999313354492,
+    "market_cap_usd": 6331763157,
+    "pe_ttm": 11.14,
+    "price": 26.40999984741211,
     "price_currency": "USD"
   },
   "suncor": {
@@ -379,9 +379,9 @@
     "dividend_yield_pct": 3.15,
     "enterprise_value_usd": 74793517056,
     "ev_ebitda": 4.8,
-    "market_cap_usd": 64020005589,
-    "pe_ttm": 14.61,
-    "price": 54.220001220703125,
+    "market_cap_usd": 64161693750,
+    "pe_ttm": 14.65,
+    "price": 54.34000015258789,
     "price_currency": "USD"
   },
   "tourmaline": {
@@ -390,9 +390,9 @@
     "dividend_yield_pct": 3.37,
     "enterprise_value_usd": null,
     "ev_ebitda": null,
-    "market_cap_usd": 16174052849,
-    "pe_ttm": 32.63,
-    "price": 59.060001373291016,
+    "market_cap_usd": 16197798275,
+    "pe_ttm": 32.66,
+    "price": 59.11000061035156,
     "price_currency": "CAD"
   },
   "vista": {
@@ -401,9 +401,9 @@
     "dividend_yield_pct": null,
     "enterprise_value_usd": 9749769216,
     "ev_ebitda": 5.51,
-    "market_cap_usd": 6853763537,
-    "pe_ttm": 8.97,
-    "price": 61.5004997253418,
+    "market_cap_usd": 6881568447,
+    "pe_ttm": 9.0,
+    "price": 61.75,
     "price_currency": "USD"
   },
   "ypf": {
@@ -412,9 +412,9 @@
     "dividend_yield_pct": null,
     "enterprise_value_usd": 12875438489600,
     "ev_ebitda": 1.84,
-    "market_cap_usd": 17684921058,
+    "market_cap_usd": 17717271704,
     "pe_ttm": null,
-    "price": 45.099998474121094,
+    "price": 45.182498931884766,
     "price_currency": "USD"
   }
 }
