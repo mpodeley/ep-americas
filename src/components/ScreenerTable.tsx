@@ -2,6 +2,7 @@ import { useMemo, useState } from 'react'
 import type { Company, Family } from '../types'
 import { colors, categoryColor, radius, space, badge } from '../theme'
 import { usd, num, pct, price, leverage, evPerBoed, usdBbl, isStale, DASH } from '../utils/format'
+import { goToCompany } from '../hooks/useHashRoute'
 
 interface Col {
   key: keyof Company
@@ -50,6 +51,7 @@ const COLS: Col[] = [
   { key: 'fcf_yield_pct', label: 'FCF yield', family: 'ratios', numeric: true, fmt: (c) => pct(c.fcf_yield_pct, 1), title: 'FCF / market cap (equity yield)' },
   { key: 'capex_to_cfo_pct', label: 'Capex/CFO', family: 'ratios', numeric: true, fmt: (c) => pct(c.capex_to_cfo_pct, 0), title: 'Reinversión (>100% = sobre-inversión)' },
   { key: 'roace_pct', label: 'ROACE', family: 'ratios', numeric: true, fmt: (c) => pct(c.roace_pct, 1), title: 'Retorno sobre capital empleado medio' },
+  { key: 'cagr_revenue_3y_pct', label: 'CAGR ing.', family: 'ratios', numeric: true, fmt: (c) => pct(c.cagr_revenue_3y_pct, 1), title: 'Crecimiento anual compuesto de ingresos (SEC)' },
 ]
 
 function cmp(a: unknown, b: unknown, dir: 1 | -1): number {
@@ -117,7 +119,7 @@ export default function ScreenerTable({ companies, families, sourceDate }: Props
         </thead>
         <tbody>
           {sorted.map((c, i) => (
-            <tr key={c.id} style={{ background: i % 2 ? colors.bg : colors.surface }}>
+            <tr key={c.id} onClick={() => goToCompany(c.id)} style={{ background: i % 2 ? colors.bg : colors.surface, cursor: 'pointer' }}>
               {cols.map((col) => {
                 const stale = col.family === 'operational' && isStale(c.src.operational.as_of, sourceDate)
                 const isName = col.key === 'name'

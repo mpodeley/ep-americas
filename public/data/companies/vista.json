@@ -1,0 +1,150 @@
+{
+  "cagr": {
+    "cfo_3y_pct": 72.0,
+    "revenue_3y_pct": 43.1
+  },
+  "category": "Vaca Muerta",
+  "country": "MX",
+  "financials_by_year": {
+    "2020": {
+      "capex_usd": 240315000,
+      "capital_employed_usd": 952024000,
+      "cfo_usd": 134258000,
+      "ebit_usd": 14617000,
+      "ebitda_usd": 167618000,
+      "net_debt_usd": 293715000,
+      "revenue_usd": 415976000
+    },
+    "2021": {
+      "capex_usd": 240315000,
+      "capital_employed_usd": 1038874000,
+      "cfo_usd": 134258000,
+      "ebit_usd": 14617000,
+      "ebitda_usd": 167618000,
+      "net_debt_usd": 146612000,
+      "revenue_usd": 415976000
+    },
+    "2022": {
+      "capex_usd": 153257000,
+      "capital_employed_usd": 1298020000,
+      "cfo_usd": 93779000,
+      "ebit_usd": -70008000,
+      "ebitda_usd": 77666000,
+      "net_debt_usd": 132738000,
+      "revenue_usd": 273938000
+    },
+    "2023": {
+      "capex_usd": 321286000,
+      "capital_employed_usd": 1629635000,
+      "cfo_usd": 401393000,
+      "ebit_usd": 210553000,
+      "ebitda_usd": 401866000,
+      "net_debt_usd": 233216000,
+      "revenue_usd": 665310000
+    },
+    "2024": {
+      "capex_usd": 479025000,
+      "capital_employed_usd": 2238617000,
+      "cfo_usd": 689771000,
+      "ebit_usd": 529147000,
+      "ebitda_usd": 764009000,
+      "net_debt_usd": 341579000,
+      "revenue_usd": 1187660000
+    }
+  },
+  "hq_city": "Ciudad de México",
+  "hq_coord": [
+    19.4326,
+    -99.1332
+  ],
+  "id": "vista",
+  "links": {
+    "ir": null,
+    "latest_sec_filing": "https://www.sec.gov/Archives/edgar/data/1762506/000119312526187099/d936340d20f.htm",
+    "latest_sec_filing_label": "20-F 2026-04-28",
+    "sec_index": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1762506&type=10-K",
+    "wikipedia": null
+  },
+  "name": "Vista Energy",
+  "narrative_md": "**Qué es.** Productor independiente de petróleo y gas fundado por Miguel Galuccio, con foco casi exclusivo en shale de Vaca Muerta. Es una sociedad de matriz mexicana (Vista Energy S.A.B.) que cotiza en NYSE y en la bolsa mexicana; operativamente es una de las mayores independientes de Argentina.\n\n**Posición en Vaca Muerta.** Núcleo en Bajada del Palo. En abril de 2025 adquirió el 50% de La Amarga Chica (vía compra de Petronas Argentina, ~US$1.200 M), uno de los bloques de crudo más productivos del país, en sociedad con YPF.\n\n**Catalizadores 2025-2026.** Fuerte crecimiento: producción ~115.000 boe/d en 2025 (+66% i.a.), con meta de superar 200.000 boe/d hacia 2028 y capex anual de ~US$1.500-1.600 M; capacidad exportadora vía nuevos oleoductos y RIGI.\n\n**Riesgos.** Concentración en un solo yacimiento, apalancamiento por la adquisición, precios del crudo, ejecución y macro argentina.\n\n**Fuentes:** https://www.ogj.com/general-interest/companies/article/55284700/vista-acquires-stake-in-la-amarga-chica-from-petronas-enters-partnership-with-ypf · https://www.theglobeandmail.com/investing/markets/stocks/VIST/pressreleases/455180/",
+  "provenance": {
+    "financials": {
+      "as_of": "2023-12-31",
+      "fy": 2024,
+      "source": "sec-ifrs-full"
+    },
+    "market": {
+      "as_of": "2026-07-02",
+      "source": "yfinance"
+    },
+    "operational": {
+      "as_of": "2025-12-31",
+      "ref": "https://www.ogj.com/exploration-development/reserves/news/55357224/vista-energy-increases-reserves-by-57-and-production-by-59-in-2025",
+      "source": "Vista Energy FY2025 reservas (OGJ + SEC 6-K)"
+    }
+  },
+  "row": {
+    "beta": -0.51,
+    "cagr_cfo_3y_pct": 72.0,
+    "cagr_revenue_3y_pct": 43.1,
+    "canonical_ticker": "VIST",
+    "capex_to_cfo_pct": 69,
+    "capex_usd": 479025000,
+    "category": "Vaca Muerta",
+    "cfo_usd": 689771000,
+    "corp_breakeven_usd_bbl": null,
+    "country": "MX",
+    "dividend_yield_pct": null,
+    "ebitda_usd": 764009000,
+    "enterprise_value_usd": 7237635079,
+    "ev_ebitda": 5.51,
+    "ev_per_1p_boe_usd": 12.31,
+    "ev_per_boed_usd": 62936,
+    "exchange": "NYSE",
+    "fcf_usd": 210746000,
+    "fcf_yield_pct": 3.1,
+    "hq_city": "Ciudad de México",
+    "hq_coord": [
+      19.4326,
+      -99.1332
+    ],
+    "id": "vista",
+    "is_private": false,
+    "market_cap_usd": 6896056079,
+    "name": "Vista Energy",
+    "net_acreage_k": 228,
+    "net_debt_to_ebitda": 0.45,
+    "net_debt_usd": 341579000,
+    "pct_gas": 13,
+    "pct_liquids": 87,
+    "pe_ttm": 9.02,
+    "price": 61.880001068115234,
+    "price_currency": "USD",
+    "production_kboed": 115,
+    "reserves_1p_mmboe": 588,
+    "reserves_2p_mmboe": null,
+    "revenue_usd": 1187660000,
+    "roace_pct": 27.4,
+    "rp_years": 14,
+    "src": {
+      "financials": {
+        "as_of": "2023-12-31",
+        "fy": 2024,
+        "source": "sec-ifrs-full"
+      },
+      "market": {
+        "as_of": "2026-07-02",
+        "source": "yfinance"
+      },
+      "operational": {
+        "as_of": "2025-12-31",
+        "ref": "https://www.ogj.com/exploration-development/reserves/news/55357224/vista-energy-increases-reserves-by-57-and-production-by-59-in-2025",
+        "source": "Vista Energy FY2025 reservas (OGJ + SEC 6-K)"
+      }
+    }
+  },
+  "wikidata": {
+    "label": "Vista Energy",
+    "qid": "Q99546848"
+  }
+}

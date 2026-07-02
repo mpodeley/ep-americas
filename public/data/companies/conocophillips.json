@@ -1,0 +1,155 @@
+{
+  "cagr": {
+    "cfo_3y_pct": -1.3,
+    "revenue_3y_pct": -0.9
+  },
+  "category": "Major",
+  "country": "US",
+  "financials_by_year": {
+    "2021": {
+      "capex_usd": 6636000000,
+      "capital_employed_usd": 65148000000,
+      "cfo_usd": 11104000000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 36670000000
+    },
+    "2022": {
+      "capex_usd": 4715000000,
+      "capital_employed_usd": 50597000000,
+      "cfo_usd": 4802000000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 18784000000
+    },
+    "2023": {
+      "capex_usd": null,
+      "capital_employed_usd": 77814000000,
+      "cfo_usd": 16996000000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 45828000000
+    },
+    "2024": {
+      "capex_usd": null,
+      "capital_employed_usd": 83824000000,
+      "cfo_usd": 28314000000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 78494000000
+    },
+    "2025": {
+      "capex_usd": null,
+      "capital_employed_usd": 83800000000,
+      "cfo_usd": 19965000000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 56141000000
+    }
+  },
+  "hq_city": "Houston",
+  "hq_coord": [
+    29.7604,
+    -95.3698
+  ],
+  "id": "conocophillips",
+  "links": {
+    "ir": "https://www.conocophillips.com/",
+    "latest_sec_filing": "https://www.sec.gov/Archives/edgar/data/1163165/000116316526000009/cop-20251231.htm",
+    "latest_sec_filing_label": "10-K 2026-02-17",
+    "sec_index": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1163165&type=10-K",
+    "wikipedia": "https://en.wikipedia.org/wiki/ConocoPhillips"
+  },
+  "name": "ConocoPhillips",
+  "narrative_md": null,
+  "provenance": {
+    "financials": {
+      "as_of": "2024-12-31",
+      "fy": 2025,
+      "source": "sec-us-gaap"
+    },
+    "market": {
+      "as_of": "2026-07-02",
+      "source": "yfinance"
+    },
+    "operational": {
+      "as_of": null,
+      "ref": null,
+      "source": null
+    }
+  },
+  "row": {
+    "beta": 0.11,
+    "cagr_cfo_3y_pct": -1.3,
+    "cagr_revenue_3y_pct": -0.9,
+    "canonical_ticker": "COP",
+    "capex_to_cfo_pct": null,
+    "capex_usd": null,
+    "category": "Major",
+    "cfo_usd": 19965000000,
+    "corp_breakeven_usd_bbl": null,
+    "country": "US",
+    "dividend_yield_pct": 3.26,
+    "ebitda_usd": null,
+    "enterprise_value_usd": 142716305408,
+    "ev_ebitda": 6.11,
+    "ev_per_1p_boe_usd": null,
+    "ev_per_boed_usd": null,
+    "exchange": "NYSE",
+    "fcf_usd": null,
+    "fcf_yield_pct": null,
+    "hq_city": "Houston",
+    "hq_coord": [
+      29.7604,
+      -95.3698
+    ],
+    "id": "conocophillips",
+    "is_private": false,
+    "market_cap_usd": 126848775355,
+    "name": "ConocoPhillips",
+    "net_acreage_k": null,
+    "net_debt_to_ebitda": null,
+    "net_debt_usd": null,
+    "pct_gas": null,
+    "pct_liquids": null,
+    "pe_ttm": 17.65,
+    "price": 104.12000274658203,
+    "price_currency": "USD",
+    "production_kboed": null,
+    "reserves_1p_mmboe": null,
+    "reserves_2p_mmboe": null,
+    "revenue_usd": 56141000000,
+    "roace_pct": null,
+    "rp_years": null,
+    "src": {
+      "financials": {
+        "as_of": "2024-12-31",
+        "fy": 2025,
+        "source": "sec-us-gaap"
+      },
+      "market": {
+        "as_of": "2026-07-02",
+        "source": "yfinance"
+      },
+      "operational": {
+        "as_of": null,
+        "ref": null,
+        "source": null
+      }
+    }
+  },
+  "wikidata": {
+    "employees": 39000,
+    "founded": 1875,
+    "isin": "US20825C1045",
+    "label": "ConocoPhillips",
+    "qid": "Q214763",
+    "website": "https://www.conocophillips.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/ConocoPhillips"
+  }
+}

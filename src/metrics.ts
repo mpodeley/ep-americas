@@ -79,7 +79,9 @@ export const METRICS: MetricDef[] = [
   { key: 'capex_to_cfo_pct', label: 'Capex/CFO', family: 'ratios', unit: '%', source: 'Derivado', cadence: 'Anual',
     formula: '100 × capex / CFO', definition: 'Tasa de reinversión. >100% = invierte más que su caja operativa.' },
   { key: 'roace_pct', label: 'ROACE', family: 'ratios', unit: '%', source: 'Derivado (SEC)', cadence: 'Anual',
-    formula: '100 × EBIT / capital empleado medio', definition: 'Retorno sobre capital empleado medio. Requiere EBIT y capital empleado de SEC.' },
+    formula: '100 × EBIT / capital empleado medio', definition: 'Retorno sobre capital empleado medio (EBIT / promedio de activos − pasivos corrientes de 2 años).' },
+  { key: 'cagr_revenue_3y_pct', label: 'CAGR ingresos', family: 'ratios', unit: '%', source: 'Derivado (SEC)', cadence: 'Anual',
+    formula: '(últ/prim)^(1/n) − 1', definition: 'Crecimiento anual compuesto de ingresos sobre la serie SEC disponible (~3-4 años). Null si la base es ≤ 0.' },
 ]
 
 // Honest limitations, shown in the Fuentes tab.

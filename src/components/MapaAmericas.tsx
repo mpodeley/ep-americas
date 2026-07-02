@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from 'react'
 import type { Company } from '../types'
 import { colors, categoryColor, radius, space } from '../theme'
 import { usd } from '../utils/format'
+import { goToCompany } from '../hooks/useHashRoute'
 
 // Equirectangular (plate carrée) window over the Americas. Mid-lat ≈ equator so
 // lon/lat distortion is mild; we keep equal pixels-per-degree on both axes.
@@ -82,6 +83,7 @@ export default function MapaAmericas({ companies }: { companies: Company[] }) {
               fill={categoryColor(c.category)} fillOpacity={0.85}
               stroke={hover?.id === c.id ? colors.textPrimary : colors.bg} strokeWidth={hover?.id === c.id ? 1.5 : 0.6}
               style={{ cursor: 'pointer' }}
+              onClick={() => goToCompany(c.id)}
               onMouseEnter={() => setHover(c)} onMouseLeave={() => setHover((h) => (h?.id === c.id ? null : h))}>
               <title>{c.name}</title>
             </circle>

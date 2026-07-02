@@ -1,0 +1,154 @@
+{
+  "cagr": {
+    "cfo_3y_pct": 5.8,
+    "revenue_3y_pct": 4.1
+  },
+  "category": "US Shale",
+  "country": "US",
+  "financials_by_year": {
+    "2021": {
+      "capex_usd": 2581000,
+      "capital_employed_usd": 4392692000,
+      "cfo_usd": 823567000,
+      "ebit_usd": -69968000,
+      "ebitda_usd": null,
+      "net_debt_usd": 2214309000,
+      "revenue_usd": 1590105000
+    },
+    "2022": {
+      "capex_usd": null,
+      "capital_employed_usd": 4344650000,
+      "cfo_usd": 790944000,
+      "ebit_usd": -1068950000,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 1126673000
+    },
+    "2023": {
+      "capex_usd": 3321000,
+      "capital_employed_usd": 5117455000,
+      "cfo_usd": 1159772000,
+      "ebit_usd": 209123000,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 2622894000
+    },
+    "2024": {
+      "capex_usd": 7000,
+      "capital_employed_usd": 5746173000,
+      "cfo_usd": 1686406000,
+      "ebit_usd": 1579481000,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 3358647000
+    },
+    "2025": {
+      "capex_usd": 110000000,
+      "capital_employed_usd": 7787000000,
+      "cfo_usd": 1574000000,
+      "ebit_usd": 987000000,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 2374000000
+    }
+  },
+  "hq_city": "Denver",
+  "hq_coord": [
+    39.7392,
+    -104.9903
+  ],
+  "id": "sm-energy",
+  "links": {
+    "ir": "http://www.sm-energy.com",
+    "latest_sec_filing": "https://www.sec.gov/Archives/edgar/data/893538/000089353826000032/sm-20251231.htm",
+    "latest_sec_filing_label": "10-K 2026-02-26",
+    "sec_index": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=893538&type=10-K",
+    "wikipedia": "https://en.wikipedia.org/wiki/SM_Energy"
+  },
+  "name": "SM Energy",
+  "narrative_md": null,
+  "provenance": {
+    "financials": {
+      "as_of": "2024-12-31",
+      "fy": 2025,
+      "source": "sec-us-gaap"
+    },
+    "market": {
+      "as_of": "2026-07-02",
+      "source": "yfinance"
+    },
+    "operational": {
+      "as_of": null,
+      "ref": null,
+      "source": null
+    }
+  },
+  "row": {
+    "beta": 0.71,
+    "cagr_cfo_3y_pct": 5.8,
+    "cagr_revenue_3y_pct": 4.1,
+    "canonical_ticker": "SM",
+    "capex_to_cfo_pct": 7,
+    "capex_usd": 110000000,
+    "category": "US Shale",
+    "cfo_usd": 1574000000,
+    "corp_breakeven_usd_bbl": null,
+    "country": "US",
+    "dividend_yield_pct": 3.42,
+    "ebitda_usd": null,
+    "enterprise_value_usd": 14277734400,
+    "ev_ebitda": 7.05,
+    "ev_per_1p_boe_usd": null,
+    "ev_per_boed_usd": null,
+    "exchange": "NYSE",
+    "fcf_usd": 1464000000,
+    "fcf_yield_pct": 23.1,
+    "hq_city": "Denver",
+    "hq_coord": [
+      39.7392,
+      -104.9903
+    ],
+    "id": "sm-energy",
+    "is_private": false,
+    "market_cap_usd": 6336558241,
+    "name": "SM Energy",
+    "net_acreage_k": null,
+    "net_debt_to_ebitda": null,
+    "net_debt_usd": null,
+    "pct_gas": null,
+    "pct_liquids": null,
+    "pe_ttm": 11.15,
+    "price": 26.43000030517578,
+    "price_currency": "USD",
+    "production_kboed": null,
+    "reserves_1p_mmboe": null,
+    "reserves_2p_mmboe": null,
+    "revenue_usd": 2374000000,
+    "roace_pct": 14.6,
+    "rp_years": null,
+    "src": {
+      "financials": {
+        "as_of": "2024-12-31",
+        "fy": 2025,
+        "source": "sec-us-gaap"
+      },
+      "market": {
+        "as_of": "2026-07-02",
+        "source": "yfinance"
+      },
+      "operational": {
+        "as_of": null,
+        "ref": null,
+        "source": null
+      }
+    }
+  },
+  "wikidata": {
+    "founded": 1908,
+    "isin": "US78454L1008",
+    "label": "SM Energy",
+    "qid": "Q16984687",
+    "website": "http://www.sm-energy.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/SM_Energy"
+  }
+}

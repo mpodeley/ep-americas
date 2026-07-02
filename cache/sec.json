@@ -1,262 +1,1553 @@
 {
   "antero": {
-    "as_of": "2025-12-31",
-    "capex_usd": 943971000,
-    "cfo_usd": 1630930000,
-    "ebitda_usd": 1633321000,
+    "as_of": "2024-12-31",
+    "cagr_cfo_3y_pct": 11.6,
+    "cagr_revenue_3y_pct": 17.3,
+    "capex_usd": null,
+    "cfo_usd": 994721000,
+    "ebitda_usd": 1143096000,
+    "financials_by_year": {
+      "2021": {
+        "capex_usd": 1422155000,
+        "capital_employed_usd": 14214515000,
+        "cfo_usd": 1103458000,
+        "ebit_usd": -987045000,
+        "ebitda_usd": -72178000,
+        "net_debt_usd": null,
+        "revenue_usd": 4408690000
+      },
+      "2022": {
+        "capex_usd": 874357000,
+        "capital_employed_usd": 11828411000,
+        "cfo_usd": 735640000,
+        "ebit_usd": -953447000,
+        "ebitda_usd": -91577000,
+        "net_debt_usd": null,
+        "revenue_usd": 3491699000
+      },
+      "2023": {
+        "capex_usd": null,
+        "capital_employed_usd": 12343130000,
+        "cfo_usd": 1660116000,
+        "ebit_usd": 23860000,
+        "ebitda_usd": 765869000,
+        "net_debt_usd": null,
+        "revenue_usd": 4619432000
+      },
+      "2024": {
+        "capex_usd": null,
+        "capital_employed_usd": 12065148000,
+        "cfo_usd": 3051342000,
+        "ebit_usd": 2539342000,
+        "ebitda_usd": 3254505000,
+        "net_debt_usd": null,
+        "revenue_usd": 7138436000
+      },
+      "2025": {
+        "capex_usd": null,
+        "capital_employed_usd": 11564123000,
+        "cfo_usd": 994721000,
+        "ebit_usd": 396247000,
+        "ebitda_usd": 1143096000,
+        "net_debt_usd": null,
+        "revenue_usd": 4681972000
+      }
+    },
     "fy": 2025,
-    "net_debt_usd": 1369535000,
-    "revenue_usd": 5275823000,
+    "net_debt_usd": null,
+    "revenue_usd": 4681972000,
+    "roace_pct": 3.4,
     "taxonomy": "us-gaap"
   },
   "apa": {
-    "as_of": "2025-12-31",
+    "as_of": "2024-12-31",
+    "cagr_cfo_3y_pct": 2.2,
+    "cagr_revenue_3y_pct": null,
     "capex_usd": null,
-    "cfo_usd": 4545000000,
-    "ebitda_usd": 5391000000,
+    "cfo_usd": 3129000000,
+    "ebitda_usd": 5236000000,
+    "financials_by_year": {
+      "2021": {
+        "capex_usd": null,
+        "capital_employed_usd": 16799000000,
+        "cfo_usd": 2867000000,
+        "ebit_usd": -2152000000,
+        "ebitda_usd": 528000000,
+        "net_debt_usd": null,
+        "revenue_usd": null
+      },
+      "2022": {
+        "capex_usd": null,
+        "capital_employed_usd": 10629000000,
+        "cfo_usd": 1388000000,
+        "ebit_usd": -4102000000,
+        "ebitda_usd": -2330000000,
+        "net_debt_usd": null,
+        "revenue_usd": null
+      },
+      "2023": {
+        "capex_usd": null,
+        "capital_employed_usd": 10387000000,
+        "cfo_usd": 3496000000,
+        "ebit_usd": 2860000000,
+        "ebitda_usd": 4220000000,
+        "net_debt_usd": null,
+        "revenue_usd": null
+      },
+      "2024": {
+        "capex_usd": null,
+        "capital_employed_usd": 10743000000,
+        "cfo_usd": 4943000000,
+        "ebit_usd": 5565000000,
+        "ebitda_usd": 6798000000,
+        "net_debt_usd": null,
+        "revenue_usd": null
+      },
+      "2025": {
+        "capex_usd": null,
+        "capital_employed_usd": 12289000000,
+        "cfo_usd": 3129000000,
+        "ebit_usd": 3696000000,
+        "ebitda_usd": 5236000000,
+        "net_debt_usd": null,
+        "revenue_usd": null
+      }
+    },
     "fy": 2025,
     "net_debt_usd": null,
     "revenue_usd": null,
+    "roace_pct": 32.1,
     "taxonomy": "us-gaap"
   },
   "chevron": {
-    "as_of": "2025-12-31",
-    "capex_usd": 16830000000,
-    "cfo_usd": 33939000000,
+    "as_of": "2024-12-31",
+    "cagr_cfo_3y_pct": 2.2,
+    "cagr_revenue_3y_pct": -0.6,
+    "capex_usd": 14788000000,
+    "cfo_usd": 35609000000,
     "ebitda_usd": null,
+    "financials_by_year": {
+      "2021": {
+        "capex_usd": 13839000000,
+        "capital_employed_usd": 217607000000,
+        "cfo_usd": 27314000000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 146516000000
+      },
+      "2022": {
+        "capex_usd": 8492000000,
+        "capital_employed_usd": 212744000000,
+        "cfo_usd": 10577000000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 94692000000
+      },
+      "2023": {
+        "capex_usd": 7515000000,
+        "capital_employed_usd": 223501000000,
+        "cfo_usd": 29187000000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 162465000000
+      },
+      "2024": {
+        "capex_usd": 10349000000,
+        "capital_employed_usd": 229374000000,
+        "cfo_usd": 49602000000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 246252000000
+      },
+      "2025": {
+        "capex_usd": 14788000000,
+        "capital_employed_usd": 218380000000,
+        "cfo_usd": 35609000000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 200949000000
+      }
+    },
     "fy": 2025,
-    "net_debt_usd": 25299000000,
-    "revenue_usd": 189031000000,
+    "net_debt_usd": null,
+    "revenue_usd": 200949000000,
+    "roace_pct": null,
     "taxonomy": "us-gaap"
   },
   "chord": {
-    "as_of": "2025-12-31",
+    "as_of": "2024-12-31",
+    "cagr_cfo_3y_pct": 50.1,
+    "cagr_revenue_3y_pct": 27.7,
     "capex_usd": null,
-    "cfo_usd": 2040657000,
-    "ebitda_usd": 1667596000,
+    "cfo_usd": 1819851000,
+    "ebitda_usd": 1871744000,
+    "financials_by_year": {
+      "2021": {
+        "capex_usd": null,
+        "capital_employed_usd": 1932399000,
+        "cfo_usd": 892853000,
+        "ebit_usd": -90175000,
+        "ebitda_usd": 697017000,
+        "net_debt_usd": 335759000,
+        "revenue_usd": 1930797000
+      },
+      "2022": {
+        "capex_usd": null,
+        "capital_employed_usd": 1932399000,
+        "cfo_usd": 202936000,
+        "ebit_usd": -4971599000,
+        "ebitda_usd": -4680484000,
+        "net_debt_usd": 335759000,
+        "revenue_usd": 845457000
+      },
+      "2023": {
+        "capex_usd": null,
+        "capital_employed_usd": 5269748000,
+        "cfo_usd": 914136000,
+        "ebit_usd": 809444000,
+        "ebitda_usd": 967748000,
+        "net_debt_usd": -198942000,
+        "revenue_usd": 1579926000
+      },
+      "2024": {
+        "capex_usd": null,
+        "capital_employed_usd": 5760691000,
+        "cfo_usd": 1924026000,
+        "ebit_usd": 1583789000,
+        "ebitda_usd": 1953448000,
+        "net_debt_usd": 77904000,
+        "revenue_usd": 3646794000
+      },
+      "2025": {
+        "capex_usd": null,
+        "capital_employed_usd": 11348029000,
+        "cfo_usd": 1819851000,
+        "ebit_usd": 1273182000,
+        "ebitda_usd": 1871744000,
+        "net_debt_usd": 805650000,
+        "revenue_usd": 3896641000
+      }
+    },
     "fy": 2025,
-    "net_debt_usd": 1290050000,
-    "revenue_usd": 4877126000,
+    "net_debt_usd": 805650000,
+    "revenue_usd": 3896641000,
+    "roace_pct": 14.9,
     "taxonomy": "us-gaap"
   },
   "civitas": {
-    "as_of": "2024-12-31",
+    "as_of": "2023-12-31",
+    "cagr_cfo_3y_pct": 36.8,
+    "cagr_revenue_3y_pct": 54.7,
     "capex_usd": null,
-    "cfo_usd": 2865228000,
-    "ebitda_usd": 2168821000,
+    "cfo_usd": 2477041000,
+    "ebitda_usd": null,
+    "financials_by_year": {
+      "2020": {
+        "capex_usd": null,
+        "capital_employed_usd": 1101579000,
+        "cfo_usd": 116598000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 276657000
+      },
+      "2021": {
+        "capex_usd": null,
+        "capital_employed_usd": 1108328000,
+        "cfo_usd": 224647000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 313220000
+      },
+      "2022": {
+        "capex_usd": null,
+        "capital_employed_usd": 5621527000,
+        "cfo_usd": 158796000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 218090000
+      },
+      "2023": {
+        "capex_usd": null,
+        "capital_employed_usd": 6793472000,
+        "cfo_usd": 274599000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 930614000
+      },
+      "2024": {
+        "capex_usd": null,
+        "capital_employed_usd": 12245432000,
+        "cfo_usd": 2477041000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 3791398000
+      }
+    },
     "fy": 2024,
-    "net_debt_usd": -25826000,
-    "revenue_usd": 5206808000,
+    "net_debt_usd": null,
+    "revenue_usd": 3791398000,
+    "roace_pct": null,
     "taxonomy": "us-gaap"
   },
   "comstock": {
-    "as_of": "2025-12-31",
-    "capex_usd": 1349280000,
-    "cfo_usd": 899607000,
-    "ebitda_usd": 1287015000,
+    "as_of": "2024-12-31",
+    "cagr_cfo_3y_pct": 13.3,
+    "cagr_revenue_3y_pct": 8.2,
+    "capex_usd": 1425086000,
+    "cfo_usd": 1016846000,
+    "ebitda_usd": 834505000,
+    "financials_by_year": {
+      "2021": {
+        "capex_usd": 486781000,
+        "capital_employed_usd": 4182391000,
+        "cfo_usd": 451237000,
+        "ebit_usd": 274886000,
+        "ebitda_usd": 551412000,
+        "net_debt_usd": 2486877000,
+        "revenue_usd": null
+      },
+      "2022": {
+        "capex_usd": 509690000,
+        "capital_employed_usd": 4034245000,
+        "cfo_usd": 575701000,
+        "ebit_usd": 163032000,
+        "ebitda_usd": 580144000,
+        "net_debt_usd": 2584572000,
+        "revenue_usd": null
+      },
+      "2023": {
+        "capex_usd": 691005000,
+        "capital_employed_usd": 4938118000,
+        "cfo_usd": 860940000,
+        "ebit_usd": 900774000,
+        "ebitda_usd": 1370162000,
+        "net_debt_usd": 2097919000,
+        "revenue_usd": null
+      },
+      "2024": {
+        "capex_usd": 1067800000,
+        "capital_employed_usd": 5572132000,
+        "cfo_usd": 1698388000,
+        "ebit_usd": 2281481000,
+        "ebitda_usd": 2770931000,
+        "net_debt_usd": 2623722000,
+        "revenue_usd": null
+      },
+      "2025": {
+        "capex_usd": 1425086000,
+        "capital_employed_usd": 5769243000,
+        "cfo_usd": 1016846000,
+        "ebit_usd": 226597000,
+        "ebitda_usd": 834505000,
+        "net_debt_usd": 2945291000,
+        "revenue_usd": null
+      }
+    },
     "fy": 2025,
-    "net_debt_usd": 2785136000,
-    "revenue_usd": 555231000,
+    "net_debt_usd": 2945291000,
+    "revenue_usd": null,
+    "roace_pct": 4.0,
     "taxonomy": "us-gaap"
   },
   "conocophillips": {
-    "as_of": "2025-12-31",
-    "capex_usd": 10159000000,
-    "cfo_usd": 19796000000,
+    "as_of": "2024-12-31",
+    "cagr_cfo_3y_pct": -1.3,
+    "cagr_revenue_3y_pct": -0.9,
+    "capex_usd": null,
+    "cfo_usd": 19965000000,
     "ebitda_usd": null,
+    "financials_by_year": {
+      "2021": {
+        "capex_usd": 6636000000,
+        "capital_employed_usd": 65148000000,
+        "cfo_usd": 11104000000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 36670000000
+      },
+      "2022": {
+        "capex_usd": 4715000000,
+        "capital_employed_usd": 50597000000,
+        "cfo_usd": 4802000000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 18784000000
+      },
+      "2023": {
+        "capex_usd": null,
+        "capital_employed_usd": 77814000000,
+        "cfo_usd": 16996000000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 45828000000
+      },
+      "2024": {
+        "capex_usd": null,
+        "capital_employed_usd": 83824000000,
+        "cfo_usd": 28314000000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 78494000000
+      },
+      "2025": {
+        "capex_usd": null,
+        "capital_employed_usd": 83800000000,
+        "cfo_usd": 19965000000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 56141000000
+      }
+    },
     "fy": 2025,
-    "net_debt_usd": 9650000000,
-    "revenue_usd": 58944000000,
+    "net_debt_usd": null,
+    "revenue_usd": 56141000000,
+    "roace_pct": null,
     "taxonomy": "us-gaap"
   },
   "coterra": {
-    "as_of": "2025-12-31",
-    "capex_usd": 857251000,
-    "cfo_usd": 4021000000,
-    "ebitda_usd": 4822000000,
+    "as_of": "2024-12-31",
+    "cagr_cfo_3y_pct": 13.8,
+    "cagr_revenue_3y_pct": 13.9,
+    "capex_usd": null,
+    "cfo_usd": 3658000000,
+    "ebitda_usd": 3795000000,
+    "financials_by_year": {
+      "2021": {
+        "capex_usd": null,
+        "capital_employed_usd": 4134000000,
+        "cfo_usd": 1445000000,
+        "ebit_usd": 956000000,
+        "ebitda_usd": 1362000000,
+        "net_debt_usd": 806000000,
+        "revenue_usd": 2066000000
+      },
+      "2022": {
+        "capex_usd": null,
+        "capital_employed_usd": 18680000000,
+        "cfo_usd": 778000000,
+        "ebit_usd": 296000000,
+        "ebitda_usd": 687000000,
+        "net_debt_usd": 2089000000,
+        "revenue_usd": 1466000000
+      },
+      "2023": {
+        "capex_usd": null,
+        "capital_employed_usd": 18961000000,
+        "cfo_usd": 1667000000,
+        "ebit_usd": 1564000000,
+        "ebitda_usd": 2257000000,
+        "net_debt_usd": 1508000000,
+        "revenue_usd": 3449000000
+      },
+      "2024": {
+        "capex_usd": null,
+        "capital_employed_usd": 18755000000,
+        "cfo_usd": 5456000000,
+        "ebit_usd": 5209000000,
+        "ebitda_usd": 6844000000,
+        "net_debt_usd": 630000000,
+        "revenue_usd": 9051000000
+      },
+      "2025": {
+        "capex_usd": null,
+        "capital_employed_usd": 20489000000,
+        "cfo_usd": 3658000000,
+        "ebit_usd": 2154000000,
+        "ebitda_usd": 3795000000,
+        "net_debt_usd": 1497000000,
+        "revenue_usd": 5914000000
+      }
+    },
     "fy": 2025,
-    "net_debt_usd": 3454000000,
-    "revenue_usd": 7645000000,
+    "net_debt_usd": 1497000000,
+    "revenue_usd": 5914000000,
+    "roace_pct": 11.0,
     "taxonomy": "us-gaap"
   },
   "devon": {
-    "as_of": "2025-12-31",
-    "capex_usd": 31000000,
-    "cfo_usd": 6711000000,
-    "ebitda_usd": 700000000,
+    "as_of": "2024-12-31",
+    "cagr_cfo_3y_pct": -0.1,
+    "cagr_revenue_3y_pct": 2.7,
+    "capex_usd": null,
+    "cfo_usd": 6544000000,
+    "ebitda_usd": null,
+    "financials_by_year": {
+      "2021": {
+        "capex_usd": null,
+        "capital_employed_usd": 8472000000,
+        "cfo_usd": null,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": 2834000000,
+        "revenue_usd": 6220000000
+      },
+      "2022": {
+        "capex_usd": null,
+        "capital_employed_usd": 17938000000,
+        "cfo_usd": null,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": 4435000000,
+        "revenue_usd": 4828000000
+      },
+      "2023": {
+        "capex_usd": null,
+        "capital_employed_usd": 20616000000,
+        "cfo_usd": 4899000000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": 4090000000,
+        "revenue_usd": 12206000000
+      },
+      "2024": {
+        "capex_usd": null,
+        "capital_employed_usd": 20322000000,
+        "cfo_usd": 8530000000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": 4358000000,
+        "revenue_usd": 19169000000
+      },
+      "2025": {
+        "capex_usd": null,
+        "capital_employed_usd": 21181000000,
+        "cfo_usd": 6544000000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": 7545000000,
+        "revenue_usd": 15258000000
+      }
+    },
     "fy": 2025,
-    "net_debt_usd": 6007000000,
-    "revenue_usd": 17188000000,
+    "net_debt_usd": 7545000000,
+    "revenue_usd": 15258000000,
+    "roace_pct": null,
     "taxonomy": "us-gaap"
   },
   "diamondback": {
-    "as_of": "2025-12-31",
+    "as_of": "2024-12-31",
+    "cagr_cfo_3y_pct": 37.2,
+    "cagr_revenue_3y_pct": 38.2,
     "capex_usd": null,
-    "cfo_usd": 8758000000,
-    "ebitda_usd": 6304000000,
+    "cfo_usd": 5920000000,
+    "ebitda_usd": 6316000000,
+    "financials_by_year": {
+      "2021": {
+        "capex_usd": null,
+        "capital_employed_usd": 22295000000,
+        "cfo_usd": 2739000000,
+        "ebit_usd": 695000000,
+        "ebitda_usd": 2149000000,
+        "net_debt_usd": 5520000000,
+        "revenue_usd": 3964000000
+      },
+      "2022": {
+        "capex_usd": null,
+        "capital_employed_usd": 16181000000,
+        "cfo_usd": 2118000000,
+        "ebit_usd": -5476000000,
+        "ebitda_usd": -4165000000,
+        "net_debt_usd": 5988000000,
+        "revenue_usd": 2813000000
+      },
+      "2023": {
+        "capex_usd": null,
+        "capital_employed_usd": 21182000000,
+        "cfo_usd": 3944000000,
+        "ebit_usd": 4001000000,
+        "ebitda_usd": 5276000000,
+        "net_debt_usd": 6081000000,
+        "revenue_usd": 6797000000
+      },
+      "2024": {
+        "capex_usd": null,
+        "capital_employed_usd": 26893000000,
+        "cfo_usd": 6325000000,
+        "ebit_usd": 6508000000,
+        "ebitda_usd": 7852000000,
+        "net_debt_usd": 6059000000,
+        "revenue_usd": 9643000000
+      },
+      "2025": {
+        "capex_usd": null,
+        "capital_employed_usd": 62481000000,
+        "cfo_usd": 5920000000,
+        "ebit_usd": 4570000000,
+        "ebitda_usd": 6316000000,
+        "net_debt_usd": 11914000000,
+        "revenue_usd": 8412000000
+      }
+    },
     "fy": 2025,
-    "net_debt_usd": 13622000000,
-    "revenue_usd": 15026000000,
+    "net_debt_usd": 11914000000,
+    "revenue_usd": 8412000000,
+    "roace_pct": 10.2,
     "taxonomy": "us-gaap"
   },
   "eog": {
-    "as_of": "2025-12-31",
-    "capex_usd": 6115000000,
-    "cfo_usd": 10044000000,
-    "ebitda_usd": 10846000000,
+    "as_of": "2024-12-31",
+    "cagr_cfo_3y_pct": 8.9,
+    "cagr_revenue_3y_pct": 11.5,
+    "capex_usd": 5385000000,
+    "cfo_usd": 11340000000,
+    "ebitda_usd": 13095000000,
+    "financials_by_year": {
+      "2021": {
+        "capex_usd": 6152000000,
+        "capital_employed_usd": 33665000000,
+        "cfo_usd": 8163000000,
+        "ebit_usd": 3699000000,
+        "ebitda_usd": 7449000000,
+        "net_debt_usd": 1706000000,
+        "revenue_usd": 17380000000
+      },
+      "2022": {
+        "capex_usd": 3244000000,
+        "capital_employed_usd": 34194000000,
+        "cfo_usd": 5008000000,
+        "ebit_usd": -544000000,
+        "ebitda_usd": 2856000000,
+        "net_debt_usd": -137000000,
+        "revenue_usd": 11032000000
+      },
+      "2023": {
+        "capex_usd": 3638000000,
+        "capital_employed_usd": 32723000000,
+        "cfo_usd": 8791000000,
+        "ebit_usd": 6102000000,
+        "ebitda_usd": 9753000000,
+        "net_debt_usd": -2177000000,
+        "revenue_usd": 18642000000
+      },
+      "2024": {
+        "capex_usd": 4619000000,
+        "capital_employed_usd": 37297000000,
+        "cfo_usd": 11093000000,
+        "ebit_usd": 9966000000,
+        "ebitda_usd": 13508000000,
+        "net_debt_usd": -1513000000,
+        "revenue_usd": 25702000000
+      },
+      "2025": {
+        "capex_usd": 5385000000,
+        "capital_employed_usd": 38503000000,
+        "cfo_usd": 11340000000,
+        "ebit_usd": 9603000000,
+        "ebitda_usd": 13095000000,
+        "net_debt_usd": -2872000000,
+        "revenue_usd": 24186000000
+      }
+    },
     "fy": 2025,
-    "net_debt_usd": 4513000000,
-    "revenue_usd": 22632000000,
+    "net_debt_usd": -2872000000,
+    "revenue_usd": 24186000000,
+    "roace_pct": 25.3,
     "taxonomy": "us-gaap"
   },
   "eqt": {
-    "as_of": "2025-12-31",
-    "capex_usd": 2288425000,
-    "cfo_usd": 5125952000,
-    "ebitda_usd": 5850009000,
+    "as_of": "2024-12-31",
+    "cagr_cfo_3y_pct": 13.4,
+    "cagr_revenue_3y_pct": 25.8,
+    "capex_usd": 2019037000,
+    "cfo_usd": 3178850000,
+    "ebitda_usd": 4046553000,
+    "financials_by_year": {
+      "2021": {
+        "capex_usd": 1602454000,
+        "capital_employed_usd": 16351059000,
+        "cfo_usd": 1851704000,
+        "ebit_usd": -1152110000,
+        "ebitda_usd": 386635000,
+        "net_debt_usd": 4753095000,
+        "revenue_usd": 4416484000
+      },
+      "2022": {
+        "capex_usd": 1042231000,
+        "capital_employed_usd": 16421147000,
+        "cfo_usd": 1537701000,
+        "ebit_usd": -877666000,
+        "ebitda_usd": 515799000,
+        "net_debt_usd": 4416139000,
+        "revenue_usd": 3058843000
+      },
+      "2023": {
+        "capex_usd": 1055128000,
+        "capital_employed_usd": 18937706000,
+        "cfo_usd": 1662448000,
+        "ebit_usd": -1360975000,
+        "ebitda_usd": 315727000,
+        "net_debt_usd": 3797689000,
+        "revenue_usd": 3064663000
+      },
+      "2024": {
+        "capex_usd": 1400443000,
+        "capital_employed_usd": 20633086000,
+        "cfo_usd": 3465560000,
+        "ebit_usd": 2717997000,
+        "ebitda_usd": 4383959000,
+        "net_debt_usd": 5421704000,
+        "revenue_usd": 7497689000
+      },
+      "2025": {
+        "capex_usd": 2019037000,
+        "capital_employed_usd": 22823549000,
+        "cfo_usd": 3178850000,
+        "ebit_usd": 2314411000,
+        "ebitda_usd": 4046553000,
+        "net_debt_usd": 8801284000,
+        "revenue_usd": 6908923000
+      }
+    },
     "fy": 2025,
-    "net_debt_usd": 7182414000,
-    "revenue_usd": 8644211000,
+    "net_debt_usd": 8801284000,
+    "revenue_usd": 6908923000,
+    "roace_pct": 10.7,
     "taxonomy": "us-gaap"
   },
   "expand-energy": {
-    "as_of": "2025-12-31",
-    "capex_usd": 2736000000,
-    "cfo_usd": 4575000000,
-    "ebitda_usd": 5451000000,
+    "as_of": "2024-12-31",
+    "cagr_cfo_3y_pct": -4.5,
+    "cagr_revenue_3y_pct": 0.7,
+    "capex_usd": 1829000000,
+    "cfo_usd": 2380000000,
+    "ebitda_usd": 4669000000,
+    "financials_by_year": {
+      "2021": {
+        "capex_usd": null,
+        "capital_employed_usd": 3490000000,
+        "cfo_usd": 1623000000,
+        "ebit_usd": -31000000,
+        "ebitda_usd": 2233000000,
+        "net_debt_usd": -6000000,
+        "revenue_usd": 8532000000
+      },
+      "2022": {
+        "capex_usd": 1142000000,
+        "capital_employed_usd": 5232000000,
+        "cfo_usd": 1164000000,
+        "ebit_usd": -8703000000,
+        "ebitda_usd": -7606000000,
+        "net_debt_usd": 1999000000,
+        "revenue_usd": 5240000000
+      },
+      "2023": {
+        "capex_usd": 669000000,
+        "capital_employed_usd": 5232000000,
+        "cfo_usd": 1809000000,
+        "ebit_usd": 938000000,
+        "ebitda_usd": 1857000000,
+        "net_debt_usd": 3053000000,
+        "revenue_usd": 5549000000
+      },
+      "2024": {
+        "capex_usd": 1823000000,
+        "capital_employed_usd": 13062000000,
+        "cfo_usd": 4125000000,
+        "ebit_usd": 3780000000,
+        "ebitda_usd": 5533000000,
+        "net_debt_usd": 1898000000,
+        "revenue_usd": 11743000000
+      },
+      "2025": {
+        "capex_usd": 1829000000,
+        "capital_employed_usd": 24771000000,
+        "cfo_usd": 2380000000,
+        "ebit_usd": 3142000000,
+        "ebitda_usd": 4669000000,
+        "net_debt_usd": 4212000000,
+        "revenue_usd": 8721000000
+      }
+    },
     "fy": 2025,
-    "net_debt_usd": 4393000000,
-    "revenue_usd": 12124000000,
+    "net_debt_usd": 4212000000,
+    "revenue_usd": 8721000000,
+    "roace_pct": 16.6,
     "taxonomy": "us-gaap"
   },
   "exxonmobil": {
-    "as_of": "2025-12-31",
-    "capex_usd": 28358000000,
-    "cfo_usd": 51970000000,
+    "as_of": "2024-12-31",
+    "cagr_cfo_3y_pct": 0.4,
+    "cagr_revenue_3y_pct": 1.0,
+    "capex_usd": 21919000000,
+    "cfo_usd": 55369000000,
     "ebitda_usd": null,
+    "financials_by_year": {
+      "2021": {
+        "capex_usd": 24361000000,
+        "capital_employed_usd": 306234000000,
+        "cfo_usd": 29716000000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 264938000000
+      },
+      "2022": {
+        "capex_usd": 17282000000,
+        "capital_employed_usd": 276107000000,
+        "cfo_usd": 14668000000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 181502000000
+      },
+      "2023": {
+        "capex_usd": 12076000000,
+        "capital_employed_usd": 269878000000,
+        "cfo_usd": 48129000000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 285640000000
+      },
+      "2024": {
+        "capex_usd": 18407000000,
+        "capital_employed_usd": 303751000000,
+        "cfo_usd": 76797000000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 413680000000
+      },
+      "2025": {
+        "capex_usd": 21919000000,
+        "capital_employed_usd": 383168000000,
+        "cfo_usd": 55369000000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 344582000000
+      }
+    },
     "fy": 2025,
-    "net_debt_usd": 12419000000,
-    "revenue_usd": 332238000000,
+    "net_debt_usd": null,
+    "revenue_usd": 344582000000,
+    "roace_pct": null,
     "taxonomy": "us-gaap"
   },
   "geopark": {
-    "as_of": "2025-12-31",
-    "capex_usd": 98358000,
-    "cfo_usd": 14705000,
+    "as_of": "2024-12-31",
+    "cagr_cfo_3y_pct": 35.9,
+    "cagr_revenue_3y_pct": 17.4,
+    "capex_usd": 199040000,
+    "cfo_usd": 300938000,
     "ebitda_usd": null,
+    "financials_by_year": {
+      "2021": {
+        "capex_usd": 126316000,
+        "capital_employed_usd": 655476000,
+        "cfo_usd": 235429000,
+        "ebit_usd": 210675000,
+        "ebitda_usd": null,
+        "net_debt_usd": 639170000,
+        "revenue_usd": 628907000
+      },
+      "2022": {
+        "capex_usd": 75298000,
+        "capital_employed_usd": 756604000,
+        "cfo_usd": 168699000,
+        "ebit_usd": -110663000,
+        "ebitda_usd": null,
+        "net_debt_usd": 544996000,
+        "revenue_usd": 393692000
+      },
+      "2023": {
+        "capex_usd": 129258000,
+        "capital_employed_usd": 666586000,
+        "cfo_usd": 216777000,
+        "ebit_usd": 185809000,
+        "ebitda_usd": null,
+        "net_debt_usd": 283207000,
+        "revenue_usd": 688543000
+      },
+      "2024": {
+        "capex_usd": 168808000,
+        "capital_employed_usd": 743432000,
+        "cfo_usd": 467471000,
+        "ebit_usd": 429077000,
+        "ebitda_usd": null,
+        "net_debt_usd": 387849000,
+        "revenue_usd": 1049579000
+      },
+      "2025": {
+        "capex_usd": 199040000,
+        "capital_employed_usd": 647876000,
+        "cfo_usd": 300938000,
+        "ebit_usd": 270907000,
+        "ebitda_usd": null,
+        "net_debt_usd": 363164000,
+        "revenue_usd": 756625000
+      }
+    },
     "fy": 2025,
-    "net_debt_usd": 434762000,
-    "revenue_usd": 492518000,
+    "net_debt_usd": 363164000,
+    "revenue_usd": 756625000,
+    "roace_pct": 38.9,
     "taxonomy": "ifrs-full"
   },
   "gran-tierra": {
-    "as_of": "2025-12-31",
-    "capex_usd": 275869000,
-    "cfo_usd": 313249000,
+    "as_of": "2024-12-31",
+    "cagr_cfo_3y_pct": 0.9,
+    "cagr_revenue_3y_pct": null,
+    "capex_usd": 226584000,
+    "cfo_usd": 227992000,
     "ebitda_usd": null,
+    "financials_by_year": {
+      "2021": {
+        "capex_usd": 379314000,
+        "capital_employed_usd": 1088086000,
+        "cfo_usd": 177665000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": 766469000,
+        "revenue_usd": null
+      },
+      "2022": {
+        "capex_usd": 96281000,
+        "capital_employed_usd": 961124000,
+        "cfo_usd": 81074000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": 573717000,
+        "revenue_usd": null
+      },
+      "2023": {
+        "capex_usd": 149879000,
+        "capital_employed_usd": 1093971000,
+        "cfo_usd": 244834000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": null
+      },
+      "2024": {
+        "capex_usd": 210331000,
+        "capital_employed_usd": 1066035000,
+        "cfo_usd": 427711000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": null
+      },
+      "2025": {
+        "capex_usd": 226584000,
+        "capital_employed_usd": 1332339000,
+        "cfo_usd": 227992000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": null
+      }
+    },
     "fy": 2025,
-    "net_debt_usd": 506662000,
-    "revenue_usd": 374460000,
+    "net_debt_usd": null,
+    "revenue_usd": null,
+    "roace_pct": null,
     "taxonomy": "us-gaap"
   },
   "matador": {
-    "as_of": "2025-12-31",
-    "capex_usd": 2155429000,
-    "cfo_usd": 2425015000,
-    "ebitda_usd": 2421900000,
+    "as_of": "2024-12-31",
+    "cagr_cfo_3y_pct": 38.4,
+    "cagr_revenue_3y_pct": 38.0,
+    "capex_usd": 3228259000,
+    "cfo_usd": 1867828000,
+    "ebitda_usd": 1926010000,
+    "financials_by_year": {
+      "2021": {
+        "capex_usd": 946025000,
+        "capital_employed_usd": 3778740000,
+        "cfo_usd": 552042000,
+        "ebit_usd": 235480000,
+        "ebitda_usd": 586020000,
+        "net_debt_usd": null,
+        "revenue_usd": 983670000
+      },
+      "2022": {
+        "capex_usd": 721838000,
+        "capital_employed_usd": 3222443000,
+        "cfo_usd": 477582000,
+        "ebit_usd": -521499000,
+        "ebitda_usd": -159668000,
+        "net_debt_usd": null,
+        "revenue_usd": 862126000
+      },
+      "2023": {
+        "capex_usd": 837928000,
+        "capital_employed_usd": 3686280000,
+        "cfo_usd": 1053355000,
+        "ebit_usd": 793076000,
+        "ebitda_usd": 1137981000,
+        "net_debt_usd": 1112110000,
+        "revenue_usd": 1662981000
+      },
+      "2024": {
+        "capex_usd": 1063275000,
+        "capital_employed_usd": 4869230000,
+        "cfo_usd": 1978739000,
+        "ebit_usd": 1759270000,
+        "ebitda_usd": 2225618000,
+        "net_debt_usd": 1701448000,
+        "revenue_usd": 3058025000
+      },
+      "2025": {
+        "capex_usd": 3228259000,
+        "capital_employed_usd": 6731639000,
+        "cfo_usd": 1867828000,
+        "ebit_usd": 1209322000,
+        "ebitda_usd": 1926010000,
+        "net_debt_usd": 3272746000,
+        "revenue_usd": 2806785000
+      }
+    },
     "fy": 2025,
-    "net_debt_usd": 3386788000,
-    "revenue_usd": 3696277000,
+    "net_debt_usd": 3272746000,
+    "revenue_usd": 2806785000,
+    "roace_pct": 20.8,
     "taxonomy": "us-gaap"
   },
   "occidental": {
-    "as_of": "2025-12-31",
-    "capex_usd": 6427000000,
-    "cfo_usd": 10532000000,
+    "as_of": "2024-12-31",
+    "cagr_cfo_3y_pct": 3.8,
+    "cagr_revenue_3y_pct": 5.8,
+    "capex_usd": 5696000000,
+    "cfo_usd": 12308000000,
     "ebitda_usd": null,
+    "financials_by_year": {
+      "2021": {
+        "capex_usd": 6367000000,
+        "capital_employed_usd": 98967000000,
+        "cfo_usd": 7375000000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 20911000000
+      },
+      "2022": {
+        "capex_usd": 2535000000,
+        "capital_employed_usd": 71740000000,
+        "cfo_usd": 3955000000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 17809000000
+      },
+      "2023": {
+        "capex_usd": 2870000000,
+        "capital_employed_usd": 67279000000,
+        "cfo_usd": 10434000000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 25956000000
+      },
+      "2024": {
+        "capex_usd": 4497000000,
+        "capital_employed_usd": 64860000000,
+        "cfo_usd": 16810000000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 36634000000
+      },
+      "2025": {
+        "capex_usd": 5696000000,
+        "capital_employed_usd": 75924000000,
+        "cfo_usd": 12308000000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 23156000000
+      }
+    },
     "fy": 2025,
-    "net_debt_usd": 33777000000,
-    "revenue_usd": 21593000000,
+    "net_debt_usd": null,
+    "revenue_usd": 23156000000,
+    "roace_pct": null,
     "taxonomy": "us-gaap"
   },
   "ovintiv": {
-    "as_of": "2025-12-31",
-    "capex_usd": 2147000000,
-    "cfo_usd": 3652000000,
-    "ebitda_usd": 3310000000,
+    "as_of": "2024-12-31",
+    "cagr_cfo_3y_pct": 25.8,
+    "cagr_revenue_3y_pct": 16.1,
+    "capex_usd": 2744000000,
+    "cfo_usd": 4167000000,
+    "ebitda_usd": 4689000000,
+    "financials_by_year": {
+      "2021": {
+        "capex_usd": 2626000000,
+        "capital_employed_usd": 12046000000,
+        "cfo_usd": 2921000000,
+        "ebit_usd": 598000000,
+        "ebitda_usd": 2613000000,
+        "net_debt_usd": 6357000000,
+        "revenue_usd": 6726000000
+      },
+      "2022": {
+        "capex_usd": 1736000000,
+        "capital_employed_usd": 11307000000,
+        "cfo_usd": 1895000000,
+        "ebit_usd": -5397000000,
+        "ebitda_usd": -3563000000,
+        "net_debt_usd": 4591000000,
+        "revenue_usd": 6087000000
+      },
+      "2023": {
+        "capex_usd": 1519000000,
+        "capital_employed_usd": 12276000000,
+        "cfo_usd": 3129000000,
+        "ebit_usd": 1519000000,
+        "ebitda_usd": 2709000000,
+        "net_debt_usd": 3172000000,
+        "revenue_usd": 8658000000
+      },
+      "2024": {
+        "capex_usd": 1831000000,
+        "capital_employed_usd": 17175000000,
+        "cfo_usd": 3866000000,
+        "ebit_usd": 3853000000,
+        "ebitda_usd": 4966000000,
+        "net_debt_usd": 5450000000,
+        "revenue_usd": 12464000000
+      },
+      "2025": {
+        "capex_usd": 2744000000,
+        "capital_employed_usd": 16573000000,
+        "cfo_usd": 4167000000,
+        "ebit_usd": 2864000000,
+        "ebitda_usd": 4689000000,
+        "net_debt_usd": 4811000000,
+        "revenue_usd": 10883000000
+      }
+    },
     "fy": 2025,
-    "net_debt_usd": 4357000000,
-    "revenue_usd": 8908000000,
+    "net_debt_usd": 4811000000,
+    "revenue_usd": 10883000000,
+    "roace_pct": 17.0,
     "taxonomy": "us-gaap"
   },
   "pampa": {
-    "as_of": "2024-12-31",
-    "capex_usd": 447000000,
-    "cfo_usd": 435000000,
+    "as_of": "2023-12-31",
+    "cagr_cfo_3y_pct": 7.1,
+    "cagr_revenue_3y_pct": -3.4,
+    "capex_usd": 416000000,
+    "cfo_usd": 619000000,
     "ebitda_usd": null,
+    "financials_by_year": {
+      "2020": {
+        "capex_usd": 455000000,
+        "capital_employed_usd": 4818000000,
+        "cfo_usd": 610000000,
+        "ebit_usd": 618000000,
+        "ebitda_usd": null,
+        "net_debt_usd": 1733000000,
+        "revenue_usd": 1436000000
+      },
+      "2021": {
+        "capex_usd": 426000000,
+        "capital_employed_usd": 4442000000,
+        "cfo_usd": 802000000,
+        "ebit_usd": 462000000,
+        "ebitda_usd": null,
+        "net_debt_usd": 1131000000,
+        "revenue_usd": 1340000000
+      },
+      "2022": {
+        "capex_usd": 124000000,
+        "capital_employed_usd": 3519000000,
+        "cfo_usd": 693000000,
+        "ebit_usd": 243000000,
+        "ebitda_usd": null,
+        "net_debt_usd": 1134000000,
+        "revenue_usd": 1073000000
+      },
+      "2023": {
+        "capex_usd": 206000000,
+        "capital_employed_usd": 4111000000,
+        "cfo_usd": 729000000,
+        "ebit_usd": 579000000,
+        "ebitda_usd": null,
+        "net_debt_usd": 1199000000,
+        "revenue_usd": 1508000000
+      },
+      "2024": {
+        "capex_usd": 416000000,
+        "capital_employed_usd": 4201000000,
+        "cfo_usd": 619000000,
+        "ebit_usd": 631000000,
+        "ebitda_usd": null,
+        "net_debt_usd": 1114000000,
+        "revenue_usd": 1829000000
+      }
+    },
     "fy": 2024,
-    "net_debt_usd": 635000000,
-    "revenue_usd": 1876000000,
+    "net_debt_usd": 1114000000,
+    "revenue_usd": 1829000000,
+    "roace_pct": 15.2,
     "taxonomy": "ifrs-full"
   },
   "permian-resources": {
-    "as_of": "2025-12-31",
+    "as_of": "2024-12-31",
+    "cagr_cfo_3y_pct": 30.7,
+    "cagr_revenue_3y_pct": 32.7,
     "capex_usd": null,
-    "cfo_usd": 3607541000,
+    "cfo_usd": 2213499000,
     "ebitda_usd": null,
+    "financials_by_year": {
+      "2021": {
+        "capex_usd": null,
+        "capital_employed_usd": 3695557000,
+        "cfo_usd": 564173000,
+        "ebit_usd": 79429000,
+        "ebitda_usd": null,
+        "net_debt_usd": 1058401000,
+        "revenue_usd": 944330000
+      },
+      "2022": {
+        "capex_usd": null,
+        "capital_employed_usd": 3636695000,
+        "cfo_usd": 171376000,
+        "ebit_usd": -780120000,
+        "ebitda_usd": null,
+        "net_debt_usd": 819765000,
+        "revenue_usd": 580456000
+      },
+      "2023": {
+        "capex_usd": null,
+        "capital_employed_usd": 7887023000,
+        "cfo_usd": 525619000,
+        "ebit_usd": 370618000,
+        "ebitda_usd": null,
+        "net_debt_usd": 2131418000,
+        "revenue_usd": 1029892000
+      },
+      "2024": {
+        "capex_usd": null,
+        "capital_employed_usd": 13724025000,
+        "cfo_usd": 1371671000,
+        "ebit_usd": 1007536000,
+        "ebitda_usd": null,
+        "net_debt_usd": 3789236000,
+        "revenue_usd": 2131265000
+      },
+      "2025": {
+        "capex_usd": null,
+        "capital_employed_usd": 15570563000,
+        "cfo_usd": 2213499000,
+        "ebit_usd": 1096508000,
+        "ebitda_usd": null,
+        "net_debt_usd": 4110943000,
+        "revenue_usd": 3120893000
+      }
+    },
     "fy": 2025,
-    "net_debt_usd": 3391908000,
-    "revenue_usd": 5065211000,
+    "net_debt_usd": 4110943000,
+    "revenue_usd": 3120893000,
+    "roace_pct": 7.5,
     "taxonomy": "us-gaap"
   },
   "petrobras": {
-    "as_of": "2024-12-31",
-    "capex_usd": 12021000000,
-    "cfo_usd": 37984000000,
-    "ebitda_usd": 38904000000,
+    "as_of": "2023-12-31",
+    "cagr_cfo_3y_pct": 9.7,
+    "cagr_revenue_3y_pct": 3.6,
+    "capex_usd": null,
+    "cfo_usd": 49717000000,
+    "ebitda_usd": null,
+    "financials_by_year": {
+      "2020": {
+        "capex_usd": null,
+        "capital_employed_usd": 200924000000,
+        "cfo_usd": 26353000000,
+        "ebit_usd": 16788000000,
+        "ebitda_usd": null,
+        "net_debt_usd": 51419000000,
+        "revenue_usd": 84638000000
+      },
+      "2021": {
+        "capex_usd": null,
+        "capital_employed_usd": 163785000000,
+        "cfo_usd": 25600000000,
+        "ebit_usd": 20614000000,
+        "ebitda_usd": null,
+        "net_debt_usd": 37991000000,
+        "revenue_usd": 76589000000
+      },
+      "2022": {
+        "capex_usd": null,
+        "capital_employed_usd": 150172000000,
+        "cfo_usd": 28890000000,
+        "ebit_usd": 10063000000,
+        "ebitda_usd": null,
+        "net_debt_usd": 21592000000,
+        "revenue_usd": 53683000000
+      },
+      "2023": {
+        "capex_usd": null,
+        "capital_employed_usd": 155811000000,
+        "cfo_usd": 37791000000,
+        "ebit_usd": 37584000000,
+        "ebitda_usd": null,
+        "net_debt_usd": 18382000000,
+        "revenue_usd": 83966000000
+      },
+      "2024": {
+        "capex_usd": null,
+        "capital_employed_usd": 183207000000,
+        "cfo_usd": 49717000000,
+        "ebit_usd": 57114000000,
+        "ebitda_usd": null,
+        "net_debt_usd": 11752000000,
+        "revenue_usd": 124474000000
+      }
+    },
     "fy": 2024,
-    "net_debt_usd": 17325000000,
-    "revenue_usd": 91416000000,
+    "net_debt_usd": 11752000000,
+    "revenue_usd": 124474000000,
+    "roace_pct": 33.7,
     "taxonomy": "ifrs-full"
   },
   "range-resources": {
-    "as_of": "2025-12-31",
-    "capex_usd": 1477000,
-    "cfo_usd": 1171324000,
+    "as_of": "2024-12-31",
+    "cagr_cfo_3y_pct": 2.7,
+    "cagr_revenue_3y_pct": 8.9,
+    "capex_usd": null,
+    "cfo_usd": 977892000,
     "ebitda_usd": null,
+    "financials_by_year": {
+      "2021": {
+        "capex_usd": null,
+        "capital_employed_usd": 5430095000,
+        "cfo_usd": 681843000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": 3039794000,
+        "revenue_usd": 2827615000
+      },
+      "2022": {
+        "capex_usd": null,
+        "capital_employed_usd": 5508042000,
+        "cfo_usd": 268680000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": 2493348000,
+        "revenue_usd": 1968697000
+      },
+      "2023": {
+        "capex_usd": null,
+        "capital_employed_usd": 5604897000,
+        "cfo_usd": 792948000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 2930223000
+      },
+      "2024": {
+        "capex_usd": null,
+        "capital_employed_usd": 6620799000,
+        "cfo_usd": 1864744000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": 1562255000,
+        "revenue_usd": 4147212000
+      },
+      "2025": {
+        "capex_usd": null,
+        "capital_employed_usd": 6073605000,
+        "cfo_usd": 977892000,
+        "ebit_usd": null,
+        "ebitda_usd": null,
+        "net_debt_usd": 785124000,
+        "revenue_usd": 3374872000
+      }
+    },
     "fy": 2025,
-    "net_debt_usd": 1198130000,
-    "revenue_usd": 3115515000,
+    "net_debt_usd": 785124000,
+    "revenue_usd": 3374872000,
+    "roace_pct": null,
     "taxonomy": "us-gaap"
   },
   "sm-energy": {
-    "as_of": "2025-12-31",
-    "capex_usd": 34000000,
-    "cfo_usd": 2011000000,
+    "as_of": "2024-12-31",
+    "cagr_cfo_3y_pct": 5.8,
+    "cagr_revenue_3y_pct": 4.1,
+    "capex_usd": 110000000,
+    "cfo_usd": 1574000000,
     "ebitda_usd": null,
+    "financials_by_year": {
+      "2021": {
+        "capex_usd": 2581000,
+        "capital_employed_usd": 4392692000,
+        "cfo_usd": 823567000,
+        "ebit_usd": -69968000,
+        "ebitda_usd": null,
+        "net_debt_usd": 2214309000,
+        "revenue_usd": 1590105000
+      },
+      "2022": {
+        "capex_usd": null,
+        "capital_employed_usd": 4344650000,
+        "cfo_usd": 790944000,
+        "ebit_usd": -1068950000,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 1126673000
+      },
+      "2023": {
+        "capex_usd": 3321000,
+        "capital_employed_usd": 5117455000,
+        "cfo_usd": 1159772000,
+        "ebit_usd": 209123000,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 2622894000
+      },
+      "2024": {
+        "capex_usd": 7000,
+        "capital_employed_usd": 5746173000,
+        "cfo_usd": 1686406000,
+        "ebit_usd": 1579481000,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 3358647000
+      },
+      "2025": {
+        "capex_usd": 110000000,
+        "capital_employed_usd": 7787000000,
+        "cfo_usd": 1574000000,
+        "ebit_usd": 987000000,
+        "ebitda_usd": null,
+        "net_debt_usd": null,
+        "revenue_usd": 2374000000
+      }
+    },
     "fy": 2025,
-    "net_debt_usd": 1713164000,
-    "revenue_usd": 3154000000,
+    "net_debt_usd": null,
+    "revenue_usd": 2374000000,
+    "roace_pct": 14.6,
     "taxonomy": "us-gaap"
   },
   "vista": {
-    "as_of": "2024-12-31",
-    "capex_usd": 1052530000,
-    "cfo_usd": 959026000,
-    "ebitda_usd": 1063089000,
+    "as_of": "2023-12-31",
+    "cagr_cfo_3y_pct": 72.0,
+    "cagr_revenue_3y_pct": 43.1,
+    "capex_usd": 479025000,
+    "cfo_usd": 689771000,
+    "ebitda_usd": 764009000,
+    "financials_by_year": {
+      "2020": {
+        "capex_usd": 240315000,
+        "capital_employed_usd": 952024000,
+        "cfo_usd": 134258000,
+        "ebit_usd": 14617000,
+        "ebitda_usd": 167618000,
+        "net_debt_usd": 293715000,
+        "revenue_usd": 415976000
+      },
+      "2021": {
+        "capex_usd": 240315000,
+        "capital_employed_usd": 1038874000,
+        "cfo_usd": 134258000,
+        "ebit_usd": 14617000,
+        "ebitda_usd": 167618000,
+        "net_debt_usd": 146612000,
+        "revenue_usd": 415976000
+      },
+      "2022": {
+        "capex_usd": 153257000,
+        "capital_employed_usd": 1298020000,
+        "cfo_usd": 93779000,
+        "ebit_usd": -70008000,
+        "ebitda_usd": 77666000,
+        "net_debt_usd": 132738000,
+        "revenue_usd": 273938000
+      },
+      "2023": {
+        "capex_usd": 321286000,
+        "capital_employed_usd": 1629635000,
+        "cfo_usd": 401393000,
+        "ebit_usd": 210553000,
+        "ebitda_usd": 401866000,
+        "net_debt_usd": 233216000,
+        "revenue_usd": 665310000
+      },
+      "2024": {
+        "capex_usd": 479025000,
+        "capital_employed_usd": 2238617000,
+        "cfo_usd": 689771000,
+        "ebit_usd": 529147000,
+        "ebitda_usd": 764009000,
+        "net_debt_usd": 341579000,
+        "revenue_usd": 1187660000
+      }
+    },
     "fy": 2024,
-    "net_debt_usd": 638036000,
-    "revenue_usd": 1647768000,
+    "net_debt_usd": 341579000,
+    "revenue_usd": 1187660000,
+    "roace_pct": 27.4,
     "taxonomy": "ifrs-full"
   },
   "ypf": {
-    "as_of": "2025-12-31",
+    "as_of": "2023-12-31",
+    "cagr_cfo_3y_pct": 26.6,
+    "cagr_revenue_3y_pct": 21.3,
     "capex_usd": null,
-    "cfo_usd": 4959000000,
+    "cfo_usd": 5913000000,
     "ebitda_usd": null,
+    "financials_by_year": {
+      "2022": {
+        "capex_usd": null,
+        "capital_employed_usd": 18472000000,
+        "cfo_usd": 2915000000,
+        "ebit_usd": -804000000,
+        "ebitda_usd": null,
+        "net_debt_usd": 5171000000,
+        "revenue_usd": 9690000000
+      },
+      "2023": {
+        "capex_usd": null,
+        "capital_employed_usd": 19479000000,
+        "cfo_usd": 4201000000,
+        "ebit_usd": 699000000,
+        "ebitda_usd": null,
+        "net_debt_usd": 5884000000,
+        "revenue_usd": 13682000000
+      },
+      "2024": {
+        "capex_usd": null,
+        "capital_employed_usd": 21129000000,
+        "cfo_usd": 5693000000,
+        "ebit_usd": 2482000000,
+        "ebitda_usd": null,
+        "net_debt_usd": 5337000000,
+        "revenue_usd": 18757000000
+      },
+      "2025": {
+        "capex_usd": null,
+        "capital_employed_usd": 20115000000,
+        "cfo_usd": 5913000000,
+        "ebit_usd": -1248000000,
+        "ebitda_usd": null,
+        "net_debt_usd": 5909000000,
+        "revenue_usd": 17311000000
+      }
+    },
     "fy": 2025,
-    "net_debt_usd": 7293000000,
-    "revenue_usd": 18448000000,
+    "net_debt_usd": 5909000000,
+    "revenue_usd": 17311000000,
+    "roace_pct": -6.1,
     "taxonomy": "ifrs-full"
   }
 }

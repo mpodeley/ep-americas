@@ -53,6 +53,8 @@ export interface Company {
   fcf_yield_pct: number | null
   capex_to_cfo_pct: number | null
   roace_pct: number | null
+  cagr_revenue_3y_pct: number | null
+  cagr_cfo_3y_pct: number | null
 
   src: {
     market: SrcMeta
@@ -79,6 +81,41 @@ export interface Meta {
   market_source_breakdown: Record<string, number>
   operational_oldest: { id: string; as_of: string }[]
   warnings: string[]
+}
+
+export interface FinancialsYear {
+  revenue_usd: number | null
+  ebitda_usd: number | null
+  net_debt_usd: number | null
+  cfo_usd: number | null
+  capex_usd: number | null
+  ebit_usd: number | null
+  capital_employed_usd: number | null
+}
+
+export interface CompanyDetail {
+  id: string
+  name: string
+  category: string
+  country: string
+  hq_city: string | null
+  hq_coord: [number, number] | null
+  row: Company
+  financials_by_year: Record<string, FinancialsYear>
+  cagr: { revenue_3y_pct: number | null; cfo_3y_pct: number | null }
+  wikidata: {
+    qid?: string; founded?: number; employees?: number
+    website?: string; isin?: string; label?: string; wikipedia?: string
+  }
+  narrative_md: string | null
+  links: {
+    ir: string | null
+    wikipedia: string | null
+    latest_sec_filing: string | null
+    latest_sec_filing_label: string | null
+    sec_index: string | null
+  }
+  provenance: Company['src']
 }
 
 export type Family = 'market' | 'financials' | 'operational' | 'ratios'

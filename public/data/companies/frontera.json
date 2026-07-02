@@ -1,0 +1,107 @@
+{
+  "cagr": {
+    "cfo_3y_pct": null,
+    "revenue_3y_pct": null
+  },
+  "category": "Colombia",
+  "country": "CO",
+  "financials_by_year": {},
+  "hq_city": "Bogotá",
+  "hq_coord": [
+    4.711,
+    -74.0721
+  ],
+  "id": "frontera",
+  "links": {
+    "ir": "https://www.fronteraenergy.ca/",
+    "latest_sec_filing": null,
+    "latest_sec_filing_label": null,
+    "sec_index": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Frontera_Energy"
+  },
+  "name": "Frontera Energy",
+  "narrative_md": "**Qué es.** Frontera Energy es una compañía canadiense de energía con historia como productora onshore en Colombia, en plena reconfiguración de su portafolio.\n\n**Posición estratégica.** En 2026 acordó desinvertir sus activos de E&P en Colombia (Quifa, CPE-6, Guatiquia, Cubiro), adquiridos por Parex Resources (~US$750 M), pivoteando hacia infraestructura (participación en el oleoducto ODL y Puerto Bahía) y reteniendo su exposición exploratoria offshore en Guyana (bloque Corentyne) vía CGX.\n\n**Drivers 2025-2026.** Cierre de la venta a Parex y distribución de capital a accionistas; potencial upside en Guyana.\n\n**Riesgos.** Disputa regulatoria por la licencia de Corentyne (Guyana), ejecución del pivote a infraestructura y riesgo país. Nota: tras la venta, encaja parcialmente en un screening de E&P.\n\n**Fuentes:** https://www.financecolombia.com/frontera-energy-pivots-to-pure-play-colombian-infrastructure-as-shareholders-approve-750-million-usd-parex-sale/ · https://www.prnewswire.com/news-releases/frontera-energy--cgx-energy-provide-update-on-corentyne-block-license-302519591.html",
+  "provenance": {
+    "financials": {
+      "as_of": null,
+      "fy": null,
+      "source": null
+    },
+    "market": {
+      "as_of": "2026-07-02",
+      "source": "yfinance"
+    },
+    "operational": {
+      "as_of": "2025-12-31",
+      "ref": "https://www.prnewswire.com/news-releases/frontera-announces-fourth-quarter-2025-year-end-2025-results-and-reserves-302716882.html",
+      "source": "Frontera FY2025 resultados + reservas"
+    }
+  },
+  "row": {
+    "beta": 0.83,
+    "cagr_cfo_3y_pct": null,
+    "cagr_revenue_3y_pct": null,
+    "canonical_ticker": "FEC",
+    "capex_to_cfo_pct": null,
+    "capex_usd": null,
+    "category": "Colombia",
+    "cfo_usd": null,
+    "corp_breakeven_usd_bbl": null,
+    "country": "CO",
+    "dividend_yield_pct": 2.94,
+    "ebitda_usd": null,
+    "enterprise_value_usd": 517770354,
+    "ev_ebitda": 2.77,
+    "ev_per_1p_boe_usd": 5.51,
+    "ev_per_boed_usd": 13276,
+    "exchange": "TSX",
+    "fcf_usd": null,
+    "fcf_yield_pct": null,
+    "hq_city": "Bogotá",
+    "hq_coord": [
+      4.711,
+      -74.0721
+    ],
+    "id": "frontera",
+    "is_private": false,
+    "market_cap_usd": 419703883,
+    "name": "Frontera Energy",
+    "net_acreage_k": null,
+    "net_debt_to_ebitda": null,
+    "net_debt_usd": null,
+    "pct_gas": 6,
+    "pct_liquids": 94,
+    "pe_ttm": null,
+    "price": 8.539999961853027,
+    "price_currency": "CAD",
+    "production_kboed": 39,
+    "reserves_1p_mmboe": 94,
+    "reserves_2p_mmboe": null,
+    "revenue_usd": null,
+    "roace_pct": null,
+    "rp_years": 6.6,
+    "src": {
+      "financials": {
+        "as_of": null,
+        "fy": null,
+        "source": null
+      },
+      "market": {
+        "as_of": "2026-07-02",
+        "source": "yfinance"
+      },
+      "operational": {
+        "as_of": "2025-12-31",
+        "ref": "https://www.prnewswire.com/news-releases/frontera-announces-fourth-quarter-2025-year-end-2025-results-and-reserves-302716882.html",
+        "source": "Frontera FY2025 resultados + reservas"
+      }
+    }
+  },
+  "wikidata": {
+    "founded": 2009,
+    "label": "Frontera Energy",
+    "qid": "Q7122670",
+    "website": "https://www.fronteraenergy.ca/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frontera_Energy"
+  }
+}

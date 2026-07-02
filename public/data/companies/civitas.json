@@ -1,0 +1,147 @@
+{
+  "cagr": {
+    "cfo_3y_pct": 36.8,
+    "revenue_3y_pct": 54.7
+  },
+  "category": "US Shale",
+  "country": "US",
+  "financials_by_year": {
+    "2020": {
+      "capex_usd": null,
+      "capital_employed_usd": 1101579000,
+      "cfo_usd": 116598000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 276657000
+    },
+    "2021": {
+      "capex_usd": null,
+      "capital_employed_usd": 1108328000,
+      "cfo_usd": 224647000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 313220000
+    },
+    "2022": {
+      "capex_usd": null,
+      "capital_employed_usd": 5621527000,
+      "cfo_usd": 158796000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 218090000
+    },
+    "2023": {
+      "capex_usd": null,
+      "capital_employed_usd": 6793472000,
+      "cfo_usd": 274599000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 930614000
+    },
+    "2024": {
+      "capex_usd": null,
+      "capital_employed_usd": 12245432000,
+      "cfo_usd": 2477041000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 3791398000
+    }
+  },
+  "hq_city": "Denver",
+  "hq_coord": [
+    39.7392,
+    -104.9903
+  ],
+  "id": "civitas",
+  "links": {
+    "ir": null,
+    "latest_sec_filing": "https://www.sec.gov/Archives/edgar/data/1509589/000150958925000009/civi-20241231.htm",
+    "latest_sec_filing_label": "10-K 2025-02-24",
+    "sec_index": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1509589&type=10-K",
+    "wikipedia": null
+  },
+  "name": "Civitas Resources",
+  "narrative_md": null,
+  "provenance": {
+    "financials": {
+      "as_of": "2023-12-31",
+      "fy": 2024,
+      "source": "sec-us-gaap"
+    },
+    "market": {
+      "as_of": null,
+      "source": null
+    },
+    "operational": {
+      "as_of": null,
+      "ref": null,
+      "source": null
+    }
+  },
+  "row": {
+    "beta": null,
+    "cagr_cfo_3y_pct": 36.8,
+    "cagr_revenue_3y_pct": 54.7,
+    "canonical_ticker": "CIVI",
+    "capex_to_cfo_pct": null,
+    "capex_usd": null,
+    "category": "US Shale",
+    "cfo_usd": 2477041000,
+    "corp_breakeven_usd_bbl": null,
+    "country": "US",
+    "dividend_yield_pct": null,
+    "ebitda_usd": null,
+    "enterprise_value_usd": null,
+    "ev_ebitda": null,
+    "ev_per_1p_boe_usd": null,
+    "ev_per_boed_usd": null,
+    "exchange": "NYSE",
+    "fcf_usd": null,
+    "fcf_yield_pct": null,
+    "hq_city": "Denver",
+    "hq_coord": [
+      39.7392,
+      -104.9903
+    ],
+    "id": "civitas",
+    "is_private": false,
+    "market_cap_usd": null,
+    "name": "Civitas Resources",
+    "net_acreage_k": null,
+    "net_debt_to_ebitda": null,
+    "net_debt_usd": null,
+    "pct_gas": null,
+    "pct_liquids": null,
+    "pe_ttm": null,
+    "price": null,
+    "price_currency": null,
+    "production_kboed": null,
+    "reserves_1p_mmboe": null,
+    "reserves_2p_mmboe": null,
+    "revenue_usd": 3791398000,
+    "roace_pct": null,
+    "rp_years": null,
+    "src": {
+      "financials": {
+        "as_of": "2023-12-31",
+        "fy": 2024,
+        "source": "sec-us-gaap"
+      },
+      "market": {
+        "as_of": null,
+        "source": null
+      },
+      "operational": {
+        "as_of": null,
+        "ref": null,
+        "source": null
+      }
+    }
+  },
+  "wikidata": {}
+}

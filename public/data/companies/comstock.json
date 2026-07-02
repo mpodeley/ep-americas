@@ -1,0 +1,147 @@
+{
+  "cagr": {
+    "cfo_3y_pct": 13.3,
+    "revenue_3y_pct": 8.2
+  },
+  "category": "US Shale",
+  "country": "US",
+  "financials_by_year": {
+    "2021": {
+      "capex_usd": 486781000,
+      "capital_employed_usd": 4182391000,
+      "cfo_usd": 451237000,
+      "ebit_usd": 274886000,
+      "ebitda_usd": 551412000,
+      "net_debt_usd": 2486877000,
+      "revenue_usd": null
+    },
+    "2022": {
+      "capex_usd": 509690000,
+      "capital_employed_usd": 4034245000,
+      "cfo_usd": 575701000,
+      "ebit_usd": 163032000,
+      "ebitda_usd": 580144000,
+      "net_debt_usd": 2584572000,
+      "revenue_usd": null
+    },
+    "2023": {
+      "capex_usd": 691005000,
+      "capital_employed_usd": 4938118000,
+      "cfo_usd": 860940000,
+      "ebit_usd": 900774000,
+      "ebitda_usd": 1370162000,
+      "net_debt_usd": 2097919000,
+      "revenue_usd": null
+    },
+    "2024": {
+      "capex_usd": 1067800000,
+      "capital_employed_usd": 5572132000,
+      "cfo_usd": 1698388000,
+      "ebit_usd": 2281481000,
+      "ebitda_usd": 2770931000,
+      "net_debt_usd": 2623722000,
+      "revenue_usd": null
+    },
+    "2025": {
+      "capex_usd": 1425086000,
+      "capital_employed_usd": 5769243000,
+      "cfo_usd": 1016846000,
+      "ebit_usd": 226597000,
+      "ebitda_usd": 834505000,
+      "net_debt_usd": 2945291000,
+      "revenue_usd": null
+    }
+  },
+  "hq_city": "Frisco",
+  "hq_coord": [
+    33.1507,
+    -96.8236
+  ],
+  "id": "comstock",
+  "links": {
+    "ir": null,
+    "latest_sec_filing": "https://www.sec.gov/Archives/edgar/data/23194/000119312526059001/crk-20251231.htm",
+    "latest_sec_filing_label": "10-K 2026-02-19",
+    "sec_index": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=23194&type=10-K",
+    "wikipedia": null
+  },
+  "name": "Comstock Resources",
+  "narrative_md": null,
+  "provenance": {
+    "financials": {
+      "as_of": "2024-12-31",
+      "fy": 2025,
+      "source": "sec-us-gaap"
+    },
+    "market": {
+      "as_of": "2026-07-02",
+      "source": "yfinance"
+    },
+    "operational": {
+      "as_of": null,
+      "ref": null,
+      "source": null
+    }
+  },
+  "row": {
+    "beta": 0.11,
+    "cagr_cfo_3y_pct": 13.3,
+    "cagr_revenue_3y_pct": 8.2,
+    "canonical_ticker": "CRK",
+    "capex_to_cfo_pct": 140,
+    "capex_usd": 1425086000,
+    "category": "US Shale",
+    "cfo_usd": 1016846000,
+    "corp_breakeven_usd_bbl": null,
+    "country": "US",
+    "dividend_yield_pct": null,
+    "ebitda_usd": 834505000,
+    "enterprise_value_usd": 7352196993,
+    "ev_ebitda": 7.31,
+    "ev_per_1p_boe_usd": null,
+    "ev_per_boed_usd": null,
+    "exchange": "NYSE",
+    "fcf_usd": -408240000,
+    "fcf_yield_pct": -9.3,
+    "hq_city": "Frisco",
+    "hq_coord": [
+      33.1507,
+      -96.8236
+    ],
+    "id": "comstock",
+    "is_private": false,
+    "market_cap_usd": 4406905993,
+    "name": "Comstock Resources",
+    "net_acreage_k": null,
+    "net_debt_to_ebitda": 3.53,
+    "net_debt_usd": 2945291000,
+    "pct_gas": null,
+    "pct_liquids": null,
+    "pe_ttm": 6.79,
+    "price": 15.005000114440918,
+    "price_currency": "USD",
+    "production_kboed": null,
+    "reserves_1p_mmboe": null,
+    "reserves_2p_mmboe": null,
+    "revenue_usd": null,
+    "roace_pct": 4.0,
+    "rp_years": null,
+    "src": {
+      "financials": {
+        "as_of": "2024-12-31",
+        "fy": 2025,
+        "source": "sec-us-gaap"
+      },
+      "market": {
+        "as_of": "2026-07-02",
+        "source": "yfinance"
+      },
+      "operational": {
+        "as_of": null,
+        "ref": null,
+        "source": null
+      }
+    }
+  },
+  "wikidata": {}
+}

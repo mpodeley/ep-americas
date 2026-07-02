@@ -1,0 +1,106 @@
+{
+  "cagr": {
+    "cfo_3y_pct": null,
+    "revenue_3y_pct": null
+  },
+  "category": "Vaca Muerta",
+  "country": "AR",
+  "financials_by_year": {},
+  "hq_city": "Buenos Aires",
+  "hq_coord": [
+    -34.6037,
+    -58.3816
+  ],
+  "id": "pluspetrol",
+  "links": {
+    "ir": "http://www.pluspetrol.net/",
+    "latest_sec_filing": null,
+    "latest_sec_filing_label": null,
+    "sec_index": null,
+    "wikipedia": null
+  },
+  "name": "Pluspetrol",
+  "narrative_md": "**Qué es.** Compañía privada argentina de exploración y producción de hidrocarburos, con trayectoria histórica en cuencas convencionales del país y presencia regional. Reorientó su portafolio hacia el no convencional.\n\n**Posición en Vaca Muerta.** Dio un salto de escala al adquirir ExxonMobil Exploration Argentina (cierre en diciembre de 2024, ~US$1.700 M), incorporando bloques como Bajo del Choique-La Invernada y Los Toldos, más participación en Oldelval. La operación cuadruplicó su superficie en la formación a ~160.000 acres.\n\n**Catalizadores 2025-2026.** Presentación al RIGI de un proyecto de ~US$12.000 M para Bajo del Choique-La Invernada (junto a GyP Neuquén): más de 600 pozos y meta de ~100.000 b/d de petróleo y ~12 MMm³/d de gas; nuevas exportaciones vía VMOS.\n\n**Riesgos.** Integración de los activos adquiridos, financiamiento del megaplan, precios, ejecución y macro/regulación argentinas.\n\n**Fuentes:** https://www.industrialinfo.com/news/article/pluspetrol-submits-us12-billion-project-in-vaca-muerta-to-argentinas-rigi--356983 · https://www.pluspetrol.net/en/articulo/pluspetrol-acquires-exxon-mobil-exploration-argentina-emea-1",
+  "provenance": {
+    "financials": {
+      "as_of": null,
+      "fy": null,
+      "source": null
+    },
+    "market": {
+      "as_of": null,
+      "source": null
+    },
+    "operational": {
+      "as_of": "2024-12-31",
+      "ref": "https://www.bancoprovincia.com.ar/CDN/Get/Pluspetrol_Calificacion_3",
+      "source": "Pluspetrol S.A. calificación Fix/Fitch (abr-2025), producción operada global FY2024"
+    }
+  },
+  "row": {
+    "beta": null,
+    "cagr_cfo_3y_pct": null,
+    "cagr_revenue_3y_pct": null,
+    "canonical_ticker": null,
+    "capex_to_cfo_pct": null,
+    "capex_usd": null,
+    "category": "Vaca Muerta",
+    "cfo_usd": null,
+    "corp_breakeven_usd_bbl": null,
+    "country": "AR",
+    "dividend_yield_pct": null,
+    "ebitda_usd": null,
+    "enterprise_value_usd": null,
+    "ev_ebitda": null,
+    "ev_per_1p_boe_usd": null,
+    "ev_per_boed_usd": null,
+    "exchange": null,
+    "fcf_usd": null,
+    "fcf_yield_pct": null,
+    "hq_city": "Buenos Aires",
+    "hq_coord": [
+      -34.6037,
+      -58.3816
+    ],
+    "id": "pluspetrol",
+    "is_private": true,
+    "market_cap_usd": null,
+    "name": "Pluspetrol",
+    "net_acreage_k": null,
+    "net_debt_to_ebitda": null,
+    "net_debt_usd": null,
+    "pct_gas": 67,
+    "pct_liquids": 33,
+    "pe_ttm": null,
+    "price": null,
+    "price_currency": null,
+    "production_kboed": 474,
+    "reserves_1p_mmboe": 593,
+    "reserves_2p_mmboe": null,
+    "revenue_usd": null,
+    "roace_pct": null,
+    "rp_years": 13,
+    "src": {
+      "financials": {
+        "as_of": null,
+        "fy": null,
+        "source": null
+      },
+      "market": {
+        "as_of": null,
+        "source": null
+      },
+      "operational": {
+        "as_of": "2024-12-31",
+        "ref": "https://www.bancoprovincia.com.ar/CDN/Get/Pluspetrol_Calificacion_3",
+        "source": "Pluspetrol S.A. calificación Fix/Fitch (abr-2025), producción operada global FY2024"
+      }
+    }
+  },
+  "wikidata": {
+    "founded": 1976,
+    "label": "Pluspetrol",
+    "qid": "Q2884160",
+    "website": "http://www.pluspetrol.net/"
+  }
+}

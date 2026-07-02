@@ -1,0 +1,281 @@
+{
+  "antero": {
+    "founded": 2002,
+    "isin": "US03674X1063",
+    "label": "Antero Resources",
+    "qid": "Q39046155",
+    "website": "http://www.anteroresources.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antero_Resources"
+  },
+  "apa": {
+    "founded": 1954,
+    "isin": "US0374111054",
+    "label": "APA Corporation",
+    "qid": "Q119991",
+    "website": "http://www.apachecorp.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/APA_Corporation"
+  },
+  "arc-resources": {
+    "founded": 1996,
+    "isin": "CA00208D4084",
+    "label": "ARC Resources",
+    "qid": "Q296498",
+    "website": "http://www.arcresources.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/ARC_Resources"
+  },
+  "baytex": {
+    "founded": 1993,
+    "label": "Baytex Energy",
+    "qid": "Q4874958",
+    "website": "http://www.baytex.ab.ca",
+    "wikipedia": "https://en.wikipedia.org/wiki/Baytex_Energy"
+  },
+  "brava": {
+    "label": "Brava Energia",
+    "qid": "Q108666978",
+    "website": "https://www.3rpetroleum.com.br/"
+  },
+  "cenovus": {
+    "founded": 2009,
+    "isin": "CA15135U1093",
+    "label": "Cenovus Energy",
+    "qid": "Q1053422",
+    "website": "https://www.cenovus.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cenovus_Energy"
+  },
+  "chevron": {
+    "employees": 48600,
+    "isin": "US1667641005",
+    "label": "Chevron Corporation",
+    "qid": "Q319642",
+    "website": "https://www.chevron.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chevron_Corporation"
+  },
+  "chord": {
+    "founded": 1980,
+    "label": "Chord Energy Corporation",
+    "qid": "Q20486949",
+    "wikipedia": "https://en.wikipedia.org/wiki/Whiting_Petroleum"
+  },
+  "civitas": {},
+  "cnrl": {
+    "employees": 6621,
+    "founded": 1973,
+    "isin": "CA1363851017",
+    "label": "Canadian Natural Resources",
+    "qid": "Q1032229",
+    "website": "http://www.cnrl.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Canadian_Natural_Resources"
+  },
+  "comstock": {},
+  "conocophillips": {
+    "employees": 39000,
+    "founded": 1875,
+    "isin": "US20825C1045",
+    "label": "ConocoPhillips",
+    "qid": "Q214763",
+    "website": "https://www.conocophillips.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/ConocoPhillips"
+  },
+  "coterra": {
+    "founded": 1989,
+    "isin": "US1270971039",
+    "label": "Coterra Energy",
+    "qid": "Q4035714",
+    "website": "http://www.cabotog.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Coterra"
+  },
+  "devon": {
+    "employees": 5900,
+    "founded": 1971,
+    "isin": "US25179M1036",
+    "label": "Devon Energy",
+    "qid": "Q1206980",
+    "website": "http://www.devonenergy.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Devon_Energy"
+  },
+  "diamondback": {
+    "founded": 2007,
+    "isin": "US25278X1090",
+    "label": "Diamondback Energy",
+    "qid": "Q65091423",
+    "website": "https://www.diamondbackenergy.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diamondback_Energy"
+  },
+  "ecopetrol": {
+    "employees": 9315,
+    "founded": 1951,
+    "isin": "US2791581091",
+    "label": "Ecopetrol",
+    "qid": "Q1282130",
+    "website": "http://www.ecopetrol.com.co/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ecopetrol"
+  },
+  "eog": {
+    "founded": 1999,
+    "isin": "US26875P1012",
+    "label": "EOG Resources",
+    "qid": "Q1275577",
+    "website": "https://www.eogresources.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/EOG_Resources"
+  },
+  "eqt": {},
+  "expand-energy": {
+    "founded": 1989,
+    "isin": "US1651671075",
+    "label": "Expand Energy",
+    "qid": "Q2962826",
+    "website": "http://www.chk.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Expand_Energy"
+  },
+  "exxonmobil": {
+    "employees": 75000,
+    "founded": 1882,
+    "isin": "US30231G1022",
+    "label": "ExxonMobil",
+    "qid": "Q156238",
+    "website": "https://www.exxonmobil.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/ExxonMobil"
+  },
+  "frontera": {
+    "founded": 2009,
+    "label": "Frontera Energy",
+    "qid": "Q7122670",
+    "website": "https://www.fronteraenergy.ca/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frontera_Energy"
+  },
+  "geopark": {
+    "label": "geopark",
+    "qid": "Q1324355",
+    "wikipedia": "https://en.wikipedia.org/wiki/Geopark"
+  },
+  "gran-tierra": {
+    "founded": 2003,
+    "isin": "US38500T2006",
+    "label": "Gran Tierra Energy",
+    "qid": "Q5594069",
+    "website": "https://www.grantierra.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gran_Tierra_Energy"
+  },
+  "imperial-oil": {
+    "founded": 1880,
+    "isin": "CA4530384086",
+    "label": "Imperial Oil",
+    "qid": "Q40650",
+    "website": "https://www.imperialoil.ca/en-ca/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Imperial_Oil"
+  },
+  "matador": {},
+  "occidental": {
+    "founded": 1920,
+    "isin": "US6745991058",
+    "label": "Occidental Petroleum",
+    "qid": "Q2013357",
+    "website": "https://www.oxy.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Occidental_Petroleum"
+  },
+  "ovintiv": {
+    "founded": 2020,
+    "label": "Ovintiv",
+    "qid": "Q136374867",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ovintiv"
+  },
+  "pampa": {
+    "founded": 2005,
+    "isin": "ARP432631215",
+    "label": "Pampa Energía",
+    "qid": "Q2838738",
+    "website": "https://www.pampaenergia.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pampa_Energía"
+  },
+  "pan-american": {
+    "founded": 1997,
+    "isin": "USE7S78BAB82",
+    "label": "Pan American Energy",
+    "qid": "Q27778993",
+    "website": "https://www.pan-energy.com"
+  },
+  "parex": {},
+  "permian-resources": {
+    "label": "Permian Resources Corp",
+    "qid": "Q140175408",
+    "website": "https://permianres.com/"
+  },
+  "petrobras": {
+    "employees": 52000,
+    "founded": 1953,
+    "isin": "BRPETRACNPR6",
+    "label": "Petrobras",
+    "qid": "Q210047",
+    "website": "https://www.petrobras.com.br",
+    "wikipedia": "https://en.wikipedia.org/wiki/Petrobras"
+  },
+  "petroreconcavo": {
+    "label": "PetroReconcavo",
+    "qid": "Q108669453",
+    "website": "https://petroreconcavo.com.br/"
+  },
+  "pluspetrol": {
+    "founded": 1976,
+    "label": "Pluspetrol",
+    "qid": "Q2884160",
+    "website": "http://www.pluspetrol.net/"
+  },
+  "prio": {
+    "label": "Prionace glauca",
+    "qid": "Q26337",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blue_shark"
+  },
+  "range-resources": {
+    "founded": 1976,
+    "isin": "US75281A1097",
+    "label": "Range Resources",
+    "qid": "Q4048013",
+    "website": "http://www.rangeresources.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Range_Resources"
+  },
+  "sm-energy": {
+    "founded": 1908,
+    "isin": "US78454L1008",
+    "label": "SM Energy",
+    "qid": "Q16984687",
+    "website": "http://www.sm-energy.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/SM_Energy"
+  },
+  "suncor": {
+    "employees": 12076,
+    "founded": 1917,
+    "isin": "CA8672241079",
+    "label": "Suncor Energy",
+    "qid": "Q1516410",
+    "website": "http://www.suncor.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Suncor_Energy"
+  },
+  "tecpetrol": {
+    "label": "Tecpetrol",
+    "qid": "Q109424337"
+  },
+  "tourmaline": {
+    "label": "Tourmaline Oil",
+    "qid": "Q112061872",
+    "website": "https://www.tourmalineoil.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tourmaline_Oil"
+  },
+  "veren": {
+    "label": "Verena",
+    "qid": "Q18002118",
+    "wikipedia": "https://en.wikipedia.org/wiki/Verena_(name)"
+  },
+  "vista": {
+    "label": "Vista Energy",
+    "qid": "Q99546848"
+  },
+  "ypf": {
+    "founded": 1922,
+    "isin": "US9842451000",
+    "label": "YPF",
+    "qid": "Q2006989",
+    "website": "https://www.ypf.com/english/Paginas/Home.aspx",
+    "wikipedia": "https://en.wikipedia.org/wiki/YPF"
+  }
+}

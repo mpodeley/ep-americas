@@ -1,0 +1,155 @@
+{
+  "cagr": {
+    "cfo_3y_pct": -0.1,
+    "revenue_3y_pct": 2.7
+  },
+  "category": "US Shale",
+  "country": "US",
+  "financials_by_year": {
+    "2021": {
+      "capex_usd": null,
+      "capital_employed_usd": 8472000000,
+      "cfo_usd": null,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": 2834000000,
+      "revenue_usd": 6220000000
+    },
+    "2022": {
+      "capex_usd": null,
+      "capital_employed_usd": 17938000000,
+      "cfo_usd": null,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": 4435000000,
+      "revenue_usd": 4828000000
+    },
+    "2023": {
+      "capex_usd": null,
+      "capital_employed_usd": 20616000000,
+      "cfo_usd": 4899000000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": 4090000000,
+      "revenue_usd": 12206000000
+    },
+    "2024": {
+      "capex_usd": null,
+      "capital_employed_usd": 20322000000,
+      "cfo_usd": 8530000000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": 4358000000,
+      "revenue_usd": 19169000000
+    },
+    "2025": {
+      "capex_usd": null,
+      "capital_employed_usd": 21181000000,
+      "cfo_usd": 6544000000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": 7545000000,
+      "revenue_usd": 15258000000
+    }
+  },
+  "hq_city": "Oklahoma City",
+  "hq_coord": [
+    35.4676,
+    -97.5164
+  ],
+  "id": "devon",
+  "links": {
+    "ir": "http://www.devonenergy.com",
+    "latest_sec_filing": "https://www.sec.gov/Archives/edgar/data/1090012/000119312526056485/dvn-20251231.htm",
+    "latest_sec_filing_label": "10-K 2026-02-18",
+    "sec_index": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1090012&type=10-K",
+    "wikipedia": "https://en.wikipedia.org/wiki/Devon_Energy"
+  },
+  "name": "Devon Energy",
+  "narrative_md": "**Qué es.** Devon Energy es una gran E&P independiente estadounidense con portafolio diversificado de petróleo y gas.\n\n**Posición estratégica.** Su activo ancla es el Delaware Basin (Permian); complementan Eagle Ford, Anadarko, Williston/Bakken (reforzado con Grayson Mill) y, desde 2026, el gas del Marcellus. En mayo de 2026 completó la fusión totalmente accionaria con Coterra (~US$58.000M de valor de empresa), creando un operador de gran escala con sede en Houston.\n\n**Drivers 2025-2026.** Producción récord (~848 MBoe/d en 2025) y ~US$3.100M de flujo libre; recompras ampliadas, reducción de deuda y sinergias objetivo de ~US$1.000M anuales por la fusión.\n\n**Riesgos.** Ejecución de la integración con Coterra, precios WTI/Henry Hub y sostenibilidad del dividendo fijo-más-variable.\n\n**Fuentes:** https://investors.devonenergy.com/investors/press-releases/press-release-details/2026/Devon-Energy-and-Coterra-Energy-Complete-Merger/ · https://www.devonenergy.com/news/2024/Devon-Energy-Completes-Strategic-Acquisition-in-the-Williston-Basin",
+  "provenance": {
+    "financials": {
+      "as_of": "2024-12-31",
+      "fy": 2025,
+      "source": "sec-us-gaap"
+    },
+    "market": {
+      "as_of": "2026-07-02",
+      "source": "yfinance"
+    },
+    "operational": {
+      "as_of": "2025-12-31",
+      "ref": "https://www.sec.gov/Archives/edgar/data/0001090012/000119312526056485/dvn-20251231.htm",
+      "source": "Devon FY2025 10-K + Q4/FY earnings"
+    }
+  },
+  "row": {
+    "beta": 0.42,
+    "cagr_cfo_3y_pct": -0.1,
+    "cagr_revenue_3y_pct": 2.7,
+    "canonical_ticker": "DVN",
+    "capex_to_cfo_pct": null,
+    "capex_usd": null,
+    "category": "US Shale",
+    "cfo_usd": 6544000000,
+    "corp_breakeven_usd_bbl": null,
+    "country": "US",
+    "dividend_yield_pct": 2.58,
+    "ebitda_usd": null,
+    "enterprise_value_usd": 54269357929,
+    "ev_ebitda": 4.75,
+    "ev_per_1p_boe_usd": 22.35,
+    "ev_per_boed_usd": 64453,
+    "exchange": "NYSE",
+    "fcf_usd": null,
+    "fcf_yield_pct": null,
+    "hq_city": "Oklahoma City",
+    "hq_coord": [
+      35.4676,
+      -97.5164
+    ],
+    "id": "devon",
+    "is_private": false,
+    "market_cap_usd": 46724357929,
+    "name": "Devon Energy",
+    "net_acreage_k": 2369,
+    "net_debt_to_ebitda": null,
+    "net_debt_usd": 7545000000,
+    "pct_gas": 27,
+    "pct_liquids": 73,
+    "pe_ttm": 11.28,
+    "price": 40.5099983215332,
+    "price_currency": "USD",
+    "production_kboed": 842,
+    "reserves_1p_mmboe": 2428,
+    "reserves_2p_mmboe": null,
+    "revenue_usd": 15258000000,
+    "roace_pct": null,
+    "rp_years": 8,
+    "src": {
+      "financials": {
+        "as_of": "2024-12-31",
+        "fy": 2025,
+        "source": "sec-us-gaap"
+      },
+      "market": {
+        "as_of": "2026-07-02",
+        "source": "yfinance"
+      },
+      "operational": {
+        "as_of": "2025-12-31",
+        "ref": "https://www.sec.gov/Archives/edgar/data/0001090012/000119312526056485/dvn-20251231.htm",
+        "source": "Devon FY2025 10-K + Q4/FY earnings"
+      }
+    }
+  },
+  "wikidata": {
+    "employees": 5900,
+    "founded": 1971,
+    "isin": "US25179M1036",
+    "label": "Devon Energy",
+    "qid": "Q1206980",
+    "website": "http://www.devonenergy.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Devon_Energy"
+  }
+}

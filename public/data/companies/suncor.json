@@ -1,0 +1,109 @@
+{
+  "cagr": {
+    "cfo_3y_pct": null,
+    "revenue_3y_pct": null
+  },
+  "category": "Canada",
+  "country": "CA",
+  "financials_by_year": {},
+  "hq_city": "Calgary",
+  "hq_coord": [
+    51.0447,
+    -114.0719
+  ],
+  "id": "suncor",
+  "links": {
+    "ir": "http://www.suncor.com/",
+    "latest_sec_filing": "https://www.sec.gov/Archives/edgar/data/311337/000110465926020411/su-20251231x40f.htm",
+    "latest_sec_filing_label": "40-F 2026-02-26",
+    "sec_index": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=311337&type=10-K",
+    "wikipedia": "https://en.wikipedia.org/wiki/Suncor_Energy"
+  },
+  "name": "Suncor Energy",
+  "narrative_md": null,
+  "provenance": {
+    "financials": {
+      "as_of": null,
+      "fy": null,
+      "source": null
+    },
+    "market": {
+      "as_of": "2026-07-02",
+      "source": "yfinance"
+    },
+    "operational": {
+      "as_of": null,
+      "ref": null,
+      "source": null
+    }
+  },
+  "row": {
+    "beta": 0.56,
+    "cagr_cfo_3y_pct": null,
+    "cagr_revenue_3y_pct": null,
+    "canonical_ticker": "SU",
+    "capex_to_cfo_pct": null,
+    "capex_usd": null,
+    "category": "Canada",
+    "cfo_usd": null,
+    "corp_breakeven_usd_bbl": null,
+    "country": "CA",
+    "dividend_yield_pct": 3.15,
+    "ebitda_usd": null,
+    "enterprise_value_usd": null,
+    "ev_ebitda": 4.8,
+    "ev_per_1p_boe_usd": null,
+    "ev_per_boed_usd": null,
+    "exchange": "NYSE",
+    "fcf_usd": null,
+    "fcf_yield_pct": null,
+    "hq_city": "Calgary",
+    "hq_coord": [
+      51.0447,
+      -114.0719
+    ],
+    "id": "suncor",
+    "is_private": false,
+    "market_cap_usd": 64279766468,
+    "name": "Suncor Energy",
+    "net_acreage_k": null,
+    "net_debt_to_ebitda": null,
+    "net_debt_usd": null,
+    "pct_gas": null,
+    "pct_liquids": null,
+    "pe_ttm": 14.67,
+    "price": 54.439998626708984,
+    "price_currency": "USD",
+    "production_kboed": null,
+    "reserves_1p_mmboe": null,
+    "reserves_2p_mmboe": null,
+    "revenue_usd": null,
+    "roace_pct": null,
+    "rp_years": null,
+    "src": {
+      "financials": {
+        "as_of": null,
+        "fy": null,
+        "source": null
+      },
+      "market": {
+        "as_of": "2026-07-02",
+        "source": "yfinance"
+      },
+      "operational": {
+        "as_of": null,
+        "ref": null,
+        "source": null
+      }
+    }
+  },
+  "wikidata": {
+    "employees": 12076,
+    "founded": 1917,
+    "isin": "CA8672241079",
+    "label": "Suncor Energy",
+    "qid": "Q1516410",
+    "website": "http://www.suncor.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Suncor_Energy"
+  }
+}

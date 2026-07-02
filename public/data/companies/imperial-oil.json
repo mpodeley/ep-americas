@@ -1,0 +1,108 @@
+{
+  "cagr": {
+    "cfo_3y_pct": null,
+    "revenue_3y_pct": null
+  },
+  "category": "Canada",
+  "country": "CA",
+  "financials_by_year": {},
+  "hq_city": "Calgary",
+  "hq_coord": [
+    51.0447,
+    -114.0719
+  ],
+  "id": "imperial-oil",
+  "links": {
+    "ir": "https://www.imperialoil.ca/en-ca/",
+    "latest_sec_filing": "https://www.sec.gov/Archives/edgar/data/49938/000004993826000009/imo-20251231.htm",
+    "latest_sec_filing_label": "10-K 2026-02-18",
+    "sec_index": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=49938&type=10-K",
+    "wikipedia": "https://en.wikipedia.org/wiki/Imperial_Oil"
+  },
+  "name": "Imperial Oil",
+  "narrative_md": null,
+  "provenance": {
+    "financials": {
+      "as_of": null,
+      "fy": null,
+      "source": null
+    },
+    "market": {
+      "as_of": "2026-07-02",
+      "source": "yfinance"
+    },
+    "operational": {
+      "as_of": null,
+      "ref": null,
+      "source": null
+    }
+  },
+  "row": {
+    "beta": 0.8,
+    "cagr_cfo_3y_pct": null,
+    "cagr_revenue_3y_pct": null,
+    "canonical_ticker": "IMO",
+    "capex_to_cfo_pct": null,
+    "capex_usd": null,
+    "category": "Canada",
+    "cfo_usd": null,
+    "corp_breakeven_usd_bbl": null,
+    "country": "CA",
+    "dividend_yield_pct": 2.25,
+    "ebitda_usd": null,
+    "enterprise_value_usd": null,
+    "ev_ebitda": 8.63,
+    "ev_per_1p_boe_usd": null,
+    "ev_per_boed_usd": null,
+    "exchange": "NYSE American",
+    "fcf_usd": null,
+    "fcf_yield_pct": null,
+    "hq_city": "Calgary",
+    "hq_coord": [
+      51.0447,
+      -114.0719
+    ],
+    "id": "imperial-oil",
+    "is_private": false,
+    "market_cap_usd": 55592446967,
+    "name": "Imperial Oil",
+    "net_acreage_k": null,
+    "net_debt_to_ebitda": null,
+    "net_debt_usd": null,
+    "pct_gas": null,
+    "pct_liquids": null,
+    "pe_ttm": 26.94,
+    "price": 111.80249786376953,
+    "price_currency": "USD",
+    "production_kboed": null,
+    "reserves_1p_mmboe": null,
+    "reserves_2p_mmboe": null,
+    "revenue_usd": null,
+    "roace_pct": null,
+    "rp_years": null,
+    "src": {
+      "financials": {
+        "as_of": null,
+        "fy": null,
+        "source": null
+      },
+      "market": {
+        "as_of": "2026-07-02",
+        "source": "yfinance"
+      },
+      "operational": {
+        "as_of": null,
+        "ref": null,
+        "source": null
+      }
+    }
+  },
+  "wikidata": {
+    "founded": 1880,
+    "isin": "CA4530384086",
+    "label": "Imperial Oil",
+    "qid": "Q40650",
+    "website": "https://www.imperialoil.ca/en-ca/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Imperial_Oil"
+  }
+}

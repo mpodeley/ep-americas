@@ -1,0 +1,154 @@
+{
+  "cagr": {
+    "cfo_3y_pct": 3.8,
+    "revenue_3y_pct": 5.8
+  },
+  "category": "US Shale",
+  "country": "US",
+  "financials_by_year": {
+    "2021": {
+      "capex_usd": 6367000000,
+      "capital_employed_usd": 98967000000,
+      "cfo_usd": 7375000000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 20911000000
+    },
+    "2022": {
+      "capex_usd": 2535000000,
+      "capital_employed_usd": 71740000000,
+      "cfo_usd": 3955000000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 17809000000
+    },
+    "2023": {
+      "capex_usd": 2870000000,
+      "capital_employed_usd": 67279000000,
+      "cfo_usd": 10434000000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 25956000000
+    },
+    "2024": {
+      "capex_usd": 4497000000,
+      "capital_employed_usd": 64860000000,
+      "cfo_usd": 16810000000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 36634000000
+    },
+    "2025": {
+      "capex_usd": 5696000000,
+      "capital_employed_usd": 75924000000,
+      "cfo_usd": 12308000000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 23156000000
+    }
+  },
+  "hq_city": "Houston",
+  "hq_coord": [
+    29.7604,
+    -95.3698
+  ],
+  "id": "occidental",
+  "links": {
+    "ir": "https://www.oxy.com/",
+    "latest_sec_filing": "https://www.sec.gov/Archives/edgar/data/797468/000162828026009059/oxy-20251231.htm",
+    "latest_sec_filing_label": "10-K 2026-02-18",
+    "sec_index": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=797468&type=10-K",
+    "wikipedia": "https://en.wikipedia.org/wiki/Occidental_Petroleum"
+  },
+  "name": "Occidental Petroleum",
+  "narrative_md": null,
+  "provenance": {
+    "financials": {
+      "as_of": "2024-12-31",
+      "fy": 2025,
+      "source": "sec-us-gaap"
+    },
+    "market": {
+      "as_of": "2026-07-02",
+      "source": "yfinance"
+    },
+    "operational": {
+      "as_of": null,
+      "ref": null,
+      "source": null
+    }
+  },
+  "row": {
+    "beta": 0.12,
+    "cagr_cfo_3y_pct": 3.8,
+    "cagr_revenue_3y_pct": 5.8,
+    "canonical_ticker": "OXY",
+    "capex_to_cfo_pct": 46,
+    "capex_usd": 5696000000,
+    "category": "US Shale",
+    "cfo_usd": 12308000000,
+    "corp_breakeven_usd_bbl": null,
+    "country": "US",
+    "dividend_yield_pct": 2.17,
+    "ebitda_usd": null,
+    "enterprise_value_usd": 69397790720,
+    "ev_ebitda": 6.41,
+    "ev_per_1p_boe_usd": null,
+    "ev_per_boed_usd": null,
+    "exchange": "NYSE",
+    "fcf_usd": 6612000000,
+    "fcf_yield_pct": 13.7,
+    "hq_city": "Houston",
+    "hq_coord": [
+      29.7604,
+      -95.3698
+    ],
+    "id": "occidental",
+    "is_private": false,
+    "market_cap_usd": 48209247033,
+    "name": "Occidental Petroleum",
+    "net_acreage_k": null,
+    "net_debt_to_ebitda": null,
+    "net_debt_usd": null,
+    "pct_gas": null,
+    "pct_liquids": null,
+    "pe_ttm": 65.5,
+    "price": 48.46929931640625,
+    "price_currency": "USD",
+    "production_kboed": null,
+    "reserves_1p_mmboe": null,
+    "reserves_2p_mmboe": null,
+    "revenue_usd": 23156000000,
+    "roace_pct": null,
+    "rp_years": null,
+    "src": {
+      "financials": {
+        "as_of": "2024-12-31",
+        "fy": 2025,
+        "source": "sec-us-gaap"
+      },
+      "market": {
+        "as_of": "2026-07-02",
+        "source": "yfinance"
+      },
+      "operational": {
+        "as_of": null,
+        "ref": null,
+        "source": null
+      }
+    }
+  },
+  "wikidata": {
+    "founded": 1920,
+    "isin": "US6745991058",
+    "label": "Occidental Petroleum",
+    "qid": "Q2013357",
+    "website": "https://www.oxy.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Occidental_Petroleum"
+  }
+}

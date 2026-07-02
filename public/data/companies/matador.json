@@ -1,0 +1,147 @@
+{
+  "cagr": {
+    "cfo_3y_pct": 38.4,
+    "revenue_3y_pct": 38.0
+  },
+  "category": "US Shale",
+  "country": "US",
+  "financials_by_year": {
+    "2021": {
+      "capex_usd": 946025000,
+      "capital_employed_usd": 3778740000,
+      "cfo_usd": 552042000,
+      "ebit_usd": 235480000,
+      "ebitda_usd": 586020000,
+      "net_debt_usd": null,
+      "revenue_usd": 983670000
+    },
+    "2022": {
+      "capex_usd": 721838000,
+      "capital_employed_usd": 3222443000,
+      "cfo_usd": 477582000,
+      "ebit_usd": -521499000,
+      "ebitda_usd": -159668000,
+      "net_debt_usd": null,
+      "revenue_usd": 862126000
+    },
+    "2023": {
+      "capex_usd": 837928000,
+      "capital_employed_usd": 3686280000,
+      "cfo_usd": 1053355000,
+      "ebit_usd": 793076000,
+      "ebitda_usd": 1137981000,
+      "net_debt_usd": 1112110000,
+      "revenue_usd": 1662981000
+    },
+    "2024": {
+      "capex_usd": 1063275000,
+      "capital_employed_usd": 4869230000,
+      "cfo_usd": 1978739000,
+      "ebit_usd": 1759270000,
+      "ebitda_usd": 2225618000,
+      "net_debt_usd": 1701448000,
+      "revenue_usd": 3058025000
+    },
+    "2025": {
+      "capex_usd": 3228259000,
+      "capital_employed_usd": 6731639000,
+      "cfo_usd": 1867828000,
+      "ebit_usd": 1209322000,
+      "ebitda_usd": 1926010000,
+      "net_debt_usd": 3272746000,
+      "revenue_usd": 2806785000
+    }
+  },
+  "hq_city": "Dallas",
+  "hq_coord": [
+    32.7767,
+    -96.797
+  ],
+  "id": "matador",
+  "links": {
+    "ir": null,
+    "latest_sec_filing": "https://www.sec.gov/Archives/edgar/data/1520006/000152000626000002/mtdr-20251231.htm",
+    "latest_sec_filing_label": "10-K 2026-02-26",
+    "sec_index": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1520006&type=10-K",
+    "wikipedia": null
+  },
+  "name": "Matador Resources",
+  "narrative_md": null,
+  "provenance": {
+    "financials": {
+      "as_of": "2024-12-31",
+      "fy": 2025,
+      "source": "sec-us-gaap"
+    },
+    "market": {
+      "as_of": "2026-07-02",
+      "source": "yfinance"
+    },
+    "operational": {
+      "as_of": null,
+      "ref": null,
+      "source": null
+    }
+  },
+  "row": {
+    "beta": 0.73,
+    "cagr_cfo_3y_pct": 38.4,
+    "cagr_revenue_3y_pct": 38.0,
+    "canonical_ticker": "MTDR",
+    "capex_to_cfo_pct": 173,
+    "capex_usd": 3228259000,
+    "category": "US Shale",
+    "cfo_usd": 1867828000,
+    "corp_breakeven_usd_bbl": null,
+    "country": "US",
+    "dividend_yield_pct": 3.06,
+    "ebitda_usd": 1926010000,
+    "enterprise_value_usd": 9472343888,
+    "ev_ebitda": 4.75,
+    "ev_per_1p_boe_usd": null,
+    "ev_per_boed_usd": null,
+    "exchange": "NYSE",
+    "fcf_usd": -1360431000,
+    "fcf_yield_pct": -21.9,
+    "hq_city": "Dallas",
+    "hq_coord": [
+      32.7767,
+      -96.797
+    ],
+    "id": "matador",
+    "is_private": false,
+    "market_cap_usd": 6199597888,
+    "name": "Matador Resources",
+    "net_acreage_k": null,
+    "net_debt_to_ebitda": 1.7,
+    "net_debt_usd": 3272746000,
+    "pct_gas": null,
+    "pct_liquids": null,
+    "pe_ttm": 12.87,
+    "price": 49.92499923706055,
+    "price_currency": "USD",
+    "production_kboed": null,
+    "reserves_1p_mmboe": null,
+    "reserves_2p_mmboe": null,
+    "revenue_usd": 2806785000,
+    "roace_pct": 20.8,
+    "rp_years": null,
+    "src": {
+      "financials": {
+        "as_of": "2024-12-31",
+        "fy": 2025,
+        "source": "sec-us-gaap"
+      },
+      "market": {
+        "as_of": "2026-07-02",
+        "source": "yfinance"
+      },
+      "operational": {
+        "as_of": null,
+        "ref": null,
+        "source": null
+      }
+    }
+  },
+  "wikidata": {}
+}

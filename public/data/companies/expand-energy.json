@@ -1,0 +1,154 @@
+{
+  "cagr": {
+    "cfo_3y_pct": -4.5,
+    "revenue_3y_pct": 0.7
+  },
+  "category": "US Shale",
+  "country": "US",
+  "financials_by_year": {
+    "2021": {
+      "capex_usd": null,
+      "capital_employed_usd": 3490000000,
+      "cfo_usd": 1623000000,
+      "ebit_usd": -31000000,
+      "ebitda_usd": 2233000000,
+      "net_debt_usd": -6000000,
+      "revenue_usd": 8532000000
+    },
+    "2022": {
+      "capex_usd": 1142000000,
+      "capital_employed_usd": 5232000000,
+      "cfo_usd": 1164000000,
+      "ebit_usd": -8703000000,
+      "ebitda_usd": -7606000000,
+      "net_debt_usd": 1999000000,
+      "revenue_usd": 5240000000
+    },
+    "2023": {
+      "capex_usd": 669000000,
+      "capital_employed_usd": 5232000000,
+      "cfo_usd": 1809000000,
+      "ebit_usd": 938000000,
+      "ebitda_usd": 1857000000,
+      "net_debt_usd": 3053000000,
+      "revenue_usd": 5549000000
+    },
+    "2024": {
+      "capex_usd": 1823000000,
+      "capital_employed_usd": 13062000000,
+      "cfo_usd": 4125000000,
+      "ebit_usd": 3780000000,
+      "ebitda_usd": 5533000000,
+      "net_debt_usd": 1898000000,
+      "revenue_usd": 11743000000
+    },
+    "2025": {
+      "capex_usd": 1829000000,
+      "capital_employed_usd": 24771000000,
+      "cfo_usd": 2380000000,
+      "ebit_usd": 3142000000,
+      "ebitda_usd": 4669000000,
+      "net_debt_usd": 4212000000,
+      "revenue_usd": 8721000000
+    }
+  },
+  "hq_city": "Oklahoma City",
+  "hq_coord": [
+    35.4676,
+    -97.5164
+  ],
+  "id": "expand-energy",
+  "links": {
+    "ir": "http://www.chk.com/",
+    "latest_sec_filing": "https://www.sec.gov/Archives/edgar/data/895126/000089512626000011/exe-20251231.htm",
+    "latest_sec_filing_label": "10-K 2026-02-18",
+    "sec_index": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=895126&type=10-K",
+    "wikipedia": "https://en.wikipedia.org/wiki/Expand_Energy"
+  },
+  "name": "Expand Energy",
+  "narrative_md": null,
+  "provenance": {
+    "financials": {
+      "as_of": "2024-12-31",
+      "fy": 2025,
+      "source": "sec-us-gaap"
+    },
+    "market": {
+      "as_of": "2026-07-02",
+      "source": "yfinance"
+    },
+    "operational": {
+      "as_of": null,
+      "ref": null,
+      "source": null
+    }
+  },
+  "row": {
+    "beta": 0.32,
+    "cagr_cfo_3y_pct": -4.5,
+    "cagr_revenue_3y_pct": 0.7,
+    "canonical_ticker": "EXE",
+    "capex_to_cfo_pct": 77,
+    "capex_usd": 1829000000,
+    "category": "US Shale",
+    "cfo_usd": 2380000000,
+    "corp_breakeven_usd_bbl": null,
+    "country": "US",
+    "dividend_yield_pct": 3.56,
+    "ebitda_usd": 4669000000,
+    "enterprise_value_usd": 25865799121,
+    "ev_ebitda": 3.27,
+    "ev_per_1p_boe_usd": null,
+    "ev_per_boed_usd": null,
+    "exchange": "NASDAQ",
+    "fcf_usd": 551000000,
+    "fcf_yield_pct": 2.5,
+    "hq_city": "Oklahoma City",
+    "hq_coord": [
+      35.4676,
+      -97.5164
+    ],
+    "id": "expand-energy",
+    "is_private": false,
+    "market_cap_usd": 21653799121,
+    "name": "Expand Energy",
+    "net_acreage_k": null,
+    "net_debt_to_ebitda": 0.9,
+    "net_debt_usd": 4212000000,
+    "pct_gas": null,
+    "pct_liquids": null,
+    "pe_ttm": 6.73,
+    "price": 90.51499938964844,
+    "price_currency": "USD",
+    "production_kboed": null,
+    "reserves_1p_mmboe": null,
+    "reserves_2p_mmboe": null,
+    "revenue_usd": 8721000000,
+    "roace_pct": 16.6,
+    "rp_years": null,
+    "src": {
+      "financials": {
+        "as_of": "2024-12-31",
+        "fy": 2025,
+        "source": "sec-us-gaap"
+      },
+      "market": {
+        "as_of": "2026-07-02",
+        "source": "yfinance"
+      },
+      "operational": {
+        "as_of": null,
+        "ref": null,
+        "source": null
+      }
+    }
+  },
+  "wikidata": {
+    "founded": 1989,
+    "isin": "US1651671075",
+    "label": "Expand Energy",
+    "qid": "Q2962826",
+    "website": "http://www.chk.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Expand_Energy"
+  }
+}

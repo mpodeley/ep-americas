@@ -1,0 +1,154 @@
+{
+  "cagr": {
+    "cfo_3y_pct": 2.2,
+    "revenue_3y_pct": -0.6
+  },
+  "category": "Major",
+  "country": "US",
+  "financials_by_year": {
+    "2021": {
+      "capex_usd": 13839000000,
+      "capital_employed_usd": 217607000000,
+      "cfo_usd": 27314000000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 146516000000
+    },
+    "2022": {
+      "capex_usd": 8492000000,
+      "capital_employed_usd": 212744000000,
+      "cfo_usd": 10577000000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 94692000000
+    },
+    "2023": {
+      "capex_usd": 7515000000,
+      "capital_employed_usd": 223501000000,
+      "cfo_usd": 29187000000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 162465000000
+    },
+    "2024": {
+      "capex_usd": 10349000000,
+      "capital_employed_usd": 229374000000,
+      "cfo_usd": 49602000000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 246252000000
+    },
+    "2025": {
+      "capex_usd": 14788000000,
+      "capital_employed_usd": 218380000000,
+      "cfo_usd": 35609000000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 200949000000
+    }
+  },
+  "hq_city": "Houston",
+  "hq_coord": [
+    29.7604,
+    -95.3698
+  ],
+  "id": "chevron",
+  "links": {
+    "ir": "https://www.chevron.com",
+    "latest_sec_filing": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000078/cvx-20251231.htm",
+    "latest_sec_filing_label": "10-K 2026-02-24",
+    "sec_index": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=93410&type=10-K",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chevron_Corporation"
+  },
+  "name": "Chevron",
+  "narrative_md": null,
+  "provenance": {
+    "financials": {
+      "as_of": "2024-12-31",
+      "fy": 2025,
+      "source": "sec-us-gaap"
+    },
+    "market": {
+      "as_of": "2026-07-02",
+      "source": "yfinance"
+    },
+    "operational": {
+      "as_of": null,
+      "ref": null,
+      "source": null
+    }
+  },
+  "row": {
+    "beta": 0.47,
+    "cagr_cfo_3y_pct": 2.2,
+    "cagr_revenue_3y_pct": -0.6,
+    "canonical_ticker": "CVX",
+    "capex_to_cfo_pct": 42,
+    "capex_usd": 14788000000,
+    "category": "Major",
+    "cfo_usd": 35609000000,
+    "corp_breakeven_usd_bbl": null,
+    "country": "US",
+    "dividend_yield_pct": 4.3,
+    "ebitda_usd": null,
+    "enterprise_value_usd": 373397323776,
+    "ev_ebitda": 9.85,
+    "ev_per_1p_boe_usd": null,
+    "ev_per_boed_usd": null,
+    "exchange": "NYSE",
+    "fcf_usd": 20821000000,
+    "fcf_yield_pct": 6.2,
+    "hq_city": "Houston",
+    "hq_coord": [
+      29.7604,
+      -95.3698
+    ],
+    "id": "chevron",
+    "is_private": false,
+    "market_cap_usd": 336350972029,
+    "name": "Chevron",
+    "net_acreage_k": null,
+    "net_debt_to_ebitda": null,
+    "net_debt_usd": null,
+    "pct_gas": null,
+    "pct_liquids": null,
+    "pe_ttm": 29.47,
+    "price": 168.88499450683594,
+    "price_currency": "USD",
+    "production_kboed": null,
+    "reserves_1p_mmboe": null,
+    "reserves_2p_mmboe": null,
+    "revenue_usd": 200949000000,
+    "roace_pct": null,
+    "rp_years": null,
+    "src": {
+      "financials": {
+        "as_of": "2024-12-31",
+        "fy": 2025,
+        "source": "sec-us-gaap"
+      },
+      "market": {
+        "as_of": "2026-07-02",
+        "source": "yfinance"
+      },
+      "operational": {
+        "as_of": null,
+        "ref": null,
+        "source": null
+      }
+    }
+  },
+  "wikidata": {
+    "employees": 48600,
+    "isin": "US1667641005",
+    "label": "Chevron Corporation",
+    "qid": "Q319642",
+    "website": "https://www.chevron.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chevron_Corporation"
+  }
+}

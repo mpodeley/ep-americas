@@ -7,6 +7,8 @@ import Filters from './components/Filters'
 import ScreenerTable from './components/ScreenerTable'
 import MapaAmericas from './components/MapaAmericas'
 import Fuentes from './components/Fuentes'
+import Perfil from './components/Perfil'
+import { useHashRoute } from './hooks/useHashRoute'
 
 type View = 'tabla' | 'mapa' | 'fuentes'
 const TABS: { id: View; label: string }[] = [
@@ -25,6 +27,7 @@ export default function App() {
     market: true, financials: true, operational: true, ratios: true,
   })
   const [view, setView] = useState<View>('tabla')
+  const { companyId } = useHashRoute()
 
   const categories = useMemo(
     () => Array.from(new Set(companies.map((c) => c.category))).sort(),
@@ -67,7 +70,7 @@ export default function App() {
             Empresas E&P (upstream) de América — mercado, financieras y operativas.
           </p>
         </div>
-        <div style={{ display: 'flex', gap: space.xs }}>
+        {!companyId && <div style={{ display: 'flex', gap: space.xs }}>
           {TABS.map((t) => (
             <button key={t.id} onClick={() => setView(t.id)} style={{
               cursor: 'pointer', fontSize: 13, fontWeight: 600, padding: '7px 14px',
@@ -76,7 +79,7 @@ export default function App() {
               color: view === t.id ? colors.accent.blue : colors.textMuted,
             }}>{t.label}</button>
           ))}
-        </div>
+        </div>}
       </header>
 
       {loading && <p style={{ color: colors.textMuted }}>Cargando datos…</p>}
@@ -87,7 +90,9 @@ export default function App() {
         </div>
       )}
 
-      {!loading && !error && (
+      {!loading && !error && companyId && <Perfil id={companyId} />}
+
+      {!loading && !error && !companyId && (
         <>
           {view !== 'fuentes' && (
             <Filters

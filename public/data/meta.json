@@ -1,7 +1,7 @@
 {
   "counts": {
     "companies": 43,
-    "with_financials": 25,
+    "with_financials": 23,
     "with_market": 38,
     "with_operational": 17
   },
@@ -57,6 +57,7 @@
     "apa: filer SEC sin ingresos extraídos",
     "civitas: yfinance falló y no hay caché de mercado",
     "civitas: sin market cap",
+    "comstock: filer SEC sin ingresos extraídos",
     "cnrl: SEC sin datos USD (posible reporte en moneda funcional) o fetch falló",
     "cenovus: SEC sin datos USD (posible reporte en moneda funcional) o fetch falló",
     "suncor: SEC sin datos USD (posible reporte en moneda funcional) o fetch falló",
@@ -64,6 +65,7 @@
     "veren: yfinance falló y no hay caché de mercado",
     "veren: sin market cap",
     "baytex: SEC sin datos USD (posible reporte en moneda funcional) o fetch falló",
-    "ecopetrol: SEC sin datos USD (posible reporte en moneda funcional) o fetch falló"
+    "ecopetrol: SEC sin datos USD (posible reporte en moneda funcional) o fetch falló",
+    "gran-tierra: filer SEC sin ingresos extraídos"
   ]
 }

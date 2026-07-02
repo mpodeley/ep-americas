@@ -1,0 +1,154 @@
+{
+  "cagr": {
+    "cfo_3y_pct": 8.9,
+    "revenue_3y_pct": 11.5
+  },
+  "category": "US Shale",
+  "country": "US",
+  "financials_by_year": {
+    "2021": {
+      "capex_usd": 6152000000,
+      "capital_employed_usd": 33665000000,
+      "cfo_usd": 8163000000,
+      "ebit_usd": 3699000000,
+      "ebitda_usd": 7449000000,
+      "net_debt_usd": 1706000000,
+      "revenue_usd": 17380000000
+    },
+    "2022": {
+      "capex_usd": 3244000000,
+      "capital_employed_usd": 34194000000,
+      "cfo_usd": 5008000000,
+      "ebit_usd": -544000000,
+      "ebitda_usd": 2856000000,
+      "net_debt_usd": -137000000,
+      "revenue_usd": 11032000000
+    },
+    "2023": {
+      "capex_usd": 3638000000,
+      "capital_employed_usd": 32723000000,
+      "cfo_usd": 8791000000,
+      "ebit_usd": 6102000000,
+      "ebitda_usd": 9753000000,
+      "net_debt_usd": -2177000000,
+      "revenue_usd": 18642000000
+    },
+    "2024": {
+      "capex_usd": 4619000000,
+      "capital_employed_usd": 37297000000,
+      "cfo_usd": 11093000000,
+      "ebit_usd": 9966000000,
+      "ebitda_usd": 13508000000,
+      "net_debt_usd": -1513000000,
+      "revenue_usd": 25702000000
+    },
+    "2025": {
+      "capex_usd": 5385000000,
+      "capital_employed_usd": 38503000000,
+      "cfo_usd": 11340000000,
+      "ebit_usd": 9603000000,
+      "ebitda_usd": 13095000000,
+      "net_debt_usd": -2872000000,
+      "revenue_usd": 24186000000
+    }
+  },
+  "hq_city": "Houston",
+  "hq_coord": [
+    29.7604,
+    -95.3698
+  ],
+  "id": "eog",
+  "links": {
+    "ir": "https://www.eogresources.com/",
+    "latest_sec_filing": "https://www.sec.gov/Archives/edgar/data/821189/000082118926000054/eog-20251231.htm",
+    "latest_sec_filing_label": "10-K 2026-02-24",
+    "sec_index": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=821189&type=10-K",
+    "wikipedia": "https://en.wikipedia.org/wiki/EOG_Resources"
+  },
+  "name": "EOG Resources",
+  "narrative_md": "**Qué es.** EOG Resources es una de las mayores E&P independientes de EE.UU., con un modelo multi-cuenca de bajo costo y foco en retornos.\n\n**Posición estratégica.** Sus activos core son el Delaware Basin (Permian) y Eagle Ford (Texas), sumando la Utica (Ohio), reforzada con la compra de Encino (~US$5.600M) que la convierte en operador líder de esa jugada de líquidos/gas.\n\n**Drivers 2025-2026.** En 2025 produjo ~124,5 MMBoe y generó ~US$4.700M de flujo libre, devuelto 100% vía dividendo creciente y recompras. El plan 2026 prevé capex de ~US$6.300-6.700M y crecimiento cercano a 5% en petróleo.\n\n**Riesgos.** Sensibilidad al WTI/Henry Hub, integración de Encino, ritmo de recompras y profundidad de inventario tier-1.\n\n**Fuentes:** https://investors.eogresources.com/2026-02-24-EOG-Resources-Reports-Fourth-Quarter-and-Full-Year-2025-Results · https://investors.eogresources.com/2025-05-30-EOG-Resources-to-Acquire-Encino-Acquisition-Partners",
+  "provenance": {
+    "financials": {
+      "as_of": "2024-12-31",
+      "fy": 2025,
+      "source": "sec-us-gaap"
+    },
+    "market": {
+      "as_of": "2026-07-02",
+      "source": "yfinance"
+    },
+    "operational": {
+      "as_of": "2025-12-31",
+      "ref": "https://www.sec.gov/Archives/edgar/data/0000821189/000082118926000054/eog-20251231.htm",
+      "source": "EOG FY2025 10-K + earnings"
+    }
+  },
+  "row": {
+    "beta": 0.26,
+    "cagr_cfo_3y_pct": 8.9,
+    "cagr_revenue_3y_pct": 11.5,
+    "canonical_ticker": "EOG",
+    "capex_to_cfo_pct": 47,
+    "capex_usd": 5385000000,
+    "category": "US Shale",
+    "cfo_usd": 11340000000,
+    "corp_breakeven_usd_bbl": null,
+    "country": "US",
+    "dividend_yield_pct": 3.17,
+    "ebitda_usd": 13095000000,
+    "enterprise_value_usd": 66414985901,
+    "ev_ebitda": 5.8,
+    "ev_per_1p_boe_usd": 12.04,
+    "ev_per_boed_usd": 53908,
+    "exchange": "NYSE",
+    "fcf_usd": 5955000000,
+    "fcf_yield_pct": 8.6,
+    "hq_city": "Houston",
+    "hq_coord": [
+      29.7604,
+      -95.3698
+    ],
+    "id": "eog",
+    "is_private": false,
+    "market_cap_usd": 69286985901,
+    "name": "EOG Resources",
+    "net_acreage_k": 4666,
+    "net_debt_to_ebitda": -0.22,
+    "net_debt_usd": -2872000000,
+    "pct_gas": 34,
+    "pct_liquids": 66,
+    "pe_ttm": 12.79,
+    "price": 130.0850067138672,
+    "price_currency": "USD",
+    "production_kboed": 1232,
+    "reserves_1p_mmboe": 5514,
+    "reserves_2p_mmboe": null,
+    "revenue_usd": 24186000000,
+    "roace_pct": 25.3,
+    "rp_years": 12,
+    "src": {
+      "financials": {
+        "as_of": "2024-12-31",
+        "fy": 2025,
+        "source": "sec-us-gaap"
+      },
+      "market": {
+        "as_of": "2026-07-02",
+        "source": "yfinance"
+      },
+      "operational": {
+        "as_of": "2025-12-31",
+        "ref": "https://www.sec.gov/Archives/edgar/data/0000821189/000082118926000054/eog-20251231.htm",
+        "source": "EOG FY2025 10-K + earnings"
+      }
+    }
+  },
+  "wikidata": {
+    "founded": 1999,
+    "isin": "US26875P1012",
+    "label": "EOG Resources",
+    "qid": "Q1275577",
+    "website": "https://www.eogresources.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/EOG_Resources"
+  }
+}

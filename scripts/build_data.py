@@ -19,7 +19,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from _meta import REPO_ROOT, envelope, write_json, read_json, today_iso  # noqa: E402
-from sources import sec_edgar, market_yf  # noqa: E402
+from sources import sec_edgar, market_yf, wikidata  # noqa: E402
 
 CURATED = REPO_ROOT / "curated"
 CACHE = REPO_ROOT / "cache"
@@ -38,6 +38,7 @@ OPERATIONAL_KEYS = [
 DERIVED_KEYS = [
     "ev_per_boed_usd", "ev_per_1p_boe_usd", "net_debt_to_ebitda",
     "fcf_usd", "fcf_yield_pct", "capex_to_cfo_pct", "roace_pct",
+    "cagr_revenue_3y_pct", "cagr_cfo_3y_pct",
 ]
 
 
@@ -154,6 +155,9 @@ def build_row(seed_row, market, market_src, market_asof, fin, fin_src,
         row["net_debt_usd"] = fin.get("net_debt_usd")
         row["cfo_usd"] = fin.get("cfo_usd")
         row["capex_usd"] = fin.get("capex_usd")
+        row["roace_pct"] = fin.get("roace_pct")
+        row["cagr_revenue_3y_pct"] = fin.get("cagr_revenue_3y_pct")
+        row["cagr_cfo_3y_pct"] = fin.get("cagr_cfo_3y_pct")
         row["src"]["financials"]["as_of"] = fin.get("as_of")
         row["src"]["financials"]["fy"] = fin.get("fy")
 
@@ -262,6 +266,63 @@ def build_meta(rows, warnings, market_breakdown):
     }
 
 
+def load_narratives():
+    d = {}
+    ndir = CURATED / "narratives"
+    if ndir.exists():
+        for p in ndir.glob("*.md"):
+            d[p.stem] = p.read_text(encoding="utf-8").strip()
+    return d
+
+
+def _cik_for(sr, cik_map):
+    if not sr.get("sec_taxonomy"):
+        return None
+    if sr.get("cik"):
+        return int(sr["cik"])
+    t = sr.get("sec_ticker")
+    return cik_map.get(t.upper()) if t else None
+
+
+def write_profiles(rows, fin_by_id, seed_by_id, session, cik_map, wd_cache, new_wd_cache, narratives):
+    """Write one public/data/companies/{id}.json detail file per company."""
+    wd_session = wikidata._session()
+    for row in rows:
+        cid = row["id"]
+        sr = seed_by_id[cid]
+        wdp = wd_cache.get(cid)
+        if wdp is None:  # cache-forever (Wikidata rarely changes); delete entry to refresh
+            wdp = wikidata.fetch_profile(wd_session, row["name"]) or {}
+            wikidata.polite_sleep()
+        new_wd_cache[cid] = wdp
+
+        filing, cik = None, _cik_for(sr, cik_map)
+        if cik:
+            filing = sec_edgar.fetch_latest_filing(session, cik)
+            sec_edgar.polite_sleep()
+
+        fin = fin_by_id.get(cid, {})
+        detail = {
+            "id": cid, "name": row["name"], "category": row["category"],
+            "country": row["country"], "hq_city": row["hq_city"], "hq_coord": row["hq_coord"],
+            "row": row,
+            "financials_by_year": fin.get("financials_by_year", {}),
+            "cagr": {"revenue_3y_pct": row.get("cagr_revenue_3y_pct"), "cfo_3y_pct": row.get("cagr_cfo_3y_pct")},
+            "wikidata": wdp,
+            "narrative_md": narratives.get(cid),
+            "links": {
+                "ir": wdp.get("website"),
+                "wikipedia": wdp.get("wikipedia"),
+                "latest_sec_filing": filing["url"] if filing else None,
+                "latest_sec_filing_label": f"{filing['form']} {filing['date']}" if filing else None,
+                "sec_index": (f"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK={cik}&type=10-K"
+                              if cik else None),
+            },
+            "provenance": row["src"],
+        }
+        write_json(OUT / "companies" / f"{cid}.json", detail)
+
+
 def main():
     seed = load_seed()
     operational = read_json(CURATED / "operational.json", {}) or {}
@@ -270,9 +331,13 @@ def main():
                  if not k.startswith("_")}
     market_cache = read_json(CACHE / "market.json", {}) or {}
     sec_cache = read_json(CACHE / "sec.json", {}) or {}
+    wd_cache = read_json(CACHE / "wikidata.json", {}) or {}
+    narratives = load_narratives()
+    seed_by_id = {sr["id"]: sr for sr in seed}
 
     new_market_cache = dict(market_cache)
     new_sec_cache = dict(sec_cache)
+    new_wd_cache = dict(wd_cache)
     warnings, errors = [], []
     market_breakdown = {"yfinance": 0, "cache": 0, "none": 0}
 
@@ -282,10 +347,13 @@ def main():
         warnings.append("No se pudo cargar company_tickers.json de SEC; financieras usarán solo caché")
 
     rows = []
+    fin_by_id = {}  # full financials dict (incl. financials_by_year) for profile detail files
     for sr in seed:
         market, m_src, m_asof = enrich_market(sr, market_cache, new_market_cache, warnings)
         market_breakdown[m_src or "none"] = market_breakdown.get(m_src or "none", 0) + 1
         fin, f_src = enrich_financials(sr, session, cik_map, sec_cache, new_sec_cache, warnings)
+        if fin:
+            fin_by_id[sr["id"]] = fin
         row = build_row(sr, market, m_src, m_asof, fin, f_src,
                         operational, overrides, hq_coords)
         derive(row)
@@ -311,8 +379,12 @@ def main():
     write_json(CACHE / "market.json", new_market_cache)
     write_json(CACHE / "sec.json", new_sec_cache)
 
+    write_profiles(rows, fin_by_id, seed_by_id, session, cik_map, wd_cache, new_wd_cache, narratives)
+    write_json(CACHE / "wikidata.json", new_wd_cache)
+
     print(f"\nEscritas {len(rows)} empresas -> public/data/companies.json")
     print(f"  mercado: {market_breakdown}")
+    print(f"  perfiles: {len(rows)} -> public/data/companies/")
 
 
 if __name__ == "__main__":

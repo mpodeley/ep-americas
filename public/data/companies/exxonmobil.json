@@ -1,0 +1,155 @@
+{
+  "cagr": {
+    "cfo_3y_pct": 0.4,
+    "revenue_3y_pct": 1.0
+  },
+  "category": "Major",
+  "country": "US",
+  "financials_by_year": {
+    "2021": {
+      "capex_usd": 24361000000,
+      "capital_employed_usd": 306234000000,
+      "cfo_usd": 29716000000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 264938000000
+    },
+    "2022": {
+      "capex_usd": 17282000000,
+      "capital_employed_usd": 276107000000,
+      "cfo_usd": 14668000000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 181502000000
+    },
+    "2023": {
+      "capex_usd": 12076000000,
+      "capital_employed_usd": 269878000000,
+      "cfo_usd": 48129000000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 285640000000
+    },
+    "2024": {
+      "capex_usd": 18407000000,
+      "capital_employed_usd": 303751000000,
+      "cfo_usd": 76797000000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 413680000000
+    },
+    "2025": {
+      "capex_usd": 21919000000,
+      "capital_employed_usd": 383168000000,
+      "cfo_usd": 55369000000,
+      "ebit_usd": null,
+      "ebitda_usd": null,
+      "net_debt_usd": null,
+      "revenue_usd": 344582000000
+    }
+  },
+  "hq_city": "Spring",
+  "hq_coord": [
+    30.0799,
+    -95.4172
+  ],
+  "id": "exxonmobil",
+  "links": {
+    "ir": "https://www.exxonmobil.com/",
+    "latest_sec_filing": "https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm",
+    "latest_sec_filing_label": "10-K 2026-02-18",
+    "sec_index": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=34088&type=10-K",
+    "wikipedia": "https://en.wikipedia.org/wiki/ExxonMobil"
+  },
+  "name": "ExxonMobil",
+  "narrative_md": null,
+  "provenance": {
+    "financials": {
+      "as_of": "2024-12-31",
+      "fy": 2025,
+      "source": "sec-us-gaap"
+    },
+    "market": {
+      "as_of": "2026-07-02",
+      "source": "yfinance"
+    },
+    "operational": {
+      "as_of": null,
+      "ref": null,
+      "source": null
+    }
+  },
+  "row": {
+    "beta": 0.15,
+    "cagr_cfo_3y_pct": 0.4,
+    "cagr_revenue_3y_pct": 1.0,
+    "canonical_ticker": "XOM",
+    "capex_to_cfo_pct": 40,
+    "capex_usd": 21919000000,
+    "category": "Major",
+    "cfo_usd": 55369000000,
+    "corp_breakeven_usd_bbl": null,
+    "country": "US",
+    "dividend_yield_pct": 3.02,
+    "ebitda_usd": null,
+    "enterprise_value_usd": 610714386432,
+    "ev_ebitda": 10.9,
+    "ev_per_1p_boe_usd": null,
+    "ev_per_boed_usd": null,
+    "exchange": "NYSE",
+    "fcf_usd": 33450000000,
+    "fcf_yield_pct": 5.8,
+    "hq_city": "Spring",
+    "hq_coord": [
+      30.0799,
+      -95.4172
+    ],
+    "id": "exxonmobil",
+    "is_private": false,
+    "market_cap_usd": 573515636839,
+    "name": "ExxonMobil",
+    "net_acreage_k": null,
+    "net_debt_to_ebitda": null,
+    "net_debt_usd": null,
+    "pct_gas": null,
+    "pct_liquids": null,
+    "pe_ttm": 23.29,
+    "price": 138.36500549316406,
+    "price_currency": "USD",
+    "production_kboed": null,
+    "reserves_1p_mmboe": null,
+    "reserves_2p_mmboe": null,
+    "revenue_usd": 344582000000,
+    "roace_pct": null,
+    "rp_years": null,
+    "src": {
+      "financials": {
+        "as_of": "2024-12-31",
+        "fy": 2025,
+        "source": "sec-us-gaap"
+      },
+      "market": {
+        "as_of": "2026-07-02",
+        "source": "yfinance"
+      },
+      "operational": {
+        "as_of": null,
+        "ref": null,
+        "source": null
+      }
+    }
+  },
+  "wikidata": {
+    "employees": 75000,
+    "founded": 1882,
+    "isin": "US30231G1022",
+    "label": "ExxonMobil",
+    "qid": "Q156238",
+    "website": "https://www.exxonmobil.com/",
+    "wikipedia": "https://en.wikipedia.org/wiki/ExxonMobil"
+  }
+}

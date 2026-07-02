@@ -1,0 +1,151 @@
+{
+  "cagr": {
+    "cfo_3y_pct": 30.7,
+    "revenue_3y_pct": 32.7
+  },
+  "category": "US Shale",
+  "country": "US",
+  "financials_by_year": {
+    "2021": {
+      "capex_usd": null,
+      "capital_employed_usd": 3695557000,
+      "cfo_usd": 564173000,
+      "ebit_usd": 79429000,
+      "ebitda_usd": null,
+      "net_debt_usd": 1058401000,
+      "revenue_usd": 944330000
+    },
+    "2022": {
+      "capex_usd": null,
+      "capital_employed_usd": 3636695000,
+      "cfo_usd": 171376000,
+      "ebit_usd": -780120000,
+      "ebitda_usd": null,
+      "net_debt_usd": 819765000,
+      "revenue_usd": 580456000
+    },
+    "2023": {
+      "capex_usd": null,
+      "capital_employed_usd": 7887023000,
+      "cfo_usd": 525619000,
+      "ebit_usd": 370618000,
+      "ebitda_usd": null,
+      "net_debt_usd": 2131418000,
+      "revenue_usd": 1029892000
+    },
+    "2024": {
+      "capex_usd": null,
+      "capital_employed_usd": 13724025000,
+      "cfo_usd": 1371671000,
+      "ebit_usd": 1007536000,
+      "ebitda_usd": null,
+      "net_debt_usd": 3789236000,
+      "revenue_usd": 2131265000
+    },
+    "2025": {
+      "capex_usd": null,
+      "capital_employed_usd": 15570563000,
+      "cfo_usd": 2213499000,
+      "ebit_usd": 1096508000,
+      "ebitda_usd": null,
+      "net_debt_usd": 4110943000,
+      "revenue_usd": 3120893000
+    }
+  },
+  "hq_city": "Midland",
+  "hq_coord": [
+    31.9973,
+    -102.0779
+  ],
+  "id": "permian-resources",
+  "links": {
+    "ir": "https://permianres.com/",
+    "latest_sec_filing": "https://www.sec.gov/Archives/edgar/data/1658566/000165856626000035/pr-20251231.htm",
+    "latest_sec_filing_label": "10-K 2026-02-26",
+    "sec_index": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1658566&type=10-K",
+    "wikipedia": null
+  },
+  "name": "Permian Resources",
+  "narrative_md": null,
+  "provenance": {
+    "financials": {
+      "as_of": "2024-12-31",
+      "fy": 2025,
+      "source": "sec-us-gaap"
+    },
+    "market": {
+      "as_of": "2026-07-02",
+      "source": "yfinance"
+    },
+    "operational": {
+      "as_of": null,
+      "ref": null,
+      "source": null
+    }
+  },
+  "row": {
+    "beta": 0.44,
+    "cagr_cfo_3y_pct": 30.7,
+    "cagr_revenue_3y_pct": 32.7,
+    "canonical_ticker": "PR",
+    "capex_to_cfo_pct": null,
+    "capex_usd": null,
+    "category": "US Shale",
+    "cfo_usd": 2213499000,
+    "corp_breakeven_usd_bbl": null,
+    "country": "US",
+    "dividend_yield_pct": 3.46,
+    "ebitda_usd": null,
+    "enterprise_value_usd": 19307722131,
+    "ev_ebitda": 5.21,
+    "ev_per_1p_boe_usd": null,
+    "ev_per_boed_usd": null,
+    "exchange": "NYSE",
+    "fcf_usd": null,
+    "fcf_yield_pct": null,
+    "hq_city": "Midland",
+    "hq_coord": [
+      31.9973,
+      -102.0779
+    ],
+    "id": "permian-resources",
+    "is_private": false,
+    "market_cap_usd": 15196779131,
+    "name": "Permian Resources",
+    "net_acreage_k": null,
+    "net_debt_to_ebitda": null,
+    "net_debt_usd": 4110943000,
+    "pct_gas": null,
+    "pct_liquids": null,
+    "pe_ttm": 20.39,
+    "price": 18.149999618530273,
+    "price_currency": "USD",
+    "production_kboed": null,
+    "reserves_1p_mmboe": null,
+    "reserves_2p_mmboe": null,
+    "revenue_usd": 3120893000,
+    "roace_pct": 7.5,
+    "rp_years": null,
+    "src": {
+      "financials": {
+        "as_of": "2024-12-31",
+        "fy": 2025,
+        "source": "sec-us-gaap"
+      },
+      "market": {
+        "as_of": "2026-07-02",
+        "source": "yfinance"
+      },
+      "operational": {
+        "as_of": null,
+        "ref": null,
+        "source": null
+      }
+    }
+  },
+  "wikidata": {
+    "label": "Permian Resources Corp",
+    "qid": "Q140175408",
+    "website": "https://permianres.com/"
+  }
+}

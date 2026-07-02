@@ -1,0 +1,154 @@
+{
+  "cagr": {
+    "cfo_3y_pct": 11.6,
+    "revenue_3y_pct": 17.3
+  },
+  "category": "US Shale",
+  "country": "US",
+  "financials_by_year": {
+    "2021": {
+      "capex_usd": 1422155000,
+      "capital_employed_usd": 14214515000,
+      "cfo_usd": 1103458000,
+      "ebit_usd": -987045000,
+      "ebitda_usd": -72178000,
+      "net_debt_usd": null,
+      "revenue_usd": 4408690000
+    },
+    "2022": {
+      "capex_usd": 874357000,
+      "capital_employed_usd": 11828411000,
+      "cfo_usd": 735640000,
+      "ebit_usd": -953447000,
+      "ebitda_usd": -91577000,
+      "net_debt_usd": null,
+      "revenue_usd": 3491699000
+    },
+    "2023": {
+      "capex_usd": null,
+      "capital_employed_usd": 12343130000,
+      "cfo_usd": 1660116000,
+      "ebit_usd": 23860000,
+      "ebitda_usd": 765869000,
+      "net_debt_usd": null,
+      "revenue_usd": 4619432000
+    },
+    "2024": {
+      "capex_usd": null,
+      "capital_employed_usd": 12065148000,
+      "cfo_usd": 3051342000,
+      "ebit_usd": 2539342000,
+      "ebitda_usd": 3254505000,
+      "net_debt_usd": null,
+      "revenue_usd": 7138436000
+    },
+    "2025": {
+      "capex_usd": null,
+      "capital_employed_usd": 11564123000,
+      "cfo_usd": 994721000,
+      "ebit_usd": 396247000,
+      "ebitda_usd": 1143096000,
+      "net_debt_usd": null,
+      "revenue_usd": 4681972000
+    }
+  },
+  "hq_city": "Denver",
+  "hq_coord": [
+    39.7392,
+    -104.9903
+  ],
+  "id": "antero",
+  "links": {
+    "ir": "http://www.anteroresources.com",
+    "latest_sec_filing": "https://www.sec.gov/Archives/edgar/data/1433270/000110465926013386/ar-20251231x10k.htm",
+    "latest_sec_filing_label": "10-K 2026-02-11",
+    "sec_index": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1433270&type=10-K",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antero_Resources"
+  },
+  "name": "Antero Resources",
+  "narrative_md": null,
+  "provenance": {
+    "financials": {
+      "as_of": "2024-12-31",
+      "fy": 2025,
+      "source": "sec-us-gaap"
+    },
+    "market": {
+      "as_of": "2026-07-02",
+      "source": "yfinance"
+    },
+    "operational": {
+      "as_of": null,
+      "ref": null,
+      "source": null
+    }
+  },
+  "row": {
+    "beta": 0.32,
+    "cagr_cfo_3y_pct": 11.6,
+    "cagr_revenue_3y_pct": 17.3,
+    "canonical_ticker": "AR",
+    "capex_to_cfo_pct": null,
+    "capex_usd": null,
+    "category": "US Shale",
+    "cfo_usd": 994721000,
+    "corp_breakeven_usd_bbl": null,
+    "country": "US",
+    "dividend_yield_pct": null,
+    "ebitda_usd": 1143096000,
+    "enterprise_value_usd": null,
+    "ev_ebitda": null,
+    "ev_per_1p_boe_usd": null,
+    "ev_per_boed_usd": null,
+    "exchange": "NYSE",
+    "fcf_usd": null,
+    "fcf_yield_pct": null,
+    "hq_city": "Denver",
+    "hq_coord": [
+      39.7392,
+      -104.9903
+    ],
+    "id": "antero",
+    "is_private": false,
+    "market_cap_usd": 10931013702,
+    "name": "Antero Resources",
+    "net_acreage_k": null,
+    "net_debt_to_ebitda": null,
+    "net_debt_usd": null,
+    "pct_gas": null,
+    "pct_liquids": null,
+    "pe_ttm": 11.42,
+    "price": 35.279998779296875,
+    "price_currency": "USD",
+    "production_kboed": null,
+    "reserves_1p_mmboe": null,
+    "reserves_2p_mmboe": null,
+    "revenue_usd": 4681972000,
+    "roace_pct": 3.4,
+    "rp_years": null,
+    "src": {
+      "financials": {
+        "as_of": "2024-12-31",
+        "fy": 2025,
+        "source": "sec-us-gaap"
+      },
+      "market": {
+        "as_of": "2026-07-02",
+        "source": "yfinance"
+      },
+      "operational": {
+        "as_of": null,
+        "ref": null,
+        "source": null
+      }
+    }
+  },
+  "wikidata": {
+    "founded": 2002,
+    "isin": "US03674X1063",
+    "label": "Antero Resources",
+    "qid": "Q39046155",
+    "website": "http://www.anteroresources.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antero_Resources"
+  }
+}
