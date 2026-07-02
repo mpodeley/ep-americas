@@ -1,14 +1,14 @@
 {
   "counts": {
-    "companies": 43,
-    "with_financials": 23,
-    "with_market": 38,
-    "with_operational": 17
+    "companies": 41,
+    "with_financials": 22,
+    "with_market": 36,
+    "with_operational": 15
   },
   "market_source_breakdown": {
     "cache": 0,
     "none": 5,
-    "yfinance": 38
+    "yfinance": 36
   },
   "operational_oldest": [
     {
@@ -29,10 +29,6 @@
     },
     {
       "as_of": "2025-12-31",
-      "id": "coterra"
-    },
-    {
-      "as_of": "2025-12-31",
       "id": "devon"
     },
     {
@@ -49,7 +45,11 @@
     },
     {
       "as_of": "2025-12-31",
-      "id": "frontera"
+      "id": "geopark"
+    },
+    {
+      "as_of": "2025-12-31",
+      "id": "pampa"
     }
   ],
   "source_date": "2026-07-02",

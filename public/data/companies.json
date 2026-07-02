@@ -65,7 +65,7 @@
           "source": null
         }
       },
-      "ytd_return_pct": 2.8
+      "ytd_return_pct": 3.3
     },
     {
       "beta": 0.33,
@@ -310,7 +310,7 @@
       "price": 17.989999771118164,
       "price_currency": "BRL",
       "production_kboed": null,
-      "realized_vol_1y_pct": 36.5,
+      "realized_vol_1y_pct": 36.6,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
       "return_1y_pct": 2.8,
@@ -689,7 +689,7 @@
       "ev_per_boed_usd": null,
       "exchange": "NYSE",
       "fcf_usd": -408240000,
-      "fcf_yield_pct": -9.4,
+      "fcf_yield_pct": -9.5,
       "high_52w": 27.37,
       "hq_city": "Frisco",
       "hq_coord": [
@@ -782,7 +782,7 @@
       "realized_vol_1y_pct": 29.3,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 14.0,
+      "return_1y_pct": 13.6,
       "revenue_usd": 56141000000,
       "roace_pct": null,
       "rp_years": null,
@@ -802,74 +802,7 @@
           "source": null
         }
       },
-      "ytd_return_pct": 9.4
-    },
-    {
-      "beta": 0.3,
-      "cagr_cfo_3y_pct": 13.8,
-      "cagr_revenue_3y_pct": 13.9,
-      "canonical_ticker": "CTRA",
-      "capex_to_cfo_pct": null,
-      "capex_usd": null,
-      "category": "US Shale",
-      "cfo_usd": 3658000000,
-      "corp_breakeven_usd_bbl": null,
-      "country": "US",
-      "dividend_yield_pct": 2.7,
-      "ebitda_usd": 3795000000,
-      "enterprise_value_usd": 26221651515,
-      "ev_ebitda": 5.79,
-      "ev_per_1p_boe_usd": 10.22,
-      "ev_per_boed_usd": 33532,
-      "exchange": "NYSE",
-      "fcf_usd": null,
-      "fcf_yield_pct": null,
-      "high_52w": 36.31,
-      "hq_city": "Houston",
-      "hq_coord": [
-        29.7604,
-        -95.3698
-      ],
-      "id": "coterra",
-      "is_private": false,
-      "low_52w": 22.23,
-      "market_cap_usd": 24724651515,
-      "name": "Coterra Energy",
-      "net_acreage_k": 739,
-      "net_debt_to_ebitda": 0.39,
-      "net_debt_usd": 1497000000,
-      "pct_above_52w_low": 46.5,
-      "pct_gas": 63,
-      "pct_liquids": 37,
-      "pct_off_52w_high": -10.3,
-      "pe_ttm": 15.0,
-      "price": 32.56,
-      "price_currency": "USD",
-      "production_kboed": 782,
-      "realized_vol_1y_pct": 30.2,
-      "reserves_1p_mmboe": 2565,
-      "reserves_2p_mmboe": null,
-      "return_1y_pct": 33.4,
-      "revenue_usd": 5914000000,
-      "roace_pct": 11.0,
-      "rp_years": 9,
-      "src": {
-        "financials": {
-          "as_of": "2024-12-31",
-          "fy": 2025,
-          "source": "sec-us-gaap"
-        },
-        "market": {
-          "as_of": "2026-07-02",
-          "source": "yfinance"
-        },
-        "operational": {
-          "as_of": "2025-12-31",
-          "ref": "https://www.stocktitan.net/sec-filings/CTRA/10-k-coterra-energy-inc-files-annual-report-3df7b6684068.html",
-          "source": "Coterra FY2025 10-K + earnings"
-        }
-      },
-      "ytd_return_pct": 23.3
+      "ytd_return_pct": 9.0
     },
     {
       "beta": 0.42,
@@ -1047,7 +980,7 @@
       "price": 14.8100004196167,
       "price_currency": "USD",
       "production_kboed": 745,
-      "realized_vol_1y_pct": 38.1,
+      "realized_vol_1y_pct": 38.0,
       "reserves_1p_mmboe": 1944,
       "reserves_2p_mmboe": null,
       "return_1y_pct": 67.7,
@@ -1225,7 +1158,7 @@
       "ev_per_boed_usd": null,
       "exchange": "NASDAQ",
       "fcf_usd": 551000000,
-      "fcf_yield_pct": 2.6,
+      "fcf_yield_pct": 2.5,
       "high_52w": 121.49,
       "hq_city": "Oklahoma City",
       "hq_coord": [
@@ -1240,7 +1173,7 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": 0.9,
       "net_debt_usd": 4212000000,
-      "pct_above_52w_low": 3.6,
+      "pct_above_52w_low": 4.6,
       "pct_gas": null,
       "pct_liquids": null,
       "pct_off_52w_high": -25.8,
@@ -1251,7 +1184,7 @@
       "realized_vol_1y_pct": 31.5,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": -15.7,
+      "return_1y_pct": -14.9,
       "revenue_usd": 8721000000,
       "roace_pct": 16.6,
       "rp_years": null,
@@ -1292,7 +1225,7 @@
       "ev_per_boed_usd": null,
       "exchange": "NYSE",
       "fcf_usd": 33450000000,
-      "fcf_yield_pct": 5.8,
+      "fcf_yield_pct": 5.9,
       "high_52w": 170.31,
       "hq_city": "Spring",
       "hq_coord": [
@@ -1828,7 +1761,7 @@
       "ev_per_boed_usd": 65317,
       "exchange": "NYSE",
       "fcf_usd": 203000000,
-      "fcf_yield_pct": 4.6,
+      "fcf_yield_pct": 4.7,
       "high_52w": 92.27,
       "hq_city": "Buenos Aires",
       "hq_coord": [
@@ -2186,7 +2119,7 @@
       "price": 9.760000228881836,
       "price_currency": "BRL",
       "production_kboed": null,
-      "realized_vol_1y_pct": 30.1,
+      "realized_vol_1y_pct": 30.2,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
       "return_1y_pct": -24.4,
@@ -2792,7 +2725,7 @@
       "realized_vol_1y_pct": 49.4,
       "reserves_1p_mmboe": 588,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 27.4,
+      "return_1y_pct": 25.8,
       "revenue_usd": 1187660000,
       "roace_pct": 27.4,
       "rp_years": 14,
@@ -2812,7 +2745,7 @@
           "source": "Vista Energy FY2025 reservas (OGJ + SEC 6-K)"
         }
       },
-      "ytd_return_pct": 26.2
+      "ytd_return_pct": 24.6
     },
     {
       "beta": -0.03,
@@ -2848,10 +2781,10 @@
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": 5909000000,
-      "pct_above_52w_low": 91.3,
+      "pct_above_52w_low": 89.2,
       "pct_gas": 40,
       "pct_liquids": 60,
-      "pct_off_52w_high": -20.0,
+      "pct_off_52w_high": -20.9,
       "pe_ttm": null,
       "price": 45.09000015258789,
       "price_currency": "USD",
@@ -2859,7 +2792,7 @@
       "realized_vol_1y_pct": 52.2,
       "reserves_1p_mmboe": 1284,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 40.7,
+      "return_1y_pct": 39.2,
       "revenue_usd": 17311000000,
       "roace_pct": -6.1,
       "rp_years": 6.7,
@@ -2879,7 +2812,7 @@
           "source": "YPF FY2025 (Form 6-K)"
         }
       },
-      "ytd_return_pct": 24.2
+      "ytd_return_pct": 22.9
     }
   ],
   "generated_at": "2026-07-02T15:00:28+00:00",

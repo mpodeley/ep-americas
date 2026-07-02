@@ -128,7 +128,7 @@
     "realized_vol_1y_pct": 29.3,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 14.0,
+    "return_1y_pct": 13.6,
     "revenue_usd": 56141000000,
     "roace_pct": null,
     "rp_years": null,
@@ -148,7 +148,7 @@
         "source": null
       }
     },
-    "ytd_return_pct": 9.4
+    "ytd_return_pct": 9.0
   },
   "wikidata": {
     "employees": 39000,

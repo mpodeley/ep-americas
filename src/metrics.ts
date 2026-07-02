@@ -103,4 +103,5 @@ export const LIMITATIONS: string[] = [
   'Las métricas operativas (producción, reservas, breakeven) son investigadas por IA y curadas a mano, con link a la fuente y fecha "as of" por empresa. Verificar contra el reporte oficial antes de decisiones.',
   'La historia XBRL de filers IFRS (LatAm 20-F) es más fina que la de us-gaap: algunos años/campos pueden faltar.',
   'El enterprise value se reconstruye (market cap + deuda neta) para evitar la mezcla de monedas del EV de yfinance en ADR extranjeros.',
+  'El universo cubre empresas E&P listadas y activas. Se excluyen entidades fusionadas o que salieron del upstream (p. ej. Coterra, absorbida por Devon en 2026; Frontera, que vendió su E&P colombiano a Parex).',
 ]

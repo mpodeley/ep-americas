@@ -48,12 +48,6 @@
     "net_acreage_k": 869, "corp_breakeven_usd_bbl": null,
     "src": { "source": "Diamondback FY2025 results + 10-K", "as_of": "2025-12-31", "ref": "https://www.globenewswire.com/news-release/2026/02/23/3243011/22886/en/Diamondback-Energy-Inc-Announces-Fourth-Quarter-and-Full-Year-2025-Financial-and-Operating-Results-Increases-Base-Dividend.html" }
   },
-  "coterra": {
-    "production_kboed": 782, "pct_gas": 63, "pct_liquids": 37,
-    "reserves_1p_mmboe": 2565, "reserves_2p_mmboe": null, "rp_years": 9,
-    "net_acreage_k": 739, "corp_breakeven_usd_bbl": null,
-    "src": { "source": "Coterra FY2025 10-K + earnings", "as_of": "2025-12-31", "ref": "https://www.stocktitan.net/sec-filings/CTRA/10-k-coterra-energy-inc-files-annual-report-3df7b6684068.html" }
-  },
   "cnrl": {
     "production_kboed": 1571, "pct_gas": 27, "pct_liquids": 73,
     "reserves_1p_mmboe": 15910, "reserves_2p_mmboe": null, "rp_years": 31,
@@ -95,11 +89,5 @@
     "reserves_1p_mmboe": 69, "reserves_2p_mmboe": null, "rp_years": 7.2,
     "net_acreage_k": null, "corp_breakeven_usd_bbl": null,
     "src": { "source": "GeoPark 4Q & FY2025 + reservas certificadas", "as_of": "2025-12-31", "ref": "https://www.geo-park.com/press_releases/geopark-4q2025-and-full-year-results/" }
-  },
-  "frontera": {
-    "production_kboed": 39, "pct_gas": 6, "pct_liquids": 94,
-    "reserves_1p_mmboe": 94, "reserves_2p_mmboe": null, "rp_years": 6.6,
-    "net_acreage_k": null, "corp_breakeven_usd_bbl": null,
-    "src": { "source": "Frontera FY2025 resultados + reservas", "as_of": "2025-12-31", "ref": "https://www.prnewswire.com/news-releases/frontera-announces-fourth-quarter-2025-year-end-2025-results-and-reserves-302716882.html" }
   }
 }

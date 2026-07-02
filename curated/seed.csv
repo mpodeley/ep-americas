@@ -8,7 +8,6 @@ pluspetrol,Pluspetrol,Vaca Muerta,AR,Buenos Aires,,,,,,,true
 eog,EOG Resources,US Shale,US,Houston,EOG,NYSE,EOG,EOG,,us-gaap,false
 devon,Devon Energy,US Shale,US,Oklahoma City,DVN,NYSE,DVN,DVN,,us-gaap,false
 diamondback,Diamondback Energy,US Shale,US,Midland,FANG,NASDAQ,FANG,FANG,,us-gaap,false
-coterra,Coterra Energy,US Shale,US,Houston,CTRA,NYSE,CTRA,CTRA,858470,us-gaap,false
 occidental,Occidental Petroleum,US Shale,US,Houston,OXY,NYSE,OXY,OXY,,us-gaap,false
 apa,APA Corporation,US Shale,US,Houston,APA,NASDAQ,APA,APA,,us-gaap,false
 ovintiv,Ovintiv,US Shale,US,Denver,OVV,NYSE,OVV,OVV,,us-gaap,false
@@ -39,6 +38,5 @@ petroreconcavo,PetroReconcavo,Brazil,BR,Rio de Janeiro,RECV3,B3,RECV3.SA,,,,fals
 brava,Brava Energia,Brazil,BR,Rio de Janeiro,BRAV3,B3,BRAV3.SA,,,,false
 ecopetrol,Ecopetrol,Colombia,CO,Bogotá,EC,NYSE,EC,EC,,ifrs-full,false
 geopark,GeoPark,Colombia,CO,Bogotá,GPRK,NYSE,GPRK,GPRK,,ifrs-full,false
-frontera,Frontera Energy,Colombia,CO,Bogotá,FEC,TSX,FEC.TO,,,,false
 gran-tierra,Gran Tierra Energy,Colombia,CA,Calgary,GTE,NYSE American,GTE,GTE,,us-gaap,false
 parex,Parex Resources,Colombia,CA,Calgary,PXT,TSX,PXT.TO,,,,false

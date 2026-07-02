@@ -128,7 +128,7 @@
     "realized_vol_1y_pct": 49.4,
     "reserves_1p_mmboe": 588,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 27.4,
+    "return_1y_pct": 25.8,
     "revenue_usd": 1187660000,
     "roace_pct": 27.4,
     "rp_years": 14,
@@ -148,7 +148,7 @@
         "source": "Vista Energy FY2025 reservas (OGJ + SEC 6-K)"
       }
     },
-    "ytd_return_pct": 26.2
+    "ytd_return_pct": 24.6
   },
   "wikidata": {
     "label": "Vista Energy",
