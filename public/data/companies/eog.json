@@ -96,10 +96,10 @@
     "country": "US",
     "dividend_yield_pct": 3.17,
     "ebitda_usd": 13095000000,
-    "enterprise_value_usd": 66433621723,
+    "enterprise_value_usd": 66462920518,
     "ev_ebitda": 5.8,
     "ev_per_1p_boe_usd": 12.05,
-    "ev_per_boed_usd": 53923,
+    "ev_per_boed_usd": 53947,
     "exchange": "NYSE",
     "fcf_usd": 5955000000,
     "fcf_yield_pct": 8.6,
@@ -112,7 +112,7 @@
     "id": "eog",
     "is_private": false,
     "low_52w": 100.04,
-    "market_cap_usd": 69305621723,
+    "market_cap_usd": 69334920518,
     "name": "EOG Resources",
     "net_acreage_k": 4666,
     "net_debt_to_ebitda": -0.22,
@@ -121,8 +121,8 @@
     "pct_gas": 34,
     "pct_liquids": 66,
     "pct_off_52w_high": -12.5,
-    "pe_ttm": 12.79,
-    "price": 130.1199951171875,
+    "pe_ttm": 12.8,
+    "price": 130.1750030517578,
     "price_currency": "USD",
     "production_kboed": 1232,
     "realized_vol_1y_pct": 26.2,
@@ -148,7 +148,7 @@
         "source": "EOG FY2025 10-K + earnings"
       }
     },
-    "ytd_return_pct": 23.4
+    "ytd_return_pct": 23.5
   },
   "wikidata": {
     "founded": 1999,

@@ -66,23 +66,23 @@
     "id": "imperial-oil",
     "is_private": false,
     "low_52w": 78.31,
-    "market_cap_usd": 55818691153,
+    "market_cap_usd": 55571316478,
     "name": "Imperial Oil",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
-    "pct_above_52w_low": 43.4,
+    "pct_above_52w_low": 42.7,
     "pct_gas": null,
     "pct_liquids": null,
-    "pct_off_52w_high": -18.4,
-    "pe_ttm": 27.05,
-    "price": 112.25749969482422,
+    "pct_off_52w_high": -18.8,
+    "pe_ttm": 26.93,
+    "price": 111.76000213623047,
     "price_currency": "USD",
     "production_kboed": null,
     "realized_vol_1y_pct": 27.2,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 41.7,
+    "return_1y_pct": 41.0,
     "revenue_usd": null,
     "roace_pct": null,
     "rp_years": null,
@@ -102,7 +102,7 @@
         "source": null
       }
     },
-    "ytd_return_pct": 27.3
+    "ytd_return_pct": 26.7
   },
   "wikidata": {
     "founded": 1880,
