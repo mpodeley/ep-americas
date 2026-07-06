@@ -74,7 +74,7 @@
       "source": "sec-ifrs-full"
     },
     "market": {
-      "as_of": "2026-07-02",
+      "as_of": "2026-07-06",
       "source": "yfinance"
     },
     "operational": {
@@ -84,7 +84,7 @@
     }
   },
   "row": {
-    "beta": -0.16,
+    "beta": -0.14,
     "cagr_cfo_3y_pct": 9.7,
     "cagr_revenue_3y_pct": 3.6,
     "canonical_ticker": "PBR",
@@ -94,16 +94,16 @@
     "cfo_usd": 49717000000,
     "corp_breakeven_usd_bbl": null,
     "country": "BR",
-    "dividend_yield_pct": 11.02,
+    "dividend_yield_pct": 10.94,
     "ebitda_usd": null,
-    "enterprise_value_usd": 114926946401,
-    "ev_ebitda": 2.1,
-    "ev_per_1p_boe_usd": 9.5,
-    "ev_per_boed_usd": 38437,
+    "enterprise_value_usd": 115828514595,
+    "ev_ebitda": 2.11,
+    "ev_per_1p_boe_usd": 9.57,
+    "ev_per_boed_usd": 38739,
     "exchange": "NYSE",
     "fcf_usd": null,
     "fcf_yield_pct": null,
-    "high_52w": 21.86,
+    "high_52w": 22.03,
     "hq_city": "Rio de Janeiro",
     "hq_coord": [
       -22.9068,
@@ -111,24 +111,24 @@
     ],
     "id": "petrobras",
     "is_private": false,
-    "low_52w": 11.39,
-    "market_cap_usd": 103174946401,
+    "low_52w": 11.47,
+    "market_cap_usd": 104076514595,
     "name": "Petrobras",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": 11752000000,
-    "pct_above_52w_low": 40.6,
+    "pct_above_52w_low": 40.8,
     "pct_gas": 19,
     "pct_liquids": 81,
-    "pct_off_52w_high": -26.8,
-    "pe_ttm": 5.1,
-    "price": 16.010099411010742,
+    "pct_off_52w_high": -26.7,
+    "pe_ttm": 5.14,
+    "price": 16.149999618530273,
     "price_currency": "USD",
     "production_kboed": 2990,
     "realized_vol_1y_pct": 31.7,
     "reserves_1p_mmboe": 12100,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 27.9,
+    "return_1y_pct": 29.2,
     "revenue_usd": 124474000000,
     "roace_pct": 33.7,
     "rp_years": 12.5,
@@ -139,7 +139,7 @@
         "source": "sec-ifrs-full"
       },
       "market": {
-        "as_of": "2026-07-02",
+        "as_of": "2026-07-06",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": "Petrobras FY2025 resultados y reservas probadas"
       }
     },
-    "ytd_return_pct": 36.1
+    "ytd_return_pct": 36.3
   },
   "wikidata": {
     "employees": 52000,

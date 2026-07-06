@@ -74,7 +74,7 @@
       "source": "sec-ifrs-full"
     },
     "market": {
-      "as_of": "2026-07-02",
+      "as_of": "2026-07-06",
       "source": "yfinance"
     },
     "operational": {
@@ -84,7 +84,7 @@
     }
   },
   "row": {
-    "beta": -0.23,
+    "beta": -0.22,
     "cagr_cfo_3y_pct": 7.1,
     "cagr_revenue_3y_pct": -3.4,
     "canonical_ticker": "PAM",
@@ -96,13 +96,13 @@
     "country": "AR",
     "dividend_yield_pct": null,
     "ebitda_usd": null,
-    "enterprise_value_usd": 5444154386,
-    "ev_ebitda": 7.13,
-    "ev_per_1p_boe_usd": 18.39,
-    "ev_per_boed_usd": 64811,
+    "enterprise_value_usd": 5528532456,
+    "ev_ebitda": 7.17,
+    "ev_per_1p_boe_usd": 18.68,
+    "ev_per_boed_usd": 65816,
     "exchange": "NYSE",
     "fcf_usd": 203000000,
-    "fcf_yield_pct": 4.7,
+    "fcf_yield_pct": 4.6,
     "high_52w": 92.27,
     "hq_city": "Buenos Aires",
     "hq_coord": [
@@ -112,23 +112,23 @@
     "id": "pampa",
     "is_private": false,
     "low_52w": 56.55,
-    "market_cap_usd": 4330154386,
+    "market_cap_usd": 4414532456,
     "name": "Pampa Energía",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": 1114000000,
-    "pct_above_52w_low": 42.5,
+    "pct_above_52w_low": 45.3,
     "pct_gas": 85,
     "pct_liquids": 15,
-    "pct_off_52w_high": -12.7,
-    "pe_ttm": 9.77,
-    "price": 80.56999969482422,
+    "pct_off_52w_high": -11.0,
+    "pe_ttm": 9.96,
+    "price": 82.13999938964844,
     "price_currency": "USD",
     "production_kboed": 84,
-    "realized_vol_1y_pct": 50.5,
+    "realized_vol_1y_pct": 50.4,
     "reserves_1p_mmboe": 296,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 15.0,
+    "return_1y_pct": 18.9,
     "revenue_usd": 1829000000,
     "roace_pct": 15.2,
     "rp_years": 10,
@@ -139,7 +139,7 @@
         "source": "sec-ifrs-full"
       },
       "market": {
-        "as_of": "2026-07-02",
+        "as_of": "2026-07-06",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": "Pampa Energía FY2025 (segmento E&P, Form 6-K)"
       }
     },
-    "ytd_return_pct": -8.5
+    "ytd_return_pct": -6.7
   },
   "wikidata": {
     "founded": 2005,

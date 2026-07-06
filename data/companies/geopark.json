@@ -74,7 +74,7 @@
       "source": "sec-ifrs-full"
     },
     "market": {
-      "as_of": "2026-07-02",
+      "as_of": "2026-07-06",
       "source": "yfinance"
     },
     "operational": {
@@ -84,7 +84,7 @@
     }
   },
   "row": {
-    "beta": 0.36,
+    "beta": 0.38,
     "cagr_cfo_3y_pct": 35.9,
     "cagr_revenue_3y_pct": 17.4,
     "canonical_ticker": "GPRK",
@@ -94,15 +94,15 @@
     "cfo_usd": 300938000,
     "corp_breakeven_usd_bbl": null,
     "country": "CO",
-    "dividend_yield_pct": 1.02,
+    "dividend_yield_pct": 1.01,
     "ebitda_usd": null,
-    "enterprise_value_usd": 949839480,
+    "enterprise_value_usd": 953073646,
     "ev_ebitda": 3.59,
-    "ev_per_1p_boe_usd": 13.77,
-    "ev_per_boed_usd": 33923,
+    "ev_per_1p_boe_usd": 13.81,
+    "ev_per_boed_usd": 34038,
     "exchange": "NYSE",
     "fcf_usd": 101898000,
-    "fcf_yield_pct": 17.4,
+    "fcf_yield_pct": 17.3,
     "high_52w": 11.78,
     "hq_city": "Bogotá",
     "hq_coord": [
@@ -112,23 +112,23 @@
     "id": "geopark",
     "is_private": false,
     "low_52w": 5.93,
-    "market_cap_usd": 586675480,
+    "market_cap_usd": 589909646,
     "name": "GeoPark",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": 363164000,
-    "pct_above_52w_low": 53.1,
+    "pct_above_52w_low": 53.9,
     "pct_gas": 2,
     "pct_liquids": 98,
-    "pct_off_52w_high": -23.0,
-    "pe_ttm": 8.56,
-    "price": 9.069999694824219,
+    "pct_off_52w_high": -22.6,
+    "pe_ttm": 8.6,
+    "price": 9.119999885559082,
     "price_currency": "USD",
     "production_kboed": 28,
     "realized_vol_1y_pct": 54.2,
     "reserves_1p_mmboe": 69,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 29.2,
+    "return_1y_pct": 32.4,
     "revenue_usd": 756625000,
     "roace_pct": 38.9,
     "rp_years": 7.2,
@@ -139,7 +139,7 @@
         "source": "sec-ifrs-full"
       },
       "market": {
-        "as_of": "2026-07-02",
+        "as_of": "2026-07-06",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": "GeoPark 4Q & FY2025 + reservas certificadas"
       }
     },
-    "ytd_return_pct": 25.1
+    "ytd_return_pct": 25.8
   },
   "wikidata": {
     "label": "geopark",

@@ -74,7 +74,7 @@
       "source": "sec-ifrs-full"
     },
     "market": {
-      "as_of": "2026-07-02",
+      "as_of": "2026-07-06",
       "source": "yfinance"
     },
     "operational": {
@@ -84,7 +84,7 @@
     }
   },
   "row": {
-    "beta": -0.51,
+    "beta": -0.48,
     "cagr_cfo_3y_pct": 72.0,
     "cagr_revenue_3y_pct": 43.1,
     "canonical_ticker": "VIST",
@@ -96,10 +96,10 @@
     "country": "MX",
     "dividend_yield_pct": null,
     "ebitda_usd": 764009000,
-    "enterprise_value_usd": 7077380932,
-    "ev_ebitda": 5.51,
-    "ev_per_1p_boe_usd": 12.04,
-    "ev_per_boed_usd": 61542,
+    "enterprise_value_usd": 7127306912,
+    "ev_ebitda": 5.37,
+    "ev_per_1p_boe_usd": 12.12,
+    "ev_per_boed_usd": 61977,
     "exchange": "NYSE",
     "fcf_usd": 210746000,
     "fcf_yield_pct": 3.1,
@@ -112,23 +112,23 @@
     "id": "vista",
     "is_private": false,
     "low_52w": 33.7,
-    "market_cap_usd": 6735801932,
+    "market_cap_usd": 6785727912,
     "name": "Vista Energy",
     "net_acreage_k": 228,
     "net_debt_to_ebitda": 0.45,
     "net_debt_usd": 341579000,
-    "pct_above_52w_low": 79.4,
+    "pct_above_52w_low": 80.7,
     "pct_gas": 13,
     "pct_liquids": 87,
-    "pct_off_52w_high": -23.7,
-    "pe_ttm": 8.81,
-    "price": 60.44200134277344,
+    "pct_off_52w_high": -23.2,
+    "pe_ttm": 8.88,
+    "price": 60.88999938964844,
     "price_currency": "USD",
     "production_kboed": 115,
     "realized_vol_1y_pct": 49.5,
     "reserves_1p_mmboe": 588,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 25.0,
+    "return_1y_pct": 30.0,
     "revenue_usd": 1187660000,
     "roace_pct": 27.4,
     "rp_years": 14,
@@ -139,7 +139,7 @@
         "source": "sec-ifrs-full"
       },
       "market": {
-        "as_of": "2026-07-02",
+        "as_of": "2026-07-06",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": "Vista Energy FY2025 reservas (OGJ + SEC 6-K)"
       }
     },
-    "ytd_return_pct": 23.8
+    "ytd_return_pct": 24.7
   },
   "wikidata": {
     "label": "Vista Energy",
