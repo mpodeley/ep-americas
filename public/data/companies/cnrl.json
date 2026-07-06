@@ -28,7 +28,7 @@
       "source": null
     },
     "market": {
-      "as_of": "2026-07-02",
+      "as_of": "2026-07-06",
       "source": "yfinance"
     },
     "operational": {
@@ -48,10 +48,10 @@
     "cfo_usd": null,
     "corp_breakeven_usd_bbl": null,
     "country": "CA",
-    "dividend_yield_pct": 4.52,
+    "dividend_yield_pct": 4.44,
     "ebitda_usd": null,
     "enterprise_value_usd": null,
-    "ev_ebitda": 6.77,
+    "ev_ebitda": 6.87,
     "ev_per_1p_boe_usd": null,
     "ev_per_boed_usd": null,
     "exchange": "NYSE",
@@ -66,23 +66,23 @@
     "id": "cnrl",
     "is_private": false,
     "low_52w": 28.74,
-    "market_cap_usd": 82124831250,
+    "market_cap_usd": 82208261560,
     "name": "Canadian Natural Resources",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
-    "pct_above_52w_low": 37.0,
+    "pct_above_52w_low": 37.1,
     "pct_gas": 27,
     "pct_liquids": 73,
-    "pct_off_52w_high": -20.6,
-    "pe_ttm": 11.93,
-    "price": 39.375,
+    "pct_off_52w_high": -20.5,
+    "pe_ttm": 11.73,
+    "price": 39.415000915527344,
     "price_currency": "USD",
     "production_kboed": 1571,
-    "realized_vol_1y_pct": 29.4,
+    "realized_vol_1y_pct": 29.5,
     "reserves_1p_mmboe": 15910,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 23.9,
+    "return_1y_pct": 26.6,
     "revenue_usd": null,
     "roace_pct": null,
     "rp_years": 31,
@@ -93,7 +93,7 @@
         "source": null
       },
       "market": {
-        "as_of": "2026-07-02",
+        "as_of": "2026-07-06",
         "source": "yfinance"
       },
       "operational": {
@@ -102,7 +102,7 @@
         "source": "Canadian Natural Q4 & Year-End 2025 results"
       }
     },
-    "ytd_return_pct": 17.0
+    "ytd_return_pct": 17.1
   },
   "wikidata": {
     "employees": 6621,

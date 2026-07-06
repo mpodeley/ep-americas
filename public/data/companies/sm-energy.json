@@ -74,7 +74,7 @@
       "source": "sec-us-gaap"
     },
     "market": {
-      "as_of": "2026-07-02",
+      "as_of": "2026-07-06",
       "source": "yfinance"
     },
     "operational": {
@@ -84,7 +84,7 @@
     }
   },
   "row": {
-    "beta": 0.71,
+    "beta": 0.73,
     "cagr_cfo_3y_pct": 5.8,
     "cagr_revenue_3y_pct": 4.1,
     "canonical_ticker": "SM",
@@ -94,10 +94,10 @@
     "cfo_usd": 1574000000,
     "corp_breakeven_usd_bbl": null,
     "country": "US",
-    "dividend_yield_pct": 3.42,
+    "dividend_yield_pct": 3.28,
     "ebitda_usd": null,
-    "enterprise_value_usd": 14277734400,
-    "ev_ebitda": 7.05,
+    "enterprise_value_usd": 14546252800,
+    "ev_ebitda": 7.18,
     "ev_per_1p_boe_usd": null,
     "ev_per_boed_usd": null,
     "exchange": "NYSE",
@@ -112,23 +112,23 @@
     "id": "sm-energy",
     "is_private": false,
     "low_52w": 17.3,
-    "market_cap_usd": 6346147951,
+    "market_cap_usd": 6331763157,
     "name": "SM Energy",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
-    "pct_above_52w_low": 53.0,
+    "pct_above_52w_low": 52.6,
     "pct_gas": null,
     "pct_liquids": null,
-    "pct_off_52w_high": -23.4,
-    "pe_ttm": 11.17,
-    "price": 26.469999313354492,
+    "pct_off_52w_high": -23.6,
+    "pe_ttm": 11.14,
+    "price": 26.40999984741211,
     "price_currency": "USD",
     "production_kboed": null,
-    "realized_vol_1y_pct": 50.4,
+    "realized_vol_1y_pct": 50.6,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 5.5,
+    "return_1y_pct": 8.8,
     "revenue_usd": 2374000000,
     "roace_pct": 14.6,
     "rp_years": null,
@@ -139,7 +139,7 @@
         "source": "sec-us-gaap"
       },
       "market": {
-        "as_of": "2026-07-02",
+        "as_of": "2026-07-06",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": null
       }
     },
-    "ytd_return_pct": 40.5
+    "ytd_return_pct": 40.2
   },
   "wikidata": {
     "founded": 1908,

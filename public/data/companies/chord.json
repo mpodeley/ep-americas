@@ -74,7 +74,7 @@
       "source": "sec-us-gaap"
     },
     "market": {
-      "as_of": "2026-07-02",
+      "as_of": "2026-07-06",
       "source": "yfinance"
     },
     "operational": {
@@ -84,7 +84,7 @@
     }
   },
   "row": {
-    "beta": 0.36,
+    "beta": 0.38,
     "cagr_cfo_3y_pct": 50.1,
     "cagr_revenue_3y_pct": 27.7,
     "canonical_ticker": "CHRD",
@@ -94,10 +94,10 @@
     "cfo_usd": 1819851000,
     "corp_breakeven_usd_bbl": null,
     "country": "US",
-    "dividend_yield_pct": 4.66,
+    "dividend_yield_pct": 4.59,
     "ebitda_usd": 1871744000,
-    "enterprise_value_usd": 7152257089,
-    "ev_ebitda": 3.52,
+    "enterprise_value_usd": 7123262614,
+    "ev_ebitda": 3.56,
     "ev_per_1p_boe_usd": null,
     "ev_per_boed_usd": null,
     "exchange": "NASDAQ",
@@ -112,23 +112,23 @@
     "id": "chord",
     "is_private": false,
     "low_52w": 82.2,
-    "market_cap_usd": 6346607089,
+    "market_cap_usd": 6317612614,
     "name": "Chord Energy",
     "net_acreage_k": null,
     "net_debt_to_ebitda": 0.43,
     "net_debt_usd": 805650000,
-    "pct_above_52w_low": 37.1,
+    "pct_above_52w_low": 36.5,
     "pct_gas": null,
     "pct_liquids": null,
-    "pct_off_52w_high": -24.0,
+    "pct_off_52w_high": -24.4,
     "pe_ttm": null,
-    "price": 112.7300033569336,
+    "price": 112.21499633789062,
     "price_currency": "USD",
     "production_kboed": null,
-    "realized_vol_1y_pct": 38.0,
+    "realized_vol_1y_pct": 38.1,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 13.6,
+    "return_1y_pct": 14.0,
     "revenue_usd": 3896641000,
     "roace_pct": 14.9,
     "rp_years": null,
@@ -139,7 +139,7 @@
         "source": "sec-us-gaap"
       },
       "market": {
-        "as_of": "2026-07-02",
+        "as_of": "2026-07-06",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": null
       }
     },
-    "ytd_return_pct": 21.4
+    "ytd_return_pct": 20.8
   },
   "wikidata": {
     "founded": 1980,
