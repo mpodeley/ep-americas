@@ -74,7 +74,7 @@
       "source": "sec-us-gaap"
     },
     "market": {
-      "as_of": "2026-07-06",
+      "as_of": "2026-07-13",
       "source": "yfinance"
     },
     "operational": {
@@ -94,15 +94,15 @@
     "cfo_usd": 11340000000,
     "corp_breakeven_usd_bbl": null,
     "country": "US",
-    "dividend_yield_pct": 3.12,
+    "dividend_yield_pct": 3.04,
     "ebitda_usd": 13095000000,
-    "enterprise_value_usd": 66092739789,
-    "ev_ebitda": 5.89,
-    "ev_per_1p_boe_usd": 11.99,
-    "ev_per_boed_usd": 53647,
+    "enterprise_value_usd": 68553489124,
+    "ev_ebitda": 6.03,
+    "ev_per_1p_boe_usd": 12.43,
+    "ev_per_boed_usd": 55644,
     "exchange": "NYSE",
     "fcf_usd": 5955000000,
-    "fcf_yield_pct": 8.6,
+    "fcf_yield_pct": 8.3,
     "high_52w": 148.74,
     "hq_city": "Houston",
     "hq_coord": [
@@ -112,23 +112,23 @@
     "id": "eog",
     "is_private": false,
     "low_52w": 100.04,
-    "market_cap_usd": 68964739789,
+    "market_cap_usd": 71425489124,
     "name": "EOG Resources",
     "net_acreage_k": 4666,
     "net_debt_to_ebitda": -0.22,
     "net_debt_usd": -2872000000,
-    "pct_above_52w_low": 29.4,
+    "pct_above_52w_low": 34.0,
     "pct_gas": 34,
     "pct_liquids": 66,
-    "pct_off_52w_high": -12.9,
-    "pe_ttm": 12.73,
-    "price": 129.47999572753906,
+    "pct_off_52w_high": -9.8,
+    "pe_ttm": 13.2,
+    "price": 134.10000610351562,
     "price_currency": "USD",
     "production_kboed": 1232,
-    "realized_vol_1y_pct": 26.1,
+    "realized_vol_1y_pct": 26.4,
     "reserves_1p_mmboe": 5514,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 12.1,
+    "return_1y_pct": 12.9,
     "revenue_usd": 24186000000,
     "roace_pct": 25.3,
     "rp_years": 12,
@@ -139,7 +139,7 @@
         "source": "sec-us-gaap"
       },
       "market": {
-        "as_of": "2026-07-06",
+        "as_of": "2026-07-13",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": "EOG FY2025 10-K + earnings"
       }
     },
-    "ytd_return_pct": 22.8
+    "ytd_return_pct": 27.2
   },
   "wikidata": {
     "founded": 1999,

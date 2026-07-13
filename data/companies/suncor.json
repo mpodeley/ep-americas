@@ -28,7 +28,7 @@
       "source": null
     },
     "market": {
-      "as_of": "2026-07-06",
+      "as_of": "2026-07-13",
       "source": "yfinance"
     },
     "operational": {
@@ -48,10 +48,10 @@
     "cfo_usd": null,
     "corp_breakeven_usd_bbl": null,
     "country": "CA",
-    "dividend_yield_pct": 3.06,
+    "dividend_yield_pct": 2.85,
     "ebitda_usd": null,
     "enterprise_value_usd": null,
-    "ev_ebitda": 4.91,
+    "ev_ebitda": 5.23,
     "ev_per_1p_boe_usd": null,
     "ev_per_boed_usd": null,
     "exchange": "NYSE",
@@ -65,24 +65,24 @@
     ],
     "id": "suncor",
     "is_private": false,
-    "low_52w": 37.29,
-    "market_cap_usd": 64675319529,
+    "low_52w": 37.63,
+    "market_cap_usd": 69959152448,
     "name": "Suncor Energy",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
-    "pct_above_52w_low": 46.9,
+    "pct_above_52w_low": 57.5,
     "pct_gas": null,
     "pct_liquids": null,
-    "pct_off_52w_high": -20.9,
-    "pe_ttm": 14.8,
-    "price": 54.775001525878906,
+    "pct_off_52w_high": -14.5,
+    "pe_ttm": 16.01,
+    "price": 59.25,
     "price_currency": "USD",
     "production_kboed": null,
-    "realized_vol_1y_pct": 24.8,
+    "realized_vol_1y_pct": 25.1,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 46.9,
+    "return_1y_pct": 49.9,
     "revenue_usd": null,
     "roace_pct": null,
     "rp_years": null,
@@ -93,7 +93,7 @@
         "source": null
       },
       "market": {
-        "as_of": "2026-07-06",
+        "as_of": "2026-07-13",
         "source": "yfinance"
       },
       "operational": {
@@ -102,7 +102,7 @@
         "source": null
       }
     },
-    "ytd_return_pct": 21.9
+    "ytd_return_pct": 31.8
   },
   "wikidata": {
     "employees": 12076,

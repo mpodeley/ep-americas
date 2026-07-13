@@ -28,7 +28,7 @@
       "source": null
     },
     "market": {
-      "as_of": "2026-07-06",
+      "as_of": "2026-07-13",
       "source": "yfinance"
     },
     "operational": {
@@ -48,7 +48,7 @@
     "cfo_usd": null,
     "corp_breakeven_usd_bbl": null,
     "country": "CA",
-    "dividend_yield_pct": 3.34,
+    "dividend_yield_pct": 3.35,
     "ebitda_usd": null,
     "enterprise_value_usd": null,
     "ev_ebitda": null,
@@ -66,23 +66,23 @@
     "id": "tourmaline",
     "is_private": false,
     "low_52w": 54.85,
-    "market_cap_usd": 16130749479,
+    "market_cap_usd": 16401683990,
     "name": "Tourmaline Oil",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
-    "pct_above_52w_low": 7.8,
+    "pct_above_52w_low": 8.9,
     "pct_gas": 77,
     "pct_liquids": 23,
-    "pct_off_52w_high": -14.3,
-    "pe_ttm": 32.66,
-    "price": 59.11000061035156,
+    "pct_off_52w_high": -13.4,
+    "pe_ttm": 32.99,
+    "price": 59.709999084472656,
     "price_currency": "CAD",
     "production_kboed": 638,
-    "realized_vol_1y_pct": 25.4,
+    "realized_vol_1y_pct": 25.8,
     "reserves_1p_mmboe": 3256,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": -1.8,
+    "return_1y_pct": -0.8,
     "revenue_usd": null,
     "roace_pct": null,
     "rp_years": 14,
@@ -93,7 +93,7 @@
         "source": null
       },
       "market": {
-        "as_of": "2026-07-06",
+        "as_of": "2026-07-13",
         "source": "yfinance"
       },
       "operational": {
@@ -102,7 +102,7 @@
         "source": "Tourmaline FY2025 producción/reservas récord"
       }
     },
-    "ytd_return_pct": -2.2
+    "ytd_return_pct": -1.2
   },
   "wikidata": {
     "label": "Tourmaline Oil",

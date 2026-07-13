@@ -74,7 +74,7 @@
       "source": "sec-us-gaap"
     },
     "market": {
-      "as_of": "2026-07-06",
+      "as_of": "2026-07-13",
       "source": "yfinance"
     },
     "operational": {
@@ -94,15 +94,15 @@
     "cfo_usd": 1867828000,
     "corp_breakeven_usd_bbl": null,
     "country": "US",
-    "dividend_yield_pct": 2.99,
+    "dividend_yield_pct": 2.92,
     "ebitda_usd": 1926010000,
-    "enterprise_value_usd": 9425777053,
-    "ev_ebitda": 4.81,
+    "enterprise_value_usd": 9648056193,
+    "ev_ebitda": 4.88,
     "ev_per_1p_boe_usd": null,
     "ev_per_boed_usd": null,
     "exchange": "NYSE",
     "fcf_usd": -1360431000,
-    "fcf_yield_pct": -22.1,
+    "fcf_yield_pct": -21.3,
     "high_52w": 65.01,
     "hq_city": "Dallas",
     "hq_coord": [
@@ -112,23 +112,23 @@
     "id": "matador",
     "is_private": false,
     "low_52w": 36.31,
-    "market_cap_usd": 6153031053,
+    "market_cap_usd": 6375310193,
     "name": "Matador Resources",
     "net_acreage_k": null,
     "net_debt_to_ebitda": 1.7,
     "net_debt_usd": 3272746000,
-    "pct_above_52w_low": 36.5,
+    "pct_above_52w_low": 41.4,
     "pct_gas": null,
     "pct_liquids": null,
-    "pct_off_52w_high": -23.8,
-    "pe_ttm": 12.77,
-    "price": 49.54999923706055,
+    "pct_off_52w_high": -21.0,
+    "pe_ttm": 13.23,
+    "price": 51.34000015258789,
     "price_currency": "USD",
     "production_kboed": null,
-    "realized_vol_1y_pct": 41.0,
+    "realized_vol_1y_pct": 40.8,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 4.1,
+    "return_1y_pct": 1.0,
     "revenue_usd": 2806785000,
     "roace_pct": 20.8,
     "rp_years": null,
@@ -139,7 +139,7 @@
         "source": "sec-us-gaap"
       },
       "market": {
-        "as_of": "2026-07-06",
+        "as_of": "2026-07-13",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": null
       }
     },
-    "ytd_return_pct": 15.9
+    "ytd_return_pct": 20.1
   },
   "wikidata": {}
 }
