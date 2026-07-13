@@ -74,7 +74,7 @@
       "source": "sec-ifrs-full"
     },
     "market": {
-      "as_of": "2026-07-06",
+      "as_of": "2026-07-13",
       "source": "yfinance"
     },
     "operational": {
@@ -96,13 +96,13 @@
     "country": "MX",
     "dividend_yield_pct": null,
     "ebitda_usd": 764009000,
-    "enterprise_value_usd": 7127306912,
-    "ev_ebitda": 5.37,
-    "ev_per_1p_boe_usd": 12.12,
-    "ev_per_boed_usd": 61977,
+    "enterprise_value_usd": 7564160931,
+    "ev_ebitda": 5.63,
+    "ev_per_1p_boe_usd": 12.86,
+    "ev_per_boed_usd": 65775,
     "exchange": "NYSE",
     "fcf_usd": 210746000,
-    "fcf_yield_pct": 3.1,
+    "fcf_yield_pct": 2.9,
     "high_52w": 79.25,
     "hq_city": "Ciudad de México",
     "hq_coord": [
@@ -112,23 +112,23 @@
     "id": "vista",
     "is_private": false,
     "low_52w": 33.7,
-    "market_cap_usd": 6785727912,
+    "market_cap_usd": 7222581931,
     "name": "Vista Energy",
     "net_acreage_k": 228,
     "net_debt_to_ebitda": 0.45,
     "net_debt_usd": 341579000,
-    "pct_above_52w_low": 80.7,
+    "pct_above_52w_low": 92.3,
     "pct_gas": 13,
     "pct_liquids": 87,
-    "pct_off_52w_high": -23.2,
-    "pe_ttm": 8.88,
-    "price": 60.88999938964844,
+    "pct_off_52w_high": -18.2,
+    "pe_ttm": 9.45,
+    "price": 64.80999755859375,
     "price_currency": "USD",
     "production_kboed": 115,
-    "realized_vol_1y_pct": 49.5,
+    "realized_vol_1y_pct": 49.2,
     "reserves_1p_mmboe": 588,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 30.0,
+    "return_1y_pct": 40.8,
     "revenue_usd": 1187660000,
     "roace_pct": 27.4,
     "rp_years": 14,
@@ -139,7 +139,7 @@
         "source": "sec-ifrs-full"
       },
       "market": {
-        "as_of": "2026-07-06",
+        "as_of": "2026-07-13",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": "Vista Energy FY2025 reservas (OGJ + SEC 6-K)"
       }
     },
-    "ytd_return_pct": 24.7
+    "ytd_return_pct": 32.8
   },
   "wikidata": {
     "label": "Vista Energy",
