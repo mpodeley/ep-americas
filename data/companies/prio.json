@@ -28,7 +28,7 @@
       "source": null
     },
     "market": {
-      "as_of": "2026-07-13",
+      "as_of": "2026-07-20",
       "source": "yfinance"
     },
     "operational": {
@@ -50,10 +50,10 @@
     "country": "BR",
     "dividend_yield_pct": null,
     "ebitda_usd": null,
-    "enterprise_value_usd": 13462064290,
-    "ev_ebitda": 7.08,
-    "ev_per_1p_boe_usd": 16.6,
-    "ev_per_boed_usd": 127001,
+    "enterprise_value_usd": 13899480792,
+    "ev_ebitda": 7.28,
+    "ev_per_1p_boe_usd": 17.14,
+    "ev_per_boed_usd": 131127,
     "exchange": "B3",
     "fcf_usd": null,
     "fcf_yield_pct": null,
@@ -66,23 +66,23 @@
     "id": "prio",
     "is_private": false,
     "low_52w": 34.2,
-    "market_cap_usd": 8648712689,
+    "market_cap_usd": 9061298963,
     "name": "PRIO",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
-    "pct_above_52w_low": 62.1,
+    "pct_above_52w_low": 69.2,
     "pct_gas": 0,
     "pct_liquids": 100,
-    "pct_off_52w_high": -23.1,
-    "pe_ttm": 16.8,
-    "price": 55.45,
+    "pct_off_52w_high": -19.8,
+    "pe_ttm": 17.53,
+    "price": 57.85,
     "price_currency": "BRL",
     "production_kboed": 106,
-    "realized_vol_1y_pct": 33.2,
+    "realized_vol_1y_pct": 33.3,
     "reserves_1p_mmboe": 811,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 29.3,
+    "return_1y_pct": 35.3,
     "revenue_usd": null,
     "roace_pct": null,
     "rp_years": 20.9,
@@ -93,7 +93,7 @@
         "source": null
       },
       "market": {
-        "as_of": "2026-07-13",
+        "as_of": "2026-07-20",
         "source": "yfinance"
       },
       "operational": {
@@ -102,7 +102,7 @@
         "source": "PRIO FY2025 resultados + certificación D&M"
       }
     },
-    "ytd_return_pct": 32.8
+    "ytd_return_pct": 38.5
   },
   "wikidata": {
     "label": "Prionace glauca",

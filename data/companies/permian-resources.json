@@ -74,7 +74,7 @@
       "source": "sec-us-gaap"
     },
     "market": {
-      "as_of": "2026-07-13",
+      "as_of": "2026-07-20",
       "source": "yfinance"
     },
     "operational": {
@@ -94,10 +94,10 @@
     "cfo_usd": 2213499000,
     "corp_breakeven_usd_bbl": null,
     "country": "US",
-    "dividend_yield_pct": 3.24,
+    "dividend_yield_pct": 3.07,
     "ebitda_usd": null,
-    "enterprise_value_usd": 20145010255,
-    "ev_ebitda": 5.49,
+    "enterprise_value_usd": 21032535219,
+    "ev_ebitda": 5.74,
     "ev_per_1p_boe_usd": null,
     "ev_per_boed_usd": null,
     "exchange": "NYSE",
@@ -112,23 +112,23 @@
     "id": "permian-resources",
     "is_private": false,
     "low_52w": 11.76,
-    "market_cap_usd": 16034067255,
+    "market_cap_usd": 16921592219,
     "name": "Permian Resources",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": 4110943000,
-    "pct_above_52w_low": 62.8,
+    "pct_above_52w_low": 71.8,
     "pct_gas": null,
     "pct_liquids": null,
-    "pct_off_52w_high": -14.2,
-    "pe_ttm": 21.52,
-    "price": 19.149999618530273,
+    "pct_off_52w_high": -9.5,
+    "pe_ttm": 22.71,
+    "price": 20.209999084472656,
     "price_currency": "USD",
     "production_kboed": null,
-    "realized_vol_1y_pct": 33.6,
+    "realized_vol_1y_pct": 33.2,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 40.6,
+    "return_1y_pct": 56.2,
     "revenue_usd": 3120893000,
     "roace_pct": 7.5,
     "rp_years": null,
@@ -139,7 +139,7 @@
         "source": "sec-us-gaap"
       },
       "market": {
-        "as_of": "2026-07-13",
+        "as_of": "2026-07-20",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": null
       }
     },
-    "ytd_return_pct": 35.2
+    "ytd_return_pct": 42.7
   },
   "wikidata": {
     "label": "Permian Resources Corp",

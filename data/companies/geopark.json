@@ -74,7 +74,7 @@
       "source": "sec-ifrs-full"
     },
     "market": {
-      "as_of": "2026-07-13",
+      "as_of": "2026-07-20",
       "source": "yfinance"
     },
     "operational": {
@@ -94,15 +94,15 @@
     "cfo_usd": 300938000,
     "corp_breakeven_usd_bbl": null,
     "country": "CO",
-    "dividend_yield_pct": 93.0,
+    "dividend_yield_pct": 95.0,
     "ebitda_usd": null,
-    "enterprise_value_usd": 1002879644,
-    "ev_ebitda": 3.8,
-    "ev_per_1p_boe_usd": 14.53,
-    "ev_per_boed_usd": 35817,
+    "enterprise_value_usd": 991354909,
+    "ev_ebitda": 3.75,
+    "ev_per_1p_boe_usd": 14.37,
+    "ev_per_boed_usd": 35406,
     "exchange": "NYSE",
     "fcf_usd": 101898000,
-    "fcf_yield_pct": 15.9,
+    "fcf_yield_pct": 16.2,
     "high_52w": 11.78,
     "hq_city": "Bogotá",
     "hq_coord": [
@@ -112,23 +112,23 @@
     "id": "geopark",
     "is_private": false,
     "low_52w": 5.93,
-    "market_cap_usd": 639715644,
+    "market_cap_usd": 628190909,
     "name": "GeoPark",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": 363164000,
-    "pct_above_52w_low": 66.9,
+    "pct_above_52w_low": 63.4,
     "pct_gas": 2,
     "pct_liquids": 98,
-    "pct_off_52w_high": -16.0,
-    "pe_ttm": 9.33,
-    "price": 9.890000343322754,
+    "pct_off_52w_high": -17.8,
+    "pe_ttm": 9.13,
+    "price": 9.680000305175781,
     "price_currency": "USD",
     "production_kboed": 28,
-    "realized_vol_1y_pct": 54.2,
+    "realized_vol_1y_pct": 54.5,
     "reserves_1p_mmboe": 69,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 39.9,
+    "return_1y_pct": 46.6,
     "revenue_usd": 756625000,
     "roace_pct": 38.9,
     "rp_years": 7.2,
@@ -139,7 +139,7 @@
         "source": "sec-ifrs-full"
       },
       "market": {
-        "as_of": "2026-07-13",
+        "as_of": "2026-07-20",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": "GeoPark 4Q & FY2025 + reservas certificadas"
       }
     },
-    "ytd_return_pct": 36.5
+    "ytd_return_pct": 33.6
   },
   "wikidata": {
     "label": "geopark",

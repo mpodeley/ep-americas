@@ -74,7 +74,7 @@
       "source": "sec-ifrs-full"
     },
     "market": {
-      "as_of": "2026-07-13",
+      "as_of": "2026-07-20",
       "source": "yfinance"
     },
     "operational": {
@@ -96,10 +96,10 @@
     "country": "AR",
     "dividend_yield_pct": null,
     "ebitda_usd": null,
-    "enterprise_value_usd": 5574752332,
-    "ev_ebitda": 7.34,
-    "ev_per_1p_boe_usd": 18.83,
-    "ev_per_boed_usd": 66366,
+    "enterprise_value_usd": 5516171564,
+    "ev_ebitda": 7.27,
+    "ev_per_1p_boe_usd": 18.64,
+    "ev_per_boed_usd": 65669,
     "exchange": "NYSE",
     "fcf_usd": 203000000,
     "fcf_yield_pct": 4.6,
@@ -112,23 +112,23 @@
     "id": "pampa",
     "is_private": false,
     "low_52w": 56.55,
-    "market_cap_usd": 4460752332,
+    "market_cap_usd": 4402171564,
     "name": "Pampa Energía",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": 1114000000,
-    "pct_above_52w_low": 46.8,
+    "pct_above_52w_low": 44.8,
     "pct_gas": 85,
     "pct_liquids": 15,
-    "pct_off_52w_high": -10.0,
-    "pe_ttm": 10.06,
-    "price": 83.0,
+    "pct_off_52w_high": -11.2,
+    "pe_ttm": 9.93,
+    "price": 81.91000366210938,
     "price_currency": "USD",
     "production_kboed": 84,
-    "realized_vol_1y_pct": 49.4,
+    "realized_vol_1y_pct": 49.2,
     "reserves_1p_mmboe": 296,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 21.1,
+    "return_1y_pct": 14.9,
     "revenue_usd": 1829000000,
     "roace_pct": 15.2,
     "rp_years": 10,
@@ -139,7 +139,7 @@
         "source": "sec-ifrs-full"
       },
       "market": {
-        "as_of": "2026-07-13",
+        "as_of": "2026-07-20",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": "Pampa Energía FY2025 (segmento E&P, Form 6-K)"
       }
     },
-    "ytd_return_pct": -5.7
+    "ytd_return_pct": -6.9
   },
   "wikidata": {
     "founded": 2005,

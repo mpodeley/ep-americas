@@ -74,7 +74,7 @@
       "source": "sec-us-gaap"
     },
     "market": {
-      "as_of": "2026-07-13",
+      "as_of": "2026-07-20",
       "source": "yfinance"
     },
     "operational": {
@@ -94,16 +94,16 @@
     "cfo_usd": 11340000000,
     "corp_breakeven_usd_bbl": null,
     "country": "US",
-    "dividend_yield_pct": 3.04,
+    "dividend_yield_pct": 2.92,
     "ebitda_usd": 13095000000,
-    "enterprise_value_usd": 68553489124,
-    "ev_ebitda": 6.03,
-    "ev_per_1p_boe_usd": 12.43,
-    "ev_per_boed_usd": 55644,
+    "enterprise_value_usd": 71637404737,
+    "ev_ebitda": 6.27,
+    "ev_per_1p_boe_usd": 12.99,
+    "ev_per_boed_usd": 58147,
     "exchange": "NYSE",
     "fcf_usd": 5955000000,
-    "fcf_yield_pct": 8.3,
-    "high_52w": 148.74,
+    "fcf_yield_pct": 8.0,
+    "high_52w": 147.64,
     "hq_city": "Houston",
     "hq_coord": [
       29.7604,
@@ -111,24 +111,24 @@
     ],
     "id": "eog",
     "is_private": false,
-    "low_52w": 100.04,
-    "market_cap_usd": 71425489124,
+    "low_52w": 99.31,
+    "market_cap_usd": 74509404737,
     "name": "EOG Resources",
     "net_acreage_k": 4666,
     "net_debt_to_ebitda": -0.22,
     "net_debt_usd": -2872000000,
-    "pct_above_52w_low": 34.0,
+    "pct_above_52w_low": 40.9,
     "pct_gas": 34,
     "pct_liquids": 66,
-    "pct_off_52w_high": -9.8,
-    "pe_ttm": 13.2,
-    "price": 134.10000610351562,
+    "pct_off_52w_high": -5.2,
+    "pe_ttm": 13.76,
+    "price": 139.88999938964844,
     "price_currency": "USD",
     "production_kboed": 1232,
-    "realized_vol_1y_pct": 26.4,
+    "realized_vol_1y_pct": 26.6,
     "reserves_1p_mmboe": 5514,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 12.9,
+    "return_1y_pct": 23.0,
     "revenue_usd": 24186000000,
     "roace_pct": 25.3,
     "rp_years": 12,
@@ -139,7 +139,7 @@
         "source": "sec-us-gaap"
       },
       "market": {
-        "as_of": "2026-07-13",
+        "as_of": "2026-07-20",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": "EOG FY2025 10-K + earnings"
       }
     },
-    "ytd_return_pct": 27.2
+    "ytd_return_pct": 33.7
   },
   "wikidata": {
     "founded": 1999,
