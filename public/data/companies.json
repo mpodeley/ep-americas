@@ -29,23 +29,23 @@
       "id": "antero",
       "is_private": false,
       "low_52w": 29.87,
-      "market_cap_usd": 10295850138,
+      "market_cap_usd": 10401194425,
       "name": "Antero Resources",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
-      "pct_above_52w_low": 11.2,
+      "pct_above_52w_low": 12.4,
       "pct_gas": null,
       "pct_liquids": null,
-      "pct_off_52w_high": -26.4,
-      "pe_ttm": 10.75,
-      "price": 33.22999954223633,
+      "pct_off_52w_high": -25.6,
+      "pe_ttm": 10.86,
+      "price": 33.56999969482422,
       "price_currency": "USD",
       "production_kboed": null,
-      "realized_vol_1y_pct": 38.7,
+      "realized_vol_1y_pct": 38.6,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": -7.6,
+      "return_1y_pct": -7.5,
       "revenue_usd": 4681972000,
       "roace_pct": 3.4,
       "rp_years": null,
@@ -56,7 +56,7 @@
           "source": "sec-us-gaap"
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -65,7 +65,7 @@
           "source": null
         }
       },
-      "ytd_return_pct": -2.9
+      "ytd_return_pct": -1.9
     },
     {
       "beta": 0.35,
@@ -78,10 +78,10 @@
       "cfo_usd": 3129000000,
       "corp_breakeven_usd_bbl": null,
       "country": "US",
-      "dividend_yield_pct": 2.99,
+      "dividend_yield_pct": 2.84,
       "ebitda_usd": 5236000000,
-      "enterprise_value_usd": 17005044736,
-      "ev_ebitda": 3.26,
+      "enterprise_value_usd": 17634222080,
+      "ev_ebitda": 3.38,
       "ev_per_1p_boe_usd": null,
       "ev_per_boed_usd": null,
       "exchange": "NASDAQ",
@@ -95,24 +95,24 @@
       ],
       "id": "apa",
       "is_private": false,
-      "low_52w": 17.41,
-      "market_cap_usd": 11820043905,
+      "low_52w": 17.57,
+      "market_cap_usd": 12449221826,
       "name": "APA Corporation",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
-      "pct_above_52w_low": 92.0,
+      "pct_above_52w_low": 100.4,
       "pct_gas": null,
       "pct_liquids": null,
-      "pct_off_52w_high": -24.2,
-      "pe_ttm": 7.79,
-      "price": 33.439998626708984,
+      "pct_off_52w_high": -20.1,
+      "pe_ttm": 8.21,
+      "price": 35.220001220703125,
       "price_currency": "USD",
       "production_kboed": null,
-      "realized_vol_1y_pct": 46.0,
+      "realized_vol_1y_pct": 45.6,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 73.2,
+      "return_1y_pct": 94.9,
       "revenue_usd": null,
       "roace_pct": 32.1,
       "rp_years": null,
@@ -123,7 +123,7 @@
           "source": "sec-us-gaap"
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -132,7 +132,7 @@
           "source": null
         }
       },
-      "ytd_return_pct": 34.0
+      "ytd_return_pct": 41.1
     },
     {
       "beta": 0.12,
@@ -145,16 +145,16 @@
       "cfo_usd": null,
       "corp_breakeven_usd_bbl": null,
       "country": "CA",
-      "dividend_yield_pct": 2.7,
+      "dividend_yield_pct": 2.6,
       "ebitda_usd": null,
-      "enterprise_value_usd": 15090597641,
-      "ev_ebitda": 5.99,
+      "enterprise_value_usd": 15662688498,
+      "ev_ebitda": 6.17,
       "ev_per_1p_boe_usd": null,
       "ev_per_boed_usd": null,
       "exchange": "TSX",
       "fcf_usd": null,
       "fcf_yield_pct": null,
-      "high_52w": 31.99,
+      "high_52w": 32.27,
       "hq_city": "Calgary",
       "hq_coord": [
         51.0447,
@@ -163,23 +163,23 @@
       "id": "arc-resources",
       "is_private": false,
       "low_52w": 22.51,
-      "market_cap_usd": 12458351340,
+      "market_cap_usd": 13014334398,
       "name": "ARC Resources",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
-      "pct_above_52w_low": 38.1,
+      "pct_above_52w_low": 43.4,
       "pct_gas": null,
       "pct_liquids": null,
-      "pct_off_52w_high": -2.8,
-      "pe_ttm": 12.29,
-      "price": 31.09000015258789,
+      "pct_off_52w_high": 0.0,
+      "pe_ttm": 12.75,
+      "price": 32.27000045776367,
       "price_currency": "CAD",
       "production_kboed": null,
-      "realized_vol_1y_pct": 34.9,
+      "realized_vol_1y_pct": 34.8,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 16.5,
+      "return_1y_pct": 24.3,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": null,
@@ -190,7 +190,7 @@
           "source": null
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -199,7 +199,7 @@
           "source": null
         }
       },
-      "ytd_return_pct": 21.3
+      "ytd_return_pct": 25.9
     },
     {
       "beta": 0.57,
@@ -212,10 +212,10 @@
       "cfo_usd": null,
       "corp_breakeven_usd_bbl": null,
       "country": "CA",
-      "dividend_yield_pct": 1.56,
+      "dividend_yield_pct": 1.52,
       "ebitda_usd": null,
       "enterprise_value_usd": null,
-      "ev_ebitda": 4.12,
+      "ev_ebitda": 4.26,
       "ev_per_1p_boe_usd": null,
       "ev_per_boed_usd": null,
       "exchange": "NYSE",
@@ -229,24 +229,24 @@
       ],
       "id": "baytex",
       "is_private": false,
-      "low_52w": 1.83,
-      "market_cap_usd": 2900255814,
+      "low_52w": 1.93,
+      "market_cap_usd": 2978640858,
       "name": "Baytex Energy",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
-      "pct_above_52w_low": 122.8,
+      "pct_above_52w_low": 117.1,
       "pct_gas": null,
       "pct_liquids": null,
-      "pct_off_52w_high": -23.2,
+      "pct_off_52w_high": -21.2,
       "pe_ttm": null,
-      "price": 4.070000171661377,
+      "price": 4.179999828338623,
       "price_currency": "USD",
       "production_kboed": null,
-      "realized_vol_1y_pct": 45.9,
+      "realized_vol_1y_pct": 45.8,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 113.6,
+      "return_1y_pct": 113.8,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": null,
@@ -257,7 +257,7 @@
           "source": null
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -266,7 +266,7 @@
           "source": null
         }
       },
-      "ytd_return_pct": 24.3
+      "ytd_return_pct": 27.6
     },
     {
       "beta": -0.15,
@@ -279,10 +279,10 @@
       "cfo_usd": null,
       "corp_breakeven_usd_bbl": null,
       "country": "BR",
-      "dividend_yield_pct": 65.0,
+      "dividend_yield_pct": 63.0,
       "ebitda_usd": null,
-      "enterprise_value_usd": 4575203008,
-      "ev_ebitda": 5.5,
+      "enterprise_value_usd": 4652036898,
+      "ev_ebitda": 5.57,
       "ev_per_1p_boe_usd": null,
       "ev_per_boed_usd": null,
       "exchange": "B3",
@@ -297,23 +297,23 @@
       "id": "brava",
       "is_private": false,
       "low_52w": 13.35,
-      "market_cap_usd": 1719521369,
+      "market_cap_usd": 1784249587,
       "name": "Brava Energia",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
-      "pct_above_52w_low": 41.9,
+      "pct_above_52w_low": 46.6,
       "pct_gas": null,
       "pct_liquids": null,
-      "pct_off_52w_high": -12.5,
-      "pe_ttm": 38.65,
-      "price": 18.94,
+      "pct_off_52w_high": -9.6,
+      "pe_ttm": 39.94,
+      "price": 19.57,
       "price_currency": "BRL",
       "production_kboed": null,
-      "realized_vol_1y_pct": 36.6,
+      "realized_vol_1y_pct": 37.1,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 5.0,
+      "return_1y_pct": 6.7,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": null,
@@ -324,7 +324,7 @@
           "source": null
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -333,7 +333,7 @@
           "source": null
         }
       },
-      "ytd_return_pct": 14.3
+      "ytd_return_pct": 18.1
     },
     {
       "beta": 0.5,
@@ -346,10 +346,10 @@
       "cfo_usd": null,
       "corp_breakeven_usd_bbl": null,
       "country": "CA",
-      "dividend_yield_pct": 2.35,
+      "dividend_yield_pct": 2.22,
       "ebitda_usd": null,
       "enterprise_value_usd": null,
-      "ev_ebitda": 5.67,
+      "ev_ebitda": 5.94,
       "ev_per_1p_boe_usd": null,
       "ev_per_boed_usd": null,
       "exchange": "NYSE",
@@ -363,24 +363,24 @@
       ],
       "id": "cenovus",
       "is_private": false,
-      "low_52w": 13.8,
-      "market_cap_usd": 49231220889,
+      "low_52w": 13.88,
+      "market_cap_usd": 52121692473,
       "name": "Cenovus Energy",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
-      "pct_above_52w_low": 91.4,
+      "pct_above_52w_low": 101.3,
       "pct_gas": 17,
       "pct_liquids": 83,
-      "pct_off_52w_high": -16.5,
-      "pe_ttm": 14.92,
-      "price": 26.399999618530273,
+      "pct_off_52w_high": -11.6,
+      "pe_ttm": 15.79,
+      "price": 27.950000762939453,
       "price_currency": "USD",
       "production_kboed": 834,
-      "realized_vol_1y_pct": 35.2,
+      "realized_vol_1y_pct": 35.4,
       "reserves_1p_mmboe": 6100,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 82.2,
+      "return_1y_pct": 101.0,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": 20.0,
@@ -391,7 +391,7 @@
           "source": null
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -400,7 +400,7 @@
           "source": "Cenovus Q4 & Full-Year 2025 results"
         }
       },
-      "ytd_return_pct": 52.4
+      "ytd_return_pct": 61.3
     },
     {
       "beta": 0.49,
@@ -413,15 +413,15 @@
       "cfo_usd": 35609000000,
       "corp_breakeven_usd_bbl": null,
       "country": "US",
-      "dividend_yield_pct": 4.04,
+      "dividend_yield_pct": 3.8,
       "ebitda_usd": null,
-      "enterprise_value_usd": 394575609856,
-      "ev_ebitda": 10.41,
+      "enterprise_value_usd": 416287784960,
+      "ev_ebitda": 10.98,
       "ev_per_1p_boe_usd": null,
       "ev_per_boed_usd": null,
       "exchange": "NYSE",
       "fcf_usd": 20821000000,
-      "fcf_yield_pct": 5.9,
+      "fcf_yield_pct": 5.6,
       "high_52w": 209.23,
       "hq_city": "Houston",
       "hq_coord": [
@@ -431,23 +431,23 @@
       "id": "chevron",
       "is_private": false,
       "low_52w": 143.66,
-      "market_cap_usd": 351317827769,
+      "market_cap_usd": 373185592747,
       "name": "Chevron",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
-      "pct_above_52w_low": 22.8,
+      "pct_above_52w_low": 30.4,
       "pct_gas": null,
       "pct_liquids": null,
-      "pct_off_52w_high": -15.7,
-      "pe_ttm": 30.79,
-      "price": 176.39999389648438,
+      "pct_off_52w_high": -10.4,
+      "pe_ttm": 32.7,
+      "price": 187.3800048828125,
       "price_currency": "USD",
       "production_kboed": null,
-      "realized_vol_1y_pct": 22.6,
+      "realized_vol_1y_pct": 22.8,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 18.3,
+      "return_1y_pct": 30.1,
       "revenue_usd": 200949000000,
       "roace_pct": null,
       "rp_years": null,
@@ -458,7 +458,7 @@
           "source": "sec-us-gaap"
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -467,7 +467,7 @@
           "source": null
         }
       },
-      "ytd_return_pct": 15.3
+      "ytd_return_pct": 22.5
     },
     {
       "beta": 0.38,
@@ -480,10 +480,10 @@
       "cfo_usd": 1819851000,
       "corp_breakeven_usd_bbl": null,
       "country": "US",
-      "dividend_yield_pct": 4.43,
+      "dividend_yield_pct": 4.06,
       "ebitda_usd": 1871744000,
-      "enterprise_value_usd": 7414611058,
-      "ev_ebitda": 3.67,
+      "enterprise_value_usd": 8017575686,
+      "ev_ebitda": 3.95,
       "ev_per_1p_boe_usd": null,
       "ev_per_boed_usd": null,
       "exchange": "NASDAQ",
@@ -498,23 +498,23 @@
       "id": "chord",
       "is_private": false,
       "low_52w": 82.2,
-      "market_cap_usd": 6608961058,
+      "market_cap_usd": 7211925686,
       "name": "Chord Energy",
       "net_acreage_k": null,
       "net_debt_to_ebitda": 0.43,
       "net_debt_usd": 805650000,
-      "pct_above_52w_low": 42.8,
+      "pct_above_52w_low": 55.8,
       "pct_gas": null,
       "pct_liquids": null,
-      "pct_off_52w_high": -20.9,
+      "pct_off_52w_high": -13.7,
       "pe_ttm": null,
-      "price": 117.38999938964844,
+      "price": 128.10000610351562,
       "price_currency": "USD",
       "production_kboed": null,
       "realized_vol_1y_pct": 38.5,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 12.6,
+      "return_1y_pct": 26.1,
       "revenue_usd": 3896641000,
       "roace_pct": 14.9,
       "rp_years": null,
@@ -525,7 +525,7 @@
           "source": "sec-us-gaap"
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -534,7 +534,7 @@
           "source": null
         }
       },
-      "ytd_return_pct": 26.4
+      "ytd_return_pct": 37.9
     },
     {
       "beta": null,
@@ -614,10 +614,10 @@
       "cfo_usd": null,
       "corp_breakeven_usd_bbl": null,
       "country": "CA",
-      "dividend_yield_pct": 4.21,
+      "dividend_yield_pct": 4.01,
       "ebitda_usd": null,
       "enterprise_value_usd": null,
-      "ev_ebitda": 7.18,
+      "ev_ebitda": 7.47,
       "ev_per_1p_boe_usd": null,
       "ev_per_boed_usd": null,
       "exchange": "NYSE",
@@ -632,23 +632,23 @@
       "id": "cnrl",
       "is_private": false,
       "low_52w": 28.74,
-      "market_cap_usd": 87203537964,
+      "market_cap_usd": 91541810627,
       "name": "Canadian Natural Resources",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
-      "pct_above_52w_low": 45.5,
+      "pct_above_52w_low": 52.7,
       "pct_gas": 27,
       "pct_liquids": 73,
-      "pct_off_52w_high": -15.6,
-      "pe_ttm": 11.78,
-      "price": 41.810001373291016,
+      "pct_off_52w_high": -11.4,
+      "pe_ttm": 11.8,
+      "price": 43.88999938964844,
       "price_currency": "USD",
       "production_kboed": 1571,
-      "realized_vol_1y_pct": 29.9,
+      "realized_vol_1y_pct": 30.0,
       "reserves_1p_mmboe": 15910,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 32.8,
+      "return_1y_pct": 45.3,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": 31,
@@ -659,7 +659,7 @@
           "source": null
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -668,7 +668,7 @@
           "source": "Canadian Natural Q4 & Year-End 2025 results"
         }
       },
-      "ytd_return_pct": 24.2
+      "ytd_return_pct": 30.4
     },
     {
       "beta": 0.1,
@@ -683,13 +683,13 @@
       "country": "US",
       "dividend_yield_pct": null,
       "ebitda_usd": 834505000,
-      "enterprise_value_usd": 6739841172,
-      "ev_ebitda": 6.82,
+      "enterprise_value_usd": 6863193444,
+      "ev_ebitda": 6.94,
       "ev_per_1p_boe_usd": null,
       "ev_per_boed_usd": null,
       "exchange": "NYSE",
       "fcf_usd": -408240000,
-      "fcf_yield_pct": -10.8,
+      "fcf_yield_pct": -10.4,
       "high_52w": 27.37,
       "hq_city": "Frisco",
       "hq_coord": [
@@ -699,23 +699,23 @@
       "id": "comstock",
       "is_private": false,
       "low_52w": 12.67,
-      "market_cap_usd": 3794550172,
+      "market_cap_usd": 3917902444,
       "name": "Comstock Resources",
       "net_acreage_k": null,
       "net_debt_to_ebitda": 3.53,
       "net_debt_usd": 2945291000,
-      "pct_above_52w_low": 2.0,
+      "pct_above_52w_low": 5.3,
       "pct_gas": null,
       "pct_liquids": null,
-      "pct_off_52w_high": -52.8,
-      "pe_ttm": 5.85,
-      "price": 12.920000076293945,
+      "pct_off_52w_high": -51.3,
+      "pe_ttm": 6.04,
+      "price": 13.34000015258789,
       "price_currency": "USD",
       "production_kboed": null,
-      "realized_vol_1y_pct": 58.2,
+      "realized_vol_1y_pct": 57.9,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": -42.3,
+      "return_1y_pct": -42.4,
       "revenue_usd": null,
       "roace_pct": 4.0,
       "rp_years": null,
@@ -726,7 +726,7 @@
           "source": "sec-us-gaap"
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -735,7 +735,7 @@
           "source": null
         }
       },
-      "ytd_return_pct": -45.2
+      "ytd_return_pct": -43.4
     },
     {
       "beta": 0.12,
@@ -748,10 +748,10 @@
       "cfo_usd": 19965000000,
       "corp_breakeven_usd_bbl": null,
       "country": "US",
-      "dividend_yield_pct": 3.08,
+      "dividend_yield_pct": 2.93,
       "ebitda_usd": null,
-      "enterprise_value_usd": 149806776320,
-      "ev_ebitda": 6.42,
+      "enterprise_value_usd": 156714500096,
+      "ev_ebitda": 6.71,
       "ev_per_1p_boe_usd": null,
       "ev_per_boed_usd": null,
       "exchange": "NYSE",
@@ -766,23 +766,23 @@
       "id": "conocophillips",
       "is_private": false,
       "low_52w": 83.6,
-      "market_cap_usd": 132842779639,
+      "market_cap_usd": 139750504428,
       "name": "ConocoPhillips",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
-      "pct_above_52w_low": 30.4,
+      "pct_above_52w_low": 37.2,
       "pct_gas": null,
       "pct_liquids": null,
-      "pct_off_52w_high": -17.9,
-      "pe_ttm": 18.48,
-      "price": 109.04000091552734,
+      "pct_off_52w_high": -13.6,
+      "pe_ttm": 19.44,
+      "price": 114.70999908447266,
       "price_currency": "USD",
       "production_kboed": null,
-      "realized_vol_1y_pct": 29.7,
+      "realized_vol_1y_pct": 29.8,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 17.8,
+      "return_1y_pct": 29.3,
       "revenue_usd": 56141000000,
       "roace_pct": null,
       "rp_years": null,
@@ -793,7 +793,7 @@
           "source": "sec-us-gaap"
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -802,7 +802,7 @@
           "source": null
         }
       },
-      "ytd_return_pct": 14.5
+      "ytd_return_pct": 20.4
     },
     {
       "beta": 0.43,
@@ -815,12 +815,12 @@
       "cfo_usd": 6544000000,
       "corp_breakeven_usd_bbl": null,
       "country": "US",
-      "dividend_yield_pct": 2.46,
+      "dividend_yield_pct": 2.37,
       "ebitda_usd": null,
-      "enterprise_value_usd": 56253212681,
-      "ev_ebitda": 4.94,
-      "ev_per_1p_boe_usd": 23.17,
-      "ev_per_boed_usd": 66809,
+      "enterprise_value_usd": 58098660292,
+      "ev_ebitda": 5.08,
+      "ev_per_1p_boe_usd": 23.93,
+      "ev_per_boed_usd": 69001,
       "exchange": "NYSE",
       "fcf_usd": null,
       "fcf_yield_pct": null,
@@ -832,24 +832,24 @@
       ],
       "id": "devon",
       "is_private": false,
-      "low_52w": 30.95,
-      "market_cap_usd": 48708212681,
+      "low_52w": 31.13,
+      "market_cap_usd": 50553660292,
       "name": "Devon Energy",
       "net_acreage_k": 2369,
       "net_debt_to_ebitda": null,
       "net_debt_usd": 7545000000,
-      "pct_above_52w_low": 36.5,
+      "pct_above_52w_low": 40.8,
       "pct_gas": 27,
       "pct_liquids": 73,
-      "pct_off_52w_high": -18.3,
-      "pe_ttm": 11.76,
-      "price": 42.22999954223633,
+      "pct_off_52w_high": -15.2,
+      "pe_ttm": 12.21,
+      "price": 43.83000183105469,
       "price_currency": "USD",
       "production_kboed": 842,
-      "realized_vol_1y_pct": 33.9,
+      "realized_vol_1y_pct": 33.7,
       "reserves_1p_mmboe": 2428,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 27.5,
+      "return_1y_pct": 36.9,
       "revenue_usd": 15258000000,
       "roace_pct": null,
       "rp_years": 8,
@@ -860,7 +860,7 @@
           "source": "sec-us-gaap"
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -869,7 +869,7 @@
           "source": "Devon FY2025 10-K + Q4/FY earnings"
         }
       },
-      "ytd_return_pct": 12.9
+      "ytd_return_pct": 17.2
     },
     {
       "beta": 0.41,
@@ -882,12 +882,12 @@
       "cfo_usd": 5920000000,
       "corp_breakeven_usd_bbl": null,
       "country": "US",
-      "dividend_yield_pct": 2.4,
+      "dividend_yield_pct": 2.25,
       "ebitda_usd": 6316000000,
-      "enterprise_value_usd": 63504045365,
-      "ev_ebitda": 7.04,
-      "ev_per_1p_boe_usd": 17.55,
-      "ev_per_boed_usd": 68951,
+      "enterprise_value_usd": 66922000207,
+      "ev_ebitda": 7.38,
+      "ev_per_1p_boe_usd": 18.5,
+      "ev_per_boed_usd": 72662,
       "exchange": "NASDAQ",
       "fcf_usd": null,
       "fcf_yield_pct": null,
@@ -900,23 +900,23 @@
       "id": "diamondback",
       "is_private": false,
       "low_52w": 132.09,
-      "market_cap_usd": 51590045365,
+      "market_cap_usd": 55008000207,
       "name": "Diamondback Energy",
       "net_acreage_k": 869,
       "net_debt_to_ebitda": 1.89,
       "net_debt_usd": 11914000000,
-      "pct_above_52w_low": 38.8,
+      "pct_above_52w_low": 48.0,
       "pct_gas": 22,
       "pct_liquids": 78,
-      "pct_off_52w_high": -13.7,
-      "pe_ttm": 189.06,
-      "price": 183.38999938964844,
+      "pct_off_52w_high": -8.0,
+      "pe_ttm": 199.53,
+      "price": 195.5399932861328,
       "price_currency": "USD",
       "production_kboed": 921,
       "realized_vol_1y_pct": 31.1,
       "reserves_1p_mmboe": 3618,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 30.3,
+      "return_1y_pct": 41.9,
       "revenue_usd": 8412000000,
       "roace_pct": 10.2,
       "rp_years": 11,
@@ -927,7 +927,7 @@
           "source": "sec-us-gaap"
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -936,7 +936,7 @@
           "source": "Diamondback FY2025 results + 10-K"
         }
       },
-      "ytd_return_pct": 21.8
+      "ytd_return_pct": 29.8
     },
     {
       "beta": -0.01,
@@ -949,7 +949,7 @@
       "cfo_usd": null,
       "corp_breakeven_usd_bbl": null,
       "country": "CO",
-      "dividend_yield_pct": 4.17,
+      "dividend_yield_pct": 4.04,
       "ebitda_usd": null,
       "enterprise_value_usd": null,
       "ev_ebitda": null,
@@ -967,23 +967,23 @@
       "id": "ecopetrol",
       "is_private": false,
       "low_52w": 7.9,
-      "market_cap_usd": 32029905014,
+      "market_cap_usd": 33078381200,
       "name": "Ecopetrol",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
-      "pct_above_52w_low": 97.3,
+      "pct_above_52w_low": 103.7,
       "pct_gas": 17,
       "pct_liquids": 83,
-      "pct_off_52w_high": -6.0,
-      "pe_ttm": 11.13,
-      "price": 15.579999923706055,
+      "pct_off_52w_high": -3.0,
+      "pe_ttm": 11.49,
+      "price": 16.09000015258789,
       "price_currency": "USD",
       "production_kboed": 745,
-      "realized_vol_1y_pct": 38.0,
+      "realized_vol_1y_pct": 38.1,
       "reserves_1p_mmboe": 1944,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 80.3,
+      "return_1y_pct": 91.1,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": 7.8,
@@ -994,7 +994,7 @@
           "source": null
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -1003,7 +1003,7 @@
           "source": "Ecopetrol FY2025 reservas + producción"
         }
       },
-      "ytd_return_pct": 60.0
+      "ytd_return_pct": 65.3
     },
     {
       "beta": 0.26,
@@ -1016,16 +1016,16 @@
       "cfo_usd": 11340000000,
       "corp_breakeven_usd_bbl": null,
       "country": "US",
-      "dividend_yield_pct": 3.04,
+      "dividend_yield_pct": 2.92,
       "ebitda_usd": 13095000000,
-      "enterprise_value_usd": 68553489124,
-      "ev_ebitda": 6.03,
-      "ev_per_1p_boe_usd": 12.43,
-      "ev_per_boed_usd": 55644,
+      "enterprise_value_usd": 71637404737,
+      "ev_ebitda": 6.27,
+      "ev_per_1p_boe_usd": 12.99,
+      "ev_per_boed_usd": 58147,
       "exchange": "NYSE",
       "fcf_usd": 5955000000,
-      "fcf_yield_pct": 8.3,
-      "high_52w": 148.74,
+      "fcf_yield_pct": 8.0,
+      "high_52w": 147.64,
       "hq_city": "Houston",
       "hq_coord": [
         29.7604,
@@ -1033,24 +1033,24 @@
       ],
       "id": "eog",
       "is_private": false,
-      "low_52w": 100.04,
-      "market_cap_usd": 71425489124,
+      "low_52w": 99.31,
+      "market_cap_usd": 74509404737,
       "name": "EOG Resources",
       "net_acreage_k": 4666,
       "net_debt_to_ebitda": -0.22,
       "net_debt_usd": -2872000000,
-      "pct_above_52w_low": 34.0,
+      "pct_above_52w_low": 40.9,
       "pct_gas": 34,
       "pct_liquids": 66,
-      "pct_off_52w_high": -9.8,
-      "pe_ttm": 13.2,
-      "price": 134.10000610351562,
+      "pct_off_52w_high": -5.2,
+      "pe_ttm": 13.76,
+      "price": 139.88999938964844,
       "price_currency": "USD",
       "production_kboed": 1232,
-      "realized_vol_1y_pct": 26.4,
+      "realized_vol_1y_pct": 26.6,
       "reserves_1p_mmboe": 5514,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 12.9,
+      "return_1y_pct": 23.0,
       "revenue_usd": 24186000000,
       "roace_pct": 25.3,
       "rp_years": 12,
@@ -1061,7 +1061,7 @@
           "source": "sec-us-gaap"
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -1070,7 +1070,7 @@
           "source": "EOG FY2025 10-K + earnings"
         }
       },
-      "ytd_return_pct": 27.2
+      "ytd_return_pct": 33.7
     },
     {
       "beta": 0.55,
@@ -1083,15 +1083,15 @@
       "cfo_usd": 3178850000,
       "corp_breakeven_usd_bbl": null,
       "country": "US",
-      "dividend_yield_pct": 1.32,
+      "dividend_yield_pct": 1.33,
       "ebitda_usd": 4046553000,
-      "enterprise_value_usd": 39355883346,
-      "ev_ebitda": 5.2,
+      "enterprise_value_usd": 39799974539,
+      "ev_ebitda": 5.26,
       "ev_per_1p_boe_usd": null,
       "ev_per_boed_usd": null,
       "exchange": "NYSE",
       "fcf_usd": 1159813000,
-      "fcf_yield_pct": 3.8,
+      "fcf_yield_pct": 3.7,
       "high_52w": 67.74,
       "hq_city": "Pittsburgh",
       "hq_coord": [
@@ -1101,23 +1101,23 @@
       "id": "eqt",
       "is_private": false,
       "low_52w": 48.77,
-      "market_cap_usd": 30554599346,
+      "market_cap_usd": 30998690539,
       "name": "EQT Corporation",
       "net_acreage_k": null,
       "net_debt_to_ebitda": 2.18,
       "net_debt_usd": 8801284000,
-      "pct_above_52w_low": 0.2,
+      "pct_above_52w_low": 1.6,
       "pct_gas": null,
       "pct_liquids": null,
-      "pct_off_52w_high": -27.9,
-      "pe_ttm": 9.27,
-      "price": 48.849998474121094,
+      "pct_off_52w_high": -26.8,
+      "pe_ttm": 9.4,
+      "price": 49.560001373291016,
       "price_currency": "USD",
       "production_kboed": null,
-      "realized_vol_1y_pct": 32.3,
+      "realized_vol_1y_pct": 31.8,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": -10.7,
+      "return_1y_pct": -15.3,
       "revenue_usd": 6908923000,
       "roace_pct": 10.7,
       "rp_years": null,
@@ -1128,7 +1128,7 @@
           "source": "sec-us-gaap"
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -1137,7 +1137,7 @@
           "source": null
         }
       },
-      "ytd_return_pct": -8.1
+      "ytd_return_pct": -6.8
     },
     {
       "beta": 0.33,
@@ -1150,10 +1150,10 @@
       "cfo_usd": 2380000000,
       "corp_breakeven_usd_bbl": null,
       "country": "US",
-      "dividend_yield_pct": 3.65,
+      "dividend_yield_pct": 3.62,
       "ebitda_usd": 4669000000,
-      "enterprise_value_usd": 25084717075,
-      "ev_ebitda": 3.19,
+      "enterprise_value_usd": 25295237805,
+      "ev_ebitda": 3.22,
       "ev_per_1p_boe_usd": null,
       "ev_per_boed_usd": null,
       "exchange": "NASDAQ",
@@ -1168,23 +1168,23 @@
       "id": "expand-energy",
       "is_private": false,
       "low_52w": 86.98,
-      "market_cap_usd": 20872717075,
+      "market_cap_usd": 21083237805,
       "name": "Expand Energy",
       "net_acreage_k": null,
       "net_debt_to_ebitda": 0.9,
       "net_debt_usd": 4212000000,
-      "pct_above_52w_low": 0.3,
+      "pct_above_52w_low": 1.3,
       "pct_gas": null,
       "pct_liquids": null,
-      "pct_off_52w_high": -28.2,
-      "pe_ttm": 6.49,
-      "price": 87.25,
+      "pct_off_52w_high": -27.5,
+      "pe_ttm": 6.56,
+      "price": 88.12999725341797,
       "price_currency": "USD",
       "production_kboed": null,
-      "realized_vol_1y_pct": 31.6,
+      "realized_vol_1y_pct": 31.3,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": -14.7,
+      "return_1y_pct": -16.3,
       "revenue_usd": 8721000000,
       "roace_pct": 16.6,
       "rp_years": null,
@@ -1195,7 +1195,7 @@
           "source": "sec-us-gaap"
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -1204,7 +1204,7 @@
           "source": null
         }
       },
-      "ytd_return_pct": -19.6
+      "ytd_return_pct": -18.8
     },
     {
       "beta": 0.16,
@@ -1217,15 +1217,15 @@
       "cfo_usd": 55369000000,
       "corp_breakeven_usd_bbl": null,
       "country": "US",
-      "dividend_yield_pct": 2.97,
+      "dividend_yield_pct": 2.8,
       "ebitda_usd": null,
-      "enterprise_value_usd": 621491257344,
-      "ev_ebitda": 11.1,
+      "enterprise_value_usd": 656640442368,
+      "ev_ebitda": 11.72,
       "ev_per_1p_boe_usd": null,
       "ev_per_boed_usd": null,
       "exchange": "NYSE",
       "fcf_usd": 33450000000,
-      "fcf_yield_pct": 5.8,
+      "fcf_yield_pct": 5.5,
       "high_52w": 170.31,
       "hq_city": "Spring",
       "hq_coord": [
@@ -1235,23 +1235,23 @@
       "id": "exxonmobil",
       "is_private": false,
       "low_52w": 102.56,
-      "market_cap_usd": 575650282098,
+      "market_cap_usd": 610799416322,
       "name": "ExxonMobil",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
-      "pct_above_52w_low": 35.4,
+      "pct_above_52w_low": 43.7,
       "pct_gas": null,
       "pct_liquids": null,
-      "pct_off_52w_high": -18.5,
-      "pe_ttm": 23.38,
-      "price": 138.8800048828125,
+      "pct_off_52w_high": -13.5,
+      "pe_ttm": 24.81,
+      "price": 147.36000061035156,
       "price_currency": "USD",
       "production_kboed": null,
       "realized_vol_1y_pct": 24.9,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 24.2,
+      "return_1y_pct": 41.1,
       "revenue_usd": 344582000000,
       "roace_pct": null,
       "rp_years": null,
@@ -1262,7 +1262,7 @@
           "source": "cache"
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -1271,7 +1271,7 @@
           "source": null
         }
       },
-      "ytd_return_pct": 14.8
+      "ytd_return_pct": 21.8
     },
     {
       "beta": 0.38,
@@ -1284,15 +1284,15 @@
       "cfo_usd": 300938000,
       "corp_breakeven_usd_bbl": null,
       "country": "CO",
-      "dividend_yield_pct": 93.0,
+      "dividend_yield_pct": 95.0,
       "ebitda_usd": null,
-      "enterprise_value_usd": 1002879644,
-      "ev_ebitda": 3.8,
-      "ev_per_1p_boe_usd": 14.53,
-      "ev_per_boed_usd": 35817,
+      "enterprise_value_usd": 991354909,
+      "ev_ebitda": 3.75,
+      "ev_per_1p_boe_usd": 14.37,
+      "ev_per_boed_usd": 35406,
       "exchange": "NYSE",
       "fcf_usd": 101898000,
-      "fcf_yield_pct": 15.9,
+      "fcf_yield_pct": 16.2,
       "high_52w": 11.78,
       "hq_city": "Bogotá",
       "hq_coord": [
@@ -1302,23 +1302,23 @@
       "id": "geopark",
       "is_private": false,
       "low_52w": 5.93,
-      "market_cap_usd": 639715644,
+      "market_cap_usd": 628190909,
       "name": "GeoPark",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": 363164000,
-      "pct_above_52w_low": 66.9,
+      "pct_above_52w_low": 63.4,
       "pct_gas": 2,
       "pct_liquids": 98,
-      "pct_off_52w_high": -16.0,
-      "pe_ttm": 9.33,
-      "price": 9.890000343322754,
+      "pct_off_52w_high": -17.8,
+      "pe_ttm": 9.13,
+      "price": 9.680000305175781,
       "price_currency": "USD",
       "production_kboed": 28,
-      "realized_vol_1y_pct": 54.2,
+      "realized_vol_1y_pct": 54.5,
       "reserves_1p_mmboe": 69,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 39.9,
+      "return_1y_pct": 46.6,
       "revenue_usd": 756625000,
       "roace_pct": 38.9,
       "rp_years": 7.2,
@@ -1329,7 +1329,7 @@
           "source": "sec-ifrs-full"
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -1338,7 +1338,7 @@
           "source": "GeoPark 4Q & FY2025 + reservas certificadas"
         }
       },
-      "ytd_return_pct": 36.5
+      "ytd_return_pct": 33.6
     },
     {
       "beta": 0.13,
@@ -1354,7 +1354,7 @@
       "dividend_yield_pct": null,
       "ebitda_usd": null,
       "enterprise_value_usd": null,
-      "ev_ebitda": 4.0,
+      "ev_ebitda": 4.06,
       "ev_per_1p_boe_usd": null,
       "ev_per_boed_usd": null,
       "exchange": "NYSE American",
@@ -1369,23 +1369,23 @@
       "id": "gran-tierra",
       "is_private": false,
       "low_52w": 3.43,
-      "market_cap_usd": 220999312,
+      "market_cap_usd": 233021680,
       "name": "Gran Tierra Energy",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
-      "pct_above_52w_low": 82.2,
+      "pct_above_52w_low": 92.1,
       "pct_gas": null,
       "pct_liquids": null,
-      "pct_off_52w_high": -34.3,
+      "pct_off_52w_high": -30.7,
       "pe_ttm": null,
-      "price": 6.25,
+      "price": 6.590000152587891,
       "price_currency": "USD",
       "production_kboed": null,
-      "realized_vol_1y_pct": 68.1,
+      "realized_vol_1y_pct": 68.5,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 35.9,
+      "return_1y_pct": 47.1,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": null,
@@ -1396,7 +1396,7 @@
           "source": "sec-us-gaap"
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -1405,7 +1405,7 @@
           "source": null
         }
       },
-      "ytd_return_pct": 47.8
+      "ytd_return_pct": 55.8
     },
     {
       "beta": 0.82,
@@ -1418,10 +1418,10 @@
       "cfo_usd": null,
       "corp_breakeven_usd_bbl": null,
       "country": "CA",
-      "dividend_yield_pct": 2.03,
+      "dividend_yield_pct": 2.0,
       "ebitda_usd": null,
       "enterprise_value_usd": null,
-      "ev_ebitda": 9.33,
+      "ev_ebitda": 9.47,
       "ev_per_1p_boe_usd": null,
       "ev_per_boed_usd": null,
       "exchange": "NYSE American",
@@ -1436,23 +1436,23 @@
       "id": "imperial-oil",
       "is_private": false,
       "low_52w": 80.16,
-      "market_cap_usd": 59922148706,
+      "market_cap_usd": 60921594293,
       "name": "Imperial Oil",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
-      "pct_above_52w_low": 50.3,
+      "pct_above_52w_low": 52.8,
       "pct_gas": null,
       "pct_liquids": null,
-      "pct_off_52w_high": -12.4,
-      "pe_ttm": 28.97,
-      "price": 120.51000213623047,
+      "pct_off_52w_high": -11.0,
+      "pe_ttm": 29.52,
+      "price": 122.5199966430664,
       "price_currency": "USD",
       "production_kboed": null,
-      "realized_vol_1y_pct": 27.7,
+      "realized_vol_1y_pct": 27.9,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 49.2,
+      "return_1y_pct": 52.1,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": null,
@@ -1463,7 +1463,7 @@
           "source": null
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -1472,7 +1472,7 @@
           "source": null
         }
       },
-      "ytd_return_pct": 36.7
+      "ytd_return_pct": 38.9
     },
     {
       "beta": 0.74,
@@ -1485,15 +1485,15 @@
       "cfo_usd": 1867828000,
       "corp_breakeven_usd_bbl": null,
       "country": "US",
-      "dividend_yield_pct": 2.92,
+      "dividend_yield_pct": 2.79,
       "ebitda_usd": 1926010000,
-      "enterprise_value_usd": 9648056193,
-      "ev_ebitda": 4.88,
+      "enterprise_value_usd": 9953534518,
+      "ev_ebitda": 5.03,
       "ev_per_1p_boe_usd": null,
       "ev_per_boed_usd": null,
       "exchange": "NYSE",
       "fcf_usd": -1360431000,
-      "fcf_yield_pct": -21.3,
+      "fcf_yield_pct": -20.4,
       "high_52w": 65.01,
       "hq_city": "Dallas",
       "hq_coord": [
@@ -1503,23 +1503,23 @@
       "id": "matador",
       "is_private": false,
       "low_52w": 36.31,
-      "market_cap_usd": 6375310193,
+      "market_cap_usd": 6680788518,
       "name": "Matador Resources",
       "net_acreage_k": null,
       "net_debt_to_ebitda": 1.7,
       "net_debt_usd": 3272746000,
-      "pct_above_52w_low": 41.4,
+      "pct_above_52w_low": 48.2,
       "pct_gas": null,
       "pct_liquids": null,
-      "pct_off_52w_high": -21.0,
-      "pe_ttm": 13.23,
-      "price": 51.34000015258789,
+      "pct_off_52w_high": -17.2,
+      "pe_ttm": 13.87,
+      "price": 53.79999923706055,
       "price_currency": "USD",
       "production_kboed": null,
-      "realized_vol_1y_pct": 40.8,
+      "realized_vol_1y_pct": 40.7,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 1.0,
+      "return_1y_pct": 8.0,
       "revenue_usd": 2806785000,
       "roace_pct": 20.8,
       "rp_years": null,
@@ -1530,7 +1530,7 @@
           "source": "sec-us-gaap"
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -1539,7 +1539,7 @@
           "source": null
         }
       },
-      "ytd_return_pct": 20.1
+      "ytd_return_pct": 25.9
     },
     {
       "beta": 0.15,
@@ -1552,15 +1552,15 @@
       "cfo_usd": 12308000000,
       "corp_breakeven_usd_bbl": null,
       "country": "US",
-      "dividend_yield_pct": 1.97,
+      "dividend_yield_pct": 1.9,
       "ebitda_usd": null,
-      "enterprise_value_usd": 74321231872,
-      "ev_ebitda": 6.86,
+      "enterprise_value_usd": 76280659968,
+      "ev_ebitda": 7.04,
       "ev_per_1p_boe_usd": null,
       "ev_per_boed_usd": null,
       "exchange": "NYSE",
       "fcf_usd": 6612000000,
-      "fcf_yield_pct": 12.6,
+      "fcf_yield_pct": 12.1,
       "high_52w": 65.94,
       "hq_city": "Houston",
       "hq_coord": [
@@ -1570,23 +1570,23 @@
       "id": "occidental",
       "is_private": false,
       "low_52w": 38.56,
-      "market_cap_usd": 52606228729,
+      "market_cap_usd": 54565660304,
       "name": "Occidental Petroleum",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
-      "pct_above_52w_low": 37.2,
+      "pct_above_52w_low": 42.3,
       "pct_gas": null,
       "pct_liquids": null,
-      "pct_off_52w_high": -19.8,
-      "pe_ttm": 71.47,
-      "price": 52.88999938964844,
+      "pct_off_52w_high": -16.8,
+      "pe_ttm": 74.14,
+      "price": 54.86000061035156,
       "price_currency": "USD",
       "production_kboed": null,
-      "realized_vol_1y_pct": 34.8,
+      "realized_vol_1y_pct": 34.5,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 16.6,
+      "return_1y_pct": 28.4,
       "revenue_usd": 23156000000,
       "roace_pct": null,
       "rp_years": null,
@@ -1597,7 +1597,7 @@
           "source": "sec-us-gaap"
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -1606,7 +1606,7 @@
           "source": null
         }
       },
-      "ytd_return_pct": 26.0
+      "ytd_return_pct": 30.7
     },
     {
       "beta": 0.54,
@@ -1619,15 +1619,15 @@
       "cfo_usd": 4167000000,
       "corp_breakeven_usd_bbl": null,
       "country": "US",
-      "dividend_yield_pct": 2.16,
+      "dividend_yield_pct": 2.08,
       "ebitda_usd": 4689000000,
-      "enterprise_value_usd": 20415962570,
-      "ev_ebitda": 5.33,
+      "enterprise_value_usd": 21051065209,
+      "ev_ebitda": 5.47,
       "ev_per_1p_boe_usd": null,
       "ev_per_boed_usd": null,
       "exchange": "NYSE",
       "fcf_usd": 1423000000,
-      "fcf_yield_pct": 9.1,
+      "fcf_yield_pct": 8.8,
       "high_52w": 62.75,
       "hq_city": "Denver",
       "hq_coord": [
@@ -1637,23 +1637,23 @@
       "id": "ovintiv",
       "is_private": false,
       "low_52w": 35.32,
-      "market_cap_usd": 15604962570,
+      "market_cap_usd": 16240065209,
       "name": "Ovintiv",
       "net_acreage_k": null,
       "net_debt_to_ebitda": 1.03,
       "net_debt_usd": 4811000000,
-      "pct_above_52w_low": 57.2,
+      "pct_above_52w_low": 63.6,
       "pct_gas": null,
       "pct_liquids": null,
-      "pct_off_52w_high": -11.5,
-      "pe_ttm": 18.27,
-      "price": 55.529998779296875,
+      "pct_off_52w_high": -7.9,
+      "pe_ttm": 19.01,
+      "price": 57.790000915527344,
       "price_currency": "USD",
       "production_kboed": null,
-      "realized_vol_1y_pct": 35.8,
+      "realized_vol_1y_pct": 35.6,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 35.8,
+      "return_1y_pct": 48.0,
       "revenue_usd": 10883000000,
       "roace_pct": 17.0,
       "rp_years": null,
@@ -1664,7 +1664,7 @@
           "source": "sec-us-gaap"
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -1673,7 +1673,7 @@
           "source": null
         }
       },
-      "ytd_return_pct": 38.6
+      "ytd_return_pct": 44.3
     },
     {
       "beta": -0.22,
@@ -1688,10 +1688,10 @@
       "country": "AR",
       "dividend_yield_pct": null,
       "ebitda_usd": null,
-      "enterprise_value_usd": 5574752332,
-      "ev_ebitda": 7.34,
-      "ev_per_1p_boe_usd": 18.83,
-      "ev_per_boed_usd": 66366,
+      "enterprise_value_usd": 5516171564,
+      "ev_ebitda": 7.27,
+      "ev_per_1p_boe_usd": 18.64,
+      "ev_per_boed_usd": 65669,
       "exchange": "NYSE",
       "fcf_usd": 203000000,
       "fcf_yield_pct": 4.6,
@@ -1704,23 +1704,23 @@
       "id": "pampa",
       "is_private": false,
       "low_52w": 56.55,
-      "market_cap_usd": 4460752332,
+      "market_cap_usd": 4402171564,
       "name": "Pampa Energía",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": 1114000000,
-      "pct_above_52w_low": 46.8,
+      "pct_above_52w_low": 44.8,
       "pct_gas": 85,
       "pct_liquids": 15,
-      "pct_off_52w_high": -10.0,
-      "pe_ttm": 10.06,
-      "price": 83.0,
+      "pct_off_52w_high": -11.2,
+      "pe_ttm": 9.93,
+      "price": 81.91000366210938,
       "price_currency": "USD",
       "production_kboed": 84,
-      "realized_vol_1y_pct": 49.4,
+      "realized_vol_1y_pct": 49.2,
       "reserves_1p_mmboe": 296,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 21.1,
+      "return_1y_pct": 14.9,
       "revenue_usd": 1829000000,
       "roace_pct": 15.2,
       "rp_years": 10,
@@ -1731,7 +1731,7 @@
           "source": "sec-ifrs-full"
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -1740,7 +1740,7 @@
           "source": "Pampa Energía FY2025 (segmento E&P, Form 6-K)"
         }
       },
-      "ytd_return_pct": -5.7
+      "ytd_return_pct": -6.9
     },
     {
       "beta": null,
@@ -1820,10 +1820,10 @@
       "cfo_usd": null,
       "corp_breakeven_usd_bbl": null,
       "country": "CA",
-      "dividend_yield_pct": 6.91,
+      "dividend_yield_pct": 6.81,
       "ebitda_usd": null,
-      "enterprise_value_usd": 1574698747,
-      "ev_ebitda": 5.26,
+      "enterprise_value_usd": 1605365137,
+      "ev_ebitda": 5.33,
       "ev_per_1p_boe_usd": null,
       "ev_per_boed_usd": null,
       "exchange": "TSX",
@@ -1837,24 +1837,24 @@
       ],
       "id": "parex",
       "is_private": false,
-      "low_52w": 13.29,
-      "market_cap_usd": 1517253228,
+      "low_52w": 13.35,
+      "market_cap_usd": 1547550423,
       "name": "Parex Resources",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
-      "pct_above_52w_low": 67.9,
+      "pct_above_52w_low": 69.3,
       "pct_gas": null,
       "pct_liquids": null,
-      "pct_off_52w_high": -23.8,
-      "pe_ttm": 8.48,
-      "price": 22.299999237060547,
+      "pct_off_52w_high": -22.8,
+      "pe_ttm": 8.59,
+      "price": 22.600000381469727,
       "price_currency": "CAD",
       "production_kboed": null,
-      "realized_vol_1y_pct": 39.7,
+      "realized_vol_1y_pct": 39.9,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 67.2,
+      "return_1y_pct": 69.3,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": null,
@@ -1865,7 +1865,7 @@
           "source": null
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -1874,7 +1874,7 @@
           "source": null
         }
       },
-      "ytd_return_pct": 22.7
+      "ytd_return_pct": 24.3
     },
     {
       "beta": 0.45,
@@ -1887,10 +1887,10 @@
       "cfo_usd": 2213499000,
       "corp_breakeven_usd_bbl": null,
       "country": "US",
-      "dividend_yield_pct": 3.24,
+      "dividend_yield_pct": 3.07,
       "ebitda_usd": null,
-      "enterprise_value_usd": 20145010255,
-      "ev_ebitda": 5.49,
+      "enterprise_value_usd": 21032535219,
+      "ev_ebitda": 5.74,
       "ev_per_1p_boe_usd": null,
       "ev_per_boed_usd": null,
       "exchange": "NYSE",
@@ -1905,23 +1905,23 @@
       "id": "permian-resources",
       "is_private": false,
       "low_52w": 11.76,
-      "market_cap_usd": 16034067255,
+      "market_cap_usd": 16921592219,
       "name": "Permian Resources",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": 4110943000,
-      "pct_above_52w_low": 62.8,
+      "pct_above_52w_low": 71.8,
       "pct_gas": null,
       "pct_liquids": null,
-      "pct_off_52w_high": -14.2,
-      "pe_ttm": 21.52,
-      "price": 19.149999618530273,
+      "pct_off_52w_high": -9.5,
+      "pe_ttm": 22.71,
+      "price": 20.209999084472656,
       "price_currency": "USD",
       "production_kboed": null,
-      "realized_vol_1y_pct": 33.6,
+      "realized_vol_1y_pct": 33.2,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 40.6,
+      "return_1y_pct": 56.2,
       "revenue_usd": 3120893000,
       "roace_pct": 7.5,
       "rp_years": null,
@@ -1932,7 +1932,7 @@
           "source": "sec-us-gaap"
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -1941,7 +1941,7 @@
           "source": null
         }
       },
-      "ytd_return_pct": 35.2
+      "ytd_return_pct": 42.7
     },
     {
       "beta": -0.14,
@@ -1954,12 +1954,12 @@
       "cfo_usd": 49717000000,
       "corp_breakeven_usd_bbl": null,
       "country": "BR",
-      "dividend_yield_pct": 10.18,
+      "dividend_yield_pct": 9.81,
       "ebitda_usd": null,
-      "enterprise_value_usd": 123368423752,
-      "ev_ebitda": 2.15,
-      "ev_per_1p_boe_usd": 10.2,
-      "ev_per_boed_usd": 41260,
+      "enterprise_value_usd": 127557259442,
+      "ev_ebitda": 2.17,
+      "ev_per_1p_boe_usd": 10.54,
+      "ev_per_boed_usd": 42661,
       "exchange": "NYSE",
       "fcf_usd": null,
       "fcf_yield_pct": null,
@@ -1972,23 +1972,23 @@
       "id": "petrobras",
       "is_private": false,
       "low_52w": 11.39,
-      "market_cap_usd": 111616423752,
+      "market_cap_usd": 115805259442,
       "name": "Petrobras",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": 11752000000,
-      "pct_above_52w_low": 52.1,
+      "pct_above_52w_low": 57.8,
       "pct_gas": 19,
       "pct_liquids": 81,
-      "pct_off_52w_high": -20.8,
-      "pe_ttm": 5.52,
-      "price": 17.31999969482422,
+      "pct_off_52w_high": -17.8,
+      "pe_ttm": 5.72,
+      "price": 17.969999313354492,
       "price_currency": "USD",
       "production_kboed": 2990,
-      "realized_vol_1y_pct": 31.9,
+      "realized_vol_1y_pct": 32.0,
       "reserves_1p_mmboe": 12100,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 39.7,
+      "return_1y_pct": 54.8,
       "revenue_usd": 124474000000,
       "roace_pct": 33.7,
       "rp_years": 12.5,
@@ -1999,7 +1999,7 @@
           "source": "sec-ifrs-full"
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -2008,7 +2008,7 @@
           "source": "Petrobras FY2025 resultados y reservas probadas"
         }
       },
-      "ytd_return_pct": 47.3
+      "ytd_return_pct": 52.8
     },
     {
       "beta": -0.16,
@@ -2021,10 +2021,10 @@
       "cfo_usd": null,
       "corp_breakeven_usd_bbl": null,
       "country": "BR",
-      "dividend_yield_pct": 13.63,
+      "dividend_yield_pct": 13.26,
       "ebitda_usd": null,
-      "enterprise_value_usd": 890471704,
-      "ev_ebitda": 3.44,
+      "enterprise_value_usd": 898272004,
+      "ev_ebitda": 3.46,
       "ev_per_1p_boe_usd": null,
       "ev_per_boed_usd": null,
       "exchange": "B3",
@@ -2039,23 +2039,23 @@
       "id": "petroreconcavo",
       "is_private": false,
       "low_52w": 9.18,
-      "market_cap_usd": 585239387,
+      "market_cap_usd": 591745825,
       "name": "PetroReconcavo",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
-      "pct_above_52w_low": 11.3,
+      "pct_above_52w_low": 12.0,
       "pct_gas": null,
       "pct_liquids": null,
-      "pct_off_52w_high": -26.5,
-      "pe_ttm": 5.58,
-      "price": 10.22,
+      "pct_off_52w_high": -26.0,
+      "pe_ttm": 5.62,
+      "price": 10.29,
       "price_currency": "BRL",
       "production_kboed": null,
       "realized_vol_1y_pct": 30.3,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": -19.2,
+      "return_1y_pct": -14.0,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": null,
@@ -2066,7 +2066,7 @@
           "source": null
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -2075,7 +2075,7 @@
           "source": null
         }
       },
-      "ytd_return_pct": 5.2
+      "ytd_return_pct": 5.9
     },
     {
       "beta": null,
@@ -2157,10 +2157,10 @@
       "country": "BR",
       "dividend_yield_pct": null,
       "ebitda_usd": null,
-      "enterprise_value_usd": 13462064290,
-      "ev_ebitda": 7.08,
-      "ev_per_1p_boe_usd": 16.6,
-      "ev_per_boed_usd": 127001,
+      "enterprise_value_usd": 13899480792,
+      "ev_ebitda": 7.28,
+      "ev_per_1p_boe_usd": 17.14,
+      "ev_per_boed_usd": 131127,
       "exchange": "B3",
       "fcf_usd": null,
       "fcf_yield_pct": null,
@@ -2173,23 +2173,23 @@
       "id": "prio",
       "is_private": false,
       "low_52w": 34.2,
-      "market_cap_usd": 8648712689,
+      "market_cap_usd": 9061298963,
       "name": "PRIO",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
-      "pct_above_52w_low": 62.1,
+      "pct_above_52w_low": 69.2,
       "pct_gas": 0,
       "pct_liquids": 100,
-      "pct_off_52w_high": -23.1,
-      "pe_ttm": 16.8,
-      "price": 55.45,
+      "pct_off_52w_high": -19.8,
+      "pe_ttm": 17.53,
+      "price": 57.85,
       "price_currency": "BRL",
       "production_kboed": 106,
-      "realized_vol_1y_pct": 33.2,
+      "realized_vol_1y_pct": 33.3,
       "reserves_1p_mmboe": 811,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 29.3,
+      "return_1y_pct": 35.3,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": 20.9,
@@ -2200,7 +2200,7 @@
           "source": null
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -2209,7 +2209,7 @@
           "source": "PRIO FY2025 resultados + certificación D&M"
         }
       },
-      "ytd_return_pct": 32.8
+      "ytd_return_pct": 38.5
     },
     {
       "beta": 0.41,
@@ -2222,10 +2222,10 @@
       "cfo_usd": 977892000,
       "corp_breakeven_usd_bbl": null,
       "country": "US",
-      "dividend_yield_pct": 1.13,
+      "dividend_yield_pct": 1.09,
       "ebitda_usd": null,
-      "enterprise_value_usd": 9147358048,
-      "ev_ebitda": 5.54,
+      "enterprise_value_usd": 9446597515,
+      "ev_ebitda": 5.71,
       "ev_per_1p_boe_usd": null,
       "ev_per_boed_usd": null,
       "exchange": "NYSE",
@@ -2240,23 +2240,23 @@
       "id": "range-resources",
       "is_private": false,
       "low_52w": 32.46,
-      "market_cap_usd": 8362234048,
+      "market_cap_usd": 8661473515,
       "name": "Range Resources",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": 785124000,
-      "pct_above_52w_low": 9.3,
+      "pct_above_52w_low": 13.2,
       "pct_gas": null,
       "pct_liquids": null,
-      "pct_off_52w_high": -25.3,
-      "pe_ttm": 9.39,
-      "price": 35.4900016784668,
+      "pct_off_52w_high": -22.7,
+      "pe_ttm": 9.72,
+      "price": 36.7599983215332,
       "price_currency": "USD",
       "production_kboed": null,
-      "realized_vol_1y_pct": 32.7,
+      "realized_vol_1y_pct": 32.5,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": -6.3,
+      "return_1y_pct": -3.0,
       "revenue_usd": 3374872000,
       "roace_pct": null,
       "rp_years": null,
@@ -2267,7 +2267,7 @@
           "source": "sec-us-gaap"
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -2276,7 +2276,7 @@
           "source": null
         }
       },
-      "ytd_return_pct": 1.0
+      "ytd_return_pct": 4.7
     },
     {
       "beta": 0.73,
@@ -2289,15 +2289,15 @@
       "cfo_usd": 1574000000,
       "corp_breakeven_usd_bbl": null,
       "country": "US",
-      "dividend_yield_pct": 3.16,
+      "dividend_yield_pct": 2.81,
       "ebitda_usd": null,
-      "enterprise_value_usd": 14776411136,
-      "ev_ebitda": 7.29,
+      "enterprise_value_usd": 15617929216,
+      "ev_ebitda": 7.71,
       "ev_per_1p_boe_usd": null,
       "ev_per_boed_usd": null,
       "exchange": "NYSE",
       "fcf_usd": 1464000000,
-      "fcf_yield_pct": 22.0,
+      "fcf_yield_pct": 19.5,
       "high_52w": 34.57,
       "hq_city": "Denver",
       "hq_coord": [
@@ -2307,23 +2307,23 @@
       "id": "sm-energy",
       "is_private": false,
       "low_52w": 17.3,
-      "market_cap_usd": 6667411247,
+      "market_cap_usd": 7508929242,
       "name": "SM Energy",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
-      "pct_above_52w_low": 60.7,
+      "pct_above_52w_low": 81.0,
       "pct_gas": null,
       "pct_liquids": null,
-      "pct_off_52w_high": -19.6,
-      "pe_ttm": 11.73,
-      "price": 27.809999465942383,
+      "pct_off_52w_high": -9.4,
+      "pe_ttm": 13.22,
+      "price": 31.31999969482422,
       "price_currency": "USD",
       "production_kboed": null,
       "realized_vol_1y_pct": 50.3,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 1.8,
+      "return_1y_pct": 25.3,
       "revenue_usd": 2374000000,
       "roace_pct": 14.6,
       "rp_years": null,
@@ -2334,7 +2334,7 @@
           "source": "sec-us-gaap"
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -2343,7 +2343,7 @@
           "source": null
         }
       },
-      "ytd_return_pct": 47.6
+      "ytd_return_pct": 66.3
     },
     {
       "beta": 0.57,
@@ -2356,10 +2356,10 @@
       "cfo_usd": null,
       "corp_breakeven_usd_bbl": null,
       "country": "CA",
-      "dividend_yield_pct": 2.85,
+      "dividend_yield_pct": 2.7,
       "ebitda_usd": null,
       "enterprise_value_usd": null,
-      "ev_ebitda": 5.23,
+      "ev_ebitda": 5.47,
       "ev_per_1p_boe_usd": null,
       "ev_per_boed_usd": null,
       "exchange": "NYSE",
@@ -2374,23 +2374,23 @@
       "id": "suncor",
       "is_private": false,
       "low_52w": 37.63,
-      "market_cap_usd": 69959152448,
+      "market_cap_usd": 73713922510,
       "name": "Suncor Energy",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
-      "pct_above_52w_low": 57.5,
+      "pct_above_52w_low": 65.9,
       "pct_gas": null,
       "pct_liquids": null,
-      "pct_off_52w_high": -14.5,
-      "pe_ttm": 16.01,
-      "price": 59.25,
+      "pct_off_52w_high": -9.9,
+      "pe_ttm": 16.87,
+      "price": 62.43000030517578,
       "price_currency": "USD",
       "production_kboed": null,
-      "realized_vol_1y_pct": 25.1,
+      "realized_vol_1y_pct": 25.4,
       "reserves_1p_mmboe": null,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 49.9,
+      "return_1y_pct": 63.0,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": null,
@@ -2401,7 +2401,7 @@
           "source": null
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -2410,7 +2410,7 @@
           "source": null
         }
       },
-      "ytd_return_pct": 31.8
+      "ytd_return_pct": 38.9
     },
     {
       "beta": null,
@@ -2480,7 +2480,7 @@
       "ytd_return_pct": null
     },
     {
-      "beta": 0.25,
+      "beta": null,
       "cagr_cfo_3y_pct": null,
       "cagr_revenue_3y_pct": null,
       "canonical_ticker": "TOU",
@@ -2490,7 +2490,7 @@
       "cfo_usd": null,
       "corp_breakeven_usd_bbl": null,
       "country": "CA",
-      "dividend_yield_pct": 3.35,
+      "dividend_yield_pct": null,
       "ebitda_usd": null,
       "enterprise_value_usd": null,
       "ev_ebitda": null,
@@ -2508,23 +2508,23 @@
       "id": "tourmaline",
       "is_private": false,
       "low_52w": 54.85,
-      "market_cap_usd": 16401683990,
+      "market_cap_usd": 17275676055,
       "name": "Tourmaline Oil",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": null,
-      "pct_above_52w_low": 8.9,
+      "pct_above_52w_low": 13.9,
       "pct_gas": 77,
       "pct_liquids": 23,
-      "pct_off_52w_high": -13.4,
-      "pe_ttm": 32.99,
-      "price": 59.709999084472656,
+      "pct_off_52w_high": -9.4,
+      "pe_ttm": null,
+      "price": 62.4900016784668,
       "price_currency": "CAD",
       "production_kboed": 638,
-      "realized_vol_1y_pct": 25.8,
+      "realized_vol_1y_pct": 25.9,
       "reserves_1p_mmboe": 3256,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": -0.8,
+      "return_1y_pct": 5.7,
       "revenue_usd": null,
       "roace_pct": null,
       "rp_years": 14,
@@ -2535,7 +2535,7 @@
           "source": null
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -2544,7 +2544,7 @@
           "source": "Tourmaline FY2025 producción/reservas récord"
         }
       },
-      "ytd_return_pct": -1.2
+      "ytd_return_pct": 3.4
     },
     {
       "beta": null,
@@ -2626,13 +2626,13 @@
       "country": "MX",
       "dividend_yield_pct": null,
       "ebitda_usd": 764009000,
-      "enterprise_value_usd": 7564160931,
-      "ev_ebitda": 5.63,
-      "ev_per_1p_boe_usd": 12.86,
-      "ev_per_boed_usd": 65775,
+      "enterprise_value_usd": 7476121330,
+      "ev_ebitda": 4.88,
+      "ev_per_1p_boe_usd": 12.71,
+      "ev_per_boed_usd": 65010,
       "exchange": "NYSE",
       "fcf_usd": 210746000,
-      "fcf_yield_pct": 2.9,
+      "fcf_yield_pct": 3.0,
       "high_52w": 79.25,
       "hq_city": "Ciudad de México",
       "hq_coord": [
@@ -2642,23 +2642,23 @@
       "id": "vista",
       "is_private": false,
       "low_52w": 33.7,
-      "market_cap_usd": 7222581931,
+      "market_cap_usd": 7134542330,
       "name": "Vista Energy",
       "net_acreage_k": 228,
       "net_debt_to_ebitda": 0.45,
       "net_debt_usd": 341579000,
-      "pct_above_52w_low": 92.3,
+      "pct_above_52w_low": 90.0,
       "pct_gas": 13,
       "pct_liquids": 87,
-      "pct_off_52w_high": -18.2,
-      "pe_ttm": 9.45,
-      "price": 64.80999755859375,
+      "pct_off_52w_high": -19.2,
+      "pe_ttm": 8.42,
+      "price": 64.0199966430664,
       "price_currency": "USD",
       "production_kboed": 115,
-      "realized_vol_1y_pct": 49.2,
+      "realized_vol_1y_pct": 49.4,
       "reserves_1p_mmboe": 588,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 40.8,
+      "return_1y_pct": 43.7,
       "revenue_usd": 1187660000,
       "roace_pct": 27.4,
       "rp_years": 14,
@@ -2669,7 +2669,7 @@
           "source": "sec-ifrs-full"
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -2678,7 +2678,7 @@
           "source": "Vista Energy FY2025 reservas (OGJ + SEC 6-K)"
         }
       },
-      "ytd_return_pct": 32.8
+      "ytd_return_pct": 31.2
     },
     {
       "beta": -0.01,
@@ -2693,10 +2693,10 @@
       "country": "AR",
       "dividend_yield_pct": null,
       "ebitda_usd": null,
-      "enterprise_value_usd": 24566397002,
+      "enterprise_value_usd": 25389862823,
       "ev_ebitda": 1.84,
-      "ev_per_1p_boe_usd": 19.13,
-      "ev_per_boed_usd": 46616,
+      "ev_per_1p_boe_usd": 19.77,
+      "ev_per_boed_usd": 48178,
       "exchange": "NYSE",
       "fcf_usd": null,
       "fcf_yield_pct": null,
@@ -2709,23 +2709,23 @@
       "id": "ypf",
       "is_private": false,
       "low_52w": 23.57,
-      "market_cap_usd": 18657397002,
+      "market_cap_usd": 19480862823,
       "name": "YPF",
       "net_acreage_k": null,
       "net_debt_to_ebitda": null,
       "net_debt_usd": 5909000000,
-      "pct_above_52w_low": 101.9,
+      "pct_above_52w_low": 110.8,
       "pct_gas": 40,
       "pct_liquids": 60,
-      "pct_off_52w_high": -15.6,
+      "pct_off_52w_high": -11.8,
       "pe_ttm": null,
-      "price": 47.58000183105469,
+      "price": 49.68000030517578,
       "price_currency": "USD",
       "production_kboed": 527,
-      "realized_vol_1y_pct": 51.7,
+      "realized_vol_1y_pct": 52.0,
       "reserves_1p_mmboe": 1284,
       "reserves_2p_mmboe": null,
-      "return_1y_pct": 53.6,
+      "return_1y_pct": 61.7,
       "revenue_usd": 17311000000,
       "roace_pct": -6.1,
       "rp_years": 6.7,
@@ -2736,7 +2736,7 @@
           "source": "sec-ifrs-full"
         },
         "market": {
-          "as_of": "2026-07-13",
+          "as_of": "2026-07-20",
           "source": "yfinance"
         },
         "operational": {
@@ -2745,10 +2745,10 @@
           "source": "YPF FY2025 (Form 6-K)"
         }
       },
-      "ytd_return_pct": 31.1
+      "ytd_return_pct": 36.9
     }
   ],
-  "generated_at": "2026-07-13T13:11:49+00:00",
+  "generated_at": "2026-07-20T13:01:27+00:00",
   "source": "pipeline",
-  "source_date": "2026-07-13"
+  "source_date": "2026-07-20"
 }

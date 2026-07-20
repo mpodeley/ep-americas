@@ -74,7 +74,7 @@
       "source": "sec-us-gaap"
     },
     "market": {
-      "as_of": "2026-07-13",
+      "as_of": "2026-07-20",
       "source": "yfinance"
     },
     "operational": {
@@ -94,12 +94,12 @@
     "cfo_usd": 6544000000,
     "corp_breakeven_usd_bbl": null,
     "country": "US",
-    "dividend_yield_pct": 2.46,
+    "dividend_yield_pct": 2.37,
     "ebitda_usd": null,
-    "enterprise_value_usd": 56253212681,
-    "ev_ebitda": 4.94,
-    "ev_per_1p_boe_usd": 23.17,
-    "ev_per_boed_usd": 66809,
+    "enterprise_value_usd": 58098660292,
+    "ev_ebitda": 5.08,
+    "ev_per_1p_boe_usd": 23.93,
+    "ev_per_boed_usd": 69001,
     "exchange": "NYSE",
     "fcf_usd": null,
     "fcf_yield_pct": null,
@@ -111,24 +111,24 @@
     ],
     "id": "devon",
     "is_private": false,
-    "low_52w": 30.95,
-    "market_cap_usd": 48708212681,
+    "low_52w": 31.13,
+    "market_cap_usd": 50553660292,
     "name": "Devon Energy",
     "net_acreage_k": 2369,
     "net_debt_to_ebitda": null,
     "net_debt_usd": 7545000000,
-    "pct_above_52w_low": 36.5,
+    "pct_above_52w_low": 40.8,
     "pct_gas": 27,
     "pct_liquids": 73,
-    "pct_off_52w_high": -18.3,
-    "pe_ttm": 11.76,
-    "price": 42.22999954223633,
+    "pct_off_52w_high": -15.2,
+    "pe_ttm": 12.21,
+    "price": 43.83000183105469,
     "price_currency": "USD",
     "production_kboed": 842,
-    "realized_vol_1y_pct": 33.9,
+    "realized_vol_1y_pct": 33.7,
     "reserves_1p_mmboe": 2428,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 27.5,
+    "return_1y_pct": 36.9,
     "revenue_usd": 15258000000,
     "roace_pct": null,
     "rp_years": 8,
@@ -139,7 +139,7 @@
         "source": "sec-us-gaap"
       },
       "market": {
-        "as_of": "2026-07-13",
+        "as_of": "2026-07-20",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": "Devon FY2025 10-K + Q4/FY earnings"
       }
     },
-    "ytd_return_pct": 12.9
+    "ytd_return_pct": 17.2
   },
   "wikidata": {
     "employees": 5900,

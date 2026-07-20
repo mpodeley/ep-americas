@@ -74,7 +74,7 @@
       "source": "sec-us-gaap"
     },
     "market": {
-      "as_of": "2026-07-13",
+      "as_of": "2026-07-20",
       "source": "yfinance"
     },
     "operational": {
@@ -94,15 +94,15 @@
     "cfo_usd": 12308000000,
     "corp_breakeven_usd_bbl": null,
     "country": "US",
-    "dividend_yield_pct": 1.97,
+    "dividend_yield_pct": 1.9,
     "ebitda_usd": null,
-    "enterprise_value_usd": 74321231872,
-    "ev_ebitda": 6.86,
+    "enterprise_value_usd": 76280659968,
+    "ev_ebitda": 7.04,
     "ev_per_1p_boe_usd": null,
     "ev_per_boed_usd": null,
     "exchange": "NYSE",
     "fcf_usd": 6612000000,
-    "fcf_yield_pct": 12.6,
+    "fcf_yield_pct": 12.1,
     "high_52w": 65.94,
     "hq_city": "Houston",
     "hq_coord": [
@@ -112,23 +112,23 @@
     "id": "occidental",
     "is_private": false,
     "low_52w": 38.56,
-    "market_cap_usd": 52606228729,
+    "market_cap_usd": 54565660304,
     "name": "Occidental Petroleum",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
-    "pct_above_52w_low": 37.2,
+    "pct_above_52w_low": 42.3,
     "pct_gas": null,
     "pct_liquids": null,
-    "pct_off_52w_high": -19.8,
-    "pe_ttm": 71.47,
-    "price": 52.88999938964844,
+    "pct_off_52w_high": -16.8,
+    "pe_ttm": 74.14,
+    "price": 54.86000061035156,
     "price_currency": "USD",
     "production_kboed": null,
-    "realized_vol_1y_pct": 34.8,
+    "realized_vol_1y_pct": 34.5,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 16.6,
+    "return_1y_pct": 28.4,
     "revenue_usd": 23156000000,
     "roace_pct": null,
     "rp_years": null,
@@ -139,7 +139,7 @@
         "source": "sec-us-gaap"
       },
       "market": {
-        "as_of": "2026-07-13",
+        "as_of": "2026-07-20",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": null
       }
     },
-    "ytd_return_pct": 26.0
+    "ytd_return_pct": 30.7
   },
   "wikidata": {
     "founded": 1920,

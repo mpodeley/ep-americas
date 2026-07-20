@@ -74,7 +74,7 @@
       "source": "sec-us-gaap"
     },
     "market": {
-      "as_of": "2026-07-13",
+      "as_of": "2026-07-20",
       "source": "yfinance"
     },
     "operational": {
@@ -112,23 +112,23 @@
     "id": "antero",
     "is_private": false,
     "low_52w": 29.87,
-    "market_cap_usd": 10295850138,
+    "market_cap_usd": 10401194425,
     "name": "Antero Resources",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
-    "pct_above_52w_low": 11.2,
+    "pct_above_52w_low": 12.4,
     "pct_gas": null,
     "pct_liquids": null,
-    "pct_off_52w_high": -26.4,
-    "pe_ttm": 10.75,
-    "price": 33.22999954223633,
+    "pct_off_52w_high": -25.6,
+    "pe_ttm": 10.86,
+    "price": 33.56999969482422,
     "price_currency": "USD",
     "production_kboed": null,
-    "realized_vol_1y_pct": 38.7,
+    "realized_vol_1y_pct": 38.6,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": -7.6,
+    "return_1y_pct": -7.5,
     "revenue_usd": 4681972000,
     "roace_pct": 3.4,
     "rp_years": null,
@@ -139,7 +139,7 @@
         "source": "sec-us-gaap"
       },
       "market": {
-        "as_of": "2026-07-13",
+        "as_of": "2026-07-20",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": null
       }
     },
-    "ytd_return_pct": -2.9
+    "ytd_return_pct": -1.9
   },
   "wikidata": {
     "founded": 2002,
