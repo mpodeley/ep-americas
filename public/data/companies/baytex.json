@@ -28,7 +28,7 @@
       "source": null
     },
     "market": {
-      "as_of": "2026-07-20",
+      "as_of": "2026-07-27",
       "source": "yfinance"
     },
     "operational": {
@@ -48,10 +48,10 @@
     "cfo_usd": null,
     "corp_breakeven_usd_bbl": null,
     "country": "CA",
-    "dividend_yield_pct": 1.52,
+    "dividend_yield_pct": 1.47,
     "ebitda_usd": null,
     "enterprise_value_usd": null,
-    "ev_ebitda": 4.26,
+    "ev_ebitda": 4.44,
     "ev_per_1p_boe_usd": null,
     "ev_per_boed_usd": null,
     "exchange": "NYSE",
@@ -65,24 +65,24 @@
     ],
     "id": "baytex",
     "is_private": false,
-    "low_52w": 1.93,
-    "market_cap_usd": 2978640858,
+    "low_52w": 1.96,
+    "market_cap_usd": 2974365267,
     "name": "Baytex Energy",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
-    "pct_above_52w_low": 117.1,
+    "pct_above_52w_low": 113.5,
     "pct_gas": null,
     "pct_liquids": null,
-    "pct_off_52w_high": -21.2,
+    "pct_off_52w_high": -21.3,
     "pe_ttm": null,
-    "price": 4.179999828338623,
+    "price": 4.173999786376953,
     "price_currency": "USD",
     "production_kboed": null,
-    "realized_vol_1y_pct": 45.8,
+    "realized_vol_1y_pct": 45.3,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 113.8,
+    "return_1y_pct": 93.8,
     "revenue_usd": null,
     "roace_pct": null,
     "rp_years": null,
@@ -93,7 +93,7 @@
         "source": null
       },
       "market": {
-        "as_of": "2026-07-20",
+        "as_of": "2026-07-27",
         "source": "yfinance"
       },
       "operational": {
@@ -102,7 +102,7 @@
         "source": null
       }
     },
-    "ytd_return_pct": 27.6
+    "ytd_return_pct": 27.4
   },
   "wikidata": {
     "founded": 1993,
