@@ -74,7 +74,7 @@
       "source": "sec-ifrs-full"
     },
     "market": {
-      "as_of": "2026-07-27",
+      "as_of": "2026-08-03",
       "source": "yfinance"
     },
     "operational": {
@@ -84,7 +84,7 @@
     }
   },
   "row": {
-    "beta": -0.48,
+    "beta": -0.46,
     "cagr_cfo_3y_pct": 72.0,
     "cagr_revenue_3y_pct": 43.1,
     "canonical_ticker": "VIST",
@@ -96,13 +96,13 @@
     "country": "MX",
     "dividend_yield_pct": null,
     "ebitda_usd": 764009000,
-    "enterprise_value_usd": 7719065805,
-    "ev_ebitda": 5.16,
-    "ev_per_1p_boe_usd": 13.13,
-    "ev_per_boed_usd": 67122,
+    "enterprise_value_usd": 7846529795,
+    "ev_ebitda": 5.21,
+    "ev_per_1p_boe_usd": 13.34,
+    "ev_per_boed_usd": 68231,
     "exchange": "NYSE",
     "fcf_usd": 210746000,
-    "fcf_yield_pct": 2.9,
+    "fcf_yield_pct": 2.8,
     "high_52w": 79.25,
     "hq_city": "Ciudad de México",
     "hq_coord": [
@@ -112,23 +112,23 @@
     "id": "vista",
     "is_private": false,
     "low_52w": 33.7,
-    "market_cap_usd": 7377486805,
+    "market_cap_usd": 7504950795,
     "name": "Vista Energy",
     "net_acreage_k": 228,
     "net_debt_to_ebitda": 0.45,
     "net_debt_usd": 341579000,
-    "pct_above_52w_low": 96.4,
+    "pct_above_52w_low": 100.2,
     "pct_gas": 13,
     "pct_liquids": 87,
-    "pct_off_52w_high": -16.5,
-    "pe_ttm": 8.71,
-    "price": 66.19999694824219,
+    "pct_off_52w_high": -14.9,
+    "pe_ttm": 8.88,
+    "price": 67.4800033569336,
     "price_currency": "USD",
     "production_kboed": 115,
-    "realized_vol_1y_pct": 49.5,
+    "realized_vol_1y_pct": 49.6,
     "reserves_1p_mmboe": 588,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 51.7,
+    "return_1y_pct": 53.1,
     "revenue_usd": 1187660000,
     "roace_pct": 27.4,
     "rp_years": 14,
@@ -139,7 +139,7 @@
         "source": "sec-ifrs-full"
       },
       "market": {
-        "as_of": "2026-07-27",
+        "as_of": "2026-08-03",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": "Vista Energy FY2025 reservas (OGJ + SEC 6-K)"
       }
     },
-    "ytd_return_pct": 35.6
+    "ytd_return_pct": 38.3
   },
   "wikidata": {
     "label": "Vista Energy",
