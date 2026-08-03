@@ -28,7 +28,7 @@
       "source": null
     },
     "market": {
-      "as_of": "2026-07-27",
+      "as_of": "2026-08-03",
       "source": "yfinance"
     },
     "operational": {
@@ -38,7 +38,7 @@
     }
   },
   "row": {
-    "beta": 0.5,
+    "beta": 0.49,
     "cagr_cfo_3y_pct": null,
     "cagr_revenue_3y_pct": null,
     "canonical_ticker": "CVE",
@@ -48,10 +48,10 @@
     "cfo_usd": null,
     "corp_breakeven_usd_bbl": null,
     "country": "CA",
-    "dividend_yield_pct": 2.12,
+    "dividend_yield_pct": 2.07,
     "ebitda_usd": null,
     "enterprise_value_usd": null,
-    "ev_ebitda": 6.18,
+    "ev_ebitda": 4.47,
     "ev_per_1p_boe_usd": null,
     "ev_per_boed_usd": null,
     "exchange": "NYSE",
@@ -66,23 +66,23 @@
     "id": "cenovus",
     "is_private": false,
     "low_52w": 14.33,
-    "market_cap_usd": 52890742508,
+    "market_cap_usd": 54054819965,
     "name": "Cenovus Energy",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
-    "pct_above_52w_low": 97.9,
+    "pct_above_52w_low": 104.5,
     "pct_gas": 17,
     "pct_liquids": 83,
-    "pct_off_52w_high": -10.3,
-    "pe_ttm": 15.93,
-    "price": 28.36240005493164,
+    "pct_off_52w_high": -7.3,
+    "pe_ttm": 11.45,
+    "price": 29.309999465942383,
     "price_currency": "USD",
     "production_kboed": 834,
-    "realized_vol_1y_pct": 35.4,
+    "realized_vol_1y_pct": 36.1,
     "reserves_1p_mmboe": 6100,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 91.1,
+    "return_1y_pct": 98.9,
     "revenue_usd": null,
     "roace_pct": null,
     "rp_years": 20.0,
@@ -93,7 +93,7 @@
         "source": null
       },
       "market": {
-        "as_of": "2026-07-27",
+        "as_of": "2026-08-03",
         "source": "yfinance"
       },
       "operational": {
@@ -102,7 +102,7 @@
         "source": "Cenovus Q4 & Full-Year 2025 results"
       }
     },
-    "ytd_return_pct": 63.7
+    "ytd_return_pct": 69.2
   },
   "wikidata": {
     "founded": 2009,
