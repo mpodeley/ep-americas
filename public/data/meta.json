@@ -52,7 +52,7 @@
       "id": "pampa"
     }
   ],
-  "source_date": "2026-08-03",
+  "source_date": "2026-08-10",
   "warnings": [
     "apa: filer SEC sin ingresos extraídos",
     "civitas: yfinance falló y no hay caché de mercado",
