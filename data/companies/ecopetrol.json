@@ -28,7 +28,7 @@
       "source": null
     },
     "market": {
-      "as_of": "2026-08-03",
+      "as_of": "2026-08-10",
       "source": "yfinance"
     },
     "operational": {
@@ -57,7 +57,7 @@
     "exchange": "NYSE",
     "fcf_usd": null,
     "fcf_yield_pct": null,
-    "high_52w": 17.04,
+    "high_52w": 17.4,
     "hq_city": "Bogotá",
     "hq_coord": [
       4.711,
@@ -65,24 +65,24 @@
     ],
     "id": "ecopetrol",
     "is_private": false,
-    "low_52w": 7.95,
-    "market_cap_usd": 33582058514,
+    "low_52w": 8.13,
+    "market_cap_usd": 34496908265,
     "name": "Ecopetrol",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
-    "pct_above_52w_low": 105.3,
+    "pct_above_52w_low": 106.5,
     "pct_gas": 17,
     "pct_liquids": 83,
-    "pct_off_52w_high": -4.1,
-    "pe_ttm": 10.75,
-    "price": 16.334999084472656,
+    "pct_off_52w_high": -3.6,
+    "pe_ttm": 11.11,
+    "price": 16.780000686645508,
     "price_currency": "USD",
     "production_kboed": 745,
-    "realized_vol_1y_pct": 38.3,
+    "realized_vol_1y_pct": 38.8,
     "reserves_1p_mmboe": 1944,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 105.3,
+    "return_1y_pct": 106.0,
     "revenue_usd": null,
     "roace_pct": null,
     "rp_years": 7.8,
@@ -93,7 +93,7 @@
         "source": null
       },
       "market": {
-        "as_of": "2026-08-03",
+        "as_of": "2026-08-10",
         "source": "yfinance"
       },
       "operational": {
@@ -102,7 +102,7 @@
         "source": "Ecopetrol FY2025 reservas + producción"
       }
     },
-    "ytd_return_pct": 67.8
+    "ytd_return_pct": 72.3
   },
   "wikidata": {
     "employees": 9315,

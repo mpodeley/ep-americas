@@ -74,7 +74,7 @@
       "source": "sec-us-gaap"
     },
     "market": {
-      "as_of": "2026-08-03",
+      "as_of": "2026-08-10",
       "source": "yfinance"
     },
     "operational": {
@@ -94,12 +94,12 @@
     "cfo_usd": 5920000000,
     "corp_breakeven_usd_bbl": null,
     "country": "US",
-    "dividend_yield_pct": 2.17,
+    "dividend_yield_pct": 2.34,
     "ebitda_usd": 6316000000,
-    "enterprise_value_usd": 67803920140,
-    "ev_ebitda": 7.58,
-    "ev_per_1p_boe_usd": 18.74,
-    "ev_per_boed_usd": 73620,
+    "enterprise_value_usd": 64568919808,
+    "ev_ebitda": 6.02,
+    "ev_per_1p_boe_usd": 17.85,
+    "ev_per_boed_usd": 70107,
     "exchange": "NASDAQ",
     "fcf_usd": null,
     "fcf_yield_pct": null,
@@ -112,23 +112,23 @@
     "id": "diamondback",
     "is_private": false,
     "low_52w": 132.09,
-    "market_cap_usd": 55889920140,
+    "market_cap_usd": 52654919808,
     "name": "Diamondback Energy",
     "net_acreage_k": 869,
     "net_debt_to_ebitda": 1.89,
     "net_debt_usd": 11914000000,
-    "pct_above_52w_low": 50.4,
+    "pct_above_52w_low": 42.4,
     "pct_gas": 22,
     "pct_liquids": 78,
-    "pct_off_52w_high": -6.5,
-    "pe_ttm": 204.82,
-    "price": 198.6750030517578,
+    "pct_off_52w_high": -11.5,
+    "pe_ttm": 284.91,
+    "price": 188.0399932861328,
     "price_currency": "USD",
     "production_kboed": 921,
-    "realized_vol_1y_pct": 31.7,
+    "realized_vol_1y_pct": 32.0,
     "reserves_1p_mmboe": 3618,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 37.9,
+    "return_1y_pct": 35.8,
     "revenue_usd": 8412000000,
     "roace_pct": 10.2,
     "rp_years": 11,
@@ -139,7 +139,7 @@
         "source": "sec-us-gaap"
       },
       "market": {
-        "as_of": "2026-08-03",
+        "as_of": "2026-08-10",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": "Diamondback FY2025 results + 10-K"
       }
     },
-    "ytd_return_pct": 31.9
+    "ytd_return_pct": 24.9
   },
   "wikidata": {
     "founded": 2007,
