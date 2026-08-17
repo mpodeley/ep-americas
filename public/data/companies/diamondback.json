@@ -74,7 +74,7 @@
       "source": "sec-us-gaap"
     },
     "market": {
-      "as_of": "2026-08-10",
+      "as_of": "2026-08-17",
       "source": "yfinance"
     },
     "operational": {
@@ -94,16 +94,16 @@
     "cfo_usd": 5920000000,
     "corp_breakeven_usd_bbl": null,
     "country": "US",
-    "dividend_yield_pct": 2.34,
+    "dividend_yield_pct": 2.17,
     "ebitda_usd": 6316000000,
-    "enterprise_value_usd": 64568919808,
-    "ev_ebitda": 6.02,
-    "ev_per_1p_boe_usd": 17.85,
-    "ev_per_boed_usd": 70107,
+    "enterprise_value_usd": 68609607628,
+    "ev_ebitda": 6.36,
+    "ev_per_1p_boe_usd": 18.96,
+    "ev_per_boed_usd": 74495,
     "exchange": "NASDAQ",
     "fcf_usd": null,
     "fcf_yield_pct": null,
-    "high_52w": 212.52,
+    "high_52w": 211.36,
     "hq_city": "Midland",
     "hq_coord": [
       31.9973,
@@ -111,24 +111,24 @@
     ],
     "id": "diamondback",
     "is_private": false,
-    "low_52w": 132.09,
-    "market_cap_usd": 52654919808,
+    "low_52w": 131.37,
+    "market_cap_usd": 56695607628,
     "name": "Diamondback Energy",
     "net_acreage_k": 869,
     "net_debt_to_ebitda": 1.89,
     "net_debt_usd": 11914000000,
-    "pct_above_52w_low": 42.4,
+    "pct_above_52w_low": 54.1,
     "pct_gas": 22,
     "pct_liquids": 78,
-    "pct_off_52w_high": -11.5,
-    "pe_ttm": 284.91,
-    "price": 188.0399932861328,
+    "pct_off_52w_high": -4.2,
+    "pe_ttm": 38.64,
+    "price": 202.47000122070312,
     "price_currency": "USD",
     "production_kboed": 921,
-    "realized_vol_1y_pct": 32.0,
+    "realized_vol_1y_pct": 32.2,
     "reserves_1p_mmboe": 3618,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 35.8,
+    "return_1y_pct": 47.9,
     "revenue_usd": 8412000000,
     "roace_pct": 10.2,
     "rp_years": 11,
@@ -139,7 +139,7 @@
         "source": "sec-us-gaap"
       },
       "market": {
-        "as_of": "2026-08-10",
+        "as_of": "2026-08-17",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": "Diamondback FY2025 results + 10-K"
       }
     },
-    "ytd_return_pct": 24.9
+    "ytd_return_pct": 35.2
   },
   "wikidata": {
     "founded": 2007,
