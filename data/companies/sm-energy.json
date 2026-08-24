@@ -74,7 +74,7 @@
       "source": "sec-us-gaap"
     },
     "market": {
-      "as_of": "2026-08-17",
+      "as_of": "2026-08-24",
       "source": "yfinance"
     },
     "operational": {
@@ -94,16 +94,16 @@
     "cfo_usd": 1574000000,
     "corp_breakeven_usd_bbl": null,
     "country": "US",
-    "dividend_yield_pct": 2.61,
+    "dividend_yield_pct": 2.37,
     "ebitda_usd": null,
-    "enterprise_value_usd": 14840574976,
-    "ev_ebitda": 4.63,
+    "enterprise_value_usd": 15661171712,
+    "ev_ebitda": 4.89,
     "ev_per_1p_boe_usd": null,
     "ev_per_boed_usd": null,
     "exchange": "NYSE",
     "fcf_usd": 1464000000,
-    "fcf_yield_pct": 18.2,
-    "high_52w": 34.57,
+    "fcf_yield_pct": 16.5,
+    "high_52w": 37.64,
     "hq_city": "Denver",
     "hq_coord": [
       39.7392,
@@ -112,23 +112,23 @@
     "id": "sm-energy",
     "is_private": false,
     "low_52w": 17.3,
-    "market_cap_usd": 8027574795,
+    "market_cap_usd": 8848171511,
     "name": "SM Energy",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
-    "pct_above_52w_low": 95.1,
+    "pct_above_52w_low": 115.0,
     "pct_gas": null,
     "pct_liquids": null,
-    "pct_off_52w_high": -2.4,
-    "pe_ttm": 5.98,
-    "price": 33.75,
+    "pct_off_52w_high": -1.2,
+    "pe_ttm": 6.6,
+    "price": 37.20000076293945,
     "price_currency": "USD",
     "production_kboed": null,
-    "realized_vol_1y_pct": 52.4,
+    "realized_vol_1y_pct": 52.3,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 33.5,
+    "return_1y_pct": 38.7,
     "revenue_usd": 2374000000,
     "roace_pct": 14.6,
     "rp_years": null,
@@ -139,7 +139,7 @@
         "source": "sec-us-gaap"
       },
       "market": {
-        "as_of": "2026-08-17",
+        "as_of": "2026-08-24",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": null
       }
     },
-    "ytd_return_pct": 79.2
+    "ytd_return_pct": 97.5
   },
   "wikidata": {
     "founded": 1908,
