@@ -28,7 +28,7 @@
       "source": null
     },
     "market": {
-      "as_of": "2026-08-24",
+      "as_of": "2026-08-31",
       "source": "yfinance"
     },
     "operational": {
@@ -48,10 +48,10 @@
     "cfo_usd": null,
     "corp_breakeven_usd_bbl": null,
     "country": "BR",
-    "dividend_yield_pct": 66.0,
+    "dividend_yield_pct": 73.0,
     "ebitda_usd": null,
-    "enterprise_value_usd": 4497377023,
-    "ev_ebitda": 4.9,
+    "enterprise_value_usd": 4294067623,
+    "ev_ebitda": 4.72,
     "ev_per_1p_boe_usd": null,
     "ev_per_boed_usd": null,
     "exchange": "B3",
@@ -66,23 +66,23 @@
     "id": "brava",
     "is_private": false,
     "low_52w": 13.35,
-    "market_cap_usd": 1700033160,
+    "market_cap_usd": 1544386107,
     "name": "Brava Energia",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
-    "pct_above_52w_low": 40.8,
+    "pct_above_52w_low": 29.2,
     "pct_gas": null,
     "pct_liquids": null,
-    "pct_off_52w_high": -13.1,
-    "pe_ttm": 188.0,
-    "price": 18.799999237060547,
+    "pct_off_52w_high": -20.3,
+    "pe_ttm": 172.4,
+    "price": 17.239999771118164,
     "price_currency": "BRL",
     "production_kboed": null,
-    "realized_vol_1y_pct": 36.8,
+    "realized_vol_1y_pct": 37.0,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 0.8,
+    "return_1y_pct": -13.8,
     "revenue_usd": null,
     "roace_pct": null,
     "rp_years": null,
@@ -93,7 +93,7 @@
         "source": null
       },
       "market": {
-        "as_of": "2026-08-24",
+        "as_of": "2026-08-31",
         "source": "yfinance"
       },
       "operational": {
@@ -102,7 +102,7 @@
         "source": null
       }
     },
-    "ytd_return_pct": 13.5
+    "ytd_return_pct": 4.0
   },
   "wikidata": {
     "label": "Brava Energia",

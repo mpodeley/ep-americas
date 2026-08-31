@@ -1,113 +1,113 @@
 {
   "antero": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 45.15,
     "low_52w": 30.03,
-    "pct_above_52w_low": 26.3,
-    "pct_off_52w_high": -16.0,
-    "realized_vol_1y_pct": 37.6,
-    "return_1y_pct": 23.0,
-    "ytd_return_pct": 10.9
+    "pct_above_52w_low": 28.8,
+    "pct_off_52w_high": -14.4,
+    "realized_vol_1y_pct": 37.4,
+    "return_1y_pct": 19.2,
+    "ytd_return_pct": 13.0
   },
   "apa": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 44.39,
-    "low_52w": 20.91,
-    "pct_above_52w_low": 107.5,
-    "pct_off_52w_high": -2.3,
-    "realized_vol_1y_pct": 46.4,
-    "return_1y_pct": 107.5,
-    "ytd_return_pct": 75.1
+    "low_52w": 20.93,
+    "pct_above_52w_low": 104.9,
+    "pct_off_52w_high": -3.4,
+    "realized_vol_1y_pct": 46.5,
+    "return_1y_pct": 86.2,
+    "ytd_return_pct": 73.1
   },
   "arc-resources": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 33.95,
     "low_52w": 22.51,
-    "pct_above_52w_low": 50.4,
-    "pct_off_52w_high": -0.3,
+    "pct_above_52w_low": 47.8,
+    "pct_off_52w_high": -2.0,
     "realized_vol_1y_pct": 34.7,
-    "return_1y_pct": 29.4,
-    "ytd_return_pct": 32.1
+    "return_1y_pct": 29.1,
+    "ytd_return_pct": 29.8
   },
   "baytex": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 5.3,
-    "low_52w": 2.11,
-    "pct_above_52w_low": 127.5,
-    "pct_off_52w_high": -9.3,
-    "realized_vol_1y_pct": 46.2,
-    "return_1y_pct": 126.4,
-    "ytd_return_pct": 46.8
+    "low_52w": 2.16,
+    "pct_above_52w_low": 122.8,
+    "pct_off_52w_high": -9.1,
+    "realized_vol_1y_pct": 46.1,
+    "return_1y_pct": 105.8,
+    "ytd_return_pct": 47.2
   },
   "brava": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 21.64,
     "low_52w": 13.35,
-    "pct_above_52w_low": 40.8,
-    "pct_off_52w_high": -13.1,
-    "realized_vol_1y_pct": 36.8,
-    "return_1y_pct": 0.8,
-    "ytd_return_pct": 13.5
+    "pct_above_52w_low": 29.2,
+    "pct_off_52w_high": -20.3,
+    "realized_vol_1y_pct": 37.0,
+    "return_1y_pct": -13.8,
+    "ytd_return_pct": 4.0
   },
   "cenovus": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 32.93,
     "low_52w": 15.66,
-    "pct_above_52w_low": 110.2,
-    "pct_off_52w_high": 0.0,
-    "realized_vol_1y_pct": 35.8,
-    "return_1y_pct": 103.3,
-    "ytd_return_pct": 90.1
+    "pct_above_52w_low": 104.1,
+    "pct_off_52w_high": -2.9,
+    "realized_vol_1y_pct": 36.1,
+    "return_1y_pct": 90.6,
+    "ytd_return_pct": 84.5
   },
   "chevron": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 207.42,
     "low_52w": 142.76,
     "pct_above_52w_low": 43.8,
     "pct_off_52w_high": -1.0,
-    "realized_vol_1y_pct": 23.5,
-    "return_1y_pct": 34.9,
-    "ytd_return_pct": 35.3
+    "realized_vol_1y_pct": 23.6,
+    "return_1y_pct": 31.9,
+    "ytd_return_pct": 35.4
   },
   "chord": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 148.81,
     "low_52w": 81.47,
-    "pct_above_52w_low": 81.5,
-    "pct_off_52w_high": -0.6,
-    "realized_vol_1y_pct": 39.6,
-    "return_1y_pct": 45.6,
-    "ytd_return_pct": 60.6
+    "pct_above_52w_low": 79.9,
+    "pct_off_52w_high": -1.5,
+    "realized_vol_1y_pct": 39.8,
+    "return_1y_pct": 36.9,
+    "ytd_return_pct": 59.2
   },
   "cnrl": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 51.4,
     "low_52w": 29.33,
-    "pct_above_52w_low": 75.3,
-    "pct_off_52w_high": 0.0,
+    "pct_above_52w_low": 69.6,
+    "pct_off_52w_high": -3.3,
     "realized_vol_1y_pct": 31.0,
-    "return_1y_pct": 68.3,
-    "ytd_return_pct": 52.7
+    "return_1y_pct": 58.5,
+    "ytd_return_pct": 47.8
   },
   "comstock": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 27.37,
     "low_52w": 12.38,
-    "pct_above_52w_low": 14.9,
-    "pct_off_52w_high": -48.0,
-    "realized_vol_1y_pct": 55.8,
-    "return_1y_pct": -7.4,
-    "ytd_return_pct": -39.7
+    "pct_above_52w_low": 18.0,
+    "pct_off_52w_high": -46.6,
+    "realized_vol_1y_pct": 55.6,
+    "return_1y_pct": -10.8,
+    "ytd_return_pct": -38.0
   },
   "conocophillips": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 134.89,
     "low_52w": 83.04,
-    "pct_above_52w_low": 62.4,
-    "pct_off_52w_high": -0.0,
+    "pct_above_52w_low": 59.5,
+    "pct_off_52w_high": -1.8,
     "realized_vol_1y_pct": 30.7,
-    "return_1y_pct": 43.8,
-    "ytd_return_pct": 42.5
+    "return_1y_pct": 38.0,
+    "ytd_return_pct": 40.0
   },
   "coterra": {
     "as_of": "2026-07-02",
@@ -120,74 +120,74 @@
     "ytd_return_pct": 23.3
   },
   "devon": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 51.7,
     "low_52w": 31.15,
-    "pct_above_52w_low": 57.6,
-    "pct_off_52w_high": -5.0,
-    "realized_vol_1y_pct": 34.8,
-    "return_1y_pct": 43.3,
-    "ytd_return_pct": 31.3
+    "pct_above_52w_low": 54.3,
+    "pct_off_52w_high": -7.0,
+    "realized_vol_1y_pct": 34.9,
+    "return_1y_pct": 35.4,
+    "ytd_return_pct": 28.5
   },
   "diamondback": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 211.36,
     "low_52w": 131.37,
-    "pct_above_52w_low": 60.4,
-    "pct_off_52w_high": -0.3,
-    "realized_vol_1y_pct": 32.1,
-    "return_1y_pct": 50.6,
-    "ytd_return_pct": 40.7
+    "pct_above_52w_low": 51.7,
+    "pct_off_52w_high": -5.7,
+    "realized_vol_1y_pct": 32.3,
+    "return_1y_pct": 36.2,
+    "ytd_return_pct": 33.0
   },
   "ecopetrol": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 17.89,
     "low_52w": 8.2,
-    "pct_above_52w_low": 113.7,
-    "pct_off_52w_high": -2.0,
-    "realized_vol_1y_pct": 38.8,
-    "return_1y_pct": 100.2,
-    "ytd_return_pct": 80.0
+    "pct_above_52w_low": 102.7,
+    "pct_off_52w_high": -7.0,
+    "realized_vol_1y_pct": 39.0,
+    "return_1y_pct": 86.1,
+    "ytd_return_pct": 70.8
   },
   "eog": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 153.05,
     "low_52w": 99.31,
-    "pct_above_52w_low": 54.1,
-    "pct_off_52w_high": 0.0,
-    "realized_vol_1y_pct": 28.6,
-    "return_1y_pct": 30.8,
-    "ytd_return_pct": 46.2
+    "pct_above_52w_low": 45.7,
+    "pct_off_52w_high": -5.4,
+    "realized_vol_1y_pct": 28.8,
+    "return_1y_pct": 18.8,
+    "ytd_return_pct": 38.3
   },
   "eqt": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 67.53,
     "low_52w": 48.62,
-    "pct_above_52w_low": 10.5,
-    "pct_off_52w_high": -20.4,
-    "realized_vol_1y_pct": 30.6,
-    "return_1y_pct": 4.6,
-    "ytd_return_pct": 1.4
+    "pct_above_52w_low": 11.6,
+    "pct_off_52w_high": -19.6,
+    "realized_vol_1y_pct": 30.4,
+    "return_1y_pct": 4.8,
+    "ytd_return_pct": 2.4
   },
   "expand-energy": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 120.76,
     "low_52w": 86.43,
-    "pct_above_52w_low": 11.2,
-    "pct_off_52w_high": -20.4,
+    "pct_above_52w_low": 14.1,
+    "pct_off_52w_high": -18.3,
     "realized_vol_1y_pct": 30.9,
-    "return_1y_pct": 3.8,
-    "ytd_return_pct": -10.9
+    "return_1y_pct": 2.7,
+    "ytd_return_pct": -8.6
   },
   "exxonmobil": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 169.22,
     "low_52w": 106.15,
-    "pct_above_52w_low": 55.5,
-    "pct_off_52w_high": -2.4,
-    "realized_vol_1y_pct": 25.5,
-    "return_1y_pct": 52.7,
-    "ytd_return_pct": 37.3
+    "pct_above_52w_low": 50.9,
+    "pct_off_52w_high": -5.3,
+    "realized_vol_1y_pct": 25.8,
+    "return_1y_pct": 43.8,
+    "ytd_return_pct": 33.3
   },
   "frontera": {
     "as_of": "2026-07-02",
@@ -200,183 +200,183 @@
     "ytd_return_pct": 109.5
   },
   "geopark": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 11.75,
     "low_52w": 5.91,
-    "pct_above_52w_low": 65.6,
-    "pct_off_52w_high": -16.7,
-    "realized_vol_1y_pct": 54.2,
-    "return_1y_pct": 49.1,
-    "ytd_return_pct": 35.4
+    "pct_above_52w_low": 87.9,
+    "pct_off_52w_high": -5.5,
+    "realized_vol_1y_pct": 55.4,
+    "return_1y_pct": 70.4,
+    "ytd_return_pct": 53.6
   },
   "gran-tierra": {
-    "as_of": "2026-08-24",
-    "high_52w": 9.91,
+    "as_of": "2026-08-31",
+    "high_52w": 10.11,
     "low_52w": 3.43,
-    "pct_above_52w_low": 188.9,
-    "pct_off_52w_high": 0.0,
-    "realized_vol_1y_pct": 76.8,
-    "return_1y_pct": 142.3,
-    "ytd_return_pct": 134.3
+    "pct_above_52w_low": 193.3,
+    "pct_off_52w_high": -0.5,
+    "realized_vol_1y_pct": 77.0,
+    "return_1y_pct": 143.0,
+    "ytd_return_pct": 137.8
   },
   "imperial-oil": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 138.05,
     "low_52w": 82.86,
-    "pct_above_52w_low": 66.6,
-    "pct_off_52w_high": 0.0,
-    "realized_vol_1y_pct": 28.1,
-    "return_1y_pct": 61.5,
-    "ytd_return_pct": 56.6
+    "pct_above_52w_low": 58.0,
+    "pct_off_52w_high": -5.2,
+    "realized_vol_1y_pct": 28.3,
+    "return_1y_pct": 50.0,
+    "ytd_return_pct": 48.5
   },
   "matador": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 64.51,
     "low_52w": 36.03,
-    "pct_above_52w_low": 62.0,
-    "pct_off_52w_high": -9.5,
-    "realized_vol_1y_pct": 42.8,
-    "return_1y_pct": 24.6,
-    "ytd_return_pct": 37.6
+    "pct_above_52w_low": 60.1,
+    "pct_off_52w_high": -10.6,
+    "realized_vol_1y_pct": 42.9,
+    "return_1y_pct": 16.3,
+    "ytd_return_pct": 36.0
   },
   "occidental": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 65.94,
     "low_52w": 38.56,
-    "pct_above_52w_low": 59.0,
-    "pct_off_52w_high": -7.0,
-    "realized_vol_1y_pct": 35.5,
-    "return_1y_pct": 36.5,
-    "ytd_return_pct": 46.0
+    "pct_above_52w_low": 55.5,
+    "pct_off_52w_high": -9.1,
+    "realized_vol_1y_pct": 35.6,
+    "return_1y_pct": 27.4,
+    "ytd_return_pct": 42.8
   },
   "ovintiv": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 66.82,
     "low_52w": 35.32,
-    "pct_above_52w_low": 89.2,
-    "pct_off_52w_high": 0.0,
-    "realized_vol_1y_pct": 36.2,
-    "return_1y_pct": 67.4,
-    "ytd_return_pct": 66.8
+    "pct_above_52w_low": 85.1,
+    "pct_off_52w_high": -2.2,
+    "realized_vol_1y_pct": 36.3,
+    "return_1y_pct": 56.8,
+    "ytd_return_pct": 63.2
   },
   "pampa": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 92.27,
     "low_52w": 56.55,
-    "pct_above_52w_low": 40.6,
-    "pct_off_52w_high": -13.8,
-    "realized_vol_1y_pct": 47.7,
-    "return_1y_pct": 12.8,
-    "ytd_return_pct": -9.6
+    "pct_above_52w_low": 47.3,
+    "pct_off_52w_high": -9.8,
+    "realized_vol_1y_pct": 47.3,
+    "return_1y_pct": 26.4,
+    "ytd_return_pct": -5.4
   },
   "parex": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 29.27,
-    "low_52w": 15.39,
-    "pct_above_52w_low": 82.6,
-    "pct_off_52w_high": -4.0,
-    "realized_vol_1y_pct": 39.8,
-    "return_1y_pct": 82.6,
-    "ytd_return_pct": 54.6
+    "low_52w": 15.91,
+    "pct_above_52w_low": 79.7,
+    "pct_off_52w_high": -2.3,
+    "realized_vol_1y_pct": 39.9,
+    "return_1y_pct": 72.5,
+    "ytd_return_pct": 57.3
   },
   "permian-resources": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 23.87,
     "low_52w": 11.76,
-    "pct_above_52w_low": 101.9,
-    "pct_off_52w_high": -0.5,
+    "pct_above_52w_low": 97.0,
+    "pct_off_52w_high": -2.9,
     "realized_vol_1y_pct": 34.3,
-    "return_1y_pct": 79.5,
-    "ytd_return_pct": 67.7
+    "return_1y_pct": 66.0,
+    "ytd_return_pct": 63.6
   },
   "petrobras": {
-    "as_of": "2026-08-24",
-    "high_52w": 21.86,
-    "low_52w": 11.39,
-    "pct_above_52w_low": 68.2,
-    "pct_off_52w_high": -12.4,
-    "realized_vol_1y_pct": 31.9,
-    "return_1y_pct": 60.6,
-    "ytd_return_pct": 62.8
+    "as_of": "2026-08-31",
+    "high_52w": 21.24,
+    "low_52w": 11.06,
+    "pct_above_52w_low": 73.8,
+    "pct_off_52w_high": -9.5,
+    "realized_vol_1y_pct": 32.3,
+    "return_1y_pct": 61.6,
+    "ytd_return_pct": 68.3
   },
   "petroreconcavo": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 13.47,
     "low_52w": 8.89,
-    "pct_above_52w_low": 18.2,
-    "pct_off_52w_high": -22.0,
+    "pct_above_52w_low": 21.4,
+    "pct_off_52w_high": -19.8,
     "realized_vol_1y_pct": 31.5,
-    "return_1y_pct": -1.0,
-    "ytd_return_pct": 11.7
+    "return_1y_pct": -3.7,
+    "ytd_return_pct": 14.8
   },
   "prio": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 72.1,
     "low_52w": 34.2,
-    "pct_above_52w_low": 83.8,
-    "pct_off_52w_high": -12.8,
-    "realized_vol_1y_pct": 34.4,
-    "return_1y_pct": 67.6,
-    "ytd_return_pct": 50.5
+    "pct_above_52w_low": 80.8,
+    "pct_off_52w_high": -14.2,
+    "realized_vol_1y_pct": 35.1,
+    "return_1y_pct": 62.9,
+    "ytd_return_pct": 48.1
   },
   "range-resources": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 47.52,
-    "low_52w": 33.02,
-    "pct_above_52w_low": 24.4,
-    "pct_off_52w_high": -13.6,
+    "low_52w": 33.26,
+    "pct_above_52w_low": 24.5,
+    "pct_off_52w_high": -12.9,
     "realized_vol_1y_pct": 32.3,
-    "return_1y_pct": 24.4,
-    "ytd_return_pct": 16.9
+    "return_1y_pct": 20.7,
+    "ytd_return_pct": 17.9
   },
   "sm-energy": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 37.64,
     "low_52w": 17.3,
-    "pct_above_52w_low": 115.0,
-    "pct_off_52w_high": -1.2,
-    "realized_vol_1y_pct": 52.3,
-    "return_1y_pct": 38.7,
-    "ytd_return_pct": 97.5
+    "pct_above_52w_low": 115.4,
+    "pct_off_52w_high": -1.0,
+    "realized_vol_1y_pct": 52.4,
+    "return_1y_pct": 33.2,
+    "ytd_return_pct": 97.8
   },
   "suncor": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 69.27,
     "low_52w": 37.63,
-    "pct_above_52w_low": 81.8,
-    "pct_off_52w_high": -1.2,
-    "realized_vol_1y_pct": 26.7,
-    "return_1y_pct": 73.6,
-    "ytd_return_pct": 52.2
+    "pct_above_52w_low": 76.4,
+    "pct_off_52w_high": -4.2,
+    "realized_vol_1y_pct": 26.9,
+    "return_1y_pct": 63.0,
+    "ytd_return_pct": 47.7
   },
   "tourmaline": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 68.97,
-    "low_52w": 55.37,
-    "pct_above_52w_low": 12.5,
-    "pct_off_52w_high": -9.7,
+    "low_52w": 55.81,
+    "pct_above_52w_low": 12.9,
+    "pct_off_52w_high": -8.6,
     "realized_vol_1y_pct": 25.7,
-    "return_1y_pct": 12.5,
-    "ytd_return_pct": 3.0
+    "return_1y_pct": 11.9,
+    "ytd_return_pct": 4.2
   },
   "vista": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 79.25,
     "low_52w": 33.7,
-    "pct_above_52w_low": 106.5,
-    "pct_off_52w_high": -12.2,
+    "pct_above_52w_low": 113.1,
+    "pct_off_52w_high": -9.4,
     "realized_vol_1y_pct": 50.0,
-    "return_1y_pct": 72.5,
-    "ytd_return_pct": 42.6
+    "return_1y_pct": 83.2,
+    "ytd_return_pct": 47.2
   },
   "ypf": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-31",
     "high_52w": 56.35,
     "low_52w": 23.57,
-    "pct_above_52w_low": 117.1,
-    "pct_off_52w_high": -9.2,
-    "realized_vol_1y_pct": 51.6,
-    "return_1y_pct": 61.2,
-    "ytd_return_pct": 41.0
+    "pct_above_52w_low": 119.6,
+    "pct_off_52w_high": -8.1,
+    "realized_vol_1y_pct": 51.4,
+    "return_1y_pct": 70.4,
+    "ytd_return_pct": 42.7
   }
 }
