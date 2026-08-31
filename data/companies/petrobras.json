@@ -74,7 +74,7 @@
       "source": "sec-ifrs-full"
     },
     "market": {
-      "as_of": "2026-08-24",
+      "as_of": "2026-08-31",
       "source": "yfinance"
     },
     "operational": {
@@ -94,16 +94,16 @@
     "cfo_usd": 49717000000,
     "corp_breakeven_usd_bbl": null,
     "country": "BR",
-    "dividend_yield_pct": 8.82,
+    "dividend_yield_pct": 9.07,
     "ebitda_usd": null,
-    "enterprise_value_usd": 135161613738,
-    "ev_ebitda": 1.8,
-    "ev_per_1p_boe_usd": 11.17,
-    "ev_per_boed_usd": 45205,
+    "enterprise_value_usd": 135630761565,
+    "ev_ebitda": 1.78,
+    "ev_per_1p_boe_usd": 11.21,
+    "ev_per_boed_usd": 45361,
     "exchange": "NYSE",
     "fcf_usd": null,
     "fcf_yield_pct": null,
-    "high_52w": 21.86,
+    "high_52w": 21.24,
     "hq_city": "Rio de Janeiro",
     "hq_coord": [
       -22.9068,
@@ -111,24 +111,24 @@
     ],
     "id": "petrobras",
     "is_private": false,
-    "low_52w": 11.39,
-    "market_cap_usd": 123409613738,
+    "low_52w": 11.06,
+    "market_cap_usd": 123878761565,
     "name": "Petrobras",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": 11752000000,
-    "pct_above_52w_low": 68.2,
+    "pct_above_52w_low": 73.8,
     "pct_gas": 19,
     "pct_liquids": 81,
-    "pct_off_52w_high": -12.4,
-    "pe_ttm": 4.84,
-    "price": 19.149999618530273,
+    "pct_off_52w_high": -9.5,
+    "pe_ttm": 4.85,
+    "price": 19.22279930114746,
     "price_currency": "USD",
     "production_kboed": 2990,
-    "realized_vol_1y_pct": 31.9,
+    "realized_vol_1y_pct": 32.3,
     "reserves_1p_mmboe": 12100,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 60.6,
+    "return_1y_pct": 61.6,
     "revenue_usd": 124474000000,
     "roace_pct": 33.7,
     "rp_years": 12.5,
@@ -139,7 +139,7 @@
         "source": "sec-ifrs-full"
       },
       "market": {
-        "as_of": "2026-08-24",
+        "as_of": "2026-08-31",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": "Petrobras FY2025 resultados y reservas probadas"
       }
     },
-    "ytd_return_pct": 62.8
+    "ytd_return_pct": 68.3
   },
   "wikidata": {
     "employees": 52000,
