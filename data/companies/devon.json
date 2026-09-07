@@ -74,7 +74,7 @@
       "source": "sec-us-gaap"
     },
     "market": {
-      "as_of": "2026-08-31",
+      "as_of": "2026-09-07",
       "source": "yfinance"
     },
     "operational": {
@@ -84,7 +84,7 @@
     }
   },
   "row": {
-    "beta": 0.42,
+    "beta": 0.43,
     "cagr_cfo_3y_pct": -0.1,
     "cagr_revenue_3y_pct": 2.7,
     "canonical_ticker": "DVN",
@@ -94,12 +94,12 @@
     "cfo_usd": 6544000000,
     "corp_breakeven_usd_bbl": null,
     "country": "US",
-    "dividend_yield_pct": 2.72,
+    "dividend_yield_pct": 2.66,
     "ebitda_usd": null,
-    "enterprise_value_usd": 60433002014,
-    "ev_ebitda": 7.06,
-    "ev_per_1p_boe_usd": 24.89,
-    "ev_per_boed_usd": 71773,
+    "enterprise_value_usd": 60411001511,
+    "ev_ebitda": 7.15,
+    "ev_per_1p_boe_usd": 24.88,
+    "ev_per_boed_usd": 71747,
     "exchange": "NYSE",
     "fcf_usd": null,
     "fcf_yield_pct": null,
@@ -112,7 +112,7 @@
     "id": "devon",
     "is_private": false,
     "low_52w": 31.15,
-    "market_cap_usd": 52888002014,
+    "market_cap_usd": 52866001511,
     "name": "Devon Energy",
     "net_acreage_k": 2369,
     "net_debt_to_ebitda": null,
@@ -122,13 +122,13 @@
     "pct_liquids": 73,
     "pct_off_52w_high": -7.0,
     "pe_ttm": 10.45,
-    "price": 48.08000183105469,
+    "price": 48.060001373291016,
     "price_currency": "USD",
     "production_kboed": 842,
-    "realized_vol_1y_pct": 34.9,
+    "realized_vol_1y_pct": 34.6,
     "reserves_1p_mmboe": 2428,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 35.4,
+    "return_1y_pct": 41.9,
     "revenue_usd": 15258000000,
     "roace_pct": null,
     "rp_years": 8,
@@ -139,7 +139,7 @@
         "source": "sec-us-gaap"
       },
       "market": {
-        "as_of": "2026-08-31",
+        "as_of": "2026-09-07",
         "source": "yfinance"
       },
       "operational": {
