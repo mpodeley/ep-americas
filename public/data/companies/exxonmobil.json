@@ -74,7 +74,7 @@
       "source": "cache"
     },
     "market": {
-      "as_of": "2026-08-31",
+      "as_of": "2026-09-07",
       "source": "yfinance"
     },
     "operational": {
@@ -94,10 +94,10 @@
     "cfo_usd": 55369000000,
     "corp_breakeven_usd_bbl": null,
     "country": "US",
-    "dividend_yield_pct": 2.63,
+    "dividend_yield_pct": 2.54,
     "ebitda_usd": null,
-    "enterprise_value_usd": 682888724480,
-    "ev_ebitda": 10.05,
+    "enterprise_value_usd": 694237593600,
+    "ev_ebitda": 10.22,
     "ev_per_1p_boe_usd": null,
     "ev_per_boed_usd": null,
     "exchange": "NYSE",
@@ -112,23 +112,23 @@
     "id": "exxonmobil",
     "is_private": false,
     "low_52w": 106.15,
-    "market_cap_usd": 658872654620,
+    "market_cap_usd": 655726605281,
     "name": "ExxonMobil",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
-    "pct_above_52w_low": 50.9,
+    "pct_above_52w_low": 50.2,
     "pct_gas": null,
     "pct_liquids": null,
-    "pct_off_52w_high": -5.3,
-    "pe_ttm": 20.62,
-    "price": 160.235107421875,
+    "pct_off_52w_high": -5.8,
+    "pe_ttm": 20.52,
+    "price": 159.47000122070312,
     "price_currency": "USD",
     "production_kboed": null,
-    "realized_vol_1y_pct": 25.8,
+    "realized_vol_1y_pct": 25.6,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 43.8,
+    "return_1y_pct": 50.2,
     "revenue_usd": 344582000000,
     "roace_pct": null,
     "rp_years": null,
@@ -139,7 +139,7 @@
         "source": "cache"
       },
       "market": {
-        "as_of": "2026-08-31",
+        "as_of": "2026-09-07",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": null
       }
     },
-    "ytd_return_pct": 33.3
+    "ytd_return_pct": 32.6
   },
   "wikidata": {
     "employees": 75000,
