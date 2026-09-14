@@ -74,7 +74,7 @@
       "source": "sec-us-gaap"
     },
     "market": {
-      "as_of": "2026-09-07",
+      "as_of": "2026-09-14",
       "source": "yfinance"
     },
     "operational": {
@@ -94,16 +94,16 @@
     "cfo_usd": 2213499000,
     "corp_breakeven_usd_bbl": null,
     "country": "US",
-    "dividend_yield_pct": 2.7,
+    "dividend_yield_pct": 2.65,
     "ebitda_usd": null,
-    "enterprise_value_usd": 23676275709,
-    "ev_ebitda": 5.31,
+    "enterprise_value_usd": 24501268296,
+    "ev_ebitda": 5.39,
     "ev_per_1p_boe_usd": null,
     "ev_per_boed_usd": null,
     "exchange": "NYSE",
     "fcf_usd": null,
     "fcf_yield_pct": null,
-    "high_52w": 23.87,
+    "high_52w": 24.34,
     "hq_city": "Midland",
     "hq_coord": [
       31.9973,
@@ -112,23 +112,23 @@
     "id": "permian-resources",
     "is_private": false,
     "low_52w": 11.76,
-    "market_cap_usd": 19565332709,
+    "market_cap_usd": 20390325296,
     "name": "Permian Resources",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": 4110943000,
-    "pct_above_52w_low": 98.6,
+    "pct_above_52w_low": 107.0,
     "pct_gas": null,
     "pct_liquids": null,
-    "pct_off_52w_high": -2.1,
-    "pe_ttm": 15.07,
-    "price": 23.360000610351562,
+    "pct_off_52w_high": 0.0,
+    "pe_ttm": 15.71,
+    "price": 24.344999313354492,
     "price_currency": "USD",
     "production_kboed": null,
-    "realized_vol_1y_pct": 33.7,
+    "realized_vol_1y_pct": 33.4,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 75.0,
+    "return_1y_pct": 91.2,
     "revenue_usd": 3120893000,
     "roace_pct": 7.5,
     "rp_years": null,
@@ -139,7 +139,7 @@
         "source": "sec-us-gaap"
       },
       "market": {
-        "as_of": "2026-09-07",
+        "as_of": "2026-09-14",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": null
       }
     },
-    "ytd_return_pct": 65.0
+    "ytd_return_pct": 71.9
   },
   "wikidata": {
     "label": "Permian Resources Corp",
