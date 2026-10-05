@@ -74,7 +74,7 @@
       "source": "sec-us-gaap"
     },
     "market": {
-      "as_of": "2026-09-28",
+      "as_of": "2026-10-05",
       "source": "yfinance"
     },
     "operational": {
@@ -84,7 +84,7 @@
     }
   },
   "row": {
-    "beta": 0.14,
+    "beta": 0.51,
     "cagr_cfo_3y_pct": 13.3,
     "cagr_revenue_3y_pct": 8.2,
     "canonical_ticker": "CRK",
@@ -94,15 +94,15 @@
     "cfo_usd": 1016846000,
     "corp_breakeven_usd_bbl": null,
     "country": "US",
-    "dividend_yield_pct": null,
+    "dividend_yield_pct": 0.0,
     "ebitda_usd": 834505000,
-    "enterprise_value_usd": 6690421123,
-    "ev_ebitda": 7.67,
+    "enterprise_value_usd": 6786053279,
+    "ev_ebitda": 7.57,
     "ev_per_1p_boe_usd": null,
     "ev_per_boed_usd": null,
     "exchange": "NYSE",
     "fcf_usd": -408240000,
-    "fcf_yield_pct": -10.9,
+    "fcf_yield_pct": -10.6,
     "high_52w": 27.37,
     "hq_city": "Frisco",
     "hq_coord": [
@@ -111,24 +111,24 @@
     ],
     "id": "comstock",
     "is_private": false,
-    "low_52w": 12.38,
-    "market_cap_usd": 3745130123,
+    "low_52w": 12.32,
+    "market_cap_usd": 3840762279,
     "name": "Comstock Resources",
     "net_acreage_k": null,
     "net_debt_to_ebitda": 3.53,
     "net_debt_usd": 2945291000,
-    "pct_above_52w_low": 3.0,
+    "pct_above_52w_low": 6.2,
     "pct_gas": null,
     "pct_liquids": null,
-    "pct_off_52w_high": -53.4,
-    "pe_ttm": 7.17,
-    "price": 12.755000114440918,
+    "pct_off_52w_high": -52.2,
+    "pe_ttm": 7.19,
+    "price": 13.080699920654297,
     "price_currency": "USD",
     "production_kboed": null,
-    "realized_vol_1y_pct": 57.0,
+    "realized_vol_1y_pct": 56.7,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": -37.0,
+    "return_1y_pct": -38.5,
     "revenue_usd": null,
     "roace_pct": 4.0,
     "rp_years": null,
@@ -139,7 +139,7 @@
         "source": "sec-us-gaap"
       },
       "market": {
-        "as_of": "2026-09-28",
+        "as_of": "2026-10-05",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": null
       }
     },
-    "ytd_return_pct": -45.9
+    "ytd_return_pct": -44.5
   },
   "wikidata": {}
 }

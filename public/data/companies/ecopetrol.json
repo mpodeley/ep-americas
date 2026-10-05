@@ -28,7 +28,7 @@
       "source": null
     },
     "market": {
-      "as_of": "2026-09-28",
+      "as_of": "2026-10-05",
       "source": "yfinance"
     },
     "operational": {
@@ -38,7 +38,7 @@
     }
   },
   "row": {
-    "beta": -0.05,
+    "beta": -0.04,
     "cagr_cfo_3y_pct": null,
     "cagr_revenue_3y_pct": null,
     "canonical_ticker": "EC",
@@ -48,7 +48,7 @@
     "cfo_usd": null,
     "corp_breakeven_usd_bbl": null,
     "country": "CO",
-    "dividend_yield_pct": 3.92,
+    "dividend_yield_pct": 3.91,
     "ebitda_usd": null,
     "enterprise_value_usd": null,
     "ev_ebitda": null,
@@ -66,23 +66,23 @@
     "id": "ecopetrol",
     "is_private": false,
     "low_52w": 8.2,
-    "market_cap_usd": 34671652335,
+    "market_cap_usd": 35504266815,
     "name": "Ecopetrol",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
-    "pct_above_52w_low": 105.6,
+    "pct_above_52w_low": 110.5,
     "pct_gas": 17,
     "pct_liquids": 83,
-    "pct_off_52w_high": -7.6,
-    "pe_ttm": 8.11,
-    "price": 16.864999771118164,
+    "pct_off_52w_high": -5.4,
+    "pe_ttm": 9.39,
+    "price": 17.270000457763672,
     "price_currency": "USD",
     "production_kboed": 745,
-    "realized_vol_1y_pct": 39.3,
+    "realized_vol_1y_pct": 39.5,
     "reserves_1p_mmboe": 1944,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 92.8,
+    "return_1y_pct": 97.9,
     "revenue_usd": null,
     "roace_pct": null,
     "rp_years": 7.8,
@@ -93,7 +93,7 @@
         "source": null
       },
       "market": {
-        "as_of": "2026-09-28",
+        "as_of": "2026-10-05",
         "source": "yfinance"
       },
       "operational": {
@@ -102,7 +102,7 @@
         "source": "Ecopetrol FY2025 reservas + producción"
       }
     },
-    "ytd_return_pct": 73.2
+    "ytd_return_pct": 77.4
   },
   "wikidata": {
     "employees": 9315,
