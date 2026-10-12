@@ -74,7 +74,7 @@
       "source": "sec-us-gaap"
     },
     "market": {
-      "as_of": "2026-10-05",
+      "as_of": "2026-10-12",
       "source": "yfinance"
     },
     "operational": {
@@ -94,10 +94,10 @@
     "cfo_usd": 977892000,
     "corp_breakeven_usd_bbl": null,
     "country": "US",
-    "dividend_yield_pct": 1.05,
+    "dividend_yield_pct": 98.0,
     "ebitda_usd": null,
-    "enterprise_value_usd": 9801647872,
-    "ev_ebitda": 6.13,
+    "enterprise_value_usd": 10464129083,
+    "ev_ebitda": 6.51,
     "ev_per_1p_boe_usd": null,
     "ev_per_boed_usd": null,
     "exchange": "NYSE",
@@ -112,23 +112,23 @@
     "id": "range-resources",
     "is_private": false,
     "low_52w": 33.18,
-    "market_cap_usd": 9016523872,
+    "market_cap_usd": 9679005083,
     "name": "Range Resources",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": 785124000,
-    "pct_above_52w_low": 16.3,
+    "pct_above_52w_low": 24.8,
     "pct_gas": null,
     "pct_liquids": null,
-    "pct_off_52w_high": -18.6,
-    "pe_ttm": 10.66,
-    "price": 38.584999084472656,
+    "pct_off_52w_high": -12.6,
+    "pe_ttm": 11.44,
+    "price": 41.41999816894531,
     "price_currency": "USD",
     "production_kboed": null,
-    "realized_vol_1y_pct": 32.6,
+    "realized_vol_1y_pct": 32.2,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 0.5,
+    "return_1y_pct": 13.1,
     "revenue_usd": 3374872000,
     "roace_pct": null,
     "rp_years": null,
@@ -139,7 +139,7 @@
         "source": "sec-us-gaap"
       },
       "market": {
-        "as_of": "2026-10-05",
+        "as_of": "2026-10-12",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": null
       }
     },
-    "ytd_return_pct": 10.1
+    "ytd_return_pct": 18.2
   },
   "wikidata": {
     "founded": 1976,

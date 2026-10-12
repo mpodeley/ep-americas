@@ -74,7 +74,7 @@
       "source": "sec-us-gaap"
     },
     "market": {
-      "as_of": "2026-10-05",
+      "as_of": "2026-10-12",
       "source": "yfinance"
     },
     "operational": {
@@ -94,15 +94,15 @@
     "cfo_usd": 4167000000,
     "corp_breakeven_usd_bbl": null,
     "country": "US",
-    "dividend_yield_pct": 1.99,
+    "dividend_yield_pct": 1.88,
     "ebitda_usd": 4689000000,
-    "enterprise_value_usd": 21736153620,
-    "ev_ebitda": 4.29,
+    "enterprise_value_usd": 22821808409,
+    "ev_ebitda": 4.49,
     "ev_per_1p_boe_usd": null,
     "ev_per_boed_usd": null,
     "exchange": "NYSE",
     "fcf_usd": 1423000000,
-    "fcf_yield_pct": 8.4,
+    "fcf_yield_pct": 7.9,
     "high_52w": 66.97,
     "hq_city": "Denver",
     "hq_coord": [
@@ -112,23 +112,23 @@
     "id": "ovintiv",
     "is_private": false,
     "low_52w": 35.16,
-    "market_cap_usd": 16925153620,
+    "market_cap_usd": 18010808409,
     "name": "Ovintiv",
     "net_acreage_k": null,
     "net_debt_to_ebitda": 1.03,
     "net_debt_usd": 4811000000,
-    "pct_above_52w_low": 74.0,
+    "pct_above_52w_low": 85.2,
     "pct_gas": null,
     "pct_liquids": null,
-    "pct_off_52w_high": -8.6,
-    "pe_ttm": 17.04,
-    "price": 61.189998626708984,
+    "pct_off_52w_high": -2.8,
+    "pe_ttm": 18.14,
+    "price": 65.11499786376953,
     "price_currency": "USD",
     "production_kboed": null,
-    "realized_vol_1y_pct": 36.0,
+    "realized_vol_1y_pct": 35.5,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 56.2,
+    "return_1y_pct": 75.3,
     "revenue_usd": 10883000000,
     "roace_pct": 17.0,
     "rp_years": null,
@@ -139,7 +139,7 @@
         "source": "sec-us-gaap"
       },
       "market": {
-        "as_of": "2026-10-05",
+        "as_of": "2026-10-12",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": null
       }
     },
-    "ytd_return_pct": 53.5
+    "ytd_return_pct": 63.3
   },
   "wikidata": {
     "founded": 2020,
