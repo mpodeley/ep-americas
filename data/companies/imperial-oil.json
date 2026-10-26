@@ -28,7 +28,7 @@
       "source": null
     },
     "market": {
-      "as_of": "2026-10-19",
+      "as_of": "2026-10-26",
       "source": "yfinance"
     },
     "operational": {
@@ -48,10 +48,10 @@
     "cfo_usd": null,
     "corp_breakeven_usd_bbl": null,
     "country": "CA",
-    "dividend_yield_pct": 1.83,
+    "dividend_yield_pct": 1.81,
     "ebitda_usd": null,
     "enterprise_value_usd": null,
-    "ev_ebitda": 8.07,
+    "ev_ebitda": 8.12,
     "ev_per_1p_boe_usd": null,
     "ev_per_boed_usd": null,
     "exchange": "NYSE American",
@@ -66,23 +66,23 @@
     "id": "imperial-oil",
     "is_private": false,
     "low_52w": 82.46,
-    "market_cap_usd": 67338453469,
+    "market_cap_usd": 67176852647,
     "name": "Imperial Oil",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
-    "pct_above_52w_low": 64.2,
+    "pct_above_52w_low": 63.8,
     "pct_gas": null,
     "pct_liquids": null,
-    "pct_off_52w_high": -1.4,
-    "pe_ttm": 21.88,
-    "price": 135.4250030517578,
+    "pct_off_52w_high": -1.7,
+    "pe_ttm": 21.83,
+    "price": 135.10000610351562,
     "price_currency": "USD",
     "production_kboed": null,
     "realized_vol_1y_pct": 29.1,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 60.2,
+    "return_1y_pct": 50.9,
     "revenue_usd": null,
     "roace_pct": null,
     "rp_years": null,
@@ -93,7 +93,7 @@
         "source": null
       },
       "market": {
-        "as_of": "2026-10-19",
+        "as_of": "2026-10-26",
         "source": "yfinance"
       },
       "operational": {
@@ -102,7 +102,7 @@
         "source": null
       }
     },
-    "ytd_return_pct": 54.3
+    "ytd_return_pct": 54.0
   },
   "wikidata": {
     "founded": 1880,
