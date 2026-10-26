@@ -28,7 +28,7 @@
       "source": null
     },
     "market": {
-      "as_of": "2026-10-19",
+      "as_of": "2026-10-26",
       "source": "yfinance"
     },
     "operational": {
@@ -48,16 +48,16 @@
     "cfo_usd": null,
     "corp_breakeven_usd_bbl": null,
     "country": "CA",
-    "dividend_yield_pct": 3.27,
+    "dividend_yield_pct": 3.19,
     "ebitda_usd": null,
     "enterprise_value_usd": null,
-    "ev_ebitda": 6.71,
+    "ev_ebitda": 6.85,
     "ev_per_1p_boe_usd": null,
     "ev_per_boed_usd": null,
     "exchange": "NYSE",
     "fcf_usd": null,
     "fcf_yield_pct": null,
-    "high_52w": 54.21,
+    "high_52w": 55.06,
     "hq_city": "Calgary",
     "hq_coord": [
       51.0447,
@@ -65,24 +65,24 @@
     ],
     "id": "cnrl",
     "is_private": false,
-    "low_52w": 29.07,
-    "market_cap_usd": 111743611275,
+    "low_52w": 29.73,
+    "market_cap_usd": 113330959354,
     "name": "Canadian Natural Resources",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
-    "pct_above_52w_low": 86.5,
+    "pct_above_52w_low": 84.9,
     "pct_gas": 27,
     "pct_liquids": 73,
-    "pct_off_52w_high": 0.0,
-    "pe_ttm": 13.32,
-    "price": 54.20500183105469,
+    "pct_off_52w_high": -0.2,
+    "pe_ttm": 13.51,
+    "price": 54.974998474121094,
     "price_currency": "USD",
     "production_kboed": 1571,
-    "realized_vol_1y_pct": 31.0,
+    "realized_vol_1y_pct": 30.9,
     "reserves_1p_mmboe": 15910,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 85.3,
+    "return_1y_pct": 79.6,
     "revenue_usd": null,
     "roace_pct": null,
     "rp_years": 31,
@@ -93,7 +93,7 @@
         "source": null
       },
       "market": {
-        "as_of": "2026-10-19",
+        "as_of": "2026-10-26",
         "source": "yfinance"
       },
       "operational": {
@@ -102,7 +102,7 @@
         "source": "Canadian Natural Q4 & Year-End 2025 results"
       }
     },
-    "ytd_return_pct": 62.5
+    "ytd_return_pct": 64.8
   },
   "wikidata": {
     "employees": 6621,
