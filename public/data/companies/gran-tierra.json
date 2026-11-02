@@ -74,7 +74,7 @@
       "source": "sec-us-gaap"
     },
     "market": {
-      "as_of": "2026-10-26",
+      "as_of": "2026-11-02",
       "source": "yfinance"
     },
     "operational": {
@@ -84,7 +84,7 @@
     }
   },
   "row": {
-    "beta": 0.38,
+    "beta": 0.21,
     "cagr_cfo_3y_pct": 0.9,
     "cagr_revenue_3y_pct": null,
     "canonical_ticker": "GTE",
@@ -97,12 +97,12 @@
     "dividend_yield_pct": 0.0,
     "ebitda_usd": null,
     "enterprise_value_usd": null,
-    "ev_ebitda": 4.06,
+    "ev_ebitda": 4.0,
     "ev_per_1p_boe_usd": null,
     "ev_per_boed_usd": null,
     "exchange": "NYSE American",
     "fcf_usd": 1408000,
-    "fcf_yield_pct": 0.3,
+    "fcf_yield_pct": 0.4,
     "high_52w": 11.73,
     "hq_city": "Calgary",
     "hq_coord": [
@@ -111,24 +111,24 @@
     ],
     "id": "gran-tierra",
     "is_private": false,
-    "low_52w": 3.43,
-    "market_cap_usd": 406167309,
+    "low_52w": 3.52,
+    "market_cap_usd": 365833641,
     "name": "Gran Tierra Energy",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
-    "pct_above_52w_low": 234.7,
+    "pct_above_52w_low": 193.8,
     "pct_gas": null,
     "pct_liquids": null,
-    "pct_off_52w_high": -2.1,
+    "pct_off_52w_high": -11.8,
     "pe_ttm": null,
-    "price": 11.479999542236328,
+    "price": 10.34000015258789,
     "price_currency": "USD",
     "production_kboed": null,
-    "realized_vol_1y_pct": 73.9,
+    "realized_vol_1y_pct": 74.1,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 198.2,
+    "return_1y_pct": 193.8,
     "revenue_usd": null,
     "roace_pct": null,
     "rp_years": null,
@@ -139,7 +139,7 @@
         "source": "sec-us-gaap"
       },
       "market": {
-        "as_of": "2026-10-26",
+        "as_of": "2026-11-02",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": null
       }
     },
-    "ytd_return_pct": 171.4
+    "ytd_return_pct": 144.4
   },
   "wikidata": {
     "founded": 2003,

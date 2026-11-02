@@ -74,7 +74,7 @@
       "source": "sec-us-gaap"
     },
     "market": {
-      "as_of": "2026-10-26",
+      "as_of": "2026-11-02",
       "source": "yfinance"
     },
     "operational": {
@@ -84,7 +84,7 @@
     }
   },
   "row": {
-    "beta": 0.71,
+    "beta": 0.62,
     "cagr_cfo_3y_pct": 2.7,
     "cagr_revenue_3y_pct": 8.9,
     "canonical_ticker": "RRC",
@@ -94,16 +94,16 @@
     "cfo_usd": 977892000,
     "corp_breakeven_usd_bbl": null,
     "country": "US",
-    "dividend_yield_pct": 88.0,
+    "dividend_yield_pct": 73.0,
     "ebitda_usd": null,
-    "enterprise_value_usd": 13158454498,
-    "ev_ebitda": 7.17,
+    "enterprise_value_usd": 13598391485,
+    "ev_ebitda": 8.23,
     "ev_per_1p_boe_usd": null,
     "ev_per_boed_usd": null,
     "exchange": "NYSE",
     "fcf_usd": null,
     "fcf_yield_pct": null,
-    "high_52w": 52.95,
+    "high_52w": 56.38,
     "hq_city": "Fort Worth",
     "hq_coord": [
       32.7555,
@@ -112,23 +112,23 @@
     "id": "range-resources",
     "is_private": false,
     "low_52w": 33.18,
-    "market_cap_usd": 12373330498,
+    "market_cap_usd": 12813267485,
     "name": "Range Resources",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": 785124000,
-    "pct_above_52w_low": 59.6,
+    "pct_above_52w_low": 65.2,
     "pct_gas": null,
     "pct_liquids": null,
-    "pct_off_52w_high": 0.0,
-    "pe_ttm": 14.63,
-    "price": 52.95000076293945,
+    "pct_off_52w_high": -2.7,
+    "pe_ttm": 14.54,
+    "price": 54.83000183105469,
     "price_currency": "USD",
     "production_kboed": null,
-    "realized_vol_1y_pct": 35.4,
+    "realized_vol_1y_pct": 35.7,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 43.1,
+    "return_1y_pct": 50.0,
     "revenue_usd": 3374872000,
     "roace_pct": null,
     "rp_years": null,
@@ -139,7 +139,7 @@
         "source": "sec-us-gaap"
       },
       "market": {
-        "as_of": "2026-10-26",
+        "as_of": "2026-11-02",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": null
       }
     },
-    "ytd_return_pct": 51.1
+    "ytd_return_pct": 56.5
   },
   "wikidata": {
     "founded": 1976,

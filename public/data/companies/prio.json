@@ -28,7 +28,7 @@
       "source": null
     },
     "market": {
-      "as_of": "2026-10-26",
+      "as_of": "2026-11-02",
       "source": "yfinance"
     },
     "operational": {
@@ -38,7 +38,7 @@
     }
   },
   "row": {
-    "beta": 0.16,
+    "beta": 0.04,
     "cagr_cfo_3y_pct": null,
     "cagr_revenue_3y_pct": null,
     "canonical_ticker": "PRIO3",
@@ -50,10 +50,10 @@
     "country": "BR",
     "dividend_yield_pct": 0.0,
     "ebitda_usd": null,
-    "enterprise_value_usd": 14815772334,
-    "ev_ebitda": 6.53,
-    "ev_per_1p_boe_usd": 18.27,
-    "ev_per_boed_usd": 139771,
+    "enterprise_value_usd": 14500062805,
+    "ev_ebitda": 6.38,
+    "ev_per_1p_boe_usd": 17.88,
+    "ev_per_boed_usd": 136793,
     "exchange": "B3",
     "fcf_usd": null,
     "fcf_yield_pct": null,
@@ -66,23 +66,23 @@
     "id": "prio",
     "is_private": false,
     "low_52w": 35.77,
-    "market_cap_usd": 9825292961,
+    "market_cap_usd": 10414822024,
     "name": "PRIO",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
-    "pct_above_52w_low": 88.8,
+    "pct_above_52w_low": 99.9,
     "pct_gas": 0,
     "pct_liquids": 100,
-    "pct_off_52w_high": -8.5,
-    "pe_ttm": 14.16,
-    "price": 67.55000305175781,
+    "pct_off_52w_high": -3.1,
+    "pe_ttm": 14.99,
+    "price": 71.48999786376953,
     "price_currency": "BRL",
     "production_kboed": 106,
-    "realized_vol_1y_pct": 37.3,
+    "realized_vol_1y_pct": 36.3,
     "reserves_1p_mmboe": 811,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 82.6,
+    "return_1y_pct": 99.9,
     "revenue_usd": null,
     "roace_pct": null,
     "rp_years": 20.9,
@@ -93,7 +93,7 @@
         "source": null
       },
       "market": {
-        "as_of": "2026-10-26",
+        "as_of": "2026-11-02",
         "source": "yfinance"
       },
       "operational": {
@@ -102,7 +102,7 @@
         "source": "PRIO FY2025 resultados + certificación D&M"
       }
     },
-    "ytd_return_pct": 61.8
+    "ytd_return_pct": 71.2
   },
   "wikidata": {
     "label": "Prionace glauca",
