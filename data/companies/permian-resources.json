@@ -74,7 +74,7 @@
       "source": "sec-us-gaap"
     },
     "market": {
-      "as_of": "2026-10-26",
+      "as_of": "2026-11-02",
       "source": "yfinance"
     },
     "operational": {
@@ -84,7 +84,7 @@
     }
   },
   "row": {
-    "beta": 0.65,
+    "beta": 0.58,
     "cagr_cfo_3y_pct": 30.7,
     "cagr_revenue_3y_pct": 32.7,
     "canonical_ticker": "PR",
@@ -94,16 +94,16 @@
     "cfo_usd": 2213499000,
     "corp_breakeven_usd_bbl": null,
     "country": "US",
-    "dividend_yield_pct": 2.47,
+    "dividend_yield_pct": 2.42,
     "ebitda_usd": null,
-    "enterprise_value_usd": 25690599341,
-    "ev_ebitda": 5.73,
+    "enterprise_value_usd": 24726990529,
+    "ev_ebitda": 5.83,
     "ev_per_1p_boe_usd": null,
     "ev_per_boed_usd": null,
     "exchange": "NYSE",
     "fcf_usd": null,
     "fcf_yield_pct": null,
-    "high_52w": 25.76,
+    "high_52w": 26.02,
     "hq_city": "Midland",
     "hq_coord": [
       31.9973,
@@ -112,23 +112,23 @@
     "id": "permian-resources",
     "is_private": false,
     "low_52w": 11.72,
-    "market_cap_usd": 21579656341,
+    "market_cap_usd": 20616047529,
     "name": "Permian Resources",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": 4110943000,
-    "pct_above_52w_low": 119.8,
+    "pct_above_52w_low": 110.0,
     "pct_gas": null,
     "pct_liquids": null,
-    "pct_off_52w_high": 0.0,
-    "pe_ttm": 16.95,
-    "price": 25.764999389648438,
+    "pct_off_52w_high": -5.4,
+    "pe_ttm": 16.19,
+    "price": 24.614500045776367,
     "price_currency": "USD",
     "production_kboed": null,
-    "realized_vol_1y_pct": 33.7,
+    "realized_vol_1y_pct": 34.1,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 111.9,
+    "return_1y_pct": 102.0,
     "revenue_usd": 3120893000,
     "roace_pct": 7.5,
     "rp_years": null,
@@ -139,7 +139,7 @@
         "source": "sec-us-gaap"
       },
       "market": {
-        "as_of": "2026-10-26",
+        "as_of": "2026-11-02",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": null
       }
     },
-    "ytd_return_pct": 83.2
+    "ytd_return_pct": 75.0
   },
   "wikidata": {
     "label": "Permian Resources Corp",

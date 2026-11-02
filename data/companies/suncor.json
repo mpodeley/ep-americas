@@ -28,7 +28,7 @@
       "source": null
     },
     "market": {
-      "as_of": "2026-10-26",
+      "as_of": "2026-11-02",
       "source": "yfinance"
     },
     "operational": {
@@ -38,7 +38,7 @@
     }
   },
   "row": {
-    "beta": 0.59,
+    "beta": 0.47,
     "cagr_cfo_3y_pct": null,
     "cagr_revenue_3y_pct": null,
     "canonical_ticker": "SU",
@@ -57,7 +57,7 @@
     "exchange": "NYSE",
     "fcf_usd": null,
     "fcf_yield_pct": null,
-    "high_52w": 79.76,
+    "high_52w": 79.48,
     "hq_city": "Calgary",
     "hq_coord": [
       51.0447,
@@ -66,23 +66,23 @@
     "id": "suncor",
     "is_private": false,
     "low_52w": 38.7,
-    "market_cap_usd": 94182139280,
+    "market_cap_usd": 89441448067,
     "name": "Suncor Energy",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
-    "pct_above_52w_low": 106.1,
+    "pct_above_52w_low": 95.7,
     "pct_gas": null,
     "pct_liquids": null,
-    "pct_off_52w_high": 0.0,
-    "pe_ttm": 14.72,
-    "price": 79.76499938964844,
+    "pct_off_52w_high": -4.7,
+    "pe_ttm": 13.98,
+    "price": 75.75,
     "price_currency": "USD",
     "production_kboed": null,
-    "realized_vol_1y_pct": 28.0,
+    "realized_vol_1y_pct": 28.8,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 103.4,
+    "return_1y_pct": 95.1,
     "revenue_usd": null,
     "roace_pct": null,
     "rp_years": null,
@@ -93,7 +93,7 @@
         "source": null
       },
       "market": {
-        "as_of": "2026-10-26",
+        "as_of": "2026-11-02",
         "source": "yfinance"
       },
       "operational": {
@@ -102,7 +102,7 @@
         "source": null
       }
     },
-    "ytd_return_pct": 78.6
+    "ytd_return_pct": 69.6
   },
   "wikidata": {
     "employees": 12076,

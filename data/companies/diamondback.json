@@ -74,7 +74,7 @@
       "source": "sec-us-gaap"
     },
     "market": {
-      "as_of": "2026-10-26",
+      "as_of": "2026-11-02",
       "source": "yfinance"
     },
     "operational": {
@@ -84,7 +84,7 @@
     }
   },
   "row": {
-    "beta": 0.54,
+    "beta": 0.47,
     "cagr_cfo_3y_pct": 37.2,
     "cagr_revenue_3y_pct": 38.2,
     "canonical_ticker": "FANG",
@@ -94,16 +94,16 @@
     "cfo_usd": 5920000000,
     "corp_breakeven_usd_bbl": null,
     "country": "US",
-    "dividend_yield_pct": 2.14,
+    "dividend_yield_pct": 2.07,
     "ebitda_usd": 6316000000,
-    "enterprise_value_usd": 69864095100,
-    "ev_ebitda": 6.44,
-    "ev_per_1p_boe_usd": 19.31,
-    "ev_per_boed_usd": 75857,
+    "enterprise_value_usd": 67748547622,
+    "ev_ebitda": 6.59,
+    "ev_per_1p_boe_usd": 18.73,
+    "ev_per_boed_usd": 73560,
     "exchange": "NASDAQ",
     "fcf_usd": null,
     "fcf_yield_pct": null,
-    "high_52w": 211.53,
+    "high_52w": 212.08,
     "hq_city": "Midland",
     "hq_coord": [
       31.9973,
@@ -112,23 +112,23 @@
     "id": "diamondback",
     "is_private": false,
     "low_52w": 134.06,
-    "market_cap_usd": 57950095100,
+    "market_cap_usd": 55834547622,
     "name": "Diamondback Energy",
     "net_acreage_k": 869,
     "net_debt_to_ebitda": 1.89,
     "net_debt_usd": 11914000000,
-    "pct_above_52w_low": 54.4,
+    "pct_above_52w_low": 48.7,
     "pct_gas": 22,
     "pct_liquids": 78,
-    "pct_off_52w_high": -2.2,
-    "pe_ttm": 40.18,
-    "price": 206.9499969482422,
+    "pct_off_52w_high": -6.0,
+    "pe_ttm": 37.98,
+    "price": 199.39500427246094,
     "price_currency": "USD",
     "production_kboed": 921,
-    "realized_vol_1y_pct": 32.9,
+    "realized_vol_1y_pct": 33.4,
     "reserves_1p_mmboe": 3618,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 46.8,
+    "return_1y_pct": 44.5,
     "revenue_usd": 8412000000,
     "roace_pct": 10.2,
     "rp_years": 11,
@@ -139,7 +139,7 @@
         "source": "sec-us-gaap"
       },
       "market": {
-        "as_of": "2026-10-26",
+        "as_of": "2026-11-02",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": "Diamondback FY2025 results + 10-K"
       }
     },
-    "ytd_return_pct": 38.2
+    "ytd_return_pct": 33.1
   },
   "wikidata": {
     "founded": 2007,
