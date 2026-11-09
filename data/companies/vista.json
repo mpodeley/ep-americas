@@ -74,7 +74,7 @@
       "source": "sec-ifrs-full"
     },
     "market": {
-      "as_of": "2026-11-02",
+      "as_of": "2026-11-09",
       "source": "yfinance"
     },
     "operational": {
@@ -96,13 +96,13 @@
     "country": "MX",
     "dividend_yield_pct": 0.0,
     "ebitda_usd": 764009000,
-    "enterprise_value_usd": 7781705829,
-    "ev_ebitda": 4.3,
-    "ev_per_1p_boe_usd": 13.23,
-    "ev_per_boed_usd": 67667,
+    "enterprise_value_usd": 6729734081,
+    "ev_ebitda": 3.73,
+    "ev_per_1p_boe_usd": 11.45,
+    "ev_per_boed_usd": 58519,
     "exchange": "NYSE",
     "fcf_usd": 210746000,
-    "fcf_yield_pct": 2.8,
+    "fcf_yield_pct": 3.3,
     "high_52w": 79.25,
     "hq_city": "Ciudad de México",
     "hq_coord": [
@@ -112,23 +112,23 @@
     "id": "vista",
     "is_private": false,
     "low_52w": 43.88,
-    "market_cap_usd": 7440126829,
+    "market_cap_usd": 6388155081,
     "name": "Vista Energy",
     "net_acreage_k": 228,
     "net_debt_to_ebitda": 0.45,
     "net_debt_usd": 341579000,
-    "pct_above_52w_low": 53.3,
+    "pct_above_52w_low": 31.6,
     "pct_gas": 13,
     "pct_liquids": 87,
-    "pct_off_52w_high": -15.1,
-    "pe_ttm": 9.49,
-    "price": 67.26000213623047,
+    "pct_off_52w_high": -27.1,
+    "pe_ttm": 8.15,
+    "price": 57.75,
     "price_currency": "USD",
     "production_kboed": 115,
-    "realized_vol_1y_pct": 43.6,
+    "realized_vol_1y_pct": 45.3,
     "reserves_1p_mmboe": 588,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 37.0,
+    "return_1y_pct": 17.6,
     "revenue_usd": 1187660000,
     "roace_pct": 27.4,
     "rp_years": 14,
@@ -139,7 +139,7 @@
         "source": "sec-ifrs-full"
       },
       "market": {
-        "as_of": "2026-11-02",
+        "as_of": "2026-11-09",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": "Vista Energy FY2025 reservas (OGJ + SEC 6-K)"
       }
     },
-    "ytd_return_pct": 37.8
+    "ytd_return_pct": 18.3
   },
   "wikidata": {
     "label": "Vista Energy",

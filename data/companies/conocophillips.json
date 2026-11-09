@@ -74,7 +74,7 @@
       "source": "sec-us-gaap"
     },
     "market": {
-      "as_of": "2026-11-02",
+      "as_of": "2026-11-09",
       "source": "yfinance"
     },
     "operational": {
@@ -94,10 +94,10 @@
     "cfo_usd": 19965000000,
     "corp_breakeven_usd_bbl": null,
     "country": "US",
-    "dividend_yield_pct": 2.18,
+    "dividend_yield_pct": 2.73,
     "ebitda_usd": null,
-    "enterprise_value_usd": 200640004096,
-    "ev_ebitda": 7.49,
+    "enterprise_value_usd": 174449803264,
+    "ev_ebitda": 5.85,
     "ev_per_1p_boe_usd": null,
     "ev_per_boed_usd": null,
     "exchange": "NYSE",
@@ -111,24 +111,24 @@
     ],
     "id": "conocophillips",
     "is_private": false,
-    "low_52w": 83.04,
-    "market_cap_usd": 179710542280,
+    "low_52w": 84.75,
+    "market_cap_usd": 159024065166,
     "name": "ConocoPhillips",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
-    "pct_above_52w_low": 77.6,
+    "pct_above_52w_low": 58.7,
     "pct_gas": null,
     "pct_liquids": null,
-    "pct_off_52w_high": -4.2,
-    "pe_ttm": 19.54,
-    "price": 147.50999450683594,
+    "pct_off_52w_high": -12.7,
+    "pe_ttm": 14.17,
+    "price": 134.5,
     "price_currency": "USD",
     "production_kboed": null,
-    "realized_vol_1y_pct": 31.2,
+    "realized_vol_1y_pct": 31.7,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 71.8,
+    "return_1y_pct": 57.2,
     "revenue_usd": 56141000000,
     "roace_pct": null,
     "rp_years": null,
@@ -139,7 +139,7 @@
         "source": "sec-us-gaap"
       },
       "market": {
-        "as_of": "2026-11-02",
+        "as_of": "2026-11-09",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": null
       }
     },
-    "ytd_return_pct": 55.9
+    "ytd_return_pct": 42.2
   },
   "wikidata": {
     "employees": 39000,

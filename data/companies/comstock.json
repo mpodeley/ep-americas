@@ -74,7 +74,7 @@
       "source": "sec-us-gaap"
     },
     "market": {
-      "as_of": "2026-11-02",
+      "as_of": "2026-11-09",
       "source": "yfinance"
     },
     "operational": {
@@ -96,13 +96,13 @@
     "country": "US",
     "dividend_yield_pct": 0.0,
     "ebitda_usd": 834505000,
-    "enterprise_value_usd": 7097085650,
-    "ev_ebitda": 8.15,
+    "enterprise_value_usd": 6989818931,
+    "ev_ebitda": 6.99,
     "ev_per_1p_boe_usd": null,
     "ev_per_boed_usd": null,
     "exchange": "NYSE",
     "fcf_usd": -408240000,
-    "fcf_yield_pct": -9.8,
+    "fcf_yield_pct": -10.1,
     "high_52w": 27.37,
     "hq_city": "Frisco",
     "hq_coord": [
@@ -112,23 +112,23 @@
     "id": "comstock",
     "is_private": false,
     "low_52w": 12.32,
-    "market_cap_usd": 4151794650,
+    "market_cap_usd": 4044527931,
     "name": "Comstock Resources",
     "net_acreage_k": null,
     "net_debt_to_ebitda": 3.53,
     "net_debt_usd": 2945291000,
-    "pct_above_52w_low": 14.8,
+    "pct_above_52w_low": 11.8,
     "pct_gas": null,
     "pct_liquids": null,
-    "pct_off_52w_high": -48.3,
-    "pe_ttm": 7.77,
-    "price": 14.140000343322754,
+    "pct_off_52w_high": -49.7,
+    "pe_ttm": 9.12,
+    "price": 13.774999618530273,
     "price_currency": "USD",
     "production_kboed": null,
-    "realized_vol_1y_pct": 54.8,
+    "realized_vol_1y_pct": 54.1,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": -26.5,
+    "return_1y_pct": -41.7,
     "revenue_usd": null,
     "roace_pct": 4.0,
     "rp_years": null,
@@ -139,7 +139,7 @@
         "source": "sec-us-gaap"
       },
       "market": {
-        "as_of": "2026-11-02",
+        "as_of": "2026-11-09",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": null
       }
     },
-    "ytd_return_pct": -40.0
+    "ytd_return_pct": -41.6
   },
   "wikidata": {}
 }
