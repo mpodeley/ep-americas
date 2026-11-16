@@ -74,7 +74,7 @@
       "source": "sec-us-gaap"
     },
     "market": {
-      "as_of": "2026-11-09",
+      "as_of": "2026-11-16",
       "source": "yfinance"
     },
     "operational": {
@@ -94,10 +94,10 @@
     "cfo_usd": 3129000000,
     "corp_breakeven_usd_bbl": null,
     "country": "US",
-    "dividend_yield_pct": 2.24,
+    "dividend_yield_pct": 2.06,
     "ebitda_usd": 5236000000,
-    "enterprise_value_usd": 19261790208,
-    "ev_ebitda": 3.02,
+    "enterprise_value_usd": 20541020160,
+    "ev_ebitda": 3.22,
     "ev_per_1p_boe_usd": null,
     "ev_per_boed_usd": null,
     "exchange": "NASDAQ",
@@ -112,23 +112,23 @@
     "id": "apa",
     "is_private": false,
     "low_52w": 22.73,
-    "market_cap_usd": 14957929767,
+    "market_cap_usd": 15908119876,
     "name": "APA Corporation",
     "net_acreage_k": null,
     "net_debt_to_ebitda": null,
     "net_debt_usd": null,
-    "pct_above_52w_low": 96.0,
+    "pct_above_52w_low": 108.4,
     "pct_gas": null,
     "pct_liquids": null,
-    "pct_off_52w_high": -15.7,
-    "pe_ttm": 7.24,
-    "price": 44.54999923706055,
+    "pct_off_52w_high": -10.3,
+    "pe_ttm": 7.7,
+    "price": 47.380001068115234,
     "price_currency": "USD",
     "production_kboed": null,
     "realized_vol_1y_pct": 45.0,
     "reserves_1p_mmboe": null,
     "reserves_2p_mmboe": null,
-    "return_1y_pct": 88.2,
+    "return_1y_pct": 99.9,
     "revenue_usd": null,
     "roace_pct": 32.1,
     "rp_years": null,
@@ -139,7 +139,7 @@
         "source": "sec-us-gaap"
       },
       "market": {
-        "as_of": "2026-11-09",
+        "as_of": "2026-11-16",
         "source": "yfinance"
       },
       "operational": {
@@ -148,7 +148,7 @@
         "source": null
       }
     },
-    "ytd_return_pct": 80.7
+    "ytd_return_pct": 92.2
   },
   "wikidata": {
     "founded": 1954,
